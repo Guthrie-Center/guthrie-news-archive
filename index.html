@@ -102,16 +102,22 @@
   }
   .hero-logo {
     position: absolute;
-    top: 28px;
+    bottom: 28px;
     right: 32px;
     width: clamp(200px, 28vw, 380px);
     opacity: 0.92;
     mix-blend-mode: screen;
     background: transparent;
   }
-  @media (max-width: 600px) {
+  @media (max-width: 720px) {
     .hero-content { padding: 0 20px 28px; }
-    .hero-logo { top: 16px; right: 20px; width: 160px; }
+    .hero-logo {
+      width: clamp(100px, 28vw, 160px);
+      bottom: auto;
+      top: 16px;
+      right: 16px;
+      opacity: 0.85;
+    }
   }
 
   /* ── MASTHEAD (kept for reference, replaced by hero) ── */
@@ -599,7 +605,6 @@
     .stats-inner { padding: 12px 20px; gap: 16px; }
     .stat strong { font-size: 15px; }
     .hero { height: clamp(220px, 50vw, 320px); }
-    .hero-logo { display: none; }
     .hero-eyebrow { font-size: 11px; letter-spacing: 0.12em; }
     .eyebrow-hide-mobile { display: none; }
     .otd-title { font-size: 1rem; white-space: nowrap; }
