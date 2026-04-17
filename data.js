@@ -1,5 +1,5 @@
 // The Guthrie Center News Archive — data.js
-// 1826 total entries: 2001–2026
+// 1849 total entries: 2001–2026
 // Sources: website (2001-2010), WordPress (2003-2022), Twitter (2010-2026)
 
 const NEWS_DATA = 
@@ -886,6 +886,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2004-09-18",
+    "date": "2004-09-18",
+    "year": 2004,
+    "headline": "44 NJROTC Cadets Complete Challenger 7 Orienteering Meet",
+    "body": "Saturday, 44 NJROTC cadets participated in the annual Challenger 7 Orienteering Meet at Challenger Park in Webster. Silver Medals: Cesar Santos, Nicholas Clark, Michael Mallon. Bronze medals: Diana Gonzalez, Sean McGee, Drew Mayo.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-09-18-njrotc-orienteering-challenger.jpg"
+  },
+  {
     "id": "2004-09-25-4233",
     "date": "2004-09-25",
     "year": 2004,
@@ -908,6 +920,18 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2004-09-29",
+    "date": "2004-09-29",
+    "year": 2004,
+    "headline": "New Calf Born at Ag Science Center — FFA Heifer Program Growing",
+    "body": "The newest calf at the Ag Science Center on Brittmoore rests in the shade on a warm, sunny day. This is the second of even more births to occur with the new FFA Heifer program.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-09-29-ffa-new-calf.jpg"
   },
   {
     "id": "2004-10-02-4227",
@@ -954,6 +978,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2004-10-12",
+    "date": "2004-10-12",
+    "year": 2004,
+    "headline": "Architectural CAD Students Tour Two Construction Sites in Houston",
+    "body": "Architectural students visited two projects under construction to answer firsthand: an efficient affluent highrise condominium at Montebello Houston and an expansive single family dwelling at a Riverwood Building Co. site in the village of Bunker Hill.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-10-12-cad-construction-sites.jpg"
+  },
+  {
     "id": "2004-10-25-4215",
     "date": "2004-10-25",
     "year": 2004,
@@ -977,6 +1013,19 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2004-10-29",
+    "date": "2004-10-29",
+    "year": 2004,
+    "headline": "Halloween Displays Showcase Cosmetology, Culinary Arts and Chef Training Creativity",
+    "body": "The signs of the season were on display at The Guthrie Center thanks to students in Cosmetology, Culinary Arts and Chef Training. There was even an almost exact replica of the principal in the lower left.",
+    "programs": [
+      "Cosmetology",
+      "Culinary Arts"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-10-29-halloween-displays.jpg"
   },
   {
     "id": "2004-11-01-4207",
@@ -1023,6 +1072,18 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2004-11-06",
+    "date": "2004-11-06",
+    "year": 2004,
+    "headline": "30 NJROTC Cadets Volunteer at American Heart Association Walk-A-Thon",
+    "body": "Thirty Spring Branch NJROTC cadets arrived at Sam Houston Park to help prepare the city for the annual American Heart Association Walk-A-Thon, manning water stations throughout the 5-mile course for over 10,000 walkers, earning over 187 hours of community service.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-06-njrotc-heart-walk.jpg"
   },
   {
     "id": "2004-11-08-4076",
@@ -1095,6 +1156,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2004-11-17",
+    "date": "2004-11-17",
+    "year": 2004,
+    "headline": "CultureShapers 2004: Alizsha Pennington and Chris Zeid in Top 10, Radler Named Teacher of Year",
+    "body": "Alizsha Pennington and Chris Zeid attended the CultureShapers awards banquet and were recognized for being in the Top 10 out of nearly 100 entries in the Film category. DF teacher Michael Radler was chosen by CultureShapers as their Teacher of the Year.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-17-cultureshapers-pennington-zeid.jpg"
+  },
+  {
     "id": "2004-11-22-4061",
     "date": "2004-11-22",
     "year": 2004,
@@ -1150,7 +1223,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-12-08-njrotc-inspection-general.jpg",
     "source": "web"
   },
   {
@@ -1162,8 +1235,20 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-12-08-njrotc-inspection-general.jpg",
     "source": "web"
+  },
+  {
+    "id": "2004-12-08b",
+    "date": "2004-12-08",
+    "year": 2004,
+    "headline": "Cadet Miriam Ahmed Promoted to Cadet Command Master Chief",
+    "body": "NJROTC Cadet Miriam Ahmed received her ribbons as she earned promotion to the rank of Cadet Command Master Chief for the outstanding NJROTC unit.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-12-08-njrotc-miriam-ahmed.jpg"
   },
   {
     "id": "2004-12-09-4071",
@@ -1189,6 +1274,18 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2004-12-09",
+    "date": "2004-12-09",
+    "year": 2004,
+    "headline": "Chef Training Students Prepare Holiday Dinner at Art Institute",
+    "body": "Chef Training students Joanna Llanas, Kyoung Lee, Pieter Baay, Michael Melton, Sabrina Navarro and Zulaima Aguilar prepared their end-of-course Holiday Dinner — Mixed Green Salad, Stuffed Chicken Breast with Roasted Potatoes, Green Bean Bundles, and Pecan Brownie with Caramel.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-12-09-chef-training-holiday-dinner.jpg"
   },
   {
     "id": "2004-12-12-4161",
@@ -1262,6 +1359,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-01-20",
+    "date": "2005-01-20",
+    "year": 2005,
+    "headline": "Architectural CAD Students Explore Reliant Stadium Inside and Out",
+    "body": "Architectural CAD students explored Reliant Stadium, watching as it transformed from football to motocross, touring the private club level and a two-story 140-seat suite. They then visited HOK Architects at the Williams Tower in the Galleria.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-01-20-cad-reliant-stadium.jpg"
+  },
+  {
     "id": "2005-01-24-4138",
     "date": "2005-01-24",
     "year": 2005,
@@ -1294,6 +1403,18 @@ const NEWS_DATA =
     "programs": [],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2005-01-27",
+    "date": "2005-01-27",
+    "year": 2005,
+    "headline": "Baking and Catering Class Learns Cake Decorating with Guest Instructor Sarah Jordan",
+    "body": "The Baking and Catering class welcomed Sarah Jordan as guest instructor to teach the fine art of cake decorating, learning that along with creativity and technique, they also need a steady hand.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-01-27-culinary-cake-decorating.jpg"
   },
   {
     "id": "2005-01-28-4126",
@@ -1381,6 +1502,18 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2005-02-05",
+    "date": "2005-02-05",
+    "year": 2005,
+    "headline": "NJROTC Competes at Tomball Drill Meet in Academics, Fitness, and Drill",
+    "body": "NJROTC cadets participated in the Tomball Area Drill Meet competing in Academics, Physical Fitness, Color Guard, Armed and Unarmed Drill Teams and Inspection.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-05-njrotc-tomball-drill.jpg"
   },
   {
     "id": "2005-02-07-4029",
@@ -1528,6 +1661,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-02-26",
+    "date": "2005-02-26",
+    "year": 2005,
+    "headline": "FFA Annual Show and Sale Draws Record Crowd of Buyers Including Superintendent",
+    "body": "A large crowd including the Superintendent and SBISD Board of Trustees braved rain and cool weather for the Annual FFA Sale. Corey Harget's Grand Champion Steer led the auction, with Grand Champions in Hog, Goat, Lamb, Rabbits, Broilers, and Horticulture all selling.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-26-ffa-show-sale-livestock.jpg"
+  },
+  {
     "id": "2005-02-28-4001",
     "date": "2005-02-28",
     "year": 2005,
@@ -1575,6 +1720,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-03-16",
+    "date": "2005-03-16",
+    "year": 2005,
+    "headline": "Hotel Management Students Tour Landry's Headquarters and Joe's Crab Shack",
+    "body": "Landry's Restaurants, Inc. hosted Hotel Management students at their corporate headquarters on the West Loop with a demonstration of King Crab cracking at the original Joe's Crab Shack.",
+    "programs": [
+      "Hotel Management"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-16-hotel-landrys-tour.jpg"
+  },
+  {
     "id": "2005-03-18-3985",
     "date": "2005-03-18",
     "year": 2005,
@@ -1602,6 +1759,20 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-03-21",
+    "date": "2005-03-21",
+    "year": 2005,
+    "headline": "CAD Students Build Walls at Habitat for Humanity on Busy Weekend",
+    "body": "Architectural CAD teacher Sonia Greiner and student members of the OSA chapter spent Saturday at Habitat for Humanity building walls and constructing houses. NJROTC also held a charity car wash collecting nearly $600 and FFA students competed at the Houston Livestock Show.",
+    "programs": [
+      "Architectural Design",
+      "NJROTC",
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-21-cad-habitat-humanity.jpg"
+  },
+  {
     "id": "2005-03-23-3975",
     "date": "2005-03-23",
     "year": 2005,
@@ -1612,6 +1783,18 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2005-03-23",
+    "date": "2005-03-23",
+    "year": 2005,
+    "headline": "Cosmetology Annual Hair and Nail Competition Draws Family and Friends",
+    "body": "The Cosmetology Department held its annual Hair and Nail Competition. Students in both first and second year Cosmetology and Manicuring vied against each other in various categories while being cheered on by family and friends.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-23-cosmetology-hair-nail-comp.jpg"
   },
   {
     "id": "2005-03-28-3973",
@@ -1648,6 +1831,19 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-03-31",
+    "date": "2005-03-31",
+    "year": 2005,
+    "headline": "Corey Harget Takes 2nd in Garde Manger Fruit Carving at Culinary Competition",
+    "body": "Chef Training student Corey Harget competed in the Houston Area Hospitality & Culinary competition, taking 2nd place in Garde Manger for fruit carving over students from 30 schools. His aquarium theme featured fish and flowers cut from watermelon, cantaloupe, honeydew, lemons and oranges.",
+    "programs": [
+      "Culinary Arts",
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-31-chef-garde-manger-harget.jpg"
+  },
+  {
     "id": "2005-04-03-3957",
     "date": "2005-04-03",
     "year": 2005,
@@ -1681,6 +1877,28 @@ const NEWS_DATA =
     "programs": [],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2005-04-05",
+    "date": "2005-04-05",
+    "year": 2005,
+    "headline": "KPRC TV Surprise Visit — Joe Kolenda Receives Sunshine Award",
+    "body": "What started as a group photo of students turned out to be KPRC TV Local 2 Weatherman Wes Hohenstein flying in on the News 2 chopper to present the Sunshine Award to Principal Joe Kolenda.",
+    "programs": [],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-05-kprc-sunshine-award.jpg"
+  },
+  {
+    "id": "2005-04-16",
+    "date": "2005-04-16",
+    "year": 2005,
+    "headline": "NJROTC Annual Military Ball Held at Crown Plaza Brookhollow",
+    "body": "NJROTC Cadets held their Annual Military Ball at the Crown Plaza Brookhollow. Hundreds of attendees listened to an inspirational speech by a former NJROTC student now serving as a US Navy officer. Advancements in rank were issued and new CO and XO were installed.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-16-njrotc-military-ball.jpg"
   },
   {
     "id": "2005-04-19-3891",
@@ -1765,6 +1983,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-04-30",
+    "date": "2005-04-30",
+    "year": 2005,
+    "headline": "NJROTC Builds Wheelchair Ramp for Cadet's Mother Using Car Wash Proceeds",
+    "body": "NJROTC cadets raised over $1,000 from car washes to help a cadet's mother confined to a wheelchair. They then installed custom aluminum ramps, removing old walkways, patio and landscaping — finishing with smiles from the satisfaction of their unselfish efforts.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-30-njrotc-wheelchair-ramp.jpg"
+  },
+  {
     "id": "2005-05-02-3864",
     "date": "2005-05-02",
     "year": 2005,
@@ -1799,6 +2029,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-05-04",
+    "date": "2005-05-04",
+    "year": 2005,
+    "headline": "Patty Nilsson Named SBISD Secondary Teacher of the Year",
+    "body": "Digital Film teacher Patty Nilsson was chosen as the district's Secondary Teacher of the Year. The faculty and staff elected Ms. Nilsson for this well-deserved honor. She will represent Spring Branch in the regional Teacher of the Year event.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-04-patty-nilsson-teacher-year.jpg"
+  },
+  {
     "id": "2005-05-05-3852",
     "date": "2005-05-05",
     "year": 2005,
@@ -1819,6 +2061,16 @@ const NEWS_DATA =
     "programs": [],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2011/08/May-6.png",
     "source": "web"
+  },
+  {
+    "id": "2005-05-06",
+    "date": "2005-05-06",
+    "year": 2005,
+    "headline": "CATE Awards and Scholarship Recognition Event Gives Out $17,000 to 13 Seniors",
+    "body": "The Career & Technology Awards and Scholarship Recognition Event honored all student competitors, gave out $17,000 in scholarships to thirteen seniors, honored retiring teacher Ken Thuesen, and announced CATE Educator of the Year Suzanne Sobol from LMS.",
+    "programs": [],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-06-cate-scholarship-awards.jpg"
   },
   {
     "id": "2005-05-10-3842",
@@ -1865,6 +2117,16 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-05-26",
+    "date": "2005-05-26",
+    "year": 2005,
+    "headline": "End-of-Year Pot Luck with Crawfish and Catfish Closes Another Great Year",
+    "body": "So ends another outstanding year of education at The Guthrie Center. Finishing the year with a pot luck lunch including crawfish and catfish seemed only fitting. Enjoy the summer; August is just around the corner!",
+    "programs": [],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-26-end-of-year-crawfish.jpg"
+  },
+  {
     "id": "2005-06-13-3824",
     "date": "2005-06-13",
     "year": 2005,
@@ -1897,6 +2159,16 @@ const NEWS_DATA =
     "programs": [],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2005-06-30",
+    "date": "2005-06-30",
+    "year": 2005,
+    "headline": "Fond Farewell to Jean Thomas After Four Years at The Guthrie Center",
+    "body": "Today we bid a fond farewell to The Guthrie Center's Jean Thomas. Jean has contributed immeasurably in making this a great place to work over the past four years. Also saying goodbye to Linda Russell who came back after retirement to help maintain the level of service.",
+    "programs": [],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-06-30-jean-thomas-farewell.jpg"
   },
   {
     "id": "2005-07-19-3814",
