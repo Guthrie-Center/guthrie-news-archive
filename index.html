@@ -74,7 +74,10 @@
     max-width: 1100px;
     margin: 0 auto;
     left: 0; right: 0;
-    padding: 0 32px 36px;
+    padding: 0 32px 36px 280px;
+  }
+  @media (max-width: 720px) {
+    .hero-content { padding: 0 20px 28px 140px; }
   }
   .hero-eyebrow {
     font-size: 14px;
@@ -102,9 +105,9 @@
   }
   .hero-logo {
     position: absolute;
-    bottom: 28px;
-    right: 32px;
-    width: clamp(200px, 28vw, 380px);
+    top: 24px;
+    left: 32px;
+    width: clamp(120px, 18vw, 220px);
     opacity: 0.92;
     mix-blend-mode: screen;
     background: transparent;
@@ -112,10 +115,9 @@
   @media (max-width: 720px) {
     .hero-content { padding: 0 20px 28px; }
     .hero-logo {
-      width: clamp(100px, 28vw, 160px);
-      bottom: auto;
+      width: 100px;
       top: 16px;
-      right: 16px;
+      left: 16px;
       opacity: 0.85;
     }
   }
