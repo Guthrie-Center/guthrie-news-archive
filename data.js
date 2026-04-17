@@ -1,5 +1,5 @@
 // The Guthrie Center News Archive — data.js
-// 1791 total entries: 2001–2026
+// 1802 total entries: 2001–2026
 // Sources: website (2001-2010), WordPress (2003-2022), Twitter (2010-2026)
 
 const NEWS_DATA = 
@@ -158,7 +158,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-04-17-film-premiere.jpg",
     "source": "web"
   },
   {
@@ -204,7 +204,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-04-24-ruben-gonzales.jpg",
     "source": "web"
   },
   {
@@ -302,7 +302,7 @@ const NEWS_DATA =
       "Digital Filmmaking",
       "Networking"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-05-12-axel-murillo.jpg",
     "source": "web"
   },
   {
@@ -314,7 +314,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-05-13-josh-franer.jpg",
     "source": "web"
   },
   {
@@ -326,8 +326,140 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-05-15-cad-lunch.jpg",
     "source": "web"
+  },
+  {
+    "id": "2002-09-11",
+    "date": "2002-09-11",
+    "year": 2002,
+    "headline": "A Nation Remembers — NJROTC Color Guard Raises Flag at Half-Staff",
+    "body": "As first period students watch with respect and reverence, our NJROTC Color Guard raises the American flag then lowers it to half-staff. Following the flag ceremony and Pledge of Allegiance, students read aloud the Presidential Proclamation of Patriot Day. We join with the rest of the nation in remembering the victims of the horrific terrorist attacks and those brave persons fighting for our freedom.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-09-11-njrotc-flag-ceremony.jpg"
+  },
+  {
+    "id": "2002-10-09",
+    "date": "2002-10-09",
+    "year": 2002,
+    "headline": "Greenhouse Construction Underway at Ag Science Center",
+    "body": "The Ag Science Center has been anticipating the construction of the greenhouse funded in part by a USDA grant in cooperation with Houston Community College and Texas A&M University. After what has seemed like endless delays, the assembly is now underway!",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-09-ag-greenhouse.jpg"
+  },
+  {
+    "id": "2002-10-15",
+    "date": "2002-10-15",
+    "year": 2002,
+    "headline": "Auto Technology Students Get Up Close with a Dodge Viper",
+    "body": "Auto Technology students were treated to a visit from Mike Cleveland of HCC. They learned about the Chrysler CAP internship program and were fortunate enough to see and touch the new Dodge Viper.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-15-auto-tech-dodge-viper.jpg"
+  },
+  {
+    "id": "2002-10-23",
+    "date": "2002-10-23",
+    "year": 2002,
+    "headline": "NJROTC Takes 1st and 2nd at West Brook Drill Meet",
+    "body": "NJROTC students competed in the West Brook Drill Meet against many other JROTC units from the Gulf Coast area. The Unarmed Drill Team won 1st place for Inspection and 2nd place for Basic Drill. The Color Guard was awarded 2nd place overall.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-23-njrotc-drill-meet.jpg"
+  },
+  {
+    "id": "2002-10-24",
+    "date": "2002-10-24",
+    "year": 2002,
+    "headline": "Criminal Justice Students Observe 228th District Court with Judge Ted Poe",
+    "body": "Criminal Justice seniors and instructor Tom Winn saw justice served in the 228th District Criminal Court. They observed court procedures including sentencing, toured lockup facilities, and had a private audience with a district attorney, a defense attorney, and Judge Ted Poe himself.",
+    "programs": [
+      "Criminal Justice"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-24-criminal-justice-court.jpg"
+  },
+  {
+    "id": "2002-11-09",
+    "date": "2002-11-09",
+    "year": 2002,
+    "headline": "NJROTC Cadets Treated Royally on University of Texas Visit",
+    "body": "A group of NJROTC students visited the University of Texas campus, touring the State Capitol, UT NROTC program, Coach Mack Brown's office and the UT Trophy Room. They also attended the UT-Baylor football game and visited the Oasis Restaurant on Lake Travis.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-09-njrotc-ut-visit.jpg"
+  },
+  {
+    "id": "2002-11-21",
+    "date": "2002-11-21",
+    "year": 2002,
+    "headline": "CultureShapers 2002: Josh Franer Wins $5,000 for Second Year in a Row",
+    "body": "Spring Branch ISD students from The Guthrie Center claimed awards at the CultureShapers contest banquet at the Wyndham Hotel. Josh Franer (MHS) won the top spot two years in a row, with Coleman McFarland (SHS) and Brendon Lankford (MHS) finishing in the top 10. This is the third year in a row a Guthrie Media Tech student captured first place.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-21-cultureshapers-winners.jpg"
+  },
+  {
+    "id": "2003-02-01",
+    "date": "2003-02-01",
+    "year": 2003,
+    "headline": "Ten Students Place at Spindletop Film Festival in Beaumont",
+    "body": "Spindletop Film Fest results from Lamar University in Beaumont — over 100 entries in the High School division and ten Guthrie students placed in top spots. Josh Franer won Best of Show from the Houston Film Commission. Other winners included Jeffrey Block (1st Documentary), Omar Garcia (2nd Documentary), Charles Harkey (1st PSA), and Brendan Lankford (1st Experimental).",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-02-01-spindletop-winners.jpg"
+  },
+  {
+    "id": "2003-02-17",
+    "date": "2003-02-17",
+    "year": 2003,
+    "headline": "25th Annual FFA Show and Sale a Spectacular Success",
+    "body": "What a spectacular weekend at the Ag Center on Brittmoore as FFA students, parents and advisors held the 25th Annual Show and Sale. Board of Trustees member Barbara Larson helped judge and presented winners. Attendance was way up, as were the number of buyers on the floor on Saturday. Special thanks to Mike McManners and Sheyenne Krysher for bringing new life into this outstanding program.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-02-17-ffa-show-sale.jpg"
+  },
+  {
+    "id": "2003-03-06",
+    "date": "2003-03-06",
+    "year": 2003,
+    "headline": "Digital Media Showcase Draws Visitors from Across Texas",
+    "body": "Our Media Technology program was bustling with people as students showed off their accomplishments during the Digital Media/Filmmaking Showcase. Visitors came from as far as McAllen to watch the work of these award-winning videographers. Special appreciation to Dr. Katz and board of trustees member Barbara Larson for their participation.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-03-06-filmmaking-showcase.jpg"
+  },
+  {
+    "id": "2003-05-22",
+    "date": "2003-05-22",
+    "year": 2003,
+    "headline": "Russell Williams Named Outstanding Automotive Student of the Year",
+    "body": "Russell Williams, an Automotive Technology student, was honored as the Outstanding Automotive Student of the Year at ceremonies on May 22, 2003. Russell received a professional set of tools from MAC Tool Company presented by District Manager Frank Moler. Russell plans to attend the Automotive Technology program at San Jacinto College.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-05-22-auto-student-year.jpg"
   },
   {
     "id": "2003-09-03-4265",
@@ -7409,8 +7541,8 @@ const NEWS_DATA =
     "id": "2012-01-03-tw154290568166506496",
     "date": "2012-01-03",
     "year": 2012,
-    "headline": "http://t.co/oFuu8mvg \nGuthrie staff teach each other on web 2.0 tools including twitter. #guthrie...",
-    "body": "http://t.co/oFuu8mvg \nGuthrie staff teach each other on web 2.0 tools including twitter. #guthrie",
+    "headline": "http://t.co/oFuu8mvg Guthrie staff teach each other on web 2.0 tools including twitter. #guthrie...",
+    "body": "http://t.co/oFuu8mvg Guthrie staff teach each other on web 2.0 tools including twitter. #guthrie",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
@@ -9603,7 +9735,7 @@ const NEWS_DATA =
     "date": "2013-04-24",
     "year": 2013,
     "headline": "What A Party! http://t",
-    "body": "What A Party! http://t.co/KPDHuaThMh \n#guthrie_center",
+    "body": "What A Party! http://t.co/KPDHuaThMh #guthrie_center",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
@@ -10684,7 +10816,7 @@ const NEWS_DATA =
     "date": "2014-01-10",
     "year": 2014,
     "headline": "Early Bucket List Honor",
-    "body": "Mirna Cardenas , the Commanding Officer NJROTC is the highest ranking cadet responsible for planning and coordinating all activities, administering program requirements for cadets and most importantly providing cadet leadership. A member of the National Honor Society and National Technical Honor Society this Top 10% Northbrook senior has already been accepted at Texas A&M University where she intends to major in biology, pursue a nursing career, possibly even in the Navy. Mirna has received numerous NJROTC awards and according to CDR Coufel she is at the top of a short list of cadets (out of hundreds he has mentored) throughout his education career. One of Mirna’s life goals was to meet a World War II vet which was accomplished back in August at Congressman Poe’s Salute to Veterans Community meeting where she spent time with veteran Bob Cook .\\r",
+    "body": "Mirna Cardenas , the Commanding Officer NJROTC is the highest ranking cadet responsible for planning and coordinating all activities, administering program requirements for cadets and most importantly providing cadet leadership. A member of the National Honor Society and National Technical Honor Society this Top 10% Northbrook senior has already been accepted at Texas A&M University where she intends to major in biology, pursue a nursing career, possibly even in the Navy. Mirna has received numerous NJROTC awards and according to CDR Coufel she is at the top of a short list of cadets (out of hundreds he has mentored) throughout his education career. One of Mirna’s life goals was to meet a World War II vet which was accomplished back in August at Congressman Poe’s Salute to Veterans Community meeting where she spent time with veteran Bob Cook .",
     "programs": [
       "NJROTC",
       "NTHS"
@@ -11555,7 +11687,7 @@ const NEWS_DATA =
     "date": "2014-05-16",
     "year": 2014,
     "headline": "FFA News Flash",
-    "body": "Congratulations to Ben Johnson who was named one of ten Ford FFA Leadership Scholars in Texas for 2014. The award recognizes juniors (rising seniors) who met the requirements of the Lone Star Degree and are highly motivated with a deep interest in leadership. Ben is also advancing to State in Senior Prepared Public Speaking (they write and deliver a 6-8 min speech about a current agricultural topic).\\r \\r Katherine Hulbert is one of 12 Texas FFA Courtesy Corps Representatives for the state convention from our area. Corps members will assist fellow members, guests, foundation sponsors and convention staff backstage with awards.\\r \\r Outgoing chapter president Rachel Fargerson advanced to State in Star Chapter Farmer placement (outstanding SAE in production agriculture and most involved in all phases of chapter activities).\\r \\r Also advancing to State is Marybel Gomez in Landscape Management Proficiency, Cara Croft in Equine Proficiency and Amy Pope in Diversified Livestock Proficiency, Goat Proficiency and Sheep Proficienc y.\\r \\r This has been a week of positives and accolades for our FFA students and program.\\r \\r",
+    "body": "Congratulations to Ben Johnson who was named one of ten Ford FFA Leadership Scholars in Texas for 2014. The award recognizes juniors (rising seniors) who met the requirements of the Lone Star Degree and are highly motivated with a deep interest in leadership. Ben is also advancing to State in Senior Prepared Public Speaking (they write and deliver a 6-8 min speech about a current agricultural topic). Katherine Hulbert is one of 12 Texas FFA Courtesy Corps Representatives for the state convention from our area. Corps members will assist fellow members, guests, foundation sponsors and convention staff backstage with awards. Outgoing chapter president Rachel Fargerson advanced to State in Star Chapter Farmer placement (outstanding SAE in production agriculture and most involved in all phases of chapter activities). Also advancing to State is Marybel Gomez in Landscape Management Proficiency, Cara Croft in Equine Proficiency and Amy Pope in Diversified Livestock Proficiency, Goat Proficiency and Sheep Proficienc y. This has been a week of positives and accolades for our FFA students and program.",
     "programs": [
       "Agricultural Science"
     ],
@@ -11616,7 +11748,7 @@ const NEWS_DATA =
     "date": "2014-05-28",
     "year": 2014,
     "headline": "GC Film Festival Winners For 2014",
-    "body": "Congratulations to the winning entries in the 2014 Guthrie Film Festival. The public premiere was held Thursday evening before a large crowd in the Guthrie Theater.\\r \\r Films were categorized under Public Service Announcements (PSA\\'s), Special Effects, Documentaries, Short Films and Music Videos. The chosen best in PSA\\'s was a tie with Internet Safety by Adrian Bourliot and Tired Driver by Marcus Alcala, SPECIAL EFFECTS to Trojan Virus by lvanakbar Purwamaska & Ali Jafari, SHORT FILMS went to Barbara by Jeremiah Jordan (who also took Best of Show), Drones by Paul Brastrom won the DOCUMENTARY category, and MUSIC VIDEOS winners were Minor Stab by Anna Rodriguez-Falco and Waiting On The World To Change by Adam Torres.\\r \\r A compilation of the winning videos can be viewed above, and the full one hour and thirty-four minute GC Film Festival show can be viewed here.\\r \\r \\r \\r \\r GUTHRIE CENTER FILM FESTIVAL 2014 \\r \\r PSA\\'s \\r \\r Internet Safety Adrian Bourliot \\r Sex Trafficking Angelica Chavez \\r Tired Driver Marcus Alcala \\r Play 60 Matt Rogers \\r The Haunting Daniel Rayon \\r Stranger Danger Fernando Hernandez \\r \\r SPECIAL EFFECTS \\r \\r Starbucks Shark Anna Rodriguez-Falco \\r Trojan Virus lvanakbar Purwamaska & Ali Jafari \\r Planet Reptar Michael Cabrera & Oliver Velez & Taylor Meyer \\r \\r DOCUMENTARIES \\r \\r Sway Caitlin Makin & Adrian Bourliot \\r Drones Paul Brastrom \\r The Creatives Connor Jones \\r \\r SHORT FILMS \\r \\r Venus Travis Balleza \\r 48 Fernando Hernandez \\r Masked Binh Nguyen \\r Caught in the Middle Rubianne Wagner \\r Orange Life Michael Cabrera \\r Houston lvanakhbar Purwamask a \\r Missing John James \\r Townes Adam Torres \\r Barbara Jeremiah Jordan BEST IN SHOW \\r \\r MUSIC VIDEOS \\r \\r The Messenger Kade Rhame \\r Tik Tok Darian Hunyh \\r Missing Daniel Meja \\r Please Don\\'t Go lvanakbar Purwamaska \\r Phonetics Taylor Meyer \\r Fresh Pr",
+    "body": "Congratulations to the winning entries in the 2014 Guthrie Film Festival. The public premiere was held Thursday evening before a large crowd in the Guthrie Theater. Films were categorized under Public Service Announcements (PSA\\'s), Special Effects, Documentaries, Short Films and Music Videos. The chosen best in PSA\\'s was a tie with Internet Safety by Adrian Bourliot and Tired Driver by Marcus Alcala, SPECIAL EFFECTS to Trojan Virus by lvanakbar Purwamaska & Ali Jafari, SHORT FILMS went to Barbara by Jeremiah Jordan (who also took Best of Show), Drones by Paul Brastrom won the DOCUMENTARY category, and MUSIC VIDEOS winners were Minor Stab by Anna Rodriguez-Falco and Waiting On The World To Change by Adam Torres. A compilation of the winning videos can be viewed above, and the full one hour and thirty-four minute GC Film Festival show can be viewed here. GUTHRIE CENTER FILM FESTIVAL 2014 PSA\\'s Internet Safety Adrian Bourliot Sex Trafficking Angelica Chavez Tired Driver Marcus Alcala Play 60 Matt Rogers The Haunting Daniel Rayon Stranger Danger Fernando Hernandez SPECIAL EFFECTS Starbucks Shark Anna Rodriguez-Falco Trojan Virus lvanakbar Purwamaska & Ali Jafari Planet Reptar Michael Cabrera & Oliver Velez & Taylor Meyer DOCUMENTARIES Sway Caitlin Makin & Adrian Bourliot Drones Paul Brastrom The Creatives Connor Jones SHORT FILMS Venus Travis Balleza 48 Fernando Hernandez Masked Binh Nguyen Caught in the Middle Rubianne Wagner Orange Life Michael Cabrera Houston lvanakhbar Purwamask a Missing John James Townes Adam Torres Barbara Jeremiah Jordan BEST IN SHOW MUSIC VIDEOS The Messenger Kade Rhame Tik Tok Darian Hunyh Missing Daniel Meja Please Don\\'t Go lvanakbar Purwamaska Phonetics Taylor Meyer Fresh Pr",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -11641,7 +11773,7 @@ const NEWS_DATA =
     "date": "2014-05-29",
     "year": 2014,
     "headline": "Film Student Takes Silver For Greatest Save PSA",
-    "body": "Congratulations to Digital Film student Fernando Hernandez for his second place result in Kindervision\\'s The Greatest Save High School PSA Competition . Fernando and instructor Patty Nilsson were on hand at the Harris County Sheriff\\'s headquarters Tuesday to receive his award.\\r \\r The personal safety program started after a crime involving kidnapping and murder of an 7 year old in California 23 years ago. Kindervision\\'s goal is to help educate youth of all ages through media and lessons to bring awareness to danger and protect themselves though personal safety training.\\r \\r Harris County Sheriff Adrian Garcia and Greatest Save Board Member Chris McDonough presented Fernando with his plaque and check.",
+    "body": "Congratulations to Digital Film student Fernando Hernandez for his second place result in Kindervision\\'s The Greatest Save High School PSA Competition . Fernando and instructor Patty Nilsson were on hand at the Harris County Sheriff\\'s headquarters Tuesday to receive his award. The personal safety program started after a crime involving kidnapping and murder of an 7 year old in California 23 years ago. Kindervision\\'s goal is to help educate youth of all ages through media and lessons to bring awareness to danger and protect themselves though personal safety training. Harris County Sheriff Adrian Garcia and Greatest Save Board Member Chris McDonough presented Fernando with his plaque and check.",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -11666,7 +11798,7 @@ const NEWS_DATA =
     "date": "2014-06-20",
     "year": 2014,
     "headline": "Culinary Exchange Students In Norway For Texas Days In Stavanger",
-    "body": "\\r \\r \\r \\r The Houston-Galveston Stavanger Sister City Society extended an invitation to a group of students from Guthrie\\'s Culinary Arts and Spring Woods High\\'s Madrigal Choir to travel to Stavanger, Norway . All told, sixty-eight students from the Houston-Galveston area representing Fine Arts, Athletics and Culinary Arts are participating in the event which is partially underwritten by the HGSSCS members, the City of Stavanger, Norway, Energy companies including ConocoPhillips, NOV and others.\\r \\r Students stay in Norwegian family host homes and will participate with high school students, professionals and other local organizations in Stavanger. Guthrie Chef Erin Land and SWHS Choir Director Scott Houston will accompany their students. Both students and teachers are excited to be part of this lifetime memory event while serving as ambassadors from SBISD and the Houston area.\\r \\r The entire group is currently in Stavanger with all but culinary students returning June 25. Culinary will stay an additional two weeks to experience an internship in local culinary establishments for one week and assist with Worldchefs Congress 2014 the final week.\\r \\r You can follow some of the events here and on Guthrie’s Facebook page.\\r \\r \\r \\r Program For Texas Days in Stavanger 18 - 25 June 2014 \\r \\r Wednesday 18 \\r \\r Arrival Sola airport. Transport to meeting place by busses \\r Pick up of the students by their host families \\r Spending time with their host families \\r \\r Thursday 19 \\r \\r Meeting point. Host families deliver and leaders pick up \\r Individual group sessions: Choir, Jazz Band, Vocals, Culinary, Golf, Ballet, Scouts \\r Lundsvågen games and competition for all youth groups \\r Lundsvågen get-together for all youth groups and hosting families \\r Free time with their families or groups. \\r Mayor\\'s welcome dinner for the Board, leaders and sponsors \\r \\r Friday 20 \\r \\r Host families dr",
+    "body": "The Houston-Galveston Stavanger Sister City Society extended an invitation to a group of students from Guthrie\\'s Culinary Arts and Spring Woods High\\'s Madrigal Choir to travel to Stavanger, Norway . All told, sixty-eight students from the Houston-Galveston area representing Fine Arts, Athletics and Culinary Arts are participating in the event which is partially underwritten by the HGSSCS members, the City of Stavanger, Norway, Energy companies including ConocoPhillips, NOV and others. Students stay in Norwegian family host homes and will participate with high school students, professionals and other local organizations in Stavanger. Guthrie Chef Erin Land and SWHS Choir Director Scott Houston will accompany their students. Both students and teachers are excited to be part of this lifetime memory event while serving as ambassadors from SBISD and the Houston area. The entire group is currently in Stavanger with all but culinary students returning June 25. Culinary will stay an additional two weeks to experience an internship in local culinary establishments for one week and assist with Worldchefs Congress 2014 the final week. You can follow some of the events here and on Guthrie’s Facebook page. Program For Texas Days in Stavanger 18 - 25 June 2014 Wednesday 18 Arrival Sola airport. Transport to meeting place by busses Pick up of the students by their host families Spending time with their host families Thursday 19 Meeting point. Host families deliver and leaders pick up Individual group sessions: Choir, Jazz Band, Vocals, Culinary, Golf, Ballet, Scouts Lundsvågen games and competition for all youth groups Lundsvågen get-together for all youth groups and hosting families Free time with their families or groups. Mayor\\'s welcome dinner for the Board, leaders and sponsors Friday 20 Host families dr",
     "programs": [
       "Culinary Arts"
     ],
@@ -11728,7 +11860,7 @@ const NEWS_DATA =
     "date": "2014-09-06",
     "year": 2014,
     "headline": "Back To School Blood Drive",
-    "body": "Welcome back to Guthrie for our 42nd year providing a quality education to students in Spring Branch.\\r \\r Continuing our tradition of serving others, our FFA students are starting off the year with a Blood Drive in conjunction with MD Anderson\\'s Blood Bank on September 16th , honoring our own Ag Science/FFA instructor Jane Primrose . Donors must be 17 years old other restrictions apply. You can sign up by contacting Ms. Primrose at jane.primrose@springbranchisd.com",
+    "body": "Welcome back to Guthrie for our 42nd year providing a quality education to students in Spring Branch. Continuing our tradition of serving others, our FFA students are starting off the year with a Blood Drive in conjunction with MD Anderson\\'s Blood Bank on September 16th , honoring our own Ag Science/FFA instructor Jane Primrose . Donors must be 17 years old other restrictions apply. You can sign up by contacting Ms. Primrose at jane.primrose@springbranchisd.com",
     "programs": [
       "Agricultural Science"
     ],
@@ -11740,7 +11872,7 @@ const NEWS_DATA =
     "date": "2014-09-17",
     "year": 2014,
     "headline": "Live Online Culinary Broadcast",
-    "body": "The Texas Restaurant Association, Texas ProStart and the Culinary Institute of America will sponsor a live culinary broadcast from Guthrie. The Wednesday 9/10 event will feature an exciting culinary demonstration, panel discussion w/ industry Chefs and CIA alumni and a Q&A Session live via email and Twitter.\\r \\r Our Film and Video Production students under the direction of Michael Ortiz and Patty Nilsson have worked tireless behind the scenes to find the best camera angles, lighting and all the intricate details to execute a show like this.\\r \\r You can view the entire show that was produced, directed and shot by Advanced Film students below.\\r \\r https://vimeo.com/105889341",
+    "body": "The Texas Restaurant Association, Texas ProStart and the Culinary Institute of America will sponsor a live culinary broadcast from Guthrie. The Wednesday 9/10 event will feature an exciting culinary demonstration, panel discussion w/ industry Chefs and CIA alumni and a Q&A Session live via email and Twitter. Our Film and Video Production students under the direction of Michael Ortiz and Patty Nilsson have worked tireless behind the scenes to find the best camera angles, lighting and all the intricate details to execute a show like this. You can view the entire show that was produced, directed and shot by Advanced Film students below. https://vimeo.com/105889341",
     "programs": [
       "Culinary Arts",
       "Digital Filmmaking"
@@ -11753,7 +11885,7 @@ const NEWS_DATA =
     "date": "2014-09-21",
     "year": 2014,
     "headline": "September 2014 Meeting",
-    "body": "Here are the documents and handouts for/from our meeting.\\r \\r Thanks\\r \\r CITagenda09232014",
+    "body": "Here are the documents and handouts for/from our meeting. Thanks CITagenda09232014",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -11774,7 +11906,7 @@ const NEWS_DATA =
     "date": "2014-10-02",
     "year": 2014,
     "headline": "Sloppy Rules",
-    "body": "Today is the first Sloppy Tot Thursday in the cafe. For $3 you get a boat full of tots covered with sloppy joes, cheddar cheese, onions and jalapeño slices.\\r \\r It\\'s worth every cent - everyone here seems to think so today.",
+    "body": "Today is the first Sloppy Tot Thursday in the cafe. For $3 you get a boat full of tots covered with sloppy joes, cheddar cheese, onions and jalapeño slices. It\\'s worth every cent - everyone here seems to think so today.",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -11795,7 +11927,7 @@ const NEWS_DATA =
     "date": "2014-10-17",
     "year": 2014,
     "headline": "Opening Our House",
-    "body": "Community Tuesday, our biannual open house is upon us. Please come out on Tuesday, October 21st from 5 - 7:30 PM and take a tour of the campus to learn more about what Endorsements we can offer students for graduation and what T24 pathway they can take to earn a technical certification, military service, two year or four year degree.\\r \\r",
+    "body": "Community Tuesday, our biannual open house is upon us. Please come out on Tuesday, October 21st from 5 - 7:30 PM and take a tour of the campus to learn more about what Endorsements we can offer students for graduation and what T24 pathway they can take to earn a technical certification, military service, two year or four year degree.",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -11805,7 +11937,7 @@ const NEWS_DATA =
     "date": "2014-10-17",
     "year": 2014,
     "headline": "And The Emmy Goes To",
-    "body": "\\r \\r Recently, the National Television Arts and Sciences and the local Lone Star Emmy Chapter announced Emmy Awards recipients for excellence in TV and Broadcast productions.\\r \\r Guthrie Center Films and a number of Guthrie Digital Filmmaking students earned two Emmy Awards for their outstanding work in television production!\\r \\r Congratulations to Guthrie Center Films and to the following students for their excellent work-Award winning productions in television.\\r \\r For “Works in Progress” a Newscast talk show featuring the excellent programs at The Guthrie Center, the following students earned a Lone Star Emmy Award.\\r Adrian Bourliot, Producer/Director \\r Jose Cervantes, Producer/Asst. Director \\r Travis Balleza, Producer/Writer \\r Caitlin Makin, Producer \\r Paul Brastrom, Producer/Editor \\r Andrew Fowler, Producer/Editor \\r Raekwon Johnson, Producer/Editor \\r Daniel Rayon, Producer \\r Fernando Hernandez, Producer \\r Angelica Chavez, Producer \\r For “Simple Math”, a Public Service Announcement about the importance of energy conservation, a Lone Star Emmy went to Producer/Director Keith Chapman. \\r \\r NATAS is a professional service organization dedicated to the advancement of the arts and sciences of television and related media and the promotion of creative leadership for artistic, educational and technical achievements within the television industry, best known for the coveted Emmy® Award.\\r \\r The goal of the Lone Star EMMY Educational Foundation is to support education, encourage professional development and recognize longtime television professionals who have made a significant contribution to the broadcasting industry.\\r \\r The Lone Star Chapter Regional Student Production Awards for excellence, which promotes best practices to College / University / High School Students, is intended to be an incentive for the pursuit of excellence in television journalism and focus public attention on outstandi",
+    "body": "Recently, the National Television Arts and Sciences and the local Lone Star Emmy Chapter announced Emmy Awards recipients for excellence in TV and Broadcast productions. Guthrie Center Films and a number of Guthrie Digital Filmmaking students earned two Emmy Awards for their outstanding work in television production! Congratulations to Guthrie Center Films and to the following students for their excellent work-Award winning productions in television. For “Works in Progress” a Newscast talk show featuring the excellent programs at The Guthrie Center, the following students earned a Lone Star Emmy Award. Adrian Bourliot, Producer/Director Jose Cervantes, Producer/Asst. Director Travis Balleza, Producer/Writer Caitlin Makin, Producer Paul Brastrom, Producer/Editor Andrew Fowler, Producer/Editor Raekwon Johnson, Producer/Editor Daniel Rayon, Producer Fernando Hernandez, Producer Angelica Chavez, Producer For “Simple Math”, a Public Service Announcement about the importance of energy conservation, a Lone Star Emmy went to Producer/Director Keith Chapman. NATAS is a professional service organization dedicated to the advancement of the arts and sciences of television and related media and the promotion of creative leadership for artistic, educational and technical achievements within the television industry, best known for the coveted Emmy® Award. The goal of the Lone Star EMMY Educational Foundation is to support education, encourage professional development and recognize longtime television professionals who have made a significant contribution to the broadcasting industry. The Lone Star Chapter Regional Student Production Awards for excellence, which promotes best practices to College / University / High School Students, is intended to be an incentive for the pursuit of excellence in television journalism and focus public attention on outstandi",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -11849,7 +11981,7 @@ const NEWS_DATA =
     "date": "2014-10-22",
     "year": 2014,
     "headline": "Community Tuesday October 2014",
-    "body": "Community Tuesday Open House was a huge success last night. It was great to see so many interested students and family members visit their classes and teachers, and check out the other Guthrie programs available as well. We look forward to seeing you all again in the spring semester.\\r \\r",
+    "body": "Community Tuesday Open House was a huge success last night. It was great to see so many interested students and family members visit their classes and teachers, and check out the other Guthrie programs available as well. We look forward to seeing you all again in the spring semester.",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -11870,7 +12002,7 @@ const NEWS_DATA =
     "date": "2014-11-21",
     "year": 2014,
     "headline": "November 2014 Meeting",
-    "body": "Here are the documents and handouts for/from our meeting.\\r \\r Thanks\\r \\r CITNovember14",
+    "body": "Here are the documents and handouts for/from our meeting. Thanks CITNovember14",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -11880,7 +12012,7 @@ const NEWS_DATA =
     "date": "2014-12-04",
     "year": 2014,
     "headline": "NTHS Induction 2014-15",
-    "body": "On the evening of Monday, December 8th at 6PM in our theater we will proudly induct the newest members of the Guthrie Center\\'s chapter of the National Technical Honor Society. These students, Teachers nominated the students for their continued achievement in academics, responsibility, dependability and honesty.\\r \\r The following NTHS inductees will pledge to uphold the values that put them in the nominee pool and continue during their high school years. The chapter is sponsored by teachers Linda Newnum, Jane Primrose and Ella Park.\\r Syan Barrey\\r Kyle Brastrom\\r Colette Bucher\\r Brian Carles\\r Joseph Castelli\\r Stephanie Cruz\\r Rodrigo De La Torre\\r Michelle Dias\\r John Eyre\\r Dominique Fields\\r Audrey Finck\\r Lorenzo Foster II\\r Glenda Frutiz\\r Juana Gamarras\\r Taylor Gee\\r Fernando Gomez Osegueda\\r Arya Haji Taheri\\r Holton Hockaday\\r Jessica Hollis\\r Sean Hurst\\r Kayla Johnson\\r Madison Lindner\\r Jack Liu\\r Alec Miller\\r Sydney Miller-Hewett\\r Philip Murvee\\r Amy Nguyen\\r Alberto Ortiz\\r Lucy Palomares\\r Meaghan Pansacola-Rouchon\\r Juliana Parody Sanchez\\r Carlos Reyes Canales\\r Bailey Rockwell\\r Nina Rotan\\r Kyra Rubinstein\\r Graciela Sanchez\\r Mailei Schmidt\\r David Scott\\r Kate Sparenberg\\r Heybi Torres\\r Emma Trahan\\r Kayla Valencia\\r Nomaris Velez\\r Kelley Vo\\r Christopher Wood\\r Clayton Wood\\r Luisa Zarzosa \\r CLICK TO DOWNLOAD THE INDUCTION PROGRAM \\r NTHS Induction 2014",
+    "body": "On the evening of Monday, December 8th at 6PM in our theater we will proudly induct the newest members of the Guthrie Center\\'s chapter of the National Technical Honor Society. These students, Teachers nominated the students for their continued achievement in academics, responsibility, dependability and honesty. The following NTHS inductees will pledge to uphold the values that put them in the nominee pool and continue during their high school years. The chapter is sponsored by teachers Linda Newnum, Jane Primrose and Ella Park. Syan Barrey Kyle Brastrom Colette Bucher Brian Carles Joseph Castelli Stephanie Cruz Rodrigo De La Torre Michelle Dias John Eyre Dominique Fields Audrey Finck Lorenzo Foster II Glenda Frutiz Juana Gamarras Taylor Gee Fernando Gomez Osegueda Arya Haji Taheri Holton Hockaday Jessica Hollis Sean Hurst Kayla Johnson Madison Lindner Jack Liu Alec Miller Sydney Miller-Hewett Philip Murvee Amy Nguyen Alberto Ortiz Lucy Palomares Meaghan Pansacola-Rouchon Juliana Parody Sanchez Carlos Reyes Canales Bailey Rockwell Nina Rotan Kyra Rubinstein Graciela Sanchez Mailei Schmidt David Scott Kate Sparenberg Heybi Torres Emma Trahan Kayla Valencia Nomaris Velez Kelley Vo Christopher Wood Clayton Wood Luisa Zarzosa CLICK TO DOWNLOAD THE INDUCTION PROGRAM NTHS Induction 2014",
     "programs": [
       "NTHS"
     ],
@@ -11916,7 +12048,7 @@ const NEWS_DATA =
     "date": "2015-01-21",
     "year": 2015,
     "headline": "January 2015 Meeting",
-    "body": "Here are the documents and handouts for/from our meeting.\\r \\r Thanks\\r \\r",
+    "body": "Here are the documents and handouts for/from our meeting. Thanks",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -11937,7 +12069,7 @@ const NEWS_DATA =
     "date": "2015-02-05",
     "year": 2015,
     "headline": "Show and Sale 37 Starts Now",
-    "body": "The 37th Annual FFA Show and Sale is underway at the Ag Science Center at 1905 Brittmoore. The community is welcome to come out to support and encourage our middle and high school students in FFA as they show off their hard work to judges from this part of Texas.\\r \\r 2015 Spring Branch Show & Sale Schedule of Events \\r \\r \\r \\r \\r \\r Thursday, February 5, 2015 \\r \\r 3:30 PM to 6:30 PM Non-Livestock & Livestock check-in \\r 6:35 PM Non-Livestock Judging \\r 7:00 PM Floral Design Contest \\r \\r \\r \\r \\r \\r \\r Friday, February 6, 2015 \\r \\r Livestock Show Details \\r \\r 10:00 AM Broilers and Turkeys \\r 11:00 AM Rabbit Show \\r 2:00 PM Goat Show \\r 3:00 PM Lamb Show \\r 4:00 PM Hog Show \\r Announce Non-Livestock \\r 6:00 PM Heifer Show \\r 7:00 PM Steer Show \\r 6 :00 PM Non-Livestock Closes \\r \\r \\r \\r \\r \\r \\r Saturday, February 7, 2015 \\r \\r 11:00 AM - Buyer Registration & Reception begins \\r 11:00 AM - Silent AuctiOn opens \\r 11:30 AM- Buyers Lunch \\r 1:00 PM- Live Auction begins \\r 2:00 PM- Silent Auction closes \\r \\r \\r \\r \\r",
+    "body": "The 37th Annual FFA Show and Sale is underway at the Ag Science Center at 1905 Brittmoore. The community is welcome to come out to support and encourage our middle and high school students in FFA as they show off their hard work to judges from this part of Texas. 2015 Spring Branch Show & Sale Schedule of Events Thursday, February 5, 2015 3:30 PM to 6:30 PM Non-Livestock & Livestock check-in 6:35 PM Non-Livestock Judging 7:00 PM Floral Design Contest Friday, February 6, 2015 Livestock Show Details 10:00 AM Broilers and Turkeys 11:00 AM Rabbit Show 2:00 PM Goat Show 3:00 PM Lamb Show 4:00 PM Hog Show Announce Non-Livestock 6:00 PM Heifer Show 7:00 PM Steer Show 6 :00 PM Non-Livestock Closes Saturday, February 7, 2015 11:00 AM - Buyer Registration & Reception begins 11:00 AM - Silent AuctiOn opens 11:30 AM- Buyers Lunch 1:00 PM- Live Auction begins 2:00 PM- Silent Auction closes",
     "programs": [
       "Agricultural Science"
     ],
@@ -11962,7 +12094,7 @@ const NEWS_DATA =
     "date": "2015-02-07",
     "year": 2015,
     "headline": "Show and Sale 37 Results",
-    "body": "Here are the unofficial results from the FFA Show\\r \\r LIVESTOCK EVENTS \\r \\r Broilers \\r Grand Champion: Blake Pesl-MHS\\r Reserve Champion: Makenzie Matecki-SWHS\\r 3rd: Jaime Martinez (Showmanship)- SWHS\\r 4th: Cecilia Chinchilla-NHS\\r \\r Turkeys \\r Grand Champion: Jessica Hollis-MHS\\r Reserve Champion: Abby Cline-MHS\\r 3rd: Samuel Vassar (Showmanship)-MMS\\r 4th: Faith Breed-MHS\\r \\r Meat Rabbits \\r Grand Champion: Raul Hererra- WAIS\\r Reserve Champion: Alexandra Wolff (Showmanship)-Awty\\r 3rd: Nestor Herrera-NHS\\r 4th: Blake Pesl-MHS\\r \\r Breeding Rabbit \\r Grand Champion: Raul Hererra-WAIS\\r Reserve Champion: Blake Pesl-MHS\\r 3rd: Alexandra Wolff-Awty\\r 4th: Nestor Herrera-NHS\\r \\r Fur Rabbit \\r Grand Champion: Raul Herrera-WAIS\\r Reserve Champion: Blake Pesl-MHS\\r 3rd: Nestor Herrera-NHS\\r 4th: Alexandra Wolff-Awty\\r \\r Goat \\r Grand Champion: Hailey Wilson-Gonzalez (Showmanship)-SWHS\\r Reserve Champion: Sloan Kopelmann-MHS\\r 3rd: Amy Nguyen-MHS\\r 4th: Gladys Zubieta-SWHS\\r 5th: Esteban Gomez-SWHS\\r \\r Lamb \\r Grand Champion: Claudia Salazar-SWHS\\r Reserve Champion: Hailey Wilson-Gonzalez-MHS\\r 3rd: Makenzie Matecki (Showmanship)-SWHS\\r 4th: Nestor Herrera-NHS\\r \\r Pig\\r Grand Champion: Hailey Wilson-Gonzalez (Showmanship)-SWHS\\r Reserve Champion: James Martinson-WAIS\\r 3rd: Travis Karisch-MHS\\r 4th: Jessica Hollis-MHS\\r 5th: Alexandra Wolff-Awty\\r 6th: Esteban Gomez-SWHS\\r 7th: Jack Flowers-Cornerstone\\r 8th: Evan Roach-MHS\\r 9th: Abby Cline-MHS\\r 10th: Katie Edgely-SWHS\\r 11th: Faith Breed=MHS\\r 12th: Jaqueline Laredo-SWHS\\r 13th: Samuel Vassar-MMS\\r 14th: Dominique Fields-MHS\\r \\r Heifer \\r Grand Champion: Abby Cline-MHS\\r Reserve Champion: Cullen Robertson (Showmanship)-MHS\\r \\r Steer \\r Grand Champion: Cecilia Chinchilla-NHS\\r Reserve Champion: Makenzie Matecki (Showmanship)-SWHS\\r 3rd: Katie Edgley-SWHS\\r 4th: Evan Powell-SHS\\r 5th: Cullen Robertson-M",
+    "body": "Here are the unofficial results from the FFA Show LIVESTOCK EVENTS Broilers Grand Champion: Blake Pesl-MHS Reserve Champion: Makenzie Matecki-SWHS 3rd: Jaime Martinez (Showmanship)- SWHS 4th: Cecilia Chinchilla-NHS Turkeys Grand Champion: Jessica Hollis-MHS Reserve Champion: Abby Cline-MHS 3rd: Samuel Vassar (Showmanship)-MMS 4th: Faith Breed-MHS Meat Rabbits Grand Champion: Raul Hererra- WAIS Reserve Champion: Alexandra Wolff (Showmanship)-Awty 3rd: Nestor Herrera-NHS 4th: Blake Pesl-MHS Breeding Rabbit Grand Champion: Raul Hererra-WAIS Reserve Champion: Blake Pesl-MHS 3rd: Alexandra Wolff-Awty 4th: Nestor Herrera-NHS Fur Rabbit Grand Champion: Raul Herrera-WAIS Reserve Champion: Blake Pesl-MHS 3rd: Nestor Herrera-NHS 4th: Alexandra Wolff-Awty Goat Grand Champion: Hailey Wilson-Gonzalez (Showmanship)-SWHS Reserve Champion: Sloan Kopelmann-MHS 3rd: Amy Nguyen-MHS 4th: Gladys Zubieta-SWHS 5th: Esteban Gomez-SWHS Lamb Grand Champion: Claudia Salazar-SWHS Reserve Champion: Hailey Wilson-Gonzalez-MHS 3rd: Makenzie Matecki (Showmanship)-SWHS 4th: Nestor Herrera-NHS Pig Grand Champion: Hailey Wilson-Gonzalez (Showmanship)-SWHS Reserve Champion: James Martinson-WAIS 3rd: Travis Karisch-MHS 4th: Jessica Hollis-MHS 5th: Alexandra Wolff-Awty 6th: Esteban Gomez-SWHS 7th: Jack Flowers-Cornerstone 8th: Evan Roach-MHS 9th: Abby Cline-MHS 10th: Katie Edgely-SWHS 11th: Faith Breed=MHS 12th: Jaqueline Laredo-SWHS 13th: Samuel Vassar-MMS 14th: Dominique Fields-MHS Heifer Grand Champion: Abby Cline-MHS Reserve Champion: Cullen Robertson (Showmanship)-MHS Steer Grand Champion: Cecilia Chinchilla-NHS Reserve Champion: Makenzie Matecki (Showmanship)-SWHS 3rd: Katie Edgley-SWHS 4th: Evan Powell-SHS 5th: Cullen Robertson-M",
     "programs": [
       "Agricultural Science"
     ],
@@ -11987,7 +12119,7 @@ const NEWS_DATA =
     "date": "2015-02-20",
     "year": 2015,
     "headline": "ProStart Culinary Competition",
-    "body": "Culinary Chefs Land and Manske have arrived at the Regionals at the Lonestar Convention and Expo in Conroe, Texas. Flanked by Culinary Team members Alex Younger, Lillie Kram, Morris Gonzales, Lorenzo Foster II and Alex Hodges along with Management Team Alice Kim, Gary Thompson and Nick Karolyi, they are going through the check-in process today.\\r \\r The actual events are Saturday starting around 8:30 for the Management section and 1 PM for the culinary events. See the full schedule below and a link to all the events at the ProStart Regionals.\\r \\r You can follow the team\\'s progress on Twitter at https://twitter.com/GCProStart (@GCProStart)\\r Schedule_of_Events_CONROE_-Teams_with_detail \\r Conroe_Program_web \\r \\r",
+    "body": "Culinary Chefs Land and Manske have arrived at the Regionals at the Lonestar Convention and Expo in Conroe, Texas. Flanked by Culinary Team members Alex Younger, Lillie Kram, Morris Gonzales, Lorenzo Foster II and Alex Hodges along with Management Team Alice Kim, Gary Thompson and Nick Karolyi, they are going through the check-in process today. The actual events are Saturday starting around 8:30 for the Management section and 1 PM for the culinary events. See the full schedule below and a link to all the events at the ProStart Regionals. You can follow the team\\'s progress on Twitter at https://twitter.com/GCProStart (@GCProStart) Schedule_of_Events_CONROE_-Teams_with_detail Conroe_Program_web",
     "programs": [
       "Culinary Arts"
     ],
@@ -12012,7 +12144,7 @@ const NEWS_DATA =
     "date": "2015-02-21",
     "year": 2015,
     "headline": "February 2015 Meeting",
-    "body": "Here are the documents and handouts for/from our meeting.\\r \\r Thanks\\r \\r CITagenda02242015 \\r \\r",
+    "body": "Here are the documents and handouts for/from our meeting. Thanks CITagenda02242015",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -12046,7 +12178,7 @@ const NEWS_DATA =
     "date": "2015-02-24",
     "year": 2015,
     "headline": "ProStart Regionals Recap",
-    "body": "Both Management and Culinary Teams found success on Saturday as they took 3rd in their respective events and will be going to state in March.\\r \\r Chef Manske\\' s Management Team of Alice Kim, Gary Thompson and Nick Karolyi went against 11 other schools presenting their restaurant concept verbally, conceptually and were challenged in the critical thinking section of the competition.\\r \\r The Culinary team, headed by Chef Land and Chef Alford had 22 competing programs as they showed their knife skills and prepared a 3 course meal in 60 minutes. Alex Younger, Lillie Kram, Morris Gonzales, Lorenzo Foster II and Alex Hodges showed poise and grit as they overcame obstacles to rise to the #3 spot.\\r \\r Congratulations to our teams and good luck in Waco in a few weeks.\\r \\r",
+    "body": "Both Management and Culinary Teams found success on Saturday as they took 3rd in their respective events and will be going to state in March. Chef Manske\\' s Management Team of Alice Kim, Gary Thompson and Nick Karolyi went against 11 other schools presenting their restaurant concept verbally, conceptually and were challenged in the critical thinking section of the competition. The Culinary team, headed by Chef Land and Chef Alford had 22 competing programs as they showed their knife skills and prepared a 3 course meal in 60 minutes. Alex Younger, Lillie Kram, Morris Gonzales, Lorenzo Foster II and Alex Hodges showed poise and grit as they overcame obstacles to rise to the #3 spot. Congratulations to our teams and good luck in Waco in a few weeks.",
     "programs": [
       "Culinary Arts"
     ],
@@ -12058,7 +12190,7 @@ const NEWS_DATA =
     "date": "2015-03-21",
     "year": 2015,
     "headline": "March 2015 Meeting",
-    "body": "This month we spent the meeting time interviewing our assistant principal candidates.\\r \\r Thanks\\r \\r CITagendaMarch15",
+    "body": "This month we spent the meeting time interviewing our assistant principal candidates. Thanks CITagendaMarch15",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -12068,7 +12200,7 @@ const NEWS_DATA =
     "date": "2015-03-31",
     "year": 2015,
     "headline": "Cadet Academic Teams Fly High",
-    "body": "The Navy NJROTC Academic Team participates in local skill meets throughout the year and annually via the National Academic Exam. The exam is composed of current events, NJROTC curriculum and college board entrance questions.\\r \\r This year CDR Coufal and Master Chief Heuser fielded four teams and two of them finished in the top 9 of 151 Texas teams and nationally in the 97th/93rd percentile of all teams that entered. If you are not sure what that means, please ask one of our academic team members, they can explain it very well.\\r \\r Congratulations to team 1 [ Clinton Dougher (WAIS - JR), Samya Irfan (SHS-SR, Joseph Castelli (SWHS-SO), Jocelyn Fox (SWHS-JR) and Juan Estrada (SHS-FR)] and team 2 [ Francisco Tapia (WAIS-JR), Luis Pineda (MHS-JR), Chris Grant (SWHS-SR), Luie Soto (SHS-SR) & Robert Cross (SHS-JR)] for your results and to the other cadets for taking part in this mental exercise of excellence.",
+    "body": "The Navy NJROTC Academic Team participates in local skill meets throughout the year and annually via the National Academic Exam. The exam is composed of current events, NJROTC curriculum and college board entrance questions. This year CDR Coufal and Master Chief Heuser fielded four teams and two of them finished in the top 9 of 151 Texas teams and nationally in the 97th/93rd percentile of all teams that entered. If you are not sure what that means, please ask one of our academic team members, they can explain it very well. Congratulations to team 1 [ Clinton Dougher (WAIS - JR), Samya Irfan (SHS-SR, Joseph Castelli (SWHS-SO), Jocelyn Fox (SWHS-JR) and Juan Estrada (SHS-FR)] and team 2 [ Francisco Tapia (WAIS-JR), Luis Pineda (MHS-JR), Chris Grant (SWHS-SR), Luie Soto (SHS-SR) & Robert Cross (SHS-JR)] for your results and to the other cadets for taking part in this mental exercise of excellence.",
     "programs": [
       "NJROTC"
     ],
@@ -12093,7 +12225,7 @@ const NEWS_DATA =
     "date": "2015-04-07",
     "year": 2015,
     "headline": "Spring Open House 2015",
-    "body": "Thanks for coming by to Guthrie\\'s Spring Open House and Portfolio Show. We are proud to show our guests the results of our students endeavors and success. \\r \\r \\r \\r",
+    "body": "Thanks for coming by to Guthrie\\'s Spring Open House and Portfolio Show. We are proud to show our guests the results of our students endeavors and success.",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -12114,7 +12246,7 @@ const NEWS_DATA =
     "date": "2015-04-21",
     "year": 2015,
     "headline": "April 2015 Meeting",
-    "body": "Today’s Campus Improvement Team meeting will be conducted virtually.\\r \\r INFO ONLY: \\r First off, I have no news or update on the assistant principal position. it is out of my hands and I am sure that when upper management can schedule their part we will have a response. \\r \\r One of the documents you will see is an update on certifications at Guthrie. We have many more scheduled this year but early results are still sketchy. One other high school campus is doing quite well with their certifications and have surpassed us in number passing. \\r \\r The document on Parent/Community Involvement Assessment is what I was hoping we could discuss and do together. This is basically our CIT’s opinion of where Guthrie is in the 11 categories listed (the ratings are acceptable, recognized and exemplary). \\r \\r Please take a few minutes and read them over and email back your rating or thoughts in each area. The areas include: \\r \\r \\r Welcoming School Environment \\r Inclusive And Respectful School Community \\r Volunteer Programs And Opportunities \\r Parent Teacher Organization Dna Dna Dna \\r Parent And Family Engagement/Programming \\r School/Home Communication 1 \\r School/Home Communication 2 \\r School/Home Communication 3 \\r School/Home Communication 4 \\r Parent And Community Feedback \\r Partnerships And Good Neighbor Participation \\r \\r \\r Thanks for being flexible in this meeting arrangement. There are many things going on at Guthrie that have most of us tied up and I did not send you a meeting reminder, agenda and do not have the minutes prepared from last time. \\r \\r \\r If everyone can respond by Thursday, I will send out the results. Also if you have anything else to add, please feel free to reply to all. \\r \\r \\r CITagenda04212015 \\r \\r CIT-ParentSurvey-AprMeeting \\r \\r GCcertsapril2015",
+    "body": "Today’s Campus Improvement Team meeting will be conducted virtually. INFO ONLY: First off, I have no news or update on the assistant principal position. it is out of my hands and I am sure that when upper management can schedule their part we will have a response. One of the documents you will see is an update on certifications at Guthrie. We have many more scheduled this year but early results are still sketchy. One other high school campus is doing quite well with their certifications and have surpassed us in number passing. The document on Parent/Community Involvement Assessment is what I was hoping we could discuss and do together. This is basically our CIT’s opinion of where Guthrie is in the 11 categories listed (the ratings are acceptable, recognized and exemplary). Please take a few minutes and read them over and email back your rating or thoughts in each area. The areas include: Welcoming School Environment Inclusive And Respectful School Community Volunteer Programs And Opportunities Parent Teacher Organization Dna Dna Dna Parent And Family Engagement/Programming School/Home Communication 1 School/Home Communication 2 School/Home Communication 3 School/Home Communication 4 Parent And Community Feedback Partnerships And Good Neighbor Participation Thanks for being flexible in this meeting arrangement. There are many things going on at Guthrie that have most of us tied up and I did not send you a meeting reminder, agenda and do not have the minutes prepared from last time. If everyone can respond by Thursday, I will send out the results. Also if you have anything else to add, please feel free to reply to all. CITagenda04212015 CIT-ParentSurvey-AprMeeting GCcertsapril2015",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -12124,7 +12256,7 @@ const NEWS_DATA =
     "date": "2015-04-28",
     "year": 2015,
     "headline": "CTE Scholarship Luncheon 2015",
-    "body": "Families and school representatives along with business and industry partners were on hand to celebrate with our 2015 Career and Technical Education Scholarship awardees at a luncheon in Guthrie Culinary.\\r \\r Kyle Mosby from Stratford, Fernando Gomez Osegueda from Guthrie, Lauren Almstedt from Memorial, Alexandra Pierce from Stratford, Haley Groce from Spring Woods, Samya Irfan from Stratford and Ben Johnson from Guthrie\\'s FFA program enjoyed an excellent meal and had the opportunity to thank their teachers and others who helped them reach their goals.\\r \\r Congratulations to our student recipients and good luck to all of our seniors as you begin the excitement of life after high school.\\r \\r The event program can be viewed/downloaded below. The outstanding photos from the celebration were taken by Film Practicum student Paul Brastrom.",
+    "body": "Families and school representatives along with business and industry partners were on hand to celebrate with our 2015 Career and Technical Education Scholarship awardees at a luncheon in Guthrie Culinary. Kyle Mosby from Stratford, Fernando Gomez Osegueda from Guthrie, Lauren Almstedt from Memorial, Alexandra Pierce from Stratford, Haley Groce from Spring Woods, Samya Irfan from Stratford and Ben Johnson from Guthrie\\'s FFA program enjoyed an excellent meal and had the opportunity to thank their teachers and others who helped them reach their goals. Congratulations to our student recipients and good luck to all of our seniors as you begin the excitement of life after high school. The event program can be viewed/downloaded below. The outstanding photos from the celebration were taken by Film Practicum student Paul Brastrom.",
     "programs": [
       "Culinary Arts",
       "Agricultural Science"
@@ -12137,7 +12269,7 @@ const NEWS_DATA =
     "date": "2015-05-11",
     "year": 2015,
     "headline": "HWCOC Business and Education Partnership Luncheon",
-    "body": "Guthrie Center student representatives participated in exhibits at the 25th Annual Business & Education Partnership Luncheon held by the Houston West Chamber of Commerce on May 8.\\r \\r The yearly event honors Teachers and Outstanding Business Partners of the Year in the West Houston workforce area. Guthrie Internships and SBISD partner Tres Market received the award in the 1-25 employee category for generously giving their time and talent to mentor, provide internships and program support.\\r \\r Alexandra Younger, Alice Kim, Evan Powell, Amy Nguyen, Matthew Bunting, Taylor Gee, Jordyn Folh and Oscar River a were on hand with instructors from Agricultural Science, Architectural Design, 3D Animation, Culinary Arts and Graphic Design.",
+    "body": "Guthrie Center student representatives participated in exhibits at the 25th Annual Business & Education Partnership Luncheon held by the Houston West Chamber of Commerce on May 8. The yearly event honors Teachers and Outstanding Business Partners of the Year in the West Houston workforce area. Guthrie Internships and SBISD partner Tres Market received the award in the 1-25 employee category for generously giving their time and talent to mentor, provide internships and program support. Alexandra Younger, Alice Kim, Evan Powell, Amy Nguyen, Matthew Bunting, Taylor Gee, Jordyn Folh and Oscar River a were on hand with instructors from Agricultural Science, Architectural Design, 3D Animation, Culinary Arts and Graphic Design.",
     "programs": [
       "Culinary Arts",
       "3D Animation",
@@ -12164,7 +12296,7 @@ const NEWS_DATA =
     "date": "2015-05-15",
     "year": 2015,
     "headline": "NJROTC Delivers Distinguished Again",
-    "body": "Congratulations to our Navy JROTC Unit who again earned honors as a Distinguished Unit and one of the top NJROTC\\'s out of the 56 that make up Area 10. This is the 10th year in a row they earned it and 17th time in its\\' eighteen year history in Spring Branch.\\r \\r This year we have to wait a little longer to find out if the \"Academic Honors\" add-on was awarded, as it is now determined by the admiral\\'s staff.\\r \\r Outstanding accomplishment by our cadets, student leaders and CDR Coufal and Master Chief Heuser.\\r \\r \\r \\r \\r \\r \\r \\r One of the ways this is earned is through serving the community and others. The photo shows our cadets speaking with young students at Thornwood Elementary\\'s Career Day about their high school program.",
+    "body": "Congratulations to our Navy JROTC Unit who again earned honors as a Distinguished Unit and one of the top NJROTC\\'s out of the 56 that make up Area 10. This is the 10th year in a row they earned it and 17th time in its\\' eighteen year history in Spring Branch. This year we have to wait a little longer to find out if the \"Academic Honors\" add-on was awarded, as it is now determined by the admiral\\'s staff. Outstanding accomplishment by our cadets, student leaders and CDR Coufal and Master Chief Heuser. One of the ways this is earned is through serving the community and others. The photo shows our cadets speaking with young students at Thornwood Elementary\\'s Career Day about their high school program.",
     "programs": [
       "NJROTC"
     ],
@@ -12176,7 +12308,7 @@ const NEWS_DATA =
     "date": "2015-05-18",
     "year": 2015,
     "headline": "May 2015 Meeting",
-    "body": "Our May meeting will be on May 19th at Guthrie. I hope to see you then.\\r \\r Agenda is below.\\r \\r CITagenda05182015 \\r \\r GraphicSchedule1516 \\r \\r 1516scheduleoptionsTEXT",
+    "body": "Our May meeting will be on May 19th at Guthrie. I hope to see you then. Agenda is below. CITagenda05182015 GraphicSchedule1516 1516scheduleoptionsTEXT",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -12186,7 +12318,7 @@ const NEWS_DATA =
     "date": "2015-05-20",
     "year": 2015,
     "headline": "NTHS End Of Year Celebration",
-    "body": "Today was time to celebrate the end of the school year for our National Technical Honor Society students and give the seniors their cords and tassels for graduation. Installation of the officers for 2015-2016 was also conducted.\\r \\r Thanks to our student leaders and Ms. Newnum for putting on the event to close out the year. Enjoy the photos below taken by anyone who had the camera handed to them.",
+    "body": "Today was time to celebrate the end of the school year for our National Technical Honor Society students and give the seniors their cords and tassels for graduation. Installation of the officers for 2015-2016 was also conducted. Thanks to our student leaders and Ms. Newnum for putting on the event to close out the year. Enjoy the photos below taken by anyone who had the camera handed to them.",
     "programs": [
       "NTHS"
     ],
@@ -12271,7 +12403,7 @@ const NEWS_DATA =
     "date": "2015-07-13",
     "year": 2015,
     "headline": "Welcome Katie",
-    "body": "We are thrilled to welcome Katie Thompson, the newest member of our Guthrie family as a teacher in the Agricultural Science program.\\r \\r Katie grew up in Sugar Land and earned her Bachelor of Science degree from Sam Houston State University. In addition to her student teaching experience, Katie served girls as a camp counselor and director for six summers in Kerrville.\\r \\r Congratulations Katie, you made a great decision to work in Spring Branch and at Guthrie!\\r \\r",
+    "body": "We are thrilled to welcome Katie Thompson, the newest member of our Guthrie family as a teacher in the Agricultural Science program. Katie grew up in Sugar Land and earned her Bachelor of Science degree from Sam Houston State University. In addition to her student teaching experience, Katie served girls as a camp counselor and director for six summers in Kerrville. Congratulations Katie, you made a great decision to work in Spring Branch and at Guthrie!",
     "programs": [
       "Agricultural Science"
     ],
@@ -12340,7 +12472,7 @@ const NEWS_DATA =
     "date": "2015-09-12",
     "year": 2015,
     "headline": "Fall FFA Blood Drive",
-    "body": "Our FFA students and chapter is holding a blood drive on Tuesday 9.15 in the Student Center. The staff from MD Anderson will be ready to take donors beginning at 8 AM. For more information contact or email Katie Thompson at 713.251.1380.\\r \\r Help save a life today!",
+    "body": "Our FFA students and chapter is holding a blood drive on Tuesday 9.15 in the Student Center. The staff from MD Anderson will be ready to take donors beginning at 8 AM. For more information contact or email Katie Thompson at 713.251.1380. Help save a life today!",
     "programs": [
       "Agricultural Science"
     ],
@@ -12352,7 +12484,7 @@ const NEWS_DATA =
     "date": "2015-09-12",
     "year": 2015,
     "headline": "Orienteering Teams Unite",
-    "body": "Today at the Challenger 7 Park in League City our Navy JROTC Orienteering Team competed with many others on a beautiful muddy, sunny day.\\r \\r 25 cadets joined forces with fellow JROTC teams from George Bush and Nimitz High Schools. The strong fellowship among the Naval Science Instructors of the units seemed to permeate to the students as they talked, cooked and broke bread together.\\r \\r CDR Coufal and Master Chief Heuser took cadets Rosa Alvarez, Jasmine Aregullin, Randolph Bahena-Guerrero, Stephanie Benavides, Melvin Bustillo, Steven Caballero, Henri Calix, Alexis Castillo, Sara Crellen, Clinton Dougher, Michael Espino, Jocelyn Fox, Cristian Garza, Azucena Gonzales-Salazar, Gustavo Grimaldo, Jermi Mcmillan, Christi Nguyen, Pedro Quiroz, Juan Reyes-Canales, Carlos Reyes Canales, Jonathan Rodriguez, Corbin Scott, Chase Smesny, Francisco Tapia, and Logan Watson to the competition.\\r \\r",
+    "body": "Today at the Challenger 7 Park in League City our Navy JROTC Orienteering Team competed with many others on a beautiful muddy, sunny day. 25 cadets joined forces with fellow JROTC teams from George Bush and Nimitz High Schools. The strong fellowship among the Naval Science Instructors of the units seemed to permeate to the students as they talked, cooked and broke bread together. CDR Coufal and Master Chief Heuser took cadets Rosa Alvarez, Jasmine Aregullin, Randolph Bahena-Guerrero, Stephanie Benavides, Melvin Bustillo, Steven Caballero, Henri Calix, Alexis Castillo, Sara Crellen, Clinton Dougher, Michael Espino, Jocelyn Fox, Cristian Garza, Azucena Gonzales-Salazar, Gustavo Grimaldo, Jermi Mcmillan, Christi Nguyen, Pedro Quiroz, Juan Reyes-Canales, Carlos Reyes Canales, Jonathan Rodriguez, Corbin Scott, Chase Smesny, Francisco Tapia, and Logan Watson to the competition.",
     "programs": [
       "NJROTC"
     ],
@@ -12426,7 +12558,7 @@ const NEWS_DATA =
     "date": "2015-10-15",
     "year": 2015,
     "headline": "Tuesday Is For Our Community",
-    "body": "It\\'s Here!Tuesday evening from 5 to 7:30 PM is a great opportunity for you to tour Guthrie and see the quality elective programming we provide for high school students in SBISD.\\r \\r Community Tuesday isn\\'t a typical open house to meet the teacher. This come-and-go event puts you in the middle of our students project-based learning and in many cases you get to see the them individually or collectively at work collaborating on a project. Of course you still have the chance to meet our teachers!\\r \\r We hope you will join us at Community Tuesday on October 20th. Bring the family, friends and neighbors and explore the place that is the best part of the school day for so many of our students.",
+    "body": "It\\'s Here!Tuesday evening from 5 to 7:30 PM is a great opportunity for you to tour Guthrie and see the quality elective programming we provide for high school students in SBISD. Community Tuesday isn\\'t a typical open house to meet the teacher. This come-and-go event puts you in the middle of our students project-based learning and in many cases you get to see the them individually or collectively at work collaborating on a project. Of course you still have the chance to meet our teachers! We hope you will join us at Community Tuesday on October 20th. Bring the family, friends and neighbors and explore the place that is the best part of the school day for so many of our students.",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
@@ -12760,7 +12892,7 @@ const NEWS_DATA =
     "date": "2016-01-24",
     "year": 2016,
     "headline": "38th Annual FFA Show and Sale",
-    "body": "Our FFA Chapter with tremendous support from the Spring Branch FFA Alumni presents the 38th Annual Show and Sale on February 12 & 13, 2016 at our Agricultural Science Center, 1905 Brittmoore.\\r \\r This is the culmination of months of hard work by students raising livestock and other projects.\\r \\r Friday is the day to watch as guest judges inspect every animal and choose the Grand and Reserve Champions and all the rest in order.\\r \\r Saturday is the auction where our generous buyers meet and eat with the students before the live auction begins at 1:00 PM.\\r \\r For additional information or to find out what it takes to be a buyer, please call FFA Alumni President Rebecca Robertson at 713.542.6519.",
+    "body": "Our FFA Chapter with tremendous support from the Spring Branch FFA Alumni presents the 38th Annual Show and Sale on February 12 & 13, 2016 at our Agricultural Science Center, 1905 Brittmoore. This is the culmination of months of hard work by students raising livestock and other projects. Friday is the day to watch as guest judges inspect every animal and choose the Grand and Reserve Champions and all the rest in order. Saturday is the auction where our generous buyers meet and eat with the students before the live auction begins at 1:00 PM. For additional information or to find out what it takes to be a buyer, please call FFA Alumni President Rebecca Robertson at 713.542.6519.",
     "programs": [
       "Agricultural Science",
       "NTHS"
@@ -12773,7 +12905,7 @@ const NEWS_DATA =
     "date": "2016-01-24",
     "year": 2016,
     "headline": "Funding Your Future Event At SWHS",
-    "body": "Come to Spring Woods High School on Saturday 1/30/2016 to learn more about financial planning for college, career and post-secondary training.\\r \\r All students, parents or family embers interested in learning more are welcome.",
+    "body": "Come to Spring Woods High School on Saturday 1/30/2016 to learn more about financial planning for college, career and post-secondary training. All students, parents or family embers interested in learning more are welcome.",
     "programs": [],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2016/01/fundFuture_blog.png",
     "source": "wordpress"
@@ -12783,7 +12915,7 @@ const NEWS_DATA =
     "date": "2016-01-24",
     "year": 2016,
     "headline": "Spring Branch Community Education News",
-    "body": "SBISD Community Education offers over 100 courses mostly to individuals who are 16 and over, featuring a variety of classes in Languages, Computers, GED Prep, Sewing, Art, Cake Decorating, Guitar, Interior Decorating and more.\\r \\r The Dance Program offers different types of dance for 3 year olds to teen-adults as well as adults in Ballet, Tap, Jazz, Hip Hop, Zumba, Yoga, Flamenco, Ballroom, Country Western, and Salsa.\\r \\r Driver’s Education (14 yrs. -17 yrs.) and Motorcycle Safety are also offered.\\r \\r The best way to see the rest of the courses, schedules and to register is to go to the website at: http://communityed.springbranchisd.com",
+    "body": "SBISD Community Education offers over 100 courses mostly to individuals who are 16 and over, featuring a variety of classes in Languages, Computers, GED Prep, Sewing, Art, Cake Decorating, Guitar, Interior Decorating and more. The Dance Program offers different types of dance for 3 year olds to teen-adults as well as adults in Ballet, Tap, Jazz, Hip Hop, Zumba, Yoga, Flamenco, Ballroom, Country Western, and Salsa. Driver’s Education (14 yrs. -17 yrs.) and Motorcycle Safety are also offered. The best way to see the rest of the courses, schedules and to register is to go to the website at: http://communityed.springbranchisd.com",
     "programs": [],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2016/01/Screen-Shot-2016-01-25-at-13.36.57.png",
     "source": "wordpress"
@@ -12805,7 +12937,7 @@ const NEWS_DATA =
     "date": "2016-01-25",
     "year": 2016,
     "headline": "The Guthrie Experience: Computer Tech",
-    "body": "\"My Guthrie experience is exactly what I needed in order to achieve my goals in this industry. Certifications are important, but I also need hands-on experience.\"Meet Adam Ploman, an honor student from SHS. Adam has been at Guthrie for 4 years and after taking Computer Maintenance, Cisco Networking I, Cisco Networking 2, and Computer Technician, Adam earned his certifications in CT Work Keys, A+ Certification, and an EPA 608 Technician Certification.\\r \\r As a Certified Technician, Adam is qualified to trouble-shoot, repair and install software and hardware on PCs. Adam often gets to work at the district Help Desk alongside SBISD technicians doing repairs and installing operating systems for the entire school district.\\r \\r “My Guthrie experience is exactly what I needed in order to achieve my goals in this industry. Certifications are important, but I also need hands-on experience.”\\r \\r Upon graduation, Adam plans to attend Houston Community College to earn even more industry certifications and will eventually work for a company that has a large technology infrastructure.\\r \\r “I love fixing computers and coming to Guthrie is the best part of my day! I would never get to do this in a traditional high school setting.”\\r \\r With more than 75 percent of secondary CTE students pursuing postsecondary education shortly after high school, a CTE experience and test-drive in a career choice before committing to an expensive 4-year post secondary plan is a level of preparation that is invaluable.",
+    "body": "\"My Guthrie experience is exactly what I needed in order to achieve my goals in this industry. Certifications are important, but I also need hands-on experience.\"Meet Adam Ploman, an honor student from SHS. Adam has been at Guthrie for 4 years and after taking Computer Maintenance, Cisco Networking I, Cisco Networking 2, and Computer Technician, Adam earned his certifications in CT Work Keys, A+ Certification, and an EPA 608 Technician Certification. As a Certified Technician, Adam is qualified to trouble-shoot, repair and install software and hardware on PCs. Adam often gets to work at the district Help Desk alongside SBISD technicians doing repairs and installing operating systems for the entire school district. “My Guthrie experience is exactly what I needed in order to achieve my goals in this industry. Certifications are important, but I also need hands-on experience.” Upon graduation, Adam plans to attend Houston Community College to earn even more industry certifications and will eventually work for a company that has a large technology infrastructure. “I love fixing computers and coming to Guthrie is the best part of my day! I would never get to do this in a traditional high school setting.” With more than 75 percent of secondary CTE students pursuing postsecondary education shortly after high school, a CTE experience and test-drive in a career choice before committing to an expensive 4-year post secondary plan is a level of preparation that is invaluable.",
     "programs": [
       "Computer Maintenance"
     ],
@@ -12887,7 +13019,7 @@ const NEWS_DATA =
     "date": "2016-02-01",
     "year": 2016,
     "headline": "The Guthrie Experience: Digital Filmmaking",
-    "body": "\"I’m building my \\r portfolio in my career field and I’m getting to see what this \\r industry is all about.\"Meet Sergio Vazquez-Mora a senior from Stratford High School. Sergio is in his second year of Digital Filmmaking and although he is interested in a career in music, he is using his Guthrie experience to earn industry-recognized certifications in both Video Production and Commercial Photography.\\r \\r “I feel like this school has opened doors to new opportunities because it’s not just about being challenged or creative, it’s about doing something real and meaningful. I’m building my portfolio in my career field and I’m getting to see what this industry is all about.”\\r \\r Vazquez-Mora just received word that his original musical composition won first place at the district level and is moving on to the state level in the national Reflections competition.\\r \\r “I really think that my experience here has not only given me an opportunity to get recognition but I’m also able to develop my skills and create a versatile body of work to show schools and people in the industry.”\\r \\r This Spring, Vazquez-Mora plans to earn a certification in both Final Cut Pro (advanced video editing) and another in Adobe Photoshop (image editing and photo manipulation) and will take his portfolio to the Musicians Institute College of Contemporary Music to study for a career in the Entertainment Industry.\\r \\r CTE students not only build portfolios, and gain valuable experience and skills in the classroom but many even get to work in real-world scenarios during their regular school day.\\r \\r Story by Patty Nilsson.",
+    "body": "\"I’m building my portfolio in my career field and I’m getting to see what this industry is all about.\"Meet Sergio Vazquez-Mora a senior from Stratford High School. Sergio is in his second year of Digital Filmmaking and although he is interested in a career in music, he is using his Guthrie experience to earn industry-recognized certifications in both Video Production and Commercial Photography. “I feel like this school has opened doors to new opportunities because it’s not just about being challenged or creative, it’s about doing something real and meaningful. I’m building my portfolio in my career field and I’m getting to see what this industry is all about.” Vazquez-Mora just received word that his original musical composition won first place at the district level and is moving on to the state level in the national Reflections competition. “I really think that my experience here has not only given me an opportunity to get recognition but I’m also able to develop my skills and create a versatile body of work to show schools and people in the industry.” This Spring, Vazquez-Mora plans to earn a certification in both Final Cut Pro (advanced video editing) and another in Adobe Photoshop (image editing and photo manipulation) and will take his portfolio to the Musicians Institute College of Contemporary Music to study for a career in the Entertainment Industry. CTE students not only build portfolios, and gain valuable experience and skills in the classroom but many even get to work in real-world scenarios during their regular school day. Story by Patty Nilsson.",
     "programs": [
       "Digital Filmmaking",
       "Commercial Photography"
@@ -12900,7 +13032,7 @@ const NEWS_DATA =
     "date": "2016-02-10",
     "year": 2016,
     "headline": "Betty Franklin",
-    "body": "Today we say goodbye to former Cosmetology teacher Betty Franklin who passed away last week. Betty served the students in our program from 2000 to 2015, teaching hundreds of students the necessary skills to earn a Texas Cosmetology Operator License, and was instrumental in rejuvenating the program. \\r \\r Betty\\'s gentle spirit and positive, can-do approach has left a lasting impression on so many Guthrie students.",
+    "body": "Today we say goodbye to former Cosmetology teacher Betty Franklin who passed away last week. Betty served the students in our program from 2000 to 2015, teaching hundreds of students the necessary skills to earn a Texas Cosmetology Operator License, and was instrumental in rejuvenating the program. Betty\\'s gentle spirit and positive, can-do approach has left a lasting impression on so many Guthrie students.",
     "programs": [
       "Cosmetology"
     ],
@@ -12911,8 +13043,8 @@ const NEWS_DATA =
     "id": "2016-02-12-tw698293091736748032",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "FFA Show and Sale results:\nNON-LIVESTOCK",
-    "body": "FFA Show and Sale results:\nNON-LIVESTOCK. #EveryChild #SBFFA",
+    "headline": "FFA Show and Sale results: NON-LIVESTOCK",
+    "body": "FFA Show and Sale results: NON-LIVESTOCK. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -12924,8 +13056,8 @@ const NEWS_DATA =
     "id": "2016-02-12-tw698292881585369088",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "FFA Show and Sale results:\nGOATS",
-    "body": "FFA Show and Sale results:\nGOATS. #EveryChild #SBFFA",
+    "headline": "FFA Show and Sale results: GOATS",
+    "body": "FFA Show and Sale results: GOATS. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -12937,8 +13069,8 @@ const NEWS_DATA =
     "id": "2016-02-12-tw698292712664006657",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "FFA Show and Sale results:\nRABBITS",
-    "body": "FFA Show and Sale results:\nRABBITS. #EveryChild #SBFFA",
+    "headline": "FFA Show and Sale results: RABBITS",
+    "body": "FFA Show and Sale results: RABBITS. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -12989,8 +13121,8 @@ const NEWS_DATA =
     "id": "2016-02-12-tw698268349407440896",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "FFA Show and Sale results:\nTURKEYS",
-    "body": "FFA Show and Sale results:\nTURKEYS. #EveryChild #SBFFA",
+    "headline": "FFA Show and Sale results: TURKEYS",
+    "body": "FFA Show and Sale results: TURKEYS. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -13002,8 +13134,8 @@ const NEWS_DATA =
     "id": "2016-02-12-tw698268197099704320",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "FFA Show and Sale results:\nBROILERS",
-    "body": "FFA Show and Sale results:\nBROILERS. #EveryChild #SBFFA",
+    "headline": "FFA Show and Sale results: BROILERS",
+    "body": "FFA Show and Sale results: BROILERS. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -13104,8 +13236,8 @@ const NEWS_DATA =
     "id": "2016-02-13-tw698311893107105792",
     "date": "2016-02-13",
     "year": 2016,
-    "headline": "Spring Branch FFA Show and Sale SWINE TIME!\n#EveryChild #SBFFA",
-    "body": "Spring Branch FFA Show and Sale SWINE TIME!\n#EveryChild #SBFFA",
+    "headline": "Spring Branch FFA Show and Sale SWINE TIME! #EveryChild #SBFFA",
+    "body": "Spring Branch FFA Show and Sale SWINE TIME! #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -13130,8 +13262,8 @@ const NEWS_DATA =
     "id": "2016-02-13-tw698302718129999872",
     "date": "2016-02-13",
     "year": 2016,
-    "headline": "FFA Show and Sale results:\nSTEERS",
-    "body": "FFA Show and Sale results:\nSTEERS. #EveryChild #SBFFA",
+    "headline": "FFA Show and Sale results: STEERS",
+    "body": "FFA Show and Sale results: STEERS. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -13144,7 +13276,7 @@ const NEWS_DATA =
     "date": "2016-02-14",
     "year": 2016,
     "headline": "FFA Show and Sale A Success",
-    "body": "The 38th Annual Spring Branch FFA Show and Sale is over, creating a bittersweet moment for many FFA members as they learn how they performed raising their project, finding out how much it raised for scholarship money for them, and saying goodbye to their animals.\\r \\r Congratulations to our members, their families and supporters who helped them over the last few months, and to our FFA Advisors Bobby Terry and Katie Thompson . A very special thank you to our FFA Alumni Association members and leadership team ( Rebecca Robertson, Vicki Fargerson, Lanie Cline, Diana Kopelman, Faith Edgily and Ellen LeBas ) who worked tirelessly to put a smooth, successful and upbeat Show and Sale. A special thank you to and our Master of Ceremonies Wade Cline for announcing and explaining what was going on to the crowds, and to our Navy JROTC Color Guard for opening the auction with the presentation of our flags.\\r \\r We want to also thank our Buyers for making the auction a success. It is through their generosity and willingness for many of them to return each year to participate in this time-honored tradition that helps our FFA students start their college careers with a few less payments.\\r \\r We will post the official results here at a later date, and you can see what was happening as it did Friday at GC twitter: https://twitter.com/guthrie_center",
+    "body": "The 38th Annual Spring Branch FFA Show and Sale is over, creating a bittersweet moment for many FFA members as they learn how they performed raising their project, finding out how much it raised for scholarship money for them, and saying goodbye to their animals. Congratulations to our members, their families and supporters who helped them over the last few months, and to our FFA Advisors Bobby Terry and Katie Thompson . A very special thank you to our FFA Alumni Association members and leadership team ( Rebecca Robertson, Vicki Fargerson, Lanie Cline, Diana Kopelman, Faith Edgily and Ellen LeBas ) who worked tirelessly to put a smooth, successful and upbeat Show and Sale. A special thank you to and our Master of Ceremonies Wade Cline for announcing and explaining what was going on to the crowds, and to our Navy JROTC Color Guard for opening the auction with the presentation of our flags. We want to also thank our Buyers for making the auction a success. It is through their generosity and willingness for many of them to return each year to participate in this time-honored tradition that helps our FFA students start their college careers with a few less payments. We will post the official results here at a later date, and you can see what was happening as it did Friday at GC twitter: https://twitter.com/guthrie_center",
     "programs": [
       "NJROTC",
       "Agricultural Science",
@@ -13171,7 +13303,7 @@ const NEWS_DATA =
     "date": "2016-02-17",
     "year": 2016,
     "headline": "Unquestionable Character",
-    "body": "This year our Character Without Question Awardee is Alexandra Rangel , a senior from Northbrook High School in our Internship program. Tina Miller nominated Alexandra for her strength in the areas of honesty & integrity, respect and kindness.\\r \\r The internship class spends a lot of time talking about the traits of successful people in the workplace and what employers want from those they hire. One of the top ones is doing the right thing. According to Ms. Miller, Alexandra \"exhibits daily integrity in her internship class... her opinion on professional topics is always aligned with doing the ethical thing rather than the comfortable thing.\" Since Alexandra is in the health care field, this is crucial dealing with confidential patient information.\\r \\r Alexandra has a natural inclination to give respect to people in all areas her life. Treating others with dignity, respecting their time and putting forth whatever effort it takes is the way she lives her life.\\r \\r When someone asks Alexandra for assistance, she will take time to help with anything needed, even if it results in extending her day. This comes from a servant approach which is reflected in both her career goal and her volunteer efforts.\\r \\r This exceptionally busy young adult manages her time so she can excel in her advanced course load at school, intern at Memorial Hermann Hospital , take college courses during the summer and help others by volunteering at a homeless shelter, organize blood drives, collecting clothes and shoes for those less fortunate and more.\\r \\r We applaud Alexandra for her selflessness and giving spirit that embodies what we should all strive for at Guthrie. Congratulations Alexandra and to all those nominated.\\r \\r On Monday, February 22 at 7PM at Northbrook High School, the SBISD Board of Trustees will acknowledge all of the district CWQ awardees.",
+    "body": "This year our Character Without Question Awardee is Alexandra Rangel , a senior from Northbrook High School in our Internship program. Tina Miller nominated Alexandra for her strength in the areas of honesty & integrity, respect and kindness. The internship class spends a lot of time talking about the traits of successful people in the workplace and what employers want from those they hire. One of the top ones is doing the right thing. According to Ms. Miller, Alexandra \"exhibits daily integrity in her internship class... her opinion on professional topics is always aligned with doing the ethical thing rather than the comfortable thing.\" Since Alexandra is in the health care field, this is crucial dealing with confidential patient information. Alexandra has a natural inclination to give respect to people in all areas her life. Treating others with dignity, respecting their time and putting forth whatever effort it takes is the way she lives her life. When someone asks Alexandra for assistance, she will take time to help with anything needed, even if it results in extending her day. This comes from a servant approach which is reflected in both her career goal and her volunteer efforts. This exceptionally busy young adult manages her time so she can excel in her advanced course load at school, intern at Memorial Hermann Hospital , take college courses during the summer and help others by volunteering at a homeless shelter, organize blood drives, collecting clothes and shoes for those less fortunate and more. We applaud Alexandra for her selflessness and giving spirit that embodies what we should all strive for at Guthrie. Congratulations Alexandra and to all those nominated. On Monday, February 22 at 7PM at Northbrook High School, the SBISD Board of Trustees will acknowledge all of the district CWQ awardees.",
     "programs": [
       "Internships"
     ],
@@ -13194,7 +13326,7 @@ const NEWS_DATA =
     "date": "2016-02-23",
     "year": 2016,
     "headline": "Poster Design Winners",
-    "body": "Kira Slentz and Kevin Euliarte are the winners of the Newspring Art Auction poster contest. The seniors are both part of our Graphic Design program, this being Kira\\'s first year at Guthrie while Kevin has been here throughout high school taking both 3D Animation and now Graphic Design.\\r \\r With time running out, Kira and Kevin worked as a team bringing their skills together to create the winning poster by the contests deadline and will share the $300 prize winnings.\\r \\r The poster features the Newspring Student Art Auction to be held 5.19.2016 at the Queensbury Theatre. This event is a great opportunity for SBISD students because 100% of the proceeds goes to the student.\\r \\r Submitted by Ella Park.",
+    "body": "Kira Slentz and Kevin Euliarte are the winners of the Newspring Art Auction poster contest. The seniors are both part of our Graphic Design program, this being Kira\\'s first year at Guthrie while Kevin has been here throughout high school taking both 3D Animation and now Graphic Design. With time running out, Kira and Kevin worked as a team bringing their skills together to create the winning poster by the contests deadline and will share the $300 prize winnings. The poster features the Newspring Student Art Auction to be held 5.19.2016 at the Queensbury Theatre. This event is a great opportunity for SBISD students because 100% of the proceeds goes to the student. Submitted by Ella Park.",
     "programs": [
       "3D Animation",
       "Graphic Design"
@@ -13218,7 +13350,7 @@ const NEWS_DATA =
     "date": "2016-02-26",
     "year": 2016,
     "headline": "ProStart Starts Saturday",
-    "body": "Sadie Gilbert\\r Lorena Del Toro\\r Charlie ReyesLillie Kram\\r Anayeli Brito\\r Lawrence Dipaolo\\r Debanhi Mendoza\\r Joel SilgueroChef Erin Land\\r Chef Mel Manske\\r Chef Jon AlfordThe culmination of months of planning, practice, hard work, and weekends in the kitchens comes to fruition tomorrow at 8:45 AM for Management Team and 10:15 AM for the Culinary Team at the Lone Star Convention and Expo Center in Conroe.\\r \\r While check-in, orientation and learning opportunities for the teams is today, the main events are Saturday. Click the link above for actual times and location of the events at Lone Star.\\r \\r We wish the best of luck to our teams Management: Sadie Gilbert, Lorena Del Toro, Charlie Reyes and Culinary: Lillie Kram, Anayeli Brito, Lawrence Dipaolo, Debanhi Mendoza and Joel Silguero, and Chefs Land, Manske and Alford for getting our students ready. for prime time.",
+    "body": "Sadie Gilbert Lorena Del Toro Charlie ReyesLillie Kram Anayeli Brito Lawrence Dipaolo Debanhi Mendoza Joel SilgueroChef Erin Land Chef Mel Manske Chef Jon AlfordThe culmination of months of planning, practice, hard work, and weekends in the kitchens comes to fruition tomorrow at 8:45 AM for Management Team and 10:15 AM for the Culinary Team at the Lone Star Convention and Expo Center in Conroe. While check-in, orientation and learning opportunities for the teams is today, the main events are Saturday. Click the link above for actual times and location of the events at Lone Star. We wish the best of luck to our teams Management: Sadie Gilbert, Lorena Del Toro, Charlie Reyes and Culinary: Lillie Kram, Anayeli Brito, Lawrence Dipaolo, Debanhi Mendoza and Joel Silguero, and Chefs Land, Manske and Alford for getting our students ready. for prime time.",
     "programs": [
       "Culinary Arts",
       "NTHS"
@@ -13442,7 +13574,7 @@ const NEWS_DATA =
     "date": "2016-03-22",
     "year": 2016,
     "headline": "ProStart Teams On Early At State",
-    "body": "ProStart Teams Schedule for Tuesday 3.22.2016 \\r \\r MANAGEMENT \\r \\r Verbal Presentation: 7:30 – 7:40am \\r Judges Q&A: 7:40 – 7:50am \\r Critical Thinking: 7:55 – 8:05am \\r Feedback: 9:30 – 9:40am \\r \\r CULINARY \\r \\r Station Preset: 10am \\r Knife Skills / Poultry Fab: 10:15am \\r Knife Skills / Poultry Fab Critique: 10:30am \\r Production Mise en Place: 10:35am \\r Start Cooking: 10:55am \\r Plate Presentation / Skills Critique: 11:55am \\r Tasting Critique: 12:05pm \\r Menu Critique: 12:12pm \\r Cleanup: 12:17pm \\r Sanitation Critique: 12:37pm \\r Guthrie Out! 12:42pm \\r",
+    "body": "ProStart Teams Schedule for Tuesday 3.22.2016 MANAGEMENT Verbal Presentation: 7:30 – 7:40am Judges Q&A: 7:40 – 7:50am Critical Thinking: 7:55 – 8:05am Feedback: 9:30 – 9:40am CULINARY Station Preset: 10am Knife Skills / Poultry Fab: 10:15am Knife Skills / Poultry Fab Critique: 10:30am Production Mise en Place: 10:35am Start Cooking: 10:55am Plate Presentation / Skills Critique: 11:55am Tasting Critique: 12:05pm Menu Critique: 12:12pm Cleanup: 12:17pm Sanitation Critique: 12:37pm Guthrie Out! 12:42pm",
     "programs": [
       "Culinary Arts"
     ],
@@ -13532,7 +13664,7 @@ const NEWS_DATA =
     "date": "2016-03-31",
     "year": 2016,
     "headline": "Open House April 5th",
-    "body": "Twice a year we open our doors to families, friends and the community to take a look at the talent and ability level Guthrie students possess. Your chance to see that this semester is Tuesday, April 5th from 5 - 7 PM .\\r \\r Earlier in the day, our junior and senior students will have the opportunity for a meet and greet with local colleges and Spring Branch area employers. It\\'s a chance for them to firm up their future plans after graduation.\\r \\r Please join us from 5 - 7 and right after Community Tuesday is over, you can head up Hammerly to Spring Woods High School to hear from Superintendent Scott Muri on SBISD\\'s Strategic Plan, being a District of Innovation and how we will make education impactful for all students.",
+    "body": "Twice a year we open our doors to families, friends and the community to take a look at the talent and ability level Guthrie students possess. Your chance to see that this semester is Tuesday, April 5th from 5 - 7 PM . Earlier in the day, our junior and senior students will have the opportunity for a meet and greet with local colleges and Spring Branch area employers. It\\'s a chance for them to firm up their future plans after graduation. Please join us from 5 - 7 and right after Community Tuesday is over, you can head up Hammerly to Spring Woods High School to hear from Superintendent Scott Muri on SBISD\\'s Strategic Plan, being a District of Innovation and how we will make education impactful for all students.",
     "programs": [],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2016/03/ct.jpg",
     "source": "wordpress"
@@ -13786,7 +13918,7 @@ const NEWS_DATA =
     "date": "2016-10-04",
     "year": 2016,
     "headline": "NJROTC Cadets Take Top Honors",
-    "body": "Nearly two dozen NJROTC cadets competed in the 14th Annual Prairie View A&M Navy ROTC Orienteering Skills Meet held on the campus of Prairie View A&M University.\\r \\r Under beautiful October 1st weather, the cadets led by Cadet Lieutenant Commander Anthony Condon took first place for the second time in the past three years. The meet consisted of basic and advance orienteering, physical fitness and endurance challenges, team building exercises and an academic exam.\\r \\r Congratulations to our outstanding cadets and CDR Coufal and Master Chief Heuser for making this possible.",
+    "body": "Nearly two dozen NJROTC cadets competed in the 14th Annual Prairie View A&M Navy ROTC Orienteering Skills Meet held on the campus of Prairie View A&M University. Under beautiful October 1st weather, the cadets led by Cadet Lieutenant Commander Anthony Condon took first place for the second time in the past three years. The meet consisted of basic and advance orienteering, physical fitness and endurance challenges, team building exercises and an academic exam. Congratulations to our outstanding cadets and CDR Coufal and Master Chief Heuser for making this possible.",
     "programs": [
       "NJROTC"
     ],
@@ -15574,7 +15706,7 @@ const NEWS_DATA =
     "date": "2018-02-01",
     "year": 2018,
     "headline": "A little quiet time before the roar of the 40th Annual SBFFA Show and Sale begins",
-    "body": "A little quiet time before the roar of the 40th Annual SBFFA Show and Sale begins. Non-livestock judging is today and tomorrow at 2PM the Show kicks off. Truly this is #CollectiveGreatness!\nGo @SpringbranchFFA and please join us at 1905 Brittmoore just north of Hammerly.",
+    "body": "A little quiet time before the roar of the 40th Annual SBFFA Show and Sale begins. Non-livestock judging is today and tomorrow at 2PM the Show kicks off. Truly this is #CollectiveGreatness! Go @SpringbranchFFA and please join us at 1905 Brittmoore just north of Hammerly.",
     "programs": [
       "Agricultural Science"
     ],
@@ -15747,8 +15879,8 @@ const NEWS_DATA =
     "id": "2018-02-02-tw959458692986032128",
     "date": "2018-02-02",
     "year": 2018,
-    "headline": "LIVESTOCK SHOW TIMES\n2:00 Broiler Show, Turkey Show, Rabbit Show \n3:30 Market Goat Show\n4:00 Non-...",
-    "body": "LIVESTOCK SHOW TIMES\n2:00 Broiler Show, Turkey Show, Rabbit Show \n3:30 Market Goat Show\n4:00 Non-Livestock Results part 1\n4:30 Market Lamb Show\n5:00 Breeding Heifer Show\n5:45 Non-Livestock part 2\n6:00 Market Steer Show\n7:00 Market Swine Show @SpringbranchFFA",
+    "headline": "LIVESTOCK SHOW TIMES 2:00 Broiler Show, Turkey Show, Rabbit Show 3:30 Market Goat Show 4:00 Non-...",
+    "body": "LIVESTOCK SHOW TIMES 2:00 Broiler Show, Turkey Show, Rabbit Show 3:30 Market Goat Show 4:00 Non-Livestock Results part 1 4:30 Market Lamb Show 5:00 Breeding Heifer Show 5:45 Non-Livestock part 2 6:00 Market Steer Show 7:00 Market Swine Show @SpringbranchFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -17110,7 +17242,7 @@ const NEWS_DATA =
     "date": "2019-10-17",
     "year": 2019,
     "headline": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today",
-    "body": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today. Photos at link below. \n@SB_GuthrieJROTC",
+    "body": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today. Photos at link below. @SB_GuthrieJROTC",
     "programs": [
       "NJROTC"
     ],
@@ -17356,7 +17488,7 @@ const NEWS_DATA =
     "date": "2020-02-01",
     "year": 2020,
     "headline": "NJROTC Cadets complete the physical part of the Tomball Meet with an 8x8 relay",
-    "body": "NJROTC Cadets complete the physical part of the Tomball Meet with an 8x8 relay. They will end their day with the academic testing. @SB_GuthrieJROTC\n@SBISD",
+    "body": "NJROTC Cadets complete the physical part of the Tomball Meet with an 8x8 relay. They will end their day with the academic testing. @SB_GuthrieJROTC @SBISD",
     "programs": [
       "NJROTC"
     ],
@@ -17494,7 +17626,7 @@ const NEWS_DATA =
     "date": "2021-02-01",
     "year": 2021,
     "headline": "Guthrie classes teach you the technical skills to start your career, but even more important is w...",
-    "body": "Guthrie classes teach you the technical skills to start your career, but even more important is we will make sure you have the professional skills to stay employed and successful. \n#SpringWoodsHigh\n#northbrookhigh\n#WAISSBISD\n#MHShouston\n#StratfordSBISD",
+    "body": "Guthrie classes teach you the technical skills to start your career, but even more important is we will make sure you have the professional skills to stay employed and successful. #SpringWoodsHigh #northbrookhigh #WAISSBISD #MHShouston #StratfordSBISD",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/EtK7v4_XUAMifEW.jpg",
     "source": "twitter",
@@ -17505,7 +17637,7 @@ const NEWS_DATA =
     "date": "2021-02-01",
     "year": 2021,
     "headline": "It's course selection time - please keep Guthrie at the top of your list and click here to learn ...",
-    "body": "It's course selection time - please keep Guthrie at the top of your list and click here to learn more. \n@SpringWoodsHigh \n@northbrookhigh \n@WAISSBISD \n@MHShouston \n@StratfordSBISD",
+    "body": "It's course selection time - please keep Guthrie at the top of your list and click here to learn more. @SpringWoodsHigh @northbrookhigh @WAISSBISD @MHShouston @StratfordSBISD",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/EtJa_ngXIAkh1bz.jpg",
     "source": "twitter",
@@ -17580,8 +17712,8 @@ const NEWS_DATA =
     "id": "2021-02-10-tw1359639314574028804",
     "date": "2021-02-10",
     "year": 2021,
-    "headline": "It’s Lamb &amp; Goat Show day for @SpringbranchFFA \nYou can view the stream at or on our Twitter ...",
-    "body": "It’s Lamb &amp; Goat Show day for @SpringbranchFFA \nYou can view the stream at or on our Twitter feed @guthrie_center \nGood luck students! @SBISD",
+    "headline": "It’s Lamb &amp; Goat Show day for @SpringbranchFFA You can view the stream at or on our Twitter ...",
+    "body": "It’s Lamb &amp; Goat Show day for @SpringbranchFFA You can view the stream at or on our Twitter feed @guthrie_center Good luck students! @SBISD",
     "programs": [
       "Agricultural Science"
     ],
@@ -17707,8 +17839,8 @@ const NEWS_DATA =
     "id": "2021-03-27-tw1375855384225841156",
     "date": "2021-03-27",
     "year": 2021,
-    "headline": "NJROTC Cadets can do this! \n\n\n@SBISD",
-    "body": "NJROTC Cadets can do this! \n\n\n@SBISD",
+    "headline": "NJROTC Cadets can do this! @SBISD",
+    "body": "NJROTC Cadets can do this! @SBISD",
     "programs": [
       "NJROTC"
     ],
@@ -17834,7 +17966,7 @@ const NEWS_DATA =
     "date": "2021-06-23",
     "year": 2021,
     "headline": "Ag/FFA student leaders hone their team skills at the chapter officer retreat at Guthrie",
-    "body": "Ag/FFA student leaders hone their team skills at the chapter officer retreat at Guthrie. Two days of planning, fellowship and attempting to cook!\n@SpringbranchFFA @SBISD",
+    "body": "Ag/FFA student leaders hone their team skills at the chapter officer retreat at Guthrie. Two days of planning, fellowship and attempting to cook! @SpringbranchFFA @SBISD",
     "programs": [
       "Agricultural Science"
     ],
@@ -17880,8 +18012,8 @@ const NEWS_DATA =
     "id": "2021-11-10-tw1458498174377660421",
     "date": "2021-11-10",
     "year": 2021,
-    "headline": "Congratulations to NJROTC Cadet CO Oscar\nMorales who was awarded a full scholarship by the\nUS Navy",
-    "body": "Congratulations to NJROTC Cadet CO Oscar\nMorales who was awarded a full scholarship by the\nUS Navy. Today his family, teachers and school\npersonnel from Memorial and Guthrie were able to\nwitness the Navy's presentation to Oscar. @SBISD\n@SB_GuthrieJROTC",
+    "headline": "Congratulations to NJROTC Cadet CO Oscar Morales who was awarded a full scholarship by the US Navy",
+    "body": "Congratulations to NJROTC Cadet CO Oscar Morales who was awarded a full scholarship by the US Navy. Today his family, teachers and school personnel from Memorial and Guthrie were able to witness the Navy's presentation to Oscar. @SBISD @SB_GuthrieJROTC",
     "programs": [
       "NJROTC"
     ],
@@ -17946,7 +18078,7 @@ const NEWS_DATA =
     "date": "2021-12-07",
     "year": 2021,
     "headline": "Include 3D Animation Game Design in your high school plan, one of many outstanding programs at Gu...",
-    "body": "Include 3D Animation Game Design in your high school plan, one of many outstanding programs at Guthrie. \n\nDiscover Guthrie",
+    "body": "Include 3D Animation Game Design in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "3D Animation"
     ],
@@ -17994,7 +18126,7 @@ const NEWS_DATA =
     "date": "2021-12-08",
     "year": 2021,
     "headline": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Gu...",
-    "body": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Agricultural Science"
     ],
@@ -18033,7 +18165,7 @@ const NEWS_DATA =
     "date": "2021-12-09",
     "year": 2021,
     "headline": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie",
-    "body": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FGLyXimXEAUeplg.jpg",
     "source": "twitter",
@@ -18066,7 +18198,7 @@ const NEWS_DATA =
     "date": "2021-12-10",
     "year": 2021,
     "headline": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie",
-    "body": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie. \nDiscover Guthrie",
+    "body": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie. Discover Guthrie",
     "programs": [
       "Criminal Justice"
     ],
@@ -18105,7 +18237,7 @@ const NEWS_DATA =
     "date": "2021-12-11",
     "year": 2021,
     "headline": "Include Cosmetology in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Cosmetology in your high school plan, one of many outstanding programs at Guthrie.\n \nDiscover Guthrie",
+    "body": "Include Cosmetology in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Cosmetology"
     ],
@@ -18129,7 +18261,7 @@ const NEWS_DATA =
     "date": "2021-12-12",
     "year": 2021,
     "headline": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FGbX1gDWUAguvst.jpg",
     "source": "twitter",
@@ -18140,7 +18272,7 @@ const NEWS_DATA =
     "date": "2021-12-13",
     "year": 2021,
     "headline": "Include Culinary Arts in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Culinary Arts in your high school plan, one of many outstanding programs at Guthrie. \n\nDiscover Guthrie",
+    "body": "Include Culinary Arts in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Culinary Arts"
     ],
@@ -18153,7 +18285,7 @@ const NEWS_DATA =
     "date": "2021-12-14",
     "year": 2021,
     "headline": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie. \nDiscoverGuthrie",
+    "body": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie. DiscoverGuthrie",
     "programs": [
       "Electrician Technician"
     ],
@@ -18166,7 +18298,7 @@ const NEWS_DATA =
     "date": "2021-12-15",
     "year": 2021,
     "headline": "Include Navy JROTC in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Navy JROTC in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Navy JROTC in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "NJROTC"
     ],
@@ -18179,7 +18311,7 @@ const NEWS_DATA =
     "date": "2021-12-16",
     "year": 2021,
     "headline": "Include Internships in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Internships in your high school plan, one of many outstanding programs at Guthrie. \n\nDiscover Guthrie",
+    "body": "Include Internships in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FGwCjCjXoAYriyT.jpg",
     "source": "twitter",
@@ -18190,7 +18322,7 @@ const NEWS_DATA =
     "date": "2021-12-17",
     "year": 2021,
     "headline": "Include Commercial Photography in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Commercial Photography in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Commercial Photography in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Commercial Photography"
     ],
@@ -18203,7 +18335,7 @@ const NEWS_DATA =
     "date": "2021-12-18",
     "year": 2021,
     "headline": "Include Filmmaking in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Filmmaking in your high school plan, one of many outstanding programs at Guthrie.\n\nDiscover Guthrie",
+    "body": "Include Filmmaking in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -18216,7 +18348,7 @@ const NEWS_DATA =
     "date": "2021-12-19",
     "year": 2021,
     "headline": "nclude Graphic Design in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "nclude Graphic Design in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "nclude Graphic Design in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Graphic Design"
     ],
@@ -18229,7 +18361,7 @@ const NEWS_DATA =
     "date": "2021-12-20",
     "year": 2021,
     "headline": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Patient Care Tech"
     ],
@@ -18253,7 +18385,7 @@ const NEWS_DATA =
     "date": "2022-01-04",
     "year": 2022,
     "headline": "If you want to know more about our programs and opportunities for SBISD high school students, ple...",
-    "body": "If you want to know more about our programs and opportunities for SBISD high school students, please visit us during our Community Tuesday Open House on 1/18/2022 from 4:30-7. That’s just 2 weeks away!\n\nDiscover Guthrie: \n\nMap:",
+    "body": "If you want to know more about our programs and opportunities for SBISD high school students, please visit us during our Community Tuesday Open House on 1/18/2022 from 4:30-7. That’s just 2 weeks away! Discover Guthrie: Map:",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FISJIy8X0AwM5EM.jpg",
     "source": "twitter",
@@ -18264,7 +18396,7 @@ const NEWS_DATA =
     "date": "2022-01-04",
     "year": 2022,
     "headline": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Patient Care Tech"
     ],
@@ -18277,7 +18409,7 @@ const NEWS_DATA =
     "date": "2022-01-05",
     "year": 2022,
     "headline": "Include Graphic Design in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Graphic Design in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Graphic Design in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Graphic Design"
     ],
@@ -18290,7 +18422,7 @@ const NEWS_DATA =
     "date": "2022-01-06",
     "year": 2022,
     "headline": "Include Filmmaking in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Filmmaking in your high school plan, one of many outstanding programs at Guthrie.\n\nDiscover Guthrie",
+    "body": "Include Filmmaking in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -18303,7 +18435,7 @@ const NEWS_DATA =
     "date": "2022-01-07",
     "year": 2022,
     "headline": "Include Commercial Photography in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Commercial Photography in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Commercial Photography in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Commercial Photography"
     ],
@@ -18316,7 +18448,7 @@ const NEWS_DATA =
     "date": "2022-01-09",
     "year": 2022,
     "headline": "Include Internships in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Internships in your high school plan, one of many outstanding programs at Guthrie. \n\nDiscover Guthrie",
+    "body": "Include Internships in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FIoB5DMWYAIuxBE.jpg",
     "source": "twitter",
@@ -18327,7 +18459,7 @@ const NEWS_DATA =
     "date": "2022-01-10",
     "year": 2022,
     "headline": "Include Navy JROTC in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Navy JROTC in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Navy JROTC in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "NJROTC"
     ],
@@ -18340,7 +18472,7 @@ const NEWS_DATA =
     "date": "2022-01-11",
     "year": 2022,
     "headline": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie. \nDiscoverGuthrie",
+    "body": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie. DiscoverGuthrie",
     "programs": [
       "Electrician Technician"
     ],
@@ -18390,7 +18522,7 @@ const NEWS_DATA =
     "date": "2022-01-12",
     "year": 2022,
     "headline": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FI7SDtfXEAEkzKC.jpg",
     "source": "twitter",
@@ -18401,7 +18533,7 @@ const NEWS_DATA =
     "date": "2022-01-12",
     "year": 2022,
     "headline": "Include Culinary Arts in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Culinary Arts in your high school plan, one of many outstanding programs at Guthrie. \n\nDiscover Guthrie",
+    "body": "Include Culinary Arts in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Culinary Arts"
     ],
@@ -18414,7 +18546,7 @@ const NEWS_DATA =
     "date": "2022-01-13",
     "year": 2022,
     "headline": "Join us at our Open House: Tue 1/18 from 4:30-7",
-    "body": "Join us at our Open House: Tue 1/18 from 4:30-7. Both Guthrie and the Ag Farm will be open for you to learn more. \n@SpringWoodsHigh @northbrookhigh @WAISSBISD\n@mhshouston @stratfordsbisd @SBISD @MemorialEagles @NorthbrookMS\n@WoodsMiddle @SOMSPanthers @SBAI_SBISD\n@SBMSBearPride",
+    "body": "Join us at our Open House: Tue 1/18 from 4:30-7. Both Guthrie and the Ag Farm will be open for you to learn more. @SpringWoodsHigh @northbrookhigh @WAISSBISD @mhshouston @stratfordsbisd @SBISD @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FI_i-FkUcAcnhMD.jpg",
     "source": "twitter",
@@ -18425,7 +18557,7 @@ const NEWS_DATA =
     "date": "2022-01-13",
     "year": 2022,
     "headline": "Include Cosmetology in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Cosmetology in your high school plan, one of many outstanding programs at Guthrie.⠀\n ⠀\nDiscover Guthrie",
+    "body": "Include Cosmetology in your high school plan, one of many outstanding programs at Guthrie.⠀ ⠀ Discover Guthrie",
     "programs": [
       "Cosmetology"
     ],
@@ -18438,7 +18570,7 @@ const NEWS_DATA =
     "date": "2022-01-15",
     "year": 2022,
     "headline": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Architectural Design"
     ],
@@ -18451,7 +18583,7 @@ const NEWS_DATA =
     "date": "2022-01-15",
     "year": 2022,
     "headline": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie",
-    "body": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie. \nDiscover Guthrie",
+    "body": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie. Discover Guthrie",
     "programs": [
       "Criminal Justice"
     ],
@@ -18464,7 +18596,7 @@ const NEWS_DATA =
     "date": "2022-01-17",
     "year": 2022,
     "headline": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Gu...",
-    "body": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Guthrie. \nDiscover Guthrie",
+    "body": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [
       "Agricultural Science"
     ],
@@ -18488,7 +18620,7 @@ const NEWS_DATA =
     "date": "2022-01-18",
     "year": 2022,
     "headline": "Include 3D Animation Game Design in your high school plan, one of many outstanding programs at Gu...",
-    "body": "Include 3D Animation Game Design in your high school plan, one of many outstanding programs at Guthrie. ⠀\nDiscover Guthrie",
+    "body": "Include 3D Animation Game Design in your high school plan, one of many outstanding programs at Guthrie. ⠀ Discover Guthrie",
     "programs": [
       "3D Animation"
     ],
@@ -18511,8 +18643,8 @@ const NEWS_DATA =
     "id": "2022-02-10-tw1491920363453886466",
     "date": "2022-02-10",
     "year": 2022,
-    "headline": "Poultry Perfection. \n@SpringbranchFFA...",
-    "body": "Poultry Perfection. \n@SpringbranchFFA",
+    "headline": "Poultry Perfection. @SpringbranchFFA...",
+    "body": "Poultry Perfection. @SpringbranchFFA",
     "programs": [
       "Agricultural Science"
     ],
@@ -18749,8 +18881,8 @@ const NEWS_DATA =
     "id": "2022-05-06-tw1522653655454961666",
     "date": "2022-05-06",
     "year": 2022,
-    "headline": "MGM Results:\n1st Place Individual: Amelia Nuzzo, Verde Marketplace \n2nd Place Individual: Ashley ...",
-    "body": "MGM Results:\n1st Place Individual: Amelia Nuzzo, Verde Marketplace \n2nd Place Individual: Ashley Jauregui, La Flor\n3rd Place Individual: Jackson Potter, WeMo Market \n2nd Place Group: Rene Cerda and Leonel Figueroa, WeMo Market\nAIA Dedication to Architecture Award: Ashley Jauregui",
+    "headline": "MGM Results: 1st Place Individual: Amelia Nuzzo, Verde Marketplace 2nd Place Individual: Ashley ...",
+    "body": "MGM Results: 1st Place Individual: Amelia Nuzzo, Verde Marketplace 2nd Place Individual: Ashley Jauregui, La Flor 3rd Place Individual: Jackson Potter, WeMo Market 2nd Place Group: Rene Cerda and Leonel Figueroa, WeMo Market AIA Dedication to Architecture Award: Ashley Jauregui",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
@@ -18761,7 +18893,7 @@ const NEWS_DATA =
     "date": "2022-05-06",
     "year": 2022,
     "headline": "Architectural Design @gc_architecture students learned last night the fruits of their labor in th...",
-    "body": "Architectural Design @gc_architecture students learned last night the fruits of their labor in the Michael G. Meyers Design Competition sponsored by AIAH. Since 2005, our students have participated and continue the tradition of finishing strong by taking 9 of the 15 awards.\n \n1",
+    "body": "Architectural Design @gc_architecture students learned last night the fruits of their labor in the Michael G. Meyers Design Competition sponsored by AIAH. Since 2005, our students have participated and continue the tradition of finishing strong by taking 9 of the 15 awards. 1",
     "programs": [
       "Architectural Design"
     ],
@@ -18944,7 +19076,7 @@ const NEWS_DATA =
     "date": "2022-11-11",
     "year": 2022,
     "headline": "Tomorrow is the day! See you from 9A-Noon @Spring Woods High School",
-    "body": "Tomorrow is the day! See you from 9A-Noon @Spring Woods High School.\n@SpringWoodsHigh\n@northbrookhigh\n@WAISSBISD\n@mhshouston\n@stratfordsbisd\n@AOCSBISD\n@LandrumMS\n@MemorialEagles\n@NorthbrookMS\n@WoodsMiddle\n@SOMSPanthers\n@SBAI_SBISD\n@SBMSBearPride\n@CSASBISD\n@SpringForestMS\n@SBISD",
+    "body": "Tomorrow is the day! See you from 9A-Noon @Spring Woods High School. @SpringWoodsHigh @northbrookhigh @WAISSBISD @mhshouston @stratfordsbisd @AOCSBISD @LandrumMS @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride @CSASBISD @SpringForestMS @SBISD",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FhT0WmbXgAk83g9.jpg",
     "source": "twitter",
@@ -19088,7 +19220,7 @@ const NEWS_DATA =
     "date": "2023-02-07",
     "year": 2023,
     "headline": "It's FFA Show and Sale week, and we will once again provide streaming for anyone unable to attend...",
-    "body": "It's FFA Show and Sale week, and we will once again provide streaming for anyone unable to attend in-person. Use this link or QR code to access the feed starting 3 PM Thursday. \n\nGood luck to all of our FFA students!",
+    "body": "It's FFA Show and Sale week, and we will once again provide streaming for anyone unable to attend in-person. Use this link or QR code to access the feed starting 3 PM Thursday. Good luck to all of our FFA students!",
     "programs": [
       "Agricultural Science"
     ],
@@ -19307,8 +19439,8 @@ const NEWS_DATA =
     "id": "2023-04-06-tw1644032114168307712",
     "date": "2023-04-06",
     "year": 2023,
-    "headline": "See you at our Open House and Student Showcase on 4/11 from 5-7 PM!\n@SBISD\n@SpringWoodsHigh\n@nort...",
-    "body": "See you at our Open House and Student Showcase on 4/11 from 5-7 PM!\n@SBISD\n@SpringWoodsHigh\n@northbrookhigh\n@WAISSBISD\n@mhshouston\n@stratfordsbisd\n@AOCSBISD\n@LandrumMS\n@MemorialEagles\n@NorthbrookMS\n@WoodsMiddle\n@SOMSPanthers\n@SBAI_SBISD\n@SBMSBearPride\n@CSASBISD\n@SpringForestMS",
+    "headline": "See you at our Open House and Student Showcase on 4/11 from 5-7 PM! @SBISD @SpringWoodsHigh @nort...",
+    "body": "See you at our Open House and Student Showcase on 4/11 from 5-7 PM! @SBISD @SpringWoodsHigh @northbrookhigh @WAISSBISD @mhshouston @stratfordsbisd @AOCSBISD @LandrumMS @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride @CSASBISD @SpringForestMS",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/FtDGfbTXsAAgg3K.jpg",
     "source": "twitter",
@@ -19515,7 +19647,7 @@ const NEWS_DATA =
     "date": "2023-09-28",
     "year": 2023,
     "headline": "Guthrie's Open House is called Community Tuesday because we welcome the entire Spring Branch comm...",
-    "body": "Guthrie's Open House is called Community Tuesday because we welcome the entire Spring Branch community in to learn more about our campus. Please join us on 10/3 from 5-7 PM. \n\nThis and the other artwork for CT were created by our Graphic Design students.",
+    "body": "Guthrie's Open House is called Community Tuesday because we welcome the entire Spring Branch community in to learn more about our campus. Please join us on 10/3 from 5-7 PM. This and the other artwork for CT were created by our Graphic Design students.",
     "programs": [
       "Graphic Design"
     ],
@@ -19997,7 +20129,7 @@ const NEWS_DATA =
     "date": "2024-04-10",
     "year": 2024,
     "headline": "Congratulations NJROTC Cadet Neftally Valencia for receiving a US Navy ROTC scholarship",
-    "body": "Congratulations NJROTC Cadet Neftally Valencia for receiving a US Navy ROTC scholarship. His is the 5th $200K award in as many years from the USN. We are very proud of his determination, focus, humility, and being a positive model for his cadet. \n@SB_GuthrieJROTC @SpringWoodsHigh",
+    "body": "Congratulations NJROTC Cadet Neftally Valencia for receiving a US Navy ROTC scholarship. His is the 5th $200K award in as many years from the USN. We are very proud of his determination, focus, humility, and being a positive model for his cadet. @SB_GuthrieJROTC @SpringWoodsHigh",
     "programs": [
       "NJROTC"
     ],
@@ -20082,7 +20214,7 @@ const NEWS_DATA =
     "date": "2024-08-12",
     "year": 2024,
     "headline": "All of us are looking forward to meeting our new and returning students this week at The Guthrie ...",
-    "body": "All of us are looking forward to meeting our new and returning students this week at The Guthrie Center. You can read more about the changes for this year here: \n#SBISDProud @SBISD",
+    "body": "All of us are looking forward to meeting our new and returning students this week at The Guthrie Center. You can read more about the changes for this year here: #SBISDProud @SBISD",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/GUylmWCXEAAI-CS.jpg",
     "source": "twitter",
@@ -20379,7 +20511,7 @@ const NEWS_DATA =
     "date": "2025-01-24",
     "year": 2025,
     "headline": "Our Community Tuesday Open House is just 4 days away",
-    "body": "Our Community Tuesday Open House is just 4 days away. We hope to see you here on Tuesday 1.28.25 from 5-7 PM. \n\nFor the latest on what is happening at Guthrie, read our current newsletter here.",
+    "body": "Our Community Tuesday Open House is just 4 days away. We hope to see you here on Tuesday 1.28.25 from 5-7 PM. For the latest on what is happening at Guthrie, read our current newsletter here.",
     "programs": [],
     "imageUrl": "https://pbs.twimg.com/media/GiEqPQ-XIAAEtmP.jpg",
     "source": "twitter",
@@ -20462,7 +20594,7 @@ const NEWS_DATA =
     "date": "2025-02-06",
     "year": 2025,
     "headline": "The 47th FFA Show &amp; Sale starts today",
-    "body": "The 47th FFA Show &amp; Sale starts today. Please come out and support our students who have worked very hard raising their animal projects. This year parking will be at New Life Church across Brittmoore, with shuttles to &amp; from the farm. \n\nLive stream link:",
+    "body": "The 47th FFA Show &amp; Sale starts today. Please come out and support our students who have worked very hard raising their animal projects. This year parking will be at New Life Church across Brittmoore, with shuttles to &amp; from the farm. Live stream link:",
     "programs": [
       "Agricultural Science"
     ],
@@ -20474,8 +20606,8 @@ const NEWS_DATA =
     "id": "2025-02-07-tw1888014635720220999",
     "date": "2025-02-07",
     "year": 2025,
-    "headline": "Lightweight swine winners include Grand\nChampion Emily Valicek and Reserve Champion Ariana Silva",
-    "body": "Lightweight swine winners include Grand\nChampion Emily Valicek and Reserve Champion Ariana Silva. More to come….",
+    "headline": "Lightweight swine winners include Grand Champion Emily Valicek and Reserve Champion Ariana Silva",
+    "body": "Lightweight swine winners include Grand Champion Emily Valicek and Reserve Champion Ariana Silva. More to come….",
     "programs": [
       "Agricultural Science"
     ],
@@ -20549,7 +20681,7 @@ const NEWS_DATA =
     "date": "2025-02-08",
     "year": 2025,
     "headline": "It’s almost FFA Auction time at 1905 Brittmoore",
-    "body": "It’s almost FFA Auction time at 1905 Brittmoore. You can still come out and cheer or register as a buyer and help out our hard working students. \n\nThe stream is live at",
+    "body": "It’s almost FFA Auction time at 1905 Brittmoore. You can still come out and cheer or register as a buyer and help out our hard working students. The stream is live at",
     "programs": [
       "Agricultural Science"
     ],
@@ -20654,7 +20786,7 @@ const NEWS_DATA =
     "date": "2025-03-03",
     "year": 2025,
     "headline": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital C...",
-    "body": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital Cinema Production, along with Churchill Chong &amp; Jose Tovar for Video Production. Congratulations to all four who are headed to State in April. @northbrookhigh\n@mhshouston @stratfordsbisd",
+    "body": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital Cinema Production, along with Churchill Chong &amp; Jose Tovar for Video Production. Congratulations to all four who are headed to State in April. @northbrookhigh @mhshouston @stratfordsbisd",
     "programs": [
       "Digital Filmmaking",
       "SkillsUSA"
@@ -20668,7 +20800,7 @@ const NEWS_DATA =
     "date": "2025-03-03",
     "year": 2025,
     "headline": "Once again, Graphic Design is heading to State for SkillsUSA",
-    "body": "Once again, Graphic Design is heading to State for SkillsUSA. Congratulations Ryne Rush (Advertising Design), Hadley Hobbs (Advertising Ad), and Lupita Perez (Digital Image Manipulation). We wish you all the best at the April event. @northbrookhigh\n@mhshouston @stratfordsbisd",
+    "body": "Once again, Graphic Design is heading to State for SkillsUSA. Congratulations Ryne Rush (Advertising Design), Hadley Hobbs (Advertising Ad), and Lupita Perez (Digital Image Manipulation). We wish you all the best at the April event. @northbrookhigh @mhshouston @stratfordsbisd",
     "programs": [
       "Graphic Design",
       "SkillsUSA"
@@ -20709,7 +20841,7 @@ const NEWS_DATA =
     "date": "2025-03-27",
     "year": 2025,
     "headline": "NJROTC Cadets are having a tour of the 147th Attack Wing at Ellington Field Joint Reserve Base today",
-    "body": "NJROTC Cadets are having a tour of the 147th Attack Wing at Ellington Field Joint Reserve Base today. They are seeing up close one of the largest and most advanced drones in the US military. \n@SB_GuthrieJROTC",
+    "body": "NJROTC Cadets are having a tour of the 147th Attack Wing at Ellington Field Joint Reserve Base today. They are seeing up close one of the largest and most advanced drones in the US military. @SB_GuthrieJROTC",
     "programs": [
       "NJROTC"
     ],
