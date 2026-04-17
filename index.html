@@ -707,6 +707,22 @@
     .otd-btn { align-self: flex-start; }
   }
 
+  /* ── LOAD MORE ── */
+  #load-more-btn {
+    background: var(--navy);
+    color: var(--white);
+    border: 1.5px solid var(--navy-mid);
+    padding: 12px 32px;
+    border-radius: 8px;
+    font-family: var(--font);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+    letter-spacing: 0.02em;
+  }
+  #load-more-btn:hover { background: var(--navy-mid); border-color: var(--gold); color: var(--gold-light); }
+
   /* ── ENTRANCE ANIMATION ── */
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(16px); }
@@ -792,6 +808,9 @@
       <div class="results-meta" id="results-meta"></div>
     </div>
     <div class="cards" id="cards"></div>
+    <div id="load-more-wrap" style="text-align:center; padding: 24px 0 48px; display:none;">
+      <button id="load-more-btn" onclick="loadMore()">Load more stories ↓</button>
+    </div>
   </main>
 </div>
 
@@ -932,52 +951,86 @@ function getFiltered() {
 }
 
 // ── RENDER ──
+const PAGE_SIZE = 50;
+let currentPage = 1;
+let currentResults = [];
+
 function render() {
-  const results = getFiltered();
+  currentPage = 1;
+  currentResults = getFiltered();
   const q = document.getElementById('search').value.trim();
 
   const count = document.getElementById('results-count');
   const meta = document.getElementById('results-meta');
-  count.textContent = results.length === NEWS_DATA.length
+  count.textContent = currentResults.length === NEWS_DATA.length
     ? 'All Entries'
-    : `${results.length} Result${results.length !== 1 ? 's' : ''}`;
-  meta.textContent = results.length > 0
-    ? `${results[0].year} – ${results[results.length-1].year}`
+    : `${currentResults.length} Result${currentResults.length !== 1 ? 's' : ''}`;
+  meta.textContent = currentResults.length > 0
+    ? `${currentResults[0].year} – ${currentResults[currentResults.length-1].year}`
     : '';
 
   const container = document.getElementById('cards');
-  if (results.length === 0) {
+  if (currentResults.length === 0) {
     container.innerHTML = `<div class="empty">
       <div class="empty-icon">📰</div>
       <h3>No entries found</h3>
       <p>Try adjusting your search or filters.</p>
     </div>`;
+    document.getElementById('load-more-wrap').style.display = 'none';
     return;
   }
 
-  container.innerHTML = results.map((e, i) => {
-    const d = new Date(e.date + 'T12:00:00');
-    const day = d.getDate();
-    const mon = d.toLocaleDateString('en-US', {month:'short'});
-    const yr = d.getFullYear();
-    const isExpanded = expandedId === e.id;
+  const page = currentResults.slice(0, PAGE_SIZE);
+  container.innerHTML = page.map((e, i) => buildCard(e, i, q)).join('');
+  updateLoadMore();
+}
 
-    const srcTag = e.source === 'twitter'
-      ? '<span class="tag source-twitter">Twitter</span>'
-      : '<span class="tag source-web">Website</span>';
+function loadMore() {
+  currentPage++;
+  const q = document.getElementById('search').value.trim();
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page = currentResults.slice(start, start + PAGE_SIZE);
+  const container = document.getElementById('cards');
+  container.insertAdjacentHTML('beforeend', page.map((e, i) => buildCard(e, start + i, q)).join(''));
+  updateLoadMore();
+}
 
-    const progTags = (e.programs||[]).map(p => `<span class="tag">${p}</span>`).join('');
+function updateLoadMore() {
+  const wrap = document.getElementById('load-more-wrap');
+  const shown = currentPage * PAGE_SIZE;
+  if (shown < currentResults.length) {
+    wrap.style.display = 'block';
+    const remaining = currentResults.length - shown;
+    document.getElementById('load-more-btn').textContent =
+      `Load more stories (${remaining} remaining) ↓`;
+  } else {
+    wrap.style.display = 'none';
+  }
+}
 
-    const hl = q ? highlight(e.headline, q) : e.headline;
-    const preview = q ? highlight(trunc(e.body, 160), q) : trunc(e.body, 160);
-    const full = q ? highlight(e.body, q) : e.body;
-    const hasPhoto = e.imageUrl && e.imageUrl !== 'null';
-    const photoFull = hasPhoto ? `<img class="card-photo" src="${e.imageUrl}" alt="${e.headline}" loading="lazy">` : '';
-    const photoThumb = hasPhoto && !isExpanded ? `<img class="card-photo-thumb" src="${e.imageUrl}" alt="" loading="lazy">` : '';
-    const cameraIcon = hasPhoto && !isExpanded ? ' 📷' : '';
-    const tweetLink = e.tweet_id ? `<a class="view-on-x" href="https://x.com/GuthrieCenter/status/${e.tweet_id}" target="_blank" rel="noopener" onclick="event.stopPropagation()">View on X ↗</a>` : '';
+function buildCard(e, i, q) {
+  const d = new Date(e.date + 'T12:00:00');
+  const day = d.getDate();
+  const mon = d.toLocaleDateString('en-US', {month:'short'});
+  const yr = d.getFullYear();
+  const isExpanded = expandedId === e.id;
 
-    return `<button class="card${isExpanded?' expanded':''}" style="animation-delay:${Math.min(i*0.03,0.5)}s"
+  const srcTag = e.source === 'twitter'
+    ? '<span class="tag source-twitter">Twitter</span>'
+    : '<span class="tag source-web">Website</span>';
+
+  const progTags = (e.programs||[]).map(p => `<span class="tag">${p}</span>`).join('');
+
+  const hl = q ? highlight(e.headline, q) : e.headline;
+  const preview = q ? highlight(trunc(e.body, 160), q) : trunc(e.body, 160);
+  const full = q ? highlight(e.body, q) : e.body;
+  const hasPhoto = e.imageUrl && e.imageUrl !== 'null';
+  const photoFull = hasPhoto ? `<img class="card-photo" src="${e.imageUrl}" alt="${e.headline}" loading="lazy">` : '';
+  const photoThumb = hasPhoto && !isExpanded ? `<img class="card-photo-thumb" src="${e.imageUrl}" alt="" loading="lazy">` : '';
+  const cameraIcon = hasPhoto && !isExpanded ? ' 📷' : '';
+  const tweetLink = e.tweet_id ? `<a class="view-on-x" href="https://x.com/GuthrieCenter/status/${e.tweet_id}" target="_blank" rel="noopener" onclick="event.stopPropagation()">View on X ↗</a>` : '';
+
+  return `<button class="card${isExpanded?' expanded':''}" style="animation-delay:${Math.min(i*0.03,0.5)}s"
       onclick="toggleCard('${e.id}')">
       <div class="card-date-col">
         <span class="card-day">${day}</span>
@@ -992,12 +1045,16 @@ function render() {
         <div class="card-expand-hint">${isExpanded ? '↑ Collapse' : '↓ Read more' + cameraIcon}</div>
       </div>
     </button>`;
-  }).join('');
 }
 
 function toggleCard(id) {
   expandedId = expandedId === id ? null : id;
-  render();
+  const q = document.getElementById('search').value.trim();
+  // Just re-render the visible cards in place
+  const container = document.getElementById('cards');
+  const shown = currentPage * PAGE_SIZE;
+  const page = currentResults.slice(0, Math.min(shown, currentResults.length));
+  container.innerHTML = page.map((e, i) => buildCard(e, i, q)).join('');
 }
 function trunc(str, n) {
   if (!str) return '';
