@@ -695,7 +695,7 @@
       <div class="otd-headline" id="otd-headline">Loading…</div>
       <div class="otd-body" id="otd-body"></div>
     </div>
-    <button class="otd-btn" onclick="randomStory()">Another story ↻</button>
+    <button class="otd-btn" id="otd-btn">Another story ↻</button>
   </div>
 </div>
 
@@ -964,7 +964,12 @@ function highlight(str, q) {
 }
 
 
-randomStory();
+// Wire up button and kick off on load
+document.addEventListener('DOMContentLoaded', function() {
+  init();
+  document.getElementById('otd-btn').addEventListener('click', randomStory);
+  randomStory();
+});
 </script>
 </body>
 </html>
