@@ -493,6 +493,23 @@
     font-family: inherit;
   }
   .view-on-x:hover { background: #d0eaf8; }
+  .share-btn {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 8px;
+    font-size: 0.82em;
+    color: #2d6a2d;
+    text-decoration: none;
+    border: 1px solid #b8d8b8;
+    background: #eef6ee;
+    padding: 3px 9px;
+    border-radius: 4px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .share-btn:hover { background: #d8efd8; }
+  .share-btn.copied { background: #d8efd8; color: #1a4a1a; }
 
   .card-headline {
     font-family: var(--font);
@@ -1029,6 +1046,7 @@ function buildCard(e, i, q) {
   const photoThumb = hasPhoto && !isExpanded ? `<img class="card-photo-thumb" src="${e.imageUrl}" alt="" loading="lazy">` : '';
   const cameraIcon = hasPhoto && !isExpanded ? ' 📷' : '';
   const tweetLink = e.tweet_id ? `<a class="view-on-x" href="https://x.com/GuthrieCenter/status/${e.tweet_id}" target="_blank" rel="noopener" onclick="event.stopPropagation()">View on X ↗</a>` : '';
+  const shareButton = isExpanded ? `<button class="share-btn" id="share-${e.id}" onclick="shareCard('${e.id}', '${e.headline.replace(/'/g,"\\'")}', event)">⬆ Share</button>` : '';
 
   return `<button class="card${isExpanded?' expanded':''}" style="animation-delay:${Math.min(i*0.03,0.5)}s"
       onclick="toggleCard('${e.id}')">
@@ -1041,10 +1059,30 @@ function buildCard(e, i, q) {
         ${photoThumb}
         <div class="card-headline">${hl}</div>
         <div class="card-preview">${preview}</div>
-        <div class="card-full">${photoFull}${full}${tweetLink}</div>
+        <div class="card-full">${photoFull}${full}${tweetLink}${shareButton}</div>
         <div class="card-expand-hint">${isExpanded ? '↑ Collapse' : '↓ Read more' + cameraIcon}</div>
       </div>
     </button>`;
+}
+
+function shareCard(id, headline, event) {
+  event.stopPropagation();
+  const url = `${location.origin}${location.pathname}#${id}`;
+  if (navigator.share) {
+    navigator.share({ title: headline, text: headline, url: url });
+  } else {
+    navigator.clipboard.writeText(url).then(() => {
+      const btn = document.getElementById('share-' + id);
+      if (btn) {
+        btn.textContent = '✓ Link copied!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = '⬆ Share';
+          btn.classList.remove('copied');
+        }, 2000);
+      }
+    });
+  }
 }
 
 function toggleCard(id) {
