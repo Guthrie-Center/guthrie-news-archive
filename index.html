@@ -406,6 +406,19 @@
   }
   .tag.source-twitter { background: #e8f4fd; color: #1a6fa8; border-color: #b8dcf0; }
   .tag.source-web { background: #eef6ee; color: #2d6a2d; border-color: #b8d8b8; }
+  .view-on-x {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.82em;
+    color: #1a6fa8;
+    text-decoration: none;
+    border: 1px solid #b8dcf0;
+    background: #e8f4fd;
+    padding: 3px 9px;
+    border-radius: 4px;
+    font-family: inherit;
+  }
+  .view-on-x:hover { background: #d0eaf8; }
 
   .card-headline {
     font-family: var(--font);
@@ -763,6 +776,7 @@ function render() {
     const photoFull = hasPhoto ? `<img class="card-photo" src="${e.imageUrl}" alt="${e.headline}" loading="lazy">` : '';
     const photoThumb = hasPhoto && !isExpanded ? `<img class="card-photo-thumb" src="${e.imageUrl}" alt="" loading="lazy">` : '';
     const cameraIcon = hasPhoto && !isExpanded ? ' 📷' : '';
+    const tweetLink = e.tweet_id ? `<a class="view-on-x" href="https://x.com/GuthrieCenter/status/${e.tweet_id}" target="_blank" rel="noopener" onclick="event.stopPropagation()">View on X ↗</a>` : '';
 
     return `<button class="card${isExpanded?' expanded':''}" style="animation-delay:${Math.min(i*0.03,0.5)}s"
       onclick="toggleCard('${e.id}')">
@@ -775,7 +789,7 @@ function render() {
         ${photoThumb}
         <div class="card-headline">${hl}</div>
         <div class="card-preview">${preview}</div>
-        <div class="card-full">${photoFull}${full}</div>
+        <div class="card-full">${photoFull}${full}${tweetLink}</div>
         <div class="card-expand-hint">${isExpanded ? '↑ Collapse' : '↓ Read more' + cameraIcon}</div>
       </div>
     </button>`;
