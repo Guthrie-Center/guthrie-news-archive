@@ -1142,6 +1142,29 @@ function randomStory() {
 init();
 document.getElementById('otd-btn').addEventListener('click', randomStory);
 randomStory();
+
+// ── DEEP LINK: open card if #id in URL ──
+if (location.hash) {
+  const targetId = location.hash.slice(1);
+  const entry = NEWS_DATA.find(e => e.id === targetId);
+  if (entry) {
+    expandedId = targetId;
+    // Find the index in filtered results and load enough pages
+    const idx = currentResults.findIndex(e => e.id === targetId);
+    if (idx >= 0) {
+      currentPage = Math.ceil((idx + 1) / PAGE_SIZE);
+      const q = document.getElementById('search').value.trim();
+      const shown = currentPage * PAGE_SIZE;
+      const container = document.getElementById('cards');
+      container.innerHTML = currentResults.slice(0, shown).map((e, i) => buildCard(e, i, q)).join('');
+      updateLoadMore();
+    }
+    setTimeout(() => {
+      const el = document.querySelector(`[onclick="toggleCard('${CSS.escape(targetId)}')"]`);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 300);
+  }
+}
 setInterval(randomStory, 15000);
 </script>
 </body>
