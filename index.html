@@ -964,12 +964,10 @@ function highlight(str, q) {
 }
 
 
-// Wire up button and kick off on load
-document.addEventListener('DOMContentLoaded', function() {
-  init();
-  document.getElementById('otd-btn').addEventListener('click', randomStory);
-  randomStory();
-});
+// Wire up button and kick off
+init();
+document.getElementById('otd-btn').addEventListener('click', randomStory);
+randomStory();
 </script>
 </body>
 </html>
