@@ -620,7 +620,8 @@
     text-align: center;
     line-height: 1.3;
   }
-  .otd-content { color: var(--white); }
+  .otd-content { color: var(--white); transition: opacity 0.4s ease; }
+  .otd-content.fading { opacity: 0; }
   .otd-date {
     font-size: 11px;
     color: var(--gold-light);
@@ -976,15 +977,21 @@ function randomStory() {
   const e = pool[idx];
   const d = new Date(e.date + 'T12:00:00');
   const dateStr = MONTHS[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
-  document.getElementById('otd-date').textContent = dateStr;
-  document.getElementById('otd-headline').textContent = e.headline;
-  document.getElementById('otd-body').textContent = e.body || '';
+  const el = document.getElementById('otd-date').closest('.otd-content');
+  el.classList.add('fading');
+  setTimeout(() => {
+    document.getElementById('otd-date').textContent = dateStr;
+    document.getElementById('otd-headline').textContent = e.headline;
+    document.getElementById('otd-body').textContent = e.body || '';
+    el.classList.remove('fading');
+  }, 400);
 }
 
 // Wire up button and kick off
 init();
 document.getElementById('otd-btn').addEventListener('click', randomStory);
 randomStory();
+setInterval(randomStory, 15000);
 </script>
 </body>
 </html>
