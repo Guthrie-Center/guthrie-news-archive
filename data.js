@@ -1,5 +1,5 @@
 // The Guthrie Center News Archive — data.js
-// 1802 total entries: 2001–2026
+// 1826 total entries: 2001–2026
 // Sources: website (2001-2010), WordPress (2003-2022), Twitter (2010-2026)
 
 const NEWS_DATA = 
@@ -158,7 +158,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-04-17-film-premiere.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-04-17-film-premiere.jpg",
     "source": "web"
   },
   {
@@ -204,7 +204,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-04-24-ruben-gonzales.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-04-24-ruben-gonzales.jpg",
     "source": "web"
   },
   {
@@ -302,7 +302,7 @@ const NEWS_DATA =
       "Digital Filmmaking",
       "Networking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-05-12-axel-murillo.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-12-axel-murillo.jpg",
     "source": "web"
   },
   {
@@ -314,7 +314,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-05-13-josh-franer.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-13-josh-franer.jpg",
     "source": "web"
   },
   {
@@ -326,7 +326,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/early/2002-05-15-cad-lunch.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-15-cad-lunch.jpg",
     "source": "web"
   },
   {
@@ -497,6 +497,18 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2003-09-10",
+    "date": "2003-09-10",
+    "year": 2003,
+    "headline": "Hotel Management Students Show Remarkable Transformation",
+    "body": "If you were ever in doubt of the quality of programs offered through our school and the dramatic change that comes about as students progress throughout the year, check out the metamorphosis of our Hotel Management program students.",
+    "programs": [
+      "Hotel Management"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-09-10-hotel-management-students.jpg"
+  },
+  {
     "id": "2003-09-11-4254",
     "date": "2003-09-11",
     "year": 2003,
@@ -509,6 +521,19 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2003-09-11b",
+    "date": "2003-09-11",
+    "year": 2003,
+    "headline": "NJROTC Color Guard Leads 9/11 Remembrance Ceremony",
+    "body": "As students remember the sacrifice and heroism of so many Americans on that fateful day two years ago, our NJROTC Color Guard and Cadets held the flag ceremony. Photos courtesy of Commercial Photography students and S. Greiner.",
+    "programs": [
+      "NJROTC",
+      "Commercial Photography"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-09-11-njrotc-911-flagceremony.jpg"
+  },
+  {
     "id": "2003-09-19-4252",
     "date": "2003-09-19",
     "year": 2003,
@@ -517,6 +542,131 @@ const NEWS_DATA =
     "programs": [],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2003-10-02",
+    "date": "2003-10-02",
+    "year": 2003,
+    "headline": "Criminal Justice Classes Practice Arrest Techniques Outdoors",
+    "body": "Criminal Justice classes enjoyed the outdoors while role playing arrest techniques used by law enforcement officers. Many of Mr. Steffenauer's students are planning to continue their criminal justice training after high school.",
+    "programs": [
+      "Criminal Justice"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-02-criminal-justice-roleplay.jpg"
+  },
+  {
+    "id": "2003-10-04",
+    "date": "2003-10-04",
+    "year": 2003,
+    "headline": "Guthrie Center Float Joins Spring Branch MultiCultural Parade",
+    "body": "Students and faculty met at the Ag Science center, hitched up the float and made the trek to the Spring Branch Super Neighborhood MultiCultural Parade and Festival. The school was #14 in a field of 81 participants. Photos taken by Commercial Photography and Digital Filmmaking students.",
+    "programs": [
+      "Agricultural Science",
+      "Commercial Photography",
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-04-multicultural-parade-float.jpg"
+  },
+  {
+    "id": "2003-10-18",
+    "date": "2003-10-18",
+    "year": 2003,
+    "headline": "NJROTC Cadets Meet Secretary of the Navy at Rice Stadium",
+    "body": "At Rice Stadium, NJROTC cadets and Master Chief Heuser attended the Rice vs Naval Academy football game. Secretary of the Navy Gordon R. England and Superintendent of the Naval Academy Vice Admiral Rodney P. Rempt noticed the cadets and invited them down for a photo.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-18-njrotc-secretary-navy.jpg"
+  },
+  {
+    "id": "2003-10-23",
+    "date": "2003-10-23",
+    "year": 2003,
+    "headline": "Auto Technology Students See Chrysler Prowler from HCC CAP Program",
+    "body": "The Automotive Technology program had the pleasure of seeing one of the Shop Cars from Houston Community College's Chrysler Apprentice Program. Mike Cleveland brought the Prowler to show what he uses to train his students for a career with Chrysler.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-23-auto-tech-prowler.jpg"
+  },
+  {
+    "id": "2003-11-04",
+    "date": "2003-11-04",
+    "year": 2003,
+    "headline": "Digital Filmmaking and Photography Host Apple School Night at Galleria",
+    "body": "Digital Filmmaking and Commercial Photography, in conjunction with Apple Computers, held an Apple School Night at the Galleria store. About 75 guests viewed the outstanding results of students' work.",
+    "programs": [
+      "Digital Filmmaking",
+      "Commercial Photography"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-04-apple-school-night.jpg"
+  },
+  {
+    "id": "2003-11-11",
+    "date": "2003-11-11",
+    "year": 2003,
+    "headline": "FFA Chapter Meeting and Alumni Association Plan Crafts Show",
+    "body": "Dozens of FFA students conducted their regular chapter meeting while the FFA Alumni Association met to plan a Crafts Show at the Ag Science Center. Chapter Vice President Sarah Denum (NHS) and 2nd VP Kyle Dickens (SHS) observed the proceedings.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-11-ffa-chapter-meeting.jpg"
+  },
+  {
+    "id": "2003-11-21",
+    "date": "2003-11-21",
+    "year": 2003,
+    "headline": "CultureShapers 2003: Guthrie Students Win Big Across Multiple Categories",
+    "body": "At the Wyndham Greenspoint Hotel, 650 people gathered for the CultureShapers Art Contest. William Robin (Architectural CAD) won 1st place and $5,000 for his film. Digital Film student Laura Hutchinson was 2nd ($2,500). 3D Animation student Greg Bahm took 4th place ($1,000) and also won 1st place in Web Design ($5,000).",
+    "programs": [
+      "Digital Filmmaking",
+      "3D Animation",
+      "Architectural Design"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-21-cultureshapers-winners.jpg"
+  },
+  {
+    "id": "2003-12-06",
+    "date": "2003-12-06",
+    "year": 2003,
+    "headline": "39 NJROTC Cadets Compete at Willowridge Marine Corps Drill Meet",
+    "body": "On a cool and windy day at Willowridge High School, 39 NJROTC cadets competed against programs from around the region in physical fitness, unarmed drill, and color guard in this Marine Corps-run event.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-06-njrotc-willowridge-meet.jpg"
+  },
+  {
+    "id": "2003-12-11",
+    "date": "2003-12-11",
+    "year": 2003,
+    "headline": "Chef Training Students Serve Edible Final Exam at Art Institute",
+    "body": "Final exams were not dull for Chef Training. Students demonstrated what they learned with a lunch feast including salad with vinaigrette dressing, grilled chicken with vegetables, and chocolate dessert, served to family and district representatives including Dr. Katz.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-11-chef-training-final.jpg"
+  },
+  {
+    "id": "2003-12-13",
+    "date": "2003-12-13",
+    "year": 2003,
+    "headline": "Auto Tech Teacher's ZR-1 Vette to Be Featured in Corvette Magazine",
+    "body": "Auto Tech teacher Mr. Clark's ZR-1 Corvette will be featured in a future issue of Corvette Magazine. The photo shows the car and one of his classes studying racing suspension in Auto Tech 1.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-13-auto-tech-corvette.jpg"
   },
   {
     "id": "2004-01-07-4068",
@@ -532,6 +682,154 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
+  },
+  {
+    "id": "2004-01-16",
+    "date": "2004-01-16",
+    "year": 2004,
+    "headline": "Film Students and Teachers Travel to Sundance Film Festival",
+    "body": "A group of Film students, teachers and Joe Kolenda traveled to Park City, Utah for the Sundance Film Festival. Only a handful of high school and college student groups were invited to take part in this program.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-01-16-sundance-film-festival.jpg"
+  },
+  {
+    "id": "2004-01-28",
+    "date": "2004-01-28",
+    "year": 2004,
+    "headline": "NJROTC Annual Military Inspection — Commander Mike Hale Reviews Cadets",
+    "body": "It is inspection day for NJROTC students. Commander Mike Hale, United States Navy Area 10 Manager, takes time to review each and every cadet. Drill activities commenced at 10 AM.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-01-28-njrotc-annual-inspection.jpg"
+  },
+  {
+    "id": "2004-03-05",
+    "date": "2004-03-05",
+    "year": 2004,
+    "headline": "Hotel Management Interns Tour New Hilton of Americas Downtown",
+    "body": "Hotel/Restaurant Management and Travel & Tourism interns toured the newly constructed four-diamond Hilton of Americas in downtown Houston. Interns were in awe with the luxurious interior design and state-of-the-art facilities. Photo taken from the 24th floor pool and patio area.",
+    "programs": [
+      "Hotel Management",
+      "Internships"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-03-05-hotel-hilton-tour.jpg"
+  },
+  {
+    "id": "2004-04-05",
+    "date": "2004-04-05",
+    "year": 2004,
+    "headline": "Criminal Justice Explorers Win 2nd Place at Colorado River Shoot Out",
+    "body": "Criminal Justice Explorers Dung Tran, Krista Zendejas, Phu Nguyen, Jessica Smith, and Gilda Alvarenga won Second Place in Felony Car Stop and Building Search at the First Annual Colorado River Shoot Out in Smithville, Texas.",
+    "programs": [
+      "Criminal Justice"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-05-cj-explorers-colorado.jpg"
+  },
+  {
+    "id": "2004-04-12",
+    "date": "2004-04-12",
+    "year": 2004,
+    "headline": "Mock Courtroom Installed in Criminal Justice Classroom",
+    "body": "Installation began on a mock courtroom layout in Danny Steffenauer's Criminal Justice class. Architectural CAD students drew up plans and district craftsmen Brian Ray, Carl Freiermuht, and foreman Dennis Mattiza built the magnificent functional showpiece.",
+    "programs": [
+      "Criminal Justice",
+      "Architectural Design"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-12-cj-mock-courtroom.jpg"
+  },
+  {
+    "id": "2004-04-14",
+    "date": "2004-04-14",
+    "year": 2004,
+    "headline": "Great Clips Competition Showcases Cosmetology Skills",
+    "body": "Cosmetology students demonstrated their salon skills in haircutting, blow-drying, iron curling, and manicuring for four Great Clips salon stylists. Awards: Cosmetology II 1st place Mayra Garcia; Cosmetology I 1st place Gloria Roman and Shatoria Williams.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-14-cosmetology-competition.jpg"
+  },
+  {
+    "id": "2004-04-15",
+    "date": "2004-04-15",
+    "year": 2004,
+    "headline": "Chef Training Students Compete at Houston Area Culinary Competition",
+    "body": "Chef Training students participated in the Houston Area Hospitality and Culinary Competition at the Campbell Center in Aldine. Blake Hoopingarner won 2nd place in plate decorating. Students also competed in Garde Manger vegetable and fruit carving.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-15-culinary-competition.jpg"
+  },
+  {
+    "id": "2004-04-16",
+    "date": "2004-04-16",
+    "year": 2004,
+    "headline": "U.S. Army Racing Team Brings Top Fuel Dragster to Campus",
+    "body": "The U.S. Army's Racing team of Tony Schumacher, Antron Brown, and Angelle Savoie displayed their race vehicles including a top fuel dragster at The Guthrie Center for 300 students. The dragster tops out at 333 mph in the quarter mile.",
+    "programs": [
+      "Automotive Technology",
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-16-army-dragster-visit.jpg"
+  },
+  {
+    "id": "2004-04-21",
+    "date": "2004-04-21",
+    "year": 2004,
+    "headline": "First Annual Spring Showcase Draws 100+ Gulf Coast Visitors",
+    "body": "Over one hundred guests from around the Gulf Coast area visited The Guthrie Center during the First Annual Spring Showcase. Visitors saw classrooms in action, student demonstrations, and portfolio exhibits. Culinary students provided finger foods and Ag Science students created beautiful floral designs.",
+    "programs": [
+      "Culinary Arts",
+      "Agricultural Science",
+      "Internships"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-21-spring-showcase.jpg"
+  },
+  {
+    "id": "2004-04-27",
+    "date": "2004-04-27",
+    "year": 2004,
+    "headline": "Culinary and Hotel Teachers Meet Wolfgang Puck at Carillion Center Opening",
+    "body": "Culinary teacher Wendy Bousley and Hotel Management teacher Lorraine Hamilton attended the grand opening of Wolfgang Puck Express in Carillion Center and got to meet and talk with the renowned chef.",
+    "programs": [
+      "Culinary Arts",
+      "Hotel Management"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-27-wolfgang-puck-teachers.jpg"
+  },
+  {
+    "id": "2004-05-12",
+    "date": "2004-05-12",
+    "year": 2004,
+    "headline": "Monica Mendoza Named Distinguished Cadet, Awarded Meritorious Achievement Ribbon",
+    "body": "NJROTC Cadet Monica Mendoza was named one of four Distinguished Cadets and awarded the Meritorious Achievement Ribbon by Area 10 Manager Commander Mike Hale.",
+    "programs": [
+      "NJROTC"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-05-12-monica-mendoza-njrotc.jpg"
+  },
+  {
+    "id": "2004-05-13b",
+    "date": "2004-05-13",
+    "year": 2004,
+    "headline": "CATE Awards Reception Celebrates Student Scholarship Winners",
+    "body": "A full Board Room at the Administration Building watched as scholarship recipients from CATE programs around the district were celebrated. A dozen students split about $13,000 and many more were honored for their accomplishments.",
+    "programs": [],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-05-13-cate-awards-ceremony.jpg"
   },
   {
     "id": "2004-08-12-4249",
