@@ -964,6 +964,23 @@ function highlight(str, q) {
 }
 
 
+// ── FROM THE ARCHIVE ──
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+let lastOtdIdx = -1;
+function randomStory() {
+  const withPhoto = NEWS_DATA.filter(e => e.imageUrl);
+  const pool = withPhoto.length > 20 ? withPhoto : NEWS_DATA;
+  let idx;
+  do { idx = Math.floor(Math.random() * pool.length); } while (idx === lastOtdIdx && pool.length > 1);
+  lastOtdIdx = idx;
+  const e = pool[idx];
+  const d = new Date(e.date + 'T12:00:00');
+  const dateStr = MONTHS[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+  document.getElementById('otd-date').textContent = dateStr;
+  document.getElementById('otd-headline').textContent = e.headline;
+  document.getElementById('otd-body').textContent = e.body || '';
+}
+
 // Wire up button and kick off
 init();
 document.getElementById('otd-btn').addEventListener('click', randomStory);
