@@ -3,9 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Guthrie CTE Center — News Archive</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<title>The Guthrie Center — News Archive</title>
 <style>
   :root {
     --navy: #0d1f3c;
@@ -19,6 +17,7 @@
     --white: #ffffff;
     --card-bg: #ffffff;
     --tag-bg: #eef2f7;
+    --font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -26,8 +25,8 @@
   body {
     background: var(--cream);
     color: var(--ink);
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 300;
+    font-family: var(--font);
+    font-weight: 400;
     line-height: 1.7;
     min-height: 100vh;
   }
@@ -94,7 +93,7 @@
   .masthead h1 {
     grid-column: 2;
     grid-row: 2;
-    font-family: 'Playfair Display', serif;
+    font-family: var(--font);
     font-size: clamp(1.9rem, 4vw, 3.2rem);
     font-weight: 900;
     line-height: 1.05;
@@ -201,7 +200,7 @@
     padding: 10px 16px 10px 42px;
     border: 1.5px solid var(--rule);
     border-radius: 8px;
-    font-family: 'DM Sans', sans-serif;
+    font-family: var(--font);
     font-size: 14px;
     font-weight: 300;
     background: var(--cream);
@@ -216,7 +215,7 @@
     padding: 10px 14px;
     border: 1.5px solid var(--rule);
     border-radius: 8px;
-    font-family: 'DM Sans', sans-serif;
+    font-family: var(--font);
     font-size: 13px;
     font-weight: 400;
     background: var(--cream);
@@ -237,7 +236,7 @@
     background: transparent;
     border: 1.5px solid var(--rule);
     border-radius: 8px;
-    font-family: 'DM Sans', sans-serif;
+    font-family: var(--font);
     font-size: 13px;
     color: var(--muted);
     cursor: pointer;
@@ -287,7 +286,7 @@
     text-align: left;
     padding: 5px 10px;
     border-radius: 6px;
-    font-family: 'DM Sans', sans-serif;
+    font-family: var(--font);
     font-size: 13px;
     color: var(--ink);
     cursor: pointer;
@@ -324,7 +323,7 @@
     gap: 8px;
   }
   .results-count {
-    font-family: 'Playfair Display', serif;
+    font-family: var(--font);
     font-size: 1.4rem;
     font-weight: 700;
     color: var(--navy);
@@ -370,7 +369,7 @@
     padding-top: 3px;
   }
   .card-day {
-    font-family: 'Playfair Display', serif;
+    font-family: var(--font);
     font-size: 2rem;
     font-weight: 900;
     color: var(--navy);
@@ -409,7 +408,7 @@
   .tag.source-web { background: #eef6ee; color: #2d6a2d; border-color: #b8d8b8; }
 
   .card-headline {
-    font-family: 'Playfair Display', serif;
+    font-family: var(--font);
     font-size: 1.1rem;
     font-weight: 700;
     color: var(--navy);
@@ -439,17 +438,18 @@
 
   .card-photo {
     width: 100%;
-    max-height: 360px;
-    object-fit: cover;
+    max-height: 480px;
+    object-fit: contain;
     border-radius: 8px;
     margin-bottom: 14px;
     display: block;
-    background: var(--rule);
+    background: #f0ede6;
   }
   .card-photo-thumb {
     width: 64px;
     height: 48px;
-    object-fit: cover;
+    object-fit: contain;
+    background: #f0ede6;
     border-radius: 4px;
     float: right;
     margin-left: 12px;
@@ -484,7 +484,7 @@
   }
   .empty-icon { font-size: 3rem; margin-bottom: 16px; }
   .empty h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: var(--font);
     font-size: 1.4rem;
     color: var(--navy);
     margin-bottom: 8px;
@@ -526,7 +526,7 @@
     <div class="masthead-logo-wrap">
       <img class="masthead-logo" src="GuthrieAmbigram1000white.png" alt="The Guthrie Center">
     </div>
-    <p class="masthead-eyebrow">Harold D. Guthrie CTE Center · Spring Branch ISD · Houston, Texas</p>
+    <p class="masthead-eyebrow">The Guthrie Center · Spring Branch ISD · Houston, Texas</p>
     <h1>News <span>Archive</span></h1>
     <p class="masthead-sub">A chronicle of student achievement, program milestones, and campus life</p>
     <hr class="masthead-rule">
@@ -584,7 +584,7 @@
 </div>
 
 <footer>
-  <strong>Guthrie CTE Center News Archive</strong> · Spring Branch ISD · Houston, Texas
+  <strong>The Guthrie Center News Archive</strong> · Spring Branch ISD · Houston, Texas
 </footer>
 
 <script src="data.js"></script>
