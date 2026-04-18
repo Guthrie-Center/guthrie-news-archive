@@ -712,7 +712,14 @@
     transition: all 0.2s;
     flex-shrink: 0;
   }
-  .otd-btn:hover { background: rgba(201,168,76,0.15); border-color: var(--gold); }
+  .otd-read-more {
+    font-size: 12px;
+    color: var(--gold);
+    margin-top: 6px;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+  }
+  .otd-body-row:hover .otd-read-more { color: var(--gold-light); }
   @media (max-width: 600px) {
     .otd-inner { padding: 20px; }
     .otd-thumb { width: 80px; height: 62px; }
@@ -798,12 +805,13 @@
       <span class="otd-title">⚡ Random Guthrie History</span>
       <button class="otd-btn" id="otd-btn">Another story ↻</button>
     </div>
-    <div class="otd-body-row">
+    <div class="otd-body-row" onclick="goToOtdStory()" style="cursor:pointer;" title="Click to read full story">
       <img class="otd-thumb" id="otd-thumb" src="" alt="">
       <div class="otd-content">
         <div class="otd-date" id="otd-date">—</div>
         <div class="otd-headline" id="otd-headline">Loading…</div>
         <div class="otd-body" id="otd-body"></div>
+        <div class="otd-read-more">Read full story →</div>
       </div>
     </div>
   </div>
@@ -1141,6 +1149,33 @@ function highlight(str, q) {
 // ── FROM THE ARCHIVE ──
 const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 let lastOtdIdx = -1;
+let currentOtdId = null;
+
+function goToOtdStory() {
+  if (!currentOtdId) return;
+  // Find index in current results
+  const idx = currentResults.findIndex(e => e.id === currentOtdId);
+  if (idx >= 0) {
+    // Load enough pages to show it
+    const needed = Math.ceil((idx + 1) / PAGE_SIZE);
+    if (needed > currentPage) {
+      currentPage = needed;
+      const q = document.getElementById('search').value.trim();
+      const container = document.getElementById('cards');
+      container.innerHTML = currentResults.slice(0, currentPage * PAGE_SIZE).map((e, i) => buildCard(e, i, q)).join('');
+      updateLoadMore();
+    }
+    expandedId = currentOtdId;
+    const q = document.getElementById('search').value.trim();
+    const container = document.getElementById('cards');
+    container.innerHTML = currentResults.slice(0, currentPage * PAGE_SIZE).map((e, i) => buildCard(e, i, q)).join('');
+  }
+  setTimeout(() => {
+    const el = document.querySelector(`[onclick="toggleCard('${CSS.escape(currentOtdId)}')"]`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }, 100);
+}
+
 function randomStory() {
   const withPhoto = NEWS_DATA.filter(e => e.imageUrl);
   const pool = withPhoto.length > 20 ? withPhoto : NEWS_DATA;
@@ -1148,6 +1183,7 @@ function randomStory() {
   do { idx = Math.floor(Math.random() * pool.length); } while (idx === lastOtdIdx && pool.length > 1);
   lastOtdIdx = idx;
   const e = pool[idx];
+  currentOtdId = e.id;
   const d = new Date(e.date + 'T12:00:00');
   const dateStr = MONTHS[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
   const el = document.getElementById('otd-date').closest('.otd-content');
