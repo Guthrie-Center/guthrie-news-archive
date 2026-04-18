@@ -778,6 +778,204 @@
   }
   #load-more-btn:hover { background: var(--navy-mid); border-color: var(--gold); color: var(--gold-light); }
 
+
+  /* ── ABOUT STRIP ── */
+  .about-strip {
+    background: #ffffff;
+    border-bottom: 1px solid #e8e2d8;
+  }
+  .about-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 32px;
+  }
+  .about-stats {
+    display: flex;
+    gap: 0;
+    margin-bottom: 36px;
+    border: 1.5px solid #e0d8cc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .about-stat {
+    flex: 1;
+    text-align: center;
+    padding: 20px 16px;
+    border-right: 1.5px solid #e0d8cc;
+  }
+  .about-stat:last-child { border-right: none; }
+  .about-stat-number {
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 900;
+    color: var(--navy);
+    line-height: 1;
+    margin-bottom: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+  .about-stat-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .about-text {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+  }
+  .about-vision {
+    border-left: 4px solid var(--gold);
+    padding-left: 20px;
+  }
+  .about-vision h2 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .about-vision p {
+    font-size: 15px;
+    color: var(--navy);
+    line-height: 1.7;
+    font-weight: 400;
+  }
+  .about-desc p {
+    font-size: 15px;
+    color: #444;
+    line-height: 1.75;
+    margin-bottom: 12px;
+  }
+  .about-desc p:last-child { margin-bottom: 0; }
+  .about-desc strong { color: var(--navy); }
+  @media (max-width: 720px) {
+    .about-inner { padding: 32px 20px; }
+    .about-text { grid-template-columns: 1fr; gap: 24px; }
+    .about-stats { flex-wrap: wrap; }
+    .about-stat { min-width: 50%; border-bottom: 1.5px solid #e0d8cc; }
+    .about-stat:nth-child(even) { border-right: none; }
+    .about-stat:last-child { border-bottom: none; }
+  }
+
+  /* ── PROGRAM GRID ── */
+  .programs-strip {
+    background: #f8f8f8;
+    border-bottom: 3px solid var(--navy);
+  }
+  .programs-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 36px 32px;
+  }
+  .programs-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .programs-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--navy);
+    font-weight: 700;
+  }
+  .programs-sub {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .programs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 10px;
+  }
+  .prog-tile {
+    background: white;
+    border: 1.5px solid #e8e2d8;
+    border-left: 5px solid var(--tile-color, #999);
+    border-radius: 6px;
+    padding: 12px 14px;
+    cursor: pointer;
+    transition: all 0.18s;
+    text-align: left;
+  }
+  .prog-tile:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+    border-color: var(--tile-color, #999);
+  }
+  .prog-tile.active {
+    background: var(--tile-color, #999);
+    border-color: var(--tile-color, #999);
+  }
+  .prog-tile.active .prog-name { color: white; }
+  .prog-tile.active .prog-cluster { color: rgba(255,255,255,0.8); }
+  .prog-name {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--navy);
+    line-height: 1.3;
+    margin-bottom: 2px;
+  }
+  .prog-cluster {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .programs-coming {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px dashed #ddd;
+  }
+  .programs-coming-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--muted);
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .programs-coming-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .prog-coming-tile {
+    background: white;
+    border: 1.5px dashed #c0b090;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #8a7040;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .prog-coming-badge {
+    font-size: 9px;
+    background: #f5e8c0;
+    color: #8a6020;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  @media (max-width: 720px) {
+    .programs-inner { padding: 28px 16px; }
+    .programs-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+    .prog-tile { padding: 10px 12px; }
+  }
+
   /* ── ENTRANCE ANIMATION ── */
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(16px); }
@@ -799,10 +997,65 @@
   </div>
 </header>
 
+
+<section class="about-strip">
+  <div class="about-inner">
+    <div class="about-stats">
+      <div class="about-stat">
+        <div class="about-stat-number" id="about-years">25</div>
+        <div class="about-stat-label">Years of Excellence</div>
+      </div>
+      <div class="about-stat">
+        <div class="about-stat-number" id="about-programs">17</div>
+        <div class="about-stat-label">Active Programs</div>
+      </div>
+      <div class="about-stat">
+        <div class="about-stat-number" id="about-entries">1,622</div>
+        <div class="about-stat-label">Stories in the Archive</div>
+      </div>
+      <div class="about-stat">
+        <div class="about-stat-number">24+</div>
+        <div class="about-stat-label">Industry Partnerships</div>
+      </div>
+    </div>
+    <div class="about-text">
+      <div class="about-vision">
+        <h2>Our Vision</h2>
+        <p>Our students receive the highest technical, professional, and leadership skills training in a simulated workplace environment — preparing them for success in any future career.</p>
+      </div>
+      <div class="about-desc">
+        <p>What sets The Guthrie Center apart is our faculty. <strong>Nearly every instructor came directly from industry</strong> — they didn't just study their field, they worked in it. Students believe in them because they know their teacher actually did what they're teaching.</p>
+        <p>The result? Students who arrive unfocused leave having <strong>discovered what they're genuinely good at.</strong> This archive is 25 years of proof.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="programs-strip">
+  <div class="programs-inner">
+    <div class="programs-header">
+      <span class="programs-title">Our Programs</span>
+      <span class="programs-sub">Click any program to explore its stories in the archive</span>
+    </div>
+    <div class="programs-grid" id="programs-grid">
+      <!-- Built by JS -->
+    </div>
+    <div class="programs-coming">
+      <div class="programs-coming-label">Coming August 2026</div>
+      <div class="programs-coming-grid">
+        <div class="prog-coming-tile">Automotive Technology <span class="prog-coming-badge">Returning</span></div>
+        <div class="prog-coming-tile">Welding <span class="prog-coming-badge">New</span></div>
+        <div class="prog-coming-tile">Barbering <span class="prog-coming-badge">New</span></div>
+        <div class="prog-coming-tile">Construction <span class="prog-coming-badge">New</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <div class="on-this-day" id="otd-section">
   <div class="otd-inner">
     <div class="otd-header">
-      <span class="otd-title">⚡ Random Guthrie History</span>
+      <span class="otd-title">Random Guthrie History</span>
       <button class="otd-btn" id="otd-btn">Another story ↻</button>
     </div>
     <div class="otd-body-row" onclick="goToOtdStory()" style="cursor:pointer;" title="Click to read full story">
@@ -829,7 +1082,7 @@
   <div class="controls-inner">
     <div class="search-wrap">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      <input type="search" id="search" placeholder="Search names, programs, events…" autocomplete="off">
+      <input type="search" id="search" placeholder="Search by name, program, year, event…" autocomplete="off">
     </div>
     <select id="filter-year">
       <option value="">All Years</option>
@@ -1207,6 +1460,89 @@ function randomStory() {
   }, 400);
 }
 
+
+// ── PROGRAM GRID ──
+const PROGRAMS = [
+  { name: 'Agricultural Science',        cluster: 'Agriculture',      color: '#4a7c3f', filter: 'Agricultural Science' },
+  { name: 'NJROTC',                       cluster: 'Public Service',   color: '#1a3a6b', filter: 'NJROTC' },
+  { name: 'Culinary Arts',                cluster: 'Hospitality',      color: '#b03a2e', filter: 'Culinary Arts' },
+  { name: 'Filmmaking',                   cluster: 'Arts & Media',     color: '#6c3483', filter: 'Digital Filmmaking' },
+  { name: 'Architectural Design',         cluster: 'Arts & Media',     color: '#7d3c98', filter: 'Architectural Design' },
+  { name: '3D Animation',                 cluster: 'Arts & Media',     color: '#8e44ad', filter: '3D Animation' },
+  { name: 'Cosmetology',                  cluster: 'Personal Care',    color: '#c0527a', filter: 'Cosmetology' },
+  { name: 'Criminal Justice',             cluster: 'Public Service',   color: '#1f4e79', filter: 'Criminal Justice' },
+  { name: 'AP Networking & Cybersecurity',cluster: 'Technology',       color: '#1e7e5e', filter: 'Networking' },
+  { name: 'Computer Maintenance',         cluster: 'Technology',       color: '#148f6e', filter: 'Computer Maintenance' },
+  { name: 'Health Science',               cluster: 'Health Sciences',  color: '#0e7490', filter: 'Health Science' },
+  { name: 'Pharmacy Tech',                cluster: 'Health Sciences',  color: '#0a6880', filter: 'Pharmacy Tech' },
+  { name: 'Dental Assisting',             cluster: 'Health Sciences',  color: '#0c7a8a', filter: 'Dental Assisting' },
+  { name: 'Patient Care Tech',            cluster: 'Health Sciences',  color: '#0d8a99', filter: 'Patient Care Tech' },
+  { name: 'Electrician Technician',       cluster: 'Skilled Trades',   color: '#d35400', filter: 'Electrician Technician' },
+  { name: 'Internships',                  cluster: 'Professional Dev', color: '#b7950b', filter: 'Internships' },
+];
+
+let activeProgramTile = null;
+
+function buildProgramGrid() {
+  const grid = document.getElementById('programs-grid');
+  grid.innerHTML = PROGRAMS.map(p => `
+    <div class="prog-tile" style="--tile-color: ${p.color}" onclick="filterByProgram('${p.filter}', this)">
+      <div class="prog-name">${p.name}</div>
+      <div class="prog-cluster">${p.cluster}</div>
+    </div>
+  `).join('');
+}
+
+function filterByProgram(filterVal, tileEl) {
+  // Toggle off if already active
+  if (activeProgramTile === tileEl) {
+    activeProgramTile.classList.remove('active');
+    activeProgramTile = null;
+    document.getElementById('filter-program').value = '';
+    activeProgram = null;
+  } else {
+    if (activeProgramTile) activeProgramTile.classList.remove('active');
+    activeProgramTile = tileEl;
+    tileEl.classList.add('active');
+    // Match to filter dropdown value
+    const sel = document.getElementById('filter-program');
+    const opts = Array.from(sel.options);
+    const match = opts.find(o => o.value === filterVal || o.text.toLowerCase().includes(filterVal.toLowerCase()));
+    if (match) {
+      sel.value = match.value;
+      activeProgram = match.value;
+    }
+  }
+  render();
+  // Scroll to archive
+  document.querySelector('.controls').scrollIntoView({ behavior: 'smooth' });
+}
+
+// ── ANIMATED STATS ──
+function animateCount(el, target, duration, prefix, suffix) {
+  const start = performance.now();
+  const update = (now) => {
+    const progress = Math.min((now - start) / duration, 1);
+    const ease = 1 - Math.pow(1 - progress, 3);
+    const val = Math.round(ease * target);
+    el.textContent = prefix + val.toLocaleString() + suffix;
+    if (progress < 1) requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+}
+
+function runAnimatedStats() {
+  animateCount(document.getElementById('about-entries'), NEWS_DATA.length, 1800, '', '');
+}
+
+// Intersection observer to trigger animation when stats come into view
+const statsObserver = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) { runAnimatedStats(); statsObserver.disconnect(); } });
+}, { threshold: 0.3 });
+statsObserver.observe(document.querySelector('.about-stats'));
+
+
+buildProgramGrid();
 // Wire up button and kick off
 init();
 document.getElementById('otd-btn').addEventListener('click', randomStory);
