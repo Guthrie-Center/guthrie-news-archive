@@ -22,10 +22,9 @@
     --navy:        #0d1f3c;
     --navy-mid:    #1a3258;
     --cream:       #f5f6f8;
-    /* Display: Impact-style condensed bold — works on every OS, no download */
-    --font-display: Impact, 'Franklin Gothic Medium', 'Arial Narrow', 'Arial Black', sans-serif;
-    /* Body: comfortable system UI font */
-    --font:        'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
+    /* One clean readable system font everywhere — no downloads, works on all OS */
+    --font-display: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
+    --font:         'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
     --gold-light:  #F2A900;
   }
 
@@ -155,11 +154,10 @@
   .hero h1 {
     font-weight: 900;
     line-height: 1.0;
-    text-transform: uppercase;
     margin-bottom: 32px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 18px;
   }
   .hero-phrase {
     display: flex;
@@ -167,22 +165,25 @@
     line-height: 1;
   }
   .hero-phrase .verb {
-    font-family: var(--font-display);
-    font-size: clamp(3.5rem, 9vw, 8rem);
+    font-family: var(--font);
+    font-size: clamp(2.2rem, 5vw, 3.8rem);
+    font-weight: 900;
     color: var(--gold);
-    letter-spacing: 0.02em;
-    line-height: 0.9;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    line-height: 1;
     display: block;
   }
   .hero-phrase .rest {
     font-family: var(--font);
-    font-size: clamp(1.1rem, 2.5vw, 1.8rem);
+    font-size: clamp(1rem, 2vw, 1.5rem);
     color: var(--white);
-    font-weight: 700;
-    letter-spacing: 0.18em;
+    font-weight: 600;
+    letter-spacing: 0.2em;
     display: block;
-    margin-top: 6px;
+    margin-top: 4px;
     text-transform: uppercase;
+    opacity: 0.9;
   }
   .hero-sub {
     font-size: 19px;
@@ -1076,9 +1077,9 @@
     .archive-label { padding: 12px 20px; }
     .vision-inner { padding: 0 20px; }
     footer { padding: 32px 20px; }
-    .hero-phrase .verb { font-size: clamp(2.8rem, 15vw, 4.5rem); }
-    .hero-phrase .rest { font-size: clamp(0.9rem, 4vw, 1.3rem); letter-spacing: 0.12em; }
-    .hero h1 { gap: 12px; margin-bottom: 24px; }
+    .hero-phrase .verb { font-size: clamp(1.8rem, 8vw, 2.8rem); }
+    .hero-phrase .rest { font-size: clamp(0.75rem, 3vw, 1rem); letter-spacing: 0.15em; }
+    .hero h1 { gap: 12px; margin-bottom: 20px; }
   }
 </style>
 </head>
@@ -1113,7 +1114,7 @@
   <div class="hero-dots" id="hero-dots"></div>
 
   <div class="hero-content">
-    <img class="hero-logo" src="GClogo-with-name_WHITE.png" alt="The Guthrie Center">
+    <img class="hero-logo" src="GClogo-with-name WHITE.png" alt="The Guthrie Center">
     <p class="hero-eyebrow">News Archive · Spring Branch ISD · Houston, Texas</p>
     <h1>
       <span class="hero-phrase">
@@ -1272,7 +1273,7 @@
 ══════════════════════════════════════ -->
 <footer>
   <div class="footer-inner">
-    <img class="footer-logo" src="GClogo-with-name_WHITE.png" alt="The Guthrie Center">
+    <img class="footer-logo" src="GClogo-with-name WHITE.png" alt="The Guthrie Center">
     <div class="footer-info">
       <strong>The Guthrie Center News Archive</strong><br>
       Spring Branch ISD · Houston, Texas<br>
