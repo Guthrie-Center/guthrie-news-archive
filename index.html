@@ -156,18 +156,34 @@
   }
   .hero h1 {
     font-family: var(--font-display);
-    font-size: clamp(2.8rem, 6vw, 5.5rem);
     font-weight: 900;
     line-height: 1.0;
-    letter-spacing: -0.01em;
-    color: var(--white);
-    margin-bottom: 28px;
     text-transform: uppercase;
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
   }
-  .hero h1 .verb {
+  .hero-phrase {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+  }
+  .hero-phrase .verb {
+    font-size: clamp(3.2rem, 8vw, 7rem);
     color: var(--gold);
+    letter-spacing: -0.01em;
+    line-height: 0.92;
+    display: block;
   }
-  .hero h1 .line { display: block; }
+  .hero-phrase .rest {
+    font-size: clamp(1.3rem, 3vw, 2.4rem);
+    color: var(--white);
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    display: block;
+    margin-top: 2px;
+  }
   .hero-sub {
     font-size: 16px;
     color: rgba(255,255,255,0.75);
@@ -497,109 +513,7 @@
     white-space: nowrap;
   }
 
-  /* ════════════════════════════════
-     RANDOM STORY FEATURE
-  ════════════════════════════════ */
-  .on-this-day {
-    background: linear-gradient(135deg, var(--blue-dark) 0%, var(--blue) 100%);
-    border-bottom: 3px solid var(--gold);
-  }
-  .otd-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 28px 32px;
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-  }
-  .otd-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-  }
-  .otd-title {
-    font-family: var(--font-display);
-    font-size: clamp(1rem, 2.5vw, 1.4rem);
-    font-weight: 800;
-    color: var(--gold);
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-  .otd-body-row {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
-    cursor: pointer;
-  }
-  .otd-thumb {
-    width: 110px;
-    height: 80px;
-    object-fit: cover;
-    border-radius: 6px;
-    border: 2px solid rgba(242,169,0,0.3);
-    flex-shrink: 0;
-    display: none;
-  }
-  .otd-thumb.visible { display: block; }
-  .otd-content {
-    color: var(--white);
-    transition: opacity 0.4s ease;
-    flex: 1;
-    min-width: 0;
-  }
-  .otd-content.fading { opacity: 0; }
-  .otd-thumb { transition: opacity 0.4s ease; }
-  .otd-thumb.fading { opacity: 0; }
-  .otd-date {
-    font-size: 12px;
-    color: var(--gold);
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    margin-bottom: 6px;
-    font-weight: 600;
-  }
-  .otd-headline {
-    font-family: var(--font-display);
-    font-size: clamp(1.1rem, 2.2vw, 1.4rem);
-    font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: 6px;
-    color: var(--white);
-  }
-  .otd-body {
-    font-size: 14px;
-    color: rgba(255,255,255,0.72);
-    line-height: 1.6;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .otd-btn {
-    background: transparent;
-    border: 1.5px solid rgba(242,169,0,0.5);
-    color: var(--gold);
-    padding: 9px 20px;
-    border-radius: 4px;
-    font-family: var(--font-display);
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 0.06em;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.2s;
-    flex-shrink: 0;
-    text-transform: uppercase;
-  }
-  .otd-btn:hover { background: rgba(242,169,0,0.12); border-color: var(--gold); }
-  .otd-read-more {
-    font-size: 12px;
-    color: var(--gold);
-    margin-top: 6px;
-    font-weight: 600;
-    letter-spacing: 0.03em;
-  }
+
 
   /* ════════════════════════════════
      ARCHIVE CONTROLS BAR (sticky)
@@ -1163,6 +1077,9 @@
     .archive-label { padding: 12px 20px; }
     .vision-inner { padding: 0 20px; }
     footer { padding: 32px 20px; }
+    .hero-phrase .verb { font-size: clamp(2.4rem, 14vw, 4rem); }
+    .hero-phrase .rest { font-size: clamp(1rem, 5vw, 1.5rem); }
+    .hero h1 { gap: 10px; }
   }
 </style>
 </head>
@@ -1200,9 +1117,18 @@
     <img class="hero-logo" src="GClogo-with-name_WHITE.png" alt="The Guthrie Center">
     <p class="hero-eyebrow">News Archive · Spring Branch ISD · Houston, Texas</p>
     <h1>
-      <span class="line"><span class="verb">Discover</span> Your Passion.</span>
-      <span class="line"><span class="verb">Apply</span> Your Skills.</span>
-      <span class="line"><span class="verb">Succeed</span> In Your Career.</span>
+      <span class="hero-phrase">
+        <span class="verb">Discover</span>
+        <span class="rest">Your Passion.</span>
+      </span>
+      <span class="hero-phrase">
+        <span class="verb">Apply</span>
+        <span class="rest">Your Skills.</span>
+      </span>
+      <span class="hero-phrase">
+        <span class="verb">Succeed</span>
+        <span class="rest">In Your Career.</span>
+      </span>
     </h1>
     <p class="hero-sub">Explore decades of Guthrie students earning certifications, winning competitions, and building real careers.</p>
     <div class="hero-ctas">
@@ -1273,26 +1199,6 @@
   </div>
 </section>
 
-<!-- ══════════════════════════════════════
-     RANDOM GUTHRIE HISTORY
-══════════════════════════════════════ -->
-<div class="on-this-day" id="otd-section">
-  <div class="otd-inner">
-    <div class="otd-header">
-      <span class="otd-title">Random Guthrie History</span>
-      <button class="otd-btn" id="otd-btn">Another Story ↻</button>
-    </div>
-    <div class="otd-body-row" onclick="goToOtdStory()" title="Click to read full story">
-      <img class="otd-thumb" id="otd-thumb" src="" alt="">
-      <div class="otd-content">
-        <div class="otd-date" id="otd-date">—</div>
-        <div class="otd-headline" id="otd-headline">Loading…</div>
-        <div class="otd-body" id="otd-body"></div>
-        <div class="otd-read-more">Read full story →</div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- ══════════════════════════════════════
      ARCHIVE LABEL + CONTROLS (sticky)
@@ -1888,63 +1794,6 @@ function highlight(str, q) {
   return str.replace(re, '<mark>$1</mark>');
 }
 
-// ── RANDOM STORY FEATURE ────────────────────────────
-const MONTHS_LONG = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-let lastOtdIdx   = -1;
-let currentOtdId = null;
-
-function goToOtdStory() {
-  if (!currentOtdId) return;
-  expandedId = currentOtdId;
-  const idx = currentResults.findIndex(e => e.id === currentOtdId);
-  if (idx >= 0) {
-    const needed = Math.ceil((idx + 1) / PAGE_SIZE);
-    if (needed > currentPage) {
-      currentPage = needed;
-      const q = document.getElementById('search').value.trim();
-      document.getElementById('cards').innerHTML =
-        currentResults.slice(0, currentPage * PAGE_SIZE).map((e, i) => buildCard(e, i, q)).join('');
-      updateLoadMore();
-    }
-    const q = document.getElementById('search').value.trim();
-    document.getElementById('cards').innerHTML =
-      currentResults.slice(0, currentPage * PAGE_SIZE).map((e, i) => buildCard(e, i, q)).join('');
-  }
-  document.getElementById('archive').scrollIntoView({ behavior: 'smooth' });
-  setTimeout(() => {
-    const el = document.querySelector(`[onclick="toggleCard('${CSS.escape(currentOtdId)}')"]`);
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-  }, 400);
-}
-
-function randomStory() {
-  const withPhoto = NEWS_DATA.filter(e => e.imageUrl);
-  const pool = withPhoto.length > 20 ? withPhoto : NEWS_DATA;
-  let idx;
-  do { idx = Math.floor(Math.random() * pool.length); } while (idx === lastOtdIdx && pool.length > 1);
-  lastOtdIdx = idx;
-  const e = pool[idx];
-  currentOtdId = e.id;
-  const d = new Date(e.date + 'T12:00:00');
-  const dateStr = MONTHS_LONG[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
-  const el    = document.getElementById('otd-date').closest('.otd-content');
-  const thumb = document.getElementById('otd-thumb');
-  el.classList.add('fading');
-  thumb.classList.add('fading');
-  setTimeout(() => {
-    document.getElementById('otd-date').textContent    = dateStr;
-    document.getElementById('otd-headline').textContent = e.headline;
-    document.getElementById('otd-body').textContent    = e.body || '';
-    if (e.imageUrl) {
-      thumb.src = e.imageUrl; thumb.alt = e.headline;
-      thumb.classList.add('visible');
-    } else {
-      thumb.src = ''; thumb.classList.remove('visible');
-    }
-    el.classList.remove('fading');
-    thumb.classList.remove('fading');
-  }, 400);
-}
 
 // ── BACK TO TOP ─────────────────────────────────────
 window.addEventListener('scroll', () => {
@@ -1975,9 +1824,6 @@ if (location.hash) {
 // ── KICK OFF ─────────────────────────────────────────
 buildProgramGrid();
 init();
-document.getElementById('otd-btn').addEventListener('click', randomStory);
-randomStory();
-setInterval(randomStory, 15000);
 
 </script>
 </body>
