@@ -824,11 +824,46 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2003-08-08",
+    "date": "2003-08-08",
+    "year": 2003,
+    "headline": "Career and Technology Teachers Train in Dreamweaver and Photoshop at Guthrie Center",
+    "body": "Today all of the Career and Technology, Technology Application, and Art Teachers converged on The Guthrie Center to refine their skills in Dreamweaver and Photoshop software, taught by their peers who served as instructors. It was an informative and productive staff development that will be put to good use during the school year.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-08-11",
+    "date": "2003-08-11",
+    "year": 2003,
+    "headline": "Mike Radler and Patty Nilsson Named Apple Distinguished Educators",
+    "body": "Two of our instructors, Mike Radler and Patty Nilsson, were named Apple Distinguished Educators by Apple Computer, Inc. They joined an elite group of peers from around the world and spent a week of intensive training and staff development in California. This award is an endorsement of the work they do, bringing cutting-edge technology to the classroom in a productive and innovative way.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-08-25",
+    "date": "2003-08-25",
+    "year": 2003,
+    "headline": "Fund for Teachers Reception Honors Greiner and Nilsson — Italy and Alaska Trips",
+    "body": "This evening there was a special reception at the Administration Building honoring the twenty-eight SBISD winners of the Fund for Teachers program. Two of our instructors, Sonia Greiner (Architectural CAD) and Patty Nilsson (Digital Filmmaking), used their grants to travel and bring those experiences back to their classes. Ms. Greiner went to Italy to study Italian architecture, and Ms. Nilsson travelled to Alaska to shoot a documentary on the Alaskan Wilderness and the indigenous bears. Thanks to Raymond Plank, chairman of the Apache Corporation, for providing these opportunities for our teachers.",
+    "programs": [
+      "Architectural Design",
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
     "id": "2003-09-03-4265",
     "date": "2003-09-03",
     "year": 2003,
-    "headline": "Guthrie Students' Featured",
-    "body": "Hotel Management students Jennifer Espino, Winnie Lin , and Damon Jones from the Omni Houston-Westside were featured in the recent Hospitality Educators Association of Texas newsletter for their participation in the American Express/Academy of Travel and Tourism Internship Program.",
+    "headline": "Hotel Management Students Featured in Hospitality Educators Association Newsletter",
+    "body": "Hotel Management students Jennifer Espino, Winnie Lin, and Damon Jones from the Omni Houston-Westside were featured in the recent Hospitality Educators Association of Texas newsletter for their participation in the American Express/Academy of Travel and Tourism Internship Program.",
     "programs": [
       "Hotel Management",
       "Internships"
@@ -840,9 +875,11 @@ const NEWS_DATA =
     "id": "2003-09-09-4263",
     "date": "2003-09-09",
     "year": 2003,
-    "headline": "Apple Seminar",
-    "body": "We are pleased to host an Apple Education Seminar on Professional DV Editing & DVD Authoring. Attendees will refine their skills in Final Cut Pro 4.0 and DVD Studio Pro 2.0.",
-    "programs": [],
+    "headline": "Guthrie Center to Host Apple Education Seminar on Final Cut Pro and DVD Studio Pro",
+    "body": "We are pleased to host an Apple Education Seminar on Professional DV Editing and DVD Authoring. Attendees will refine their skills in Final Cut Pro 4.0 and DVD Studio Pro 2.0. The event is scheduled for October 3rd.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -851,32 +888,32 @@ const NEWS_DATA =
     "date": "2003-09-10",
     "year": 2003,
     "headline": "Hotel Management Students Show Remarkable Transformation",
-    "body": "If you were ever in doubt of the quality of programs offered through our school and the dramatic change that comes about as students progress throughout the year, check out the metamorphosis of our Hotel Management program students.",
+    "body": "If you were ever in doubt of the quality of programs offered through our school and the dramatic change that comes about as our students progress throughout the year, check out the metamorphosis of our Hotel Management program students.",
     "programs": [
       "Hotel Management"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-09-10-hotel-management-students.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-09-10-hotel-management-students.jpg",
+    "source": "web"
   },
   {
     "id": "2003-09-11b",
     "date": "2003-09-11",
     "year": 2003,
     "headline": "NJROTC Color Guard Leads 9/11 Remembrance Ceremony",
-    "body": "As students remember the sacrifice and heroism of so many Americans on that fateful day two years ago, our NJROTC Color Guard and Cadets held the flag ceremony. Photos courtesy of Commercial Photography students and S. Greiner.",
+    "body": "Today as we remember the sacrifice and heroism of so many Americans on that fateful day two years ago, we must never forget the cowardly actions of the evil terrorists. During the ensuing years, the resolve of the American spirit for freedom is stronger than ever. Thanks to our NJROTC Color Guard and Cadets for the flag ceremony this morning. Photos courtesy of Commercial Photography students and S. Greiner.",
     "programs": [
-      "Commercial Photography",
-      "NJROTC"
+      "NJROTC",
+      "Commercial Photography"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-09-11-njrotc-911-flagceremony.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-09-11-njrotc-911-flagceremony.jpg",
+    "source": "web"
   },
   {
     "id": "2003-09-19-4252",
     "date": "2003-09-19",
     "year": 2003,
-    "headline": "Pep Rally Time",
-    "body": "While our students were back at their home schools attending pep rallies for their teams, we had a bit of a staff development/pep rally of our own.",
+    "headline": "Staff Development Day While Students Attend Home School Pep Rallies",
+    "body": "While our students were back at their home schools attending pep rallies for their teams, we had a bit of a staff development and pep rally of our own.",
     "programs": [],
     "imageUrl": null,
     "source": "web"
@@ -890,46 +927,72 @@ const NEWS_DATA =
     "programs": [
       "Criminal Justice"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-02-criminal-justice-roleplay.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-02-criminal-justice-roleplay.jpg",
+    "source": "web"
   },
   {
     "id": "2003-10-04",
     "date": "2003-10-04",
     "year": 2003,
     "headline": "Guthrie Center Float Joins Spring Branch MultiCultural Parade",
-    "body": "Students and faculty met at the Ag Science center, hitched up the float and made the trek to the Spring Branch Super Neighborhood MultiCultural Parade and Festival. The school was #14 in a field of 81 participants. Photos taken by Commercial Photography and Digital Filmmaking students.",
+    "body": "It was a beautiful fall Saturday morning as students and faculty from The Guthrie Center met at the Ag Science Center, hitched up the float, and made the trek to the Spring Branch Super Neighborhood MultiCultural Parade and Festival. We were #14 in a field of 81 participants, starting at Wirt and ending at Campbell along Long Point Drive. Our float was lined with decorated cardboard and real-life students to represent the diverse population and programs taught at our school. Many thanks to students Jenny Wood, Maclane Mayo, Laura Lyons, Krista Zendejas, Rick Ferris, Dung Tran, Eber Flores, Stephany Benjarano, Lauren Deibert, Lauren Papierz, Joey Nelson, David Huerta, Amber Williams, and staff members Sheyenne Krysher, Danny Steffenauer, Ed Kent, and Theron Brown for the early Saturday start and making it a memorable event.",
     "programs": [
       "Agricultural Science",
       "Commercial Photography",
       "Digital Filmmaking"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-04-multicultural-parade-float.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-04-multicultural-parade-float.jpg",
+    "source": "web"
   },
   {
     "id": "2003-10-18",
     "date": "2003-10-18",
     "year": 2003,
-    "headline": "NJROTC Cadets Meet Secretary of the Navy at Rice Stadium",
-    "body": "At Rice Stadium, NJROTC cadets and Master Chief Heuser attended the Rice vs Naval Academy football game. Secretary of the Navy Gordon R. England and Superintendent of the Naval Academy Vice Admiral Rodney P. Rempt noticed the cadets and invited them down for a photo.",
+    "headline": "NJROTC Cadets Meet Secretary of the Navy and Naval Academy Superintendent at Rice Stadium",
+    "body": "Saturday afternoon at Rice Stadium, many of our NJROTC cadets and Master Chief Heuser enjoyed the football game between Rice University and the Naval Academy. Two distinguished gentlemen noticed our cadets trying to take photos of them on the sidelines and invited the cadets down for a better shot. The resulting photo shows cadets Nveli Abarca, Cinthia Garcia, Victor Santamaria, Karen Knigge, and Adrian Alvarez, along with Secretary of the Navy Gordon R. England and Superintendent of the Naval Academy Vice Admiral Rodney P. Rempt.",
     "programs": [
       "NJROTC"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-18-njrotc-secretary-navy.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-18-njrotc-secretary-navy.jpg",
+    "source": "web"
   },
   {
     "id": "2003-10-23",
     "date": "2003-10-23",
     "year": 2003,
     "headline": "Auto Technology Students See Chrysler Prowler from HCC CAP Program",
-    "body": "The Automotive Technology program had the pleasure of seeing one of the Shop Cars from Houston Community College's Chrysler Apprentice Program. Mike Cleveland brought the Prowler to show what he uses to train his students for a career with Chrysler.",
+    "body": "The Automotive Technology program had the pleasure of seeing one of the Shop Cars that Houston Community College has in their Chrysler Apprentice Program — an apprentice program at Chrysler dealerships where local dealers hire, pay, and help sponsor student tuition at school. Mike Cleveland, instructor at HCC, brought the Prowler to show what he uses to train his students for a career with Chrysler. He also has them work on a Viper, PT Cruiser, and many other vehicles.",
     "programs": [
       "Automotive Technology"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-23-auto-tech-prowler.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-10-23-auto-tech-prowler.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-10-28",
+    "date": "2003-10-28",
+    "year": 2003,
+    "headline": "3D Animation Advisory Committee Meets with Industry Representatives",
+    "body": "Our 3D Animation program held an advisory committee meeting with representatives from many segments of the animation world. Attending were Michael August of Texas Media, Charles Lindahl of Texas A&M, Reggie Leathers from Houston Community College, Danny Duhon of Epic Software, Jim Livesey of Post2 Productions, and our instructors Brenda Davidson and Sean Bellinger. Thanks to all of our advisory committee members for your suggestions and input into this outstanding program.",
+    "programs": [
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-11-03",
+    "date": "2003-11-03",
+    "year": 2003,
+    "headline": "Twelve Guthrie Students Place in Top 20 of CultureShapers Competition",
+    "body": "Twelve students from The Guthrie Center have placed in the Top 20 of the CultureShapers Art Competition out of 1,150 entries. Winners will be announced at the awards banquet on November 20th — the top prize is $5,000 cash. Students from our programs have taken top places every year since CultureShapers' inception! Finalists: Film — Jeremy Oliver (MHS), Michael Ortiz (SHS), Paige Puckett and Ashley Newbanks (SHS), Zach Kimmel (SWHS), Laura Hutchinson (MHS), Emmett Kerr-Perkinson (MHS), Matt Roberts and Kyle Evans (SHS), Fernando Felix and Brad Harkey (SWHS), Greg Bahm (MHS), Luis Roa (MHS); Photography — Michael Ortiz (SHS); Electronic Media — Alberto Villa (NHS).",
+    "programs": [
+      "Digital Filmmaking",
+      "3D Animation",
+      "Commercial Photography"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-11-04",
@@ -941,81 +1004,195 @@ const NEWS_DATA =
       "Digital Filmmaking",
       "Commercial Photography"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-04-apple-school-night.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-04-apple-school-night.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-11-07",
+    "date": "2003-11-07",
+    "year": 2003,
+    "headline": "Networking Students Host LAN Party; Film Students Complete 24-Hour Red Eye Production",
+    "body": "Tonight we have two exciting but very different groups of students and teachers engaged in the things they love. Networking students and teacher Steve Whitt, along with his wife, are here all night at one of their now-famous LAN parties — intensely immersed in Battlefield 1942 and Counterstrike with players around the globe. On the other side of campus, filmmaking students are part of a pilot 24-hour production sponsored by Apple and the American Academy of Arts. Thirty-four students received a screenplay at 4PM with instructions to develop an ending, shoot the footage, capture, edit, and produce a 3-to-4-minute movie by 4PM Saturday. Instructors Mike Radler and Patty Nilsson will be staying around the clock while the crews finish their Red Eye masterpieces. Both areas have the essentials for the evening — lots of pizza and soft drinks.",
+    "programs": [
+      "Digital Filmmaking",
+      "Networking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-11-10a",
+    "date": "2003-11-10",
+    "year": 2003,
+    "headline": "Hotel Management and Chef Training Students Assist at Greater Houston Restaurant Association Gala",
+    "body": "Students from our Hotel Management and Chef Training programs were busy this past Saturday assisting with setup and serving at the Greater Houston Restaurant Association Gala at the Omni Hotel Westside. The $175-and-up-per-person event, benefiting the GHRA Education Foundation, was MC'ed by Channel 11's Lisa Foronda and honored industry leaders Johnny Carrabba and Damian Mandola. Many thanks to Lorraine Hamilton, Wendy Bousley, and their students for helping to make this a successful evening.",
+    "programs": [
+      "Hotel Management",
+      "Culinary Arts"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-11-10b",
+    "date": "2003-11-10",
+    "year": 2003,
+    "headline": "Red Eye Film Productions Complete — Eight Videos Submitted to American Academy of Arts",
+    "body": "The Red Eye videos are complete and were submitted by 4PM Saturday. An exhausted but satisfied group uploaded eight productions to the American Academy of Arts website.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-11-11",
     "date": "2003-11-11",
     "year": 2003,
     "headline": "FFA Chapter Meeting and Alumni Association Plan Crafts Show",
-    "body": "Dozens of FFA students conducted their regular chapter meeting while the FFA Alumni Association met to plan a Crafts Show at the Ag Science Center. Chapter Vice President Sarah Denum (NHS) and 2nd VP Kyle Dickens (SHS) observed the proceedings.",
+    "body": "Tonight, dozens of FFA students conducted their regular chapter meeting in the library of The Guthrie Center while the FFA Alumni Association met in another classroom. The students discussed upcoming events including their leadership competition on Thursday, while the parents planned their Crafts Show on Saturday, November 15th from 9 to 4 at the Ag Science Center at 1905 Brittmoore — over 50 vendors with crafts for sale just in time for the holidays. Chapter Vice President Sarah Denum (NHS) and 2nd VP Kyle Dickens (SHS) observed the proceedings.",
     "programs": [
       "Agricultural Science"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-11-ffa-chapter-meeting.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-11-ffa-chapter-meeting.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-11-15",
+    "date": "2003-11-15",
+    "year": 2003,
+    "headline": "FFA Alumni Association Holds Annual Crafts Show at Ag Science Center",
+    "body": "The FFA Alumni Association held its Annual Crafts Show at the Ag Science Center today. Hundreds of shoppers came out to browse and buy the unique and reasonably priced items available. The FFA students provided face painting, balloons, a petting zoo, and other free activities for younger visitors. Proceeds benefit the FFA Scholarship funds for SBISD FFA students.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-11-16",
+    "date": "2003-11-16",
+    "year": 2003,
+    "headline": "Auto Tech 2 Students Host Car Show at Guthrie Center",
+    "body": "Auto Tech 2 students in Mr. Clark's class held a car show at The Guthrie Center on Sunday. Unfortunately, the weather had other plans — it was cloudy and drizzly most of the day. One of the students' friends has a Plymouth Duster that he races, and he brought it by on the trailer to show everyone in attendance. The students and Mr. Clark enjoyed chips and Cokes and had fun in spite of the weather.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-11-17",
+    "date": "2003-11-17",
+    "year": 2003,
+    "headline": "400 Middle School Students Tour Guthrie Center, Ag Science Center, and Omni Hotel",
+    "body": "Today, nearly 400 middle school students from SBISD braved the torrential rains as they made the round-robin tour of The Guthrie Center, The Ag Science Center, and the Omni Hotel. During their visits, they learned about the tremendous opportunities that are there for them as they enter SBISD's high schools. Thanks to the students and teachers for visiting, our staff and students for conducting the tours, and Beverly Litton for arranging the details.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-11-21",
     "date": "2003-11-21",
     "year": 2003,
     "headline": "CultureShapers 2003: Guthrie Students Win Big Across Multiple Categories",
-    "body": "At the Wyndham Greenspoint Hotel, 650 people gathered for the CultureShapers Art Contest. William Robin (Architectural CAD) won 1st place and $5,000 for his film. Digital Film student Laura Hutchinson was 2nd ($2,500). 3D Animation student Greg Bahm took 4th place ($1,000) and also won 1st place in Web Design ($5,000).",
+    "body": "Last night at the Wyndham Greenspoint Hotel, 650 people gathered to honor the finalists in the CultureShapers Art Contest. Spring Branch ISD won top awards in many categories. The Guthrie Center was represented in the film category by three programs — William Robin, an Architectural CAD student, won 1st place and $5,000 for his film 'When Night Falls No More'; Digital Film student Laura Hutchinson was 2nd and took home $2,500 for 'The Villain'; 3D Animation student Greg Bahm took 4th place and $1,000 for 'Said'; and Digital Film's Jeremy Oliver was 5th for 'Clean Up.' Animation's Greg Bahm also won 1st place in Web Design, adding another $5,000. DF and 3D students Luis Roa, Michael Ortiz, Zach Kimmel, Felix Fernando, and Brad Harkey were also honored. MHS Art teacher Cathleen May was honored as Teacher of the Year and Gloria McCoy, Art Administrator for SBISD, was awarded Administrator of the Year. Congratulations to all of these students and the teachers who inspire them to greatness!",
     "programs": [
       "Digital Filmmaking",
       "3D Animation",
       "Architectural Design"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-21-cultureshapers-winners.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-11-21-cultureshapers-winners.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-12-01",
+    "date": "2003-12-01",
+    "year": 2003,
+    "headline": "Students Trim the Christmas Tree in the Front Office",
+    "body": "Today, Mr. Paz's 3rd and 4th period classes spent part of their time making our front office a bit merrier this holiday season by trimming the Christmas tree. Many of the students sang along with the music playing in the background. Thanks to Mr. Paz's classes for making it fun!",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-12-06",
     "date": "2003-12-06",
     "year": 2003,
     "headline": "39 NJROTC Cadets Compete at Willowridge Marine Corps Drill Meet",
-    "body": "On a cool and windy day at Willowridge High School, 39 NJROTC cadets competed against programs from around the region in physical fitness, unarmed drill, and color guard in this Marine Corps-run event.",
+    "body": "On a very cool and windy day at Willowridge High School, 39 of our NJROTC cadets competed against other programs from around the region. We fielded teams in physical fitness, unarmed drill, and color guard. Run by the Marine Corps, this event is one of three big ones for our program. Congratulations to the students and instructors, and a big thank you to all of the parents and friends who attended and cheered on our team!",
     "programs": [
       "NJROTC"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-06-njrotc-willowridge-meet.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-06-njrotc-willowridge-meet.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-12-08",
+    "date": "2003-12-08",
+    "year": 2003,
+    "headline": "FFA Loans School Mascot — The Guthrie Goat",
+    "body": "Today, our spirit committee displayed our temporary school mascot, the Guthrie Goat. This FFA project eats hay and is working hard to fertilize our new floral garden to be planted very soon. Thanks to the FFA students for loaning their goat, coincidentally named Hal.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-12-10",
+    "date": "2003-12-10",
+    "year": 2003,
+    "headline": "Spirit Committee Greets Students with Hot Cocoa and Christmas Music",
+    "body": "On a day when the temperature stayed in the 40s and 50s and the crisp wind cut right through to the bone, our students were greeted with a smile, Christmas music, and hot cocoa! There was a festive atmosphere as the buses unloaded each period and students were greeted by our friendly spirit committee servers. Thanks to all the planning, hard work, and fun by those who made today memorable.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-12-11",
     "date": "2003-12-11",
     "year": 2003,
     "headline": "Chef Training Students Serve Edible Final Exam at Art Institute",
-    "body": "Final exams were not dull for Chef Training. Students demonstrated what they learned with a lunch feast including salad with vinaigrette dressing, grilled chicken with vegetables, and chocolate dessert, served to family and district representatives including Dr. Katz.",
+    "body": "Final exams can be dull and tasteless, but not the final for our Chef Training program. Students demonstrated what they learned as a lunch feast for a select number of attendees, mostly family and district representatives, including special guest Dr. Katz. Wendy Bousley's class dished up a wonderful salad with vinaigrette dressing, grilled chicken with vegetables, and a delicious chocolate dessert. Thanks to our students, Ms. Bousley, and the Art Institute — our partner in this class — for a great display of culinary delight.",
     "programs": [
       "Culinary Arts"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-11-chef-training-final.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-11-chef-training-final.jpg",
+    "source": "web"
   },
   {
     "id": "2003-12-13",
     "date": "2003-12-13",
     "year": 2003,
-    "headline": "Auto Tech Teacher's ZR-1 Vette to Be Featured in Corvette Magazine",
-    "body": "Auto Tech teacher Mr. Clark's ZR-1 Corvette will be featured in a future issue of Corvette Magazine. The photo shows the car and one of his classes studying racing suspension in Auto Tech 1.",
+    "headline": "Auto Tech Teacher's ZR-1 Corvette to Be Featured in Corvette Magazine",
+    "body": "As you would expect, both of our Auto Tech teachers are car collectors and aficionados. This week, one of Mr. Clark's vehicles — a ZR-1 Vette — will be featured in a future issue of Corvette Magazine. The photo shows the car and one of his classes as they study racing suspension in Auto Tech 1.",
     "programs": [
       "Automotive Technology"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-13-auto-tech-corvette.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-12-13-auto-tech-corvette.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-01-06",
+    "date": "2004-01-06",
+    "year": 2004,
+    "headline": "2004-2005 Course Selection Guide Now Available",
+    "body": "Today our course selection guide for the 2004-2005 school year is available for pickup at The Guthrie Center and to view online. We are also mailing them to the homes of every 8th through 11th grader in the district. When you get it, take the time to plan out your high school career and find options for your life.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-01-07-4068",
     "date": "2004-01-07",
     "year": 2004,
-    "headline": "New Semester Arrives",
-    "body": "The new semester brings new opportunities for classes at The Guthrie Center. All of our Ag Science classes, Digital Electronics, Chef Training, Intro courses, Computer A+/N+ and Internship programs have started up again and many have openings. Call or come by for information, or contact your counselor at school.",
+    "headline": "New Semester Arrives with Openings in Multiple Programs",
+    "body": "The new semester brings new opportunities for classes at The Guthrie Center. All of our Ag Science classes, Digital Electronics, Chef Training, Intro courses, Computer A+/N+, and Internship programs have started up again and many have openings. Call or come by for information, or contact your counselor at school.",
     "programs": [
       "Culinary Arts",
       "Agricultural Science",
-      "Electronics",
+      "Networking",
       "Internships"
     ],
     "imageUrl": null,
@@ -1025,149 +1202,359 @@ const NEWS_DATA =
     "id": "2004-01-16",
     "date": "2004-01-16",
     "year": 2004,
-    "headline": "Film Students and Teachers Travel to Sundance Film Festival",
-    "body": "A group of Film students, teachers and Joe Kolenda traveled to Park City, Utah for the Sundance Film Festival. Only a handful of high school and college student groups were invited to take part in this program.",
+    "headline": "Film Students and Teachers Travel to Sundance Film Festival in Park City",
+    "body": "A group of Film students, teachers, and Joe Kolenda traveled to Park City, Utah for the Sundance Film Festival to learn about the inside world of independent filmmaking. Only a handful of high school and college student groups were invited to take part in this program — due to the persistence of our teachers, we were one of the few.",
     "programs": [
       "Digital Filmmaking"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-01-16-sundance-film-festival.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-01-16-sundance-film-festival.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-01-24",
+    "date": "2004-01-24",
+    "year": 2004,
+    "headline": "Criminal Justice Explorers Compete in Texas Regional Mock Trial Competition",
+    "body": "Our Criminal Justice Explorers participated in the Texas Regional Mock Trial Competition sponsored by the Dallas Bar Association and held at the South Texas College of Law. Jessica Smith, Ronald Aguirre, Rick Ferris, Krista Zendejas, Stephany Bejarano, Hanna Padley, Alma Munoz, Lillian Graham, Gilda Alvarenga, and Joey Nelson accompanied instructor Danny Steffenauer to compete with other schools from the region. Congratulations to these students and Steff on finishing strong in their first event for this type of program. The trial prompt was a video game manufacturer being sued for the violent actions of one of its users.",
+    "programs": [
+      "Criminal Justice"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-01-26",
+    "date": "2004-01-26",
+    "year": 2004,
+    "headline": "Digital Film and Animation Students Win at Spindletop Film Festival in Beaumont",
+    "body": "Students in Digital Film and 3D Animation attended Lamar University's Spindletop Film Festival in Beaumont this weekend. Winners: High School Narrative — 1st Place Marge Prus, 3rd Place Michael Ortiz, Honorable Mention Emmett Kerr-Perkinson and Laura Hutchinson; Public Service Announcement — 1st Place Cale McCabe, 2nd Place Paige Puckett and Ashley Newbanks.",
+    "programs": [
+      "Digital Filmmaking",
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-01-28",
     "date": "2004-01-28",
     "year": 2004,
-    "headline": "NJROTC Annual Military Inspection — Commander Mike Hale Reviews Cadets",
-    "body": "It is inspection day for NJROTC students. Commander Mike Hale, United States Navy Area 10 Manager, takes time to review each and every cadet. Drill activities commenced at 10 AM.",
+    "headline": "NJROTC Annual Military Inspection — Commander Mike Hale Reviews Every Cadet",
+    "body": "It is inspection day for our NJROTC students. Commander Mike Hale, United States Navy Area 10 Manager, takes time to review each and every cadet during this phase of today's activities. Drill activities commenced at 10 AM.",
     "programs": [
       "NJROTC"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-01-28-njrotc-annual-inspection.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-01-28-njrotc-annual-inspection.jpg",
+    "source": "web"
   },
   {
     "id": "2004-03-05",
     "date": "2004-03-05",
     "year": 2004,
-    "headline": "Hotel Management Interns Tour New Hilton of Americas Downtown",
-    "body": "Hotel/Restaurant Management and Travel & Tourism interns toured the newly constructed four-diamond Hilton of Americas in downtown Houston. Interns were in awe with the luxurious interior design and state-of-the-art facilities. Photo taken from the 24th floor pool and patio area.",
+    "headline": "Hotel Management Interns Tour New Hilton of Americas Downtown Houston",
+    "body": "The Guthrie Center interns of the Hotel/Restaurant Management, Travel and Tourism internship program toured the newly constructed four-diamond Hilton of Americas in downtown Houston. Interns were in awe of the luxurious interior design, state-of-the-art kitchen and laundry equipment, high-tech security system, and restaurants with a view. They were greeted with a continental breakfast in the banquet room and learned about Hilton's hiring policies and quality standards. The photo was taken from the 24th-floor pool and patio area.",
     "programs": [
       "Hotel Management",
       "Internships"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-03-05-hotel-hilton-tour.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-03-05-hotel-hilton-tour.jpg",
+    "source": "web"
   },
   {
     "id": "2004-04-05",
     "date": "2004-04-05",
     "year": 2004,
-    "headline": "Criminal Justice Explorers Win 2nd Place at Colorado River Shoot Out",
-    "body": "Criminal Justice Explorers Dung Tran, Krista Zendejas, Phu Nguyen, Jessica Smith, and Gilda Alvarenga won Second Place in Felony Car Stop and Building Search at the First Annual Colorado River Shoot Out in Smithville, Texas.",
+    "headline": "Criminal Justice Explorers Win 2nd Place at Colorado River Shoot Out in Smithville",
+    "body": "Criminal Justice Explorers Dung Tran, Krista Zendejas, Phu Nguyen, Jessica Smith, and Gilda Alvarenga travelled with teachers Danny Steffenauer and Trudy LeBlanc to Smithville, Texas for the First Annual Colorado River Shoot Out, a competition for Criminal Justice Explorer Posts. Our team won Second Place in Felony Car Stop and Building Search — Gilda and Jessica were the only pair that found both of the bad guys in the darkened building. Congratulations to all our students and thanks to the Smithville Police Department for organizing and sponsoring such a fine event.",
     "programs": [
       "Criminal Justice"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-05-cj-explorers-colorado.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-05-cj-explorers-colorado.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-04-06",
+    "date": "2004-04-06",
+    "year": 2004,
+    "headline": "New Issue of The Guthrie Press Now Available",
+    "body": "At long last, we have a new issue of The Guthrie Press available to download today.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-04-07",
+    "date": "2004-04-07",
+    "year": 2004,
+    "headline": "MFA Young Moviemakers 2004 — Guthrie Students Win Across Multiple Categories",
+    "body": "The Museum of Fine Arts Houston's Young Moviemakers 2004 competition has announced its winners — Digital Filmmaking and 3D Animation classes at The Guthrie Center have a strong presence once again! The awards ceremony will be held Sunday, April 18th at the MFAH. Winners: Marge Prus — 2nd place Comedy; Cale McCabe — 3rd place Documentary and 1st place Commercial; Steve Aycock and Vanessa Moore — 1st place Drama; Zach Kimmel — 2nd place Drama; Diego de Gortari, Michael Ortiz, and Michael Salem — 3rd place Drama; Alizsha Pennington — 1st place Experimental; Greg Bahm — 1st place Animation.",
+    "programs": [
+      "Digital Filmmaking",
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-04-12",
     "date": "2004-04-12",
     "year": 2004,
     "headline": "Mock Courtroom Installed in Criminal Justice Classroom",
-    "body": "Installation began on a mock courtroom layout in Danny Steffenauer's Criminal Justice class. Architectural CAD students drew up plans and district craftsmen Brian Ray, Carl Freiermuht, and foreman Dennis Mattiza built the magnificent functional showpiece.",
+    "body": "Installation began today on a mock courtroom layout in Danny Steffenauer's Criminal Justice class. After the CJ Explorers competed in the Texas Mock Trial Competition and held their congressional hearings, we thought about replicating those surroundings here at The Guthrie Center for a more realistic feel. Our CJ instructor met with Architectural CAD students, explained what he wanted, and they drew up plans for the fixtures. District maintenance accepted the job and built the furniture offsite. Under the direction of Mark Tiedt, craftsmen Brian Ray, Carl Freiermuht, and foreman Dennis Mattiza built a magnificent functional showpiece. Come by on April 21st for our Spring Showcase to see it in person!",
     "programs": [
       "Criminal Justice",
       "Architectural Design"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-12-cj-mock-courtroom.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-12-cj-mock-courtroom.jpg",
+    "source": "web"
   },
   {
     "id": "2004-04-14",
     "date": "2004-04-14",
     "year": 2004,
     "headline": "Great Clips Competition Showcases Cosmetology Skills",
-    "body": "Cosmetology students demonstrated their salon skills in haircutting, blow-drying, iron curling, and manicuring for four Great Clips salon stylists. Awards: Cosmetology II 1st place Mayra Garcia; Cosmetology I 1st place Gloria Roman and Shatoria Williams.",
+    "body": "On April 14th at The Guthrie Center, Cosmetology students demonstrated their salon skills in haircutting, blow-drying, iron curling, and manicuring for four Great Clips salon stylists. Great Clips franchisee Carl and Vickie Smith provided professional stylists from their salons. Manicuring was judged by independent stylist Pamela Rodgers. Cosmetology II awards: 1st place Mayra Garcia, 2nd place Yadira Bustamante, 3rd place Claudia Sanchez. Cosmetology I awards: 1st place Gloria Roman and Shatoria Williams, 2nd place Carina Balbuena and Erika Alvira, 3rd place Maria Chinchilla and Crisanta Castro. Manicure awards: 1st place Lourdes Vidaurri, 2nd place Erica Miranda, 3rd place Kim Tate. Salesmanship awards: 1st place Karla Reyes and Gilda Alvarenga, 2nd place Irma Hernandez and Carina Balbuena, 3rd place Ana Sustaita and Celeste Villagomez.",
     "programs": [
       "Cosmetology"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-14-cosmetology-competition.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-14-cosmetology-competition.jpg",
+    "source": "web"
   },
   {
     "id": "2004-04-15",
     "date": "2004-04-15",
     "year": 2004,
     "headline": "Chef Training Students Compete at Houston Area Culinary Competition",
-    "body": "Chef Training students participated in the Houston Area Hospitality and Culinary Competition at the Campbell Center in Aldine. Blake Hoopingarner won 2nd place in plate decorating. Students also competed in Garde Manger vegetable and fruit carving.",
+    "body": "On April 1st, Chef Training students participated in the Houston Area Hospitality and Culinary Competition at the Campbell Center in Aldine. Blake Hoopingarner won 2nd place in the plate decorating contest, creating his own unique design and perfecting his technique — students had 10 minutes to plate a serving of cheesecake and decorate it. Participants in plate decorating: Blake Hoopingarner, Colin Smith, Adriana Samano, Alex Weisman, Juan Aguirre, and Gustavo Copado. The other competition was Garde Manger, in which students carved vegetables and fruits to create a design for a fruit or vegetable tray.",
     "programs": [
       "Culinary Arts"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-15-culinary-competition.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-15-culinary-competition.jpg",
+    "source": "web"
   },
   {
     "id": "2004-04-16",
     "date": "2004-04-16",
     "year": 2004,
-    "headline": "U.S. Army Racing Team Brings Top Fuel Dragster to Campus",
-    "body": "The U.S. Army's Racing team of Tony Schumacher, Antron Brown, and Angelle Savoie displayed their race vehicles including a top fuel dragster at The Guthrie Center for 300 students. The dragster tops out at 333 mph in the quarter mile.",
+    "headline": "U.S. Army Racing Team Brings Top Fuel Dragster to Campus — Auto Tech Students Wire Two Roadsters",
+    "body": "The U.S. Army's Racing team of Tony 'The Sarge' Schumacher, Antron Brown, and Angelle Savoie displayed their race vehicles — including a top fuel dragster — during a pit stop at The Guthrie Center, where their high-performance machines were the focus of attention for 300 students including those in Automotive Technology and ROTC. The Army-sponsored dragster tops out at 333.08 mph in the quarter mile — less than 4 seconds from The Guthrie Center to Spring Woods High School, according to a calculation by Auto Tech instructor Edward 'Tiny' Kent. Speaking of fast cars, Mr. Kent's Auto Tech II students worked in two teams this spring and successfully wired the entire electrical system of two roadsters — a 1936 Chevy Pickup and a 1929 Ford T-Bucket Roadster — from the ground up in less than 9 weeks.",
     "programs": [
       "Automotive Technology",
       "NJROTC"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-16-army-dragster-visit.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-16-army-dragster-visit.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-04-20",
+    "date": "2004-04-20",
+    "year": 2004,
+    "headline": "Architectural CAD Students Work Late on Michael Myers Competition Entries",
+    "body": "This may look like a normal class period in Architectural CAD, but don't always believe what you see. As deadlines loom in the Michael Myers Architectural competition, there are twenty-eight students along with Mrs. Greiner working on their impressive projects before they are turned in on Friday. The unique thing about all of this is that it is 5:45 PM and the class is standing room only.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-04-21",
     "date": "2004-04-21",
     "year": 2004,
     "headline": "First Annual Spring Showcase Draws 100+ Gulf Coast Visitors",
-    "body": "Over one hundred guests from around the Gulf Coast area visited The Guthrie Center during the First Annual Spring Showcase. Visitors saw classrooms in action, student demonstrations, and portfolio exhibits. Culinary students provided finger foods and Ag Science students created beautiful floral designs.",
+    "body": "Today, over one hundred guests from around the Gulf Coast area visited The Guthrie Center during our First Annual Spring Showcase, where we displayed the fine work our students produce throughout the year. Visitors had a chance to see classrooms in action, student demonstrations, portfolio exhibits, and more. Our Culinary students put together an extraordinary array of finger foods, and the tables were graced by beautiful floral designs made by our Ag Science students. Thanks to everyone who came out to support our students, including the human resources director from Air Security, who honored Diversified Internship students Zach Kimmel and Bryan Drake for their outstanding contributions to his corporation.",
     "programs": [
       "Culinary Arts",
       "Agricultural Science",
       "Internships"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-21-spring-showcase.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-21-spring-showcase.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-04-22",
+    "date": "2004-04-22",
+    "year": 2004,
+    "headline": "Hotel Management Intern Josh Johnson Praised by Guest in Letter to Omni Hotel",
+    "body": "Every once in awhile you get a special acknowledgement about a job you are doing that can lift you up and make your day. Hotel Management Intern Josh Johnson received his the other day in the form of a thank you letter to the Omni Hotel management. In part, it reads: '...during my stay there was one person in particular whose politeness and kindness, professionalism and intelligence deserve formal recognition... not only did he perform his regular duties for the public with respect and competence, but he demonstrated unusual personal initiative to ensure that the guests enjoyed their stay.'",
+    "programs": [
+      "Hotel Management",
+      "Internships"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-04-23",
+    "date": "2004-04-23",
+    "year": 2004,
+    "headline": "Maria Martinez Named Best of Texas in Marketing Education, Will Compete at Nationals in Nashville",
+    "body": "Congratulations to Maria Martinez, NHS senior in Marketing Education. Maria has been chosen as Best of Texas in Marketing Education, receiving a scholarship and an award presented at the Governor's Building in Austin. During the past two years, Maria has worked for Washington Mutual Bank and competed with DECA at the district, state, and national levels — winning the state this year to compete at nationals in Nashville. She is a member of the National Honor Society and has been recognized as the outstanding student in Chemistry, Marketing, and BCIS. She passed the Spanish AP exam with a 5 and will take the Calculus AP exam in May.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-04-26",
+    "date": "2004-04-26",
+    "year": 2004,
+    "headline": "Three FFA Students Earn $1,000 Ford Built Truck Scholarships",
+    "body": "Congratulations to Agricultural Science students Katie Dedear, Amanda Laforet, and Sarah Denum. Each received a $1,000 Ford Truck/Built Ford Tough FFA Scholarship. These ladies stand with the other 350 Texas recipients of FFA scholarships. Ford has long been a huge contributor to the youth of FFA. We appreciate these respected officers of our Spring Branch FFA Chapter for their hard work.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-04-27",
     "date": "2004-04-27",
     "year": 2004,
-    "headline": "Culinary and Hotel Teachers Meet Wolfgang Puck at Carillion Center Opening",
-    "body": "Culinary teacher Wendy Bousley and Hotel Management teacher Lorraine Hamilton attended the grand opening of Wolfgang Puck Express in Carillion Center and got to meet and talk with the renowned chef.",
+    "headline": "Culinary and Hotel Teachers Meet Wolfgang Puck at Carillion Center Grand Opening",
+    "body": "Culinary teacher Wendy Bousley and Hotel Management teacher Lorraine Hamilton attended the grand opening of Wolfgang Puck Express in Carillion Center. The teachers got to meet and talk with the renowned chef, who was in Houston promoting the opening of his casual-style restaurant. Wendy Bousley said she couldn't wait to tell her students about the experience of getting to meet the famous chef.",
     "programs": [
       "Culinary Arts",
       "Hotel Management"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-27-wolfgang-puck-teachers.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-04-27-wolfgang-puck-teachers.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-04-30",
+    "date": "2004-04-30",
+    "year": 2004,
+    "headline": "Ball High Galveston Filmmaking Class Visits Guthrie Digital Filmmaking Department",
+    "body": "The new Filmmaking class at Ball High of Galveston ISD visited the Digital Filmmaking Department at The Guthrie Center to get inside tips on shooting and editing award-winning videos. Film Teacher Roy Quoyeser brought 22 students to tour the lab and visit with students. Jeremy Olivier explained the preproduction, production, and postproduction process.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-01",
+    "date": "2004-05-01",
+    "year": 2004,
+    "headline": "Guthrie Center Website Launches Version 4 — Designed by Former Student Axel Murillo",
+    "body": "Welcome to version 4 of The Guthrie Center's Website! We hope you enjoy the changes you see and the ones that will come your way soon. Our fantastic website designer is a former student at TGC — Axel Murillo.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-03",
+    "date": "2004-05-03",
+    "year": 2004,
+    "headline": "Architectural CAD Students Win Michael G. Meyers Competition",
+    "body": "Here are the results of the Michael G. Meyers Architectural CAD Competition from The Guthrie Center. 1st Place Individual with $500 Scholarship — Melika Mirzakhani; Honorable Mention Individual — Rachel Pollicove; Best Tower Design — Brad Harkey. Congratulations — to the victors go the spoils!",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-05",
+    "date": "2004-05-05",
+    "year": 2004,
+    "headline": "Career Day Draws 60+ Presenters for Guthrie and SOMS 8th-Grade Students",
+    "body": "Cinco de Mayo brought us over 60 presenters taking part of their day to spend with Guthrie and Spring Oaks Middle School 8th-grade students. This is our annual Career Day, coordinated by our CATE Counselor Beverly Litton. Students get to hear firsthand from people in careers that interest them.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-06",
+    "date": "2004-05-06",
+    "year": 2004,
+    "headline": "CATE Scholarship Winners Announced — Students Share $13,000-Plus in Awards",
+    "body": "Congratulations to these seniors who received scholarships through the Career and Technology Department: Outstanding CATE Student Scholarship ($1,000) — Jonathan Hammond (SWHS/TGC) and Linus Ling (SHS); Exemplary CATE Student Scholarship ($1,000) — Sandra Lopez (NHS) and Michael Ortiz (SWHS/TGC); Houston Community College Scholarship ($1,000) — Alberto Villa (NHS/TGC); Art Institute of Houston Scholarship ($5,000) — Maria Lara (SWHS/TGC); Horticulture HCC Scholarship ($1,000) — Katie Dedear (SWHS/TGC); Leadership and Achievement in Hotel Studies — Jennifer Nicole Espino (SHS/TGC); Lorraine Drake Spirit Award — Rachel Pollicove (SWHS/TGC) and Amanda LaForet (SHS/TGC); Best of Texas (Texas Career and Technology Council) — Maria Martinez (NHS); Ford Built Truck FFA Scholarships ($1,000) — Katie Dedear (SWHS/TGC), Amanda LaForet (SHS/TGC), and Sarah Denum (NHS/TGC). The students will be honored at the CATE Awards Reception on Wednesday, May 12th at the Board Room at the Administration Building.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-05-12",
     "date": "2004-05-12",
     "year": 2004,
     "headline": "Monica Mendoza Named Distinguished Cadet, Awarded Meritorious Achievement Ribbon",
-    "body": "NJROTC Cadet Monica Mendoza was named one of four Distinguished Cadets and awarded the Meritorious Achievement Ribbon by Area 10 Manager Commander Mike Hale.",
+    "body": "Congratulations to Monica Mendoza, NJROTC Cadet who in three years has made great strides and was named one of four Distinguished Cadets by the unit here in Spring Branch and was awarded the Meritorious Achievement Ribbon by Area 10 Manager Commander Mike Hale.",
     "programs": [
       "NJROTC"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-05-12-monica-mendoza-njrotc.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-05-12-monica-mendoza-njrotc.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-05-13a",
+    "date": "2004-05-13",
+    "year": 2004,
+    "headline": "Chef Training Holds Semi-Annual Edible Final Exam at Art Institute of Houston",
+    "body": "From the 'it's a tough job but someone has to do it' file, our Chef Training class held its semi-annual edible final exam at the Art Institute of Houston. The menu featured Ancho Chili Roasted Pork, Spaghetti Squash, Green Beans, and Twice Baked Potatoes, finished with an exotic version of chocolate mousse. Bon appetit!",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-05-13b",
     "date": "2004-05-13",
     "year": 2004,
     "headline": "CATE Awards Reception Celebrates Student Scholarship Winners",
-    "body": "A full Board Room at the Administration Building watched as scholarship recipients from CATE programs around the district were celebrated. A dozen students split about $13,000 and many more were honored for their accomplishments.",
+    "body": "Last night, a full Board Room at the Administration Building watched as we celebrated the award winners and scholarship recipients from CATE programs around the district. A dozen students split about $13,000 and many more were honored for their accomplishments. Thanks to all of our staff who helped make the program successful, and to all who attended in support of their students.",
     "programs": [],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-05-13-cate-awards-ceremony.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-05-13-cate-awards-ceremony.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2004-05-16",
+    "date": "2004-05-16",
+    "year": 2004,
+    "headline": "Guthrie Students Win Awards at First Annual Island Film Festival in Galveston",
+    "body": "Many of our students were winners in the first annual Island Film Festival Awards given out in Galveston at the 1894 Grand Opera House. This competition was developed by instructors Patty Nilsson and Mike Radler along with many supporting organizations, including the Houston Film Commission, Women in TV and Film, and Apple Computers.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-17",
+    "date": "2004-05-17",
+    "year": 2004,
+    "headline": "NJROTC Unit Receives Albrecht Award as Houston Food Bank Community Volunteer Group of the Year",
+    "body": "Our NJROTC unit was presented with the Albrecht Award by the Houston Food Bank as the Community Volunteer Group of the Year. Our cadets have long been recognized and lauded by this benevolent institution for the quality and quantity of work the students perform whenever they are there. Thanks to our cadet leaders and instructors, Lt. Col. Sluis and Master Chief Heuser, for their dedication to excellence!",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-18",
+    "date": "2004-05-18",
+    "year": 2004,
+    "headline": "SBISD Honored by Greater Houston Restaurant Association for Outstanding Culinary Programs",
+    "body": "This evening Spring Branch ISD was honored by the Greater Houston Restaurant Association at its President's Dinner for our outstanding programs that help develop students for careers in the restaurant industry. The Guthrie Center's Culinary/Chef Training and Hotel Management programs were considered among the elite in the Houston area. Other schools receiving recognition included Alief ISD, Houston ISD, U of H Conrad Hilton School, The Art Institute of Houston, and HCC. We were awarded a check for $350 which will be given to the programs' activity funds for use with their students next year.",
+    "programs": [
+      "Culinary Arts",
+      "Hotel Management"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2004-05-20",
+    "date": "2004-05-20",
+    "year": 2004,
+    "headline": "Second-Year Cosmetology Students Head to Austin for State/National Certification Exam",
+    "body": "Second-year Cosmetology students are boarded and ready to travel to Austin to take their State/National certification exam. If they pass, they will be licensed to practice Cosmetology in the State of Texas. Good luck to our students, instructor Linda Nicodemus, and bus driver Lt. Col. Sluis!",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-08-12-4249",
