@@ -4,13 +4,17 @@
 
 const NEWS_DATA = 
 [
-    {
+  {
     "id": "2002-02-03",
     "date": "2002-02-03",
     "year": 2002,
     "headline": "Media Tech and Animation Students Win at Spindletop Film Festival",
     "body": "Media Tech and Animation students were winners on February 2 at the annual Spindletop Film Festival sponsored by Lamar University in Beaumont. Awards were presented to many students from The Guthrie Center. Congratulations also to Mark Heuser, one of our NJROTC instructors who has been selected for the third year in a row in the Who's Who Among American Teachers — recognition that was initiated by his former students.",
-    "programs": ["Digital Filmmaking", "3D Animation", "NJROTC"],
+    "programs": [
+      "Digital Filmmaking",
+      "3D Animation",
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -20,7 +24,10 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Spring Branch FFA Show and Sale and NJROTC Military Ball",
     "body": "The Spring Branch FFA Show and Sale was held with strong community support — students, faculty and parents thank everyone for their support of this outstanding scholarship program. The annual NJROTC Military Ball ceremony and dance was held Saturday, February 9th at the Crown Plaza Brookhollow. Cadets and guests were treated to a motivating speech by Col. Charles Reeves, USAF ret. and some poignant final thoughts from the senior leaders of the unit.",
-    "programs": ["NJROTC", "Agricultural Science"],
+    "programs": [
+      "NJROTC",
+      "Agricultural Science"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -30,7 +37,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Cosmetology Students Win 6 of 18 Awards at Fantastic Sam's Competition",
     "body": "Fantastic Sam's held a competition this past weekend that had over 400 entries. Students from The Guthrie Center won six of the 18 total awards to the tune of $750, but even more important, they enjoyed their success while learning more about the exciting career of Cosmetology. Congratulations to Juana Castillo, Thao Diep, Sanjuana Flores, Tiffany Foley, Emily Rodriguez, and Angelica Sanchez, and our instructors for their dedication and results!",
-    "programs": ["Cosmetology"],
+    "programs": [
+      "Cosmetology"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -40,7 +49,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Finishes Strong at Tomball Invitational",
     "body": "Our Navy team competed at Tomball High School on February 16, 2002. They finished second in the inspection phase, third overall in the drill meets, and claimed victory in female tug-of-war. Their next stop is regionals in Mississippi in two weeks, and when they sweep the standings there, they will be able to compete at Nationals in Florida. They are an awesome and inspiring group of future leaders!",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -50,7 +61,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Computer Networking Students Get Real-World Experience at Southwestern Energy",
     "body": "A hand-picked group of students converged on Southwestern Energy Production Company to get real-world networking experience as they replaced servers and network racks for the nationwide corporation.",
-    "programs": ["Networking"],
+    "programs": [
+      "Networking"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -60,7 +73,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Wins State Medals at Houston Orienteering Club Meet",
     "body": "NJROTC students were State Medal Winners at the two-day Orienteering Meet hosted by the Houston Orienteering Club, held at Lake Stubblefield with over 200 people competing. Results: Amber Reese and Hector Rodriguez — First Place; Christina White — Second Place; Milton Gonzales — Third Place; Jason Domingo and Rosie Olmedo — Fourth Place. Congratulations to these and all the competing cadets for their outstanding dedication, and especially to Col. Sluis and Master Chief Heuser for making this opportunity a reality.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -70,7 +85,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Shines at Area Eight Drill Competition at Ole Miss",
     "body": "The NJROTC program is proud to announce the results of the Area Eight Drill Competition held at Ole Miss University on March 2, 2002. Personnel Inspection — First Place. Unarmed Drill Team — Second Place. Individual medal winners: Hector Rodriguez — Second Place, Knockout Drill; Julio Cortez — Third Place, Pushups; Michael Riettini — Fifth Place, Academic Test. The Guthrie Center and all of the SBISD schools represented are proud of their accomplishments and congratulate the cadets for a great competitive year!",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -80,7 +97,10 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Multiple Programs Win Big Before Spring Break",
     "body": "Many students were involved in contests before Spring Break. Computer Animation projects advancing to the state SkillsUSA were completed by Albert Capetillo, Keita Kazo, and Graham Musgrove (Best of Show). The skill contest winners were Pierre Vega and Graham Musgrove — both eligible to compete statewide. Cosmetology: Angelica Sanchez was awarded for leadership in Job Demonstration; Maria DeLeon won for Speed and Skills in Haircutting; Michelle Ma came in second in the Nails portion; and Thao Diep won first place in Nail Techniques and will also advance to the state contests. Congratulations to all students who participated!",
-    "programs": ["3D Animation", "Cosmetology"],
+    "programs": [
+      "3D Animation",
+      "Cosmetology"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -90,7 +110,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Master Chief Heuser Named to Who's Who Among American Teachers — Third Year Running",
     "body": "Congratulations to Mark Heuser, one of our NJROTC instructors, who has been selected for the third consecutive year in Who's Who Among American Teachers — recognition that was initiated by his former students in NJROTC.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -110,7 +132,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Cadets Place 2nd at Prairie View A&M Final Area Drill Meet — New Website Launches",
     "body": "Our NJROTC cadets competed in their final area drill meet of the season at Prairie View A&M University. It was a total team effort resulting in an overall 2nd place out of all the participating schools. The unarmed drill team placed second in exhibition and first place in basic, and all of the other squads and PT results were so high that they earned every bit of second place. Coincidentally, the NJROTC program of the first-place school — Clements High of Fort Bend ISD — is taught by Master Chief's brother-in-law. Also this week: The Harold D. Guthrie Center for Excellence launched a brand new website design.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -130,7 +154,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Media Technology Hosts Inaugural Annual Student Film Premiere",
     "body": "Tonight the Media Technology program held its 1st Annual Student Film Premiere before an enthusiastic crowd of family, community members, and representatives of the film industry. Thank you to Mike Radler, Patty Nilsson, and especially to all the students for their extra effort in making this a success!",
-    "programs": ["Digital Filmmaking"],
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-04-17-film-premiere.jpg",
     "source": "web"
   },
@@ -140,7 +166,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Lauren Caltigirone Featured in Memorial-Spring Branch Sun for Media Tech Work",
     "body": "Lauren Caltigirone, one of our Media Tech stars, has an article in the Memorial-Spring Branch Sun covering her adventures through the program and her successful year as a video producer, director, writer, and editor. You can read the article in the April 17th issue of the Sun.",
-    "programs": ["Digital Filmmaking"],
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -160,7 +188,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Media Tech Students Win Multiple Awards at Museum of Fine Arts Young Filmmakers Festival",
     "body": "Congratulations to students from Media Tech who had two first-place projects and two second-place ties at The Museum of Fine Arts Young Filmmakers Festival. First Place Winners: Milton Grimes (MHS), Victor Bernal, and Enrique Arroyo (SWHS). Second Place Winning Ties: Josh Franer (MHS), Coleman McFarland (SHS), and Brendon Lankford (MHS). The winning projects were screened at the Museum of Fine Arts, followed by a reception.",
-    "programs": ["Digital Filmmaking"],
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -170,7 +200,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "FFA Annual Banquet Held at Don Coleman Coliseum",
     "body": "The Spring Branch FFA Students held their annual banquet at the Don Coleman Coliseum Tuesday evening. After a delicious barbecue dinner, the awards program was conducted. Volunteers Suzanne Dedear and Joe Yarborough were recognized for their continued dedication to the students. The FFA Officers for 2002-2003 were installed: Jennifer Kelley — President, Christina Gunkel — Vice President, Katie Dedear — Secretary, Cory Harget — Treasurer, and Scott Pesl — Reporter. Mr. McManners and the outgoing officers put together a great video of the year's highlights.",
-    "programs": ["Agricultural Science"],
+    "programs": [
+      "Agricultural Science"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -180,7 +212,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Olympic Luge Athlete Ruben Gonzales Visits Media Technology Program",
     "body": "Olympic Luge athlete Ruben Gonzales visited with Media Tech student Brendon Lankford about editing a video. Ruben has successfully participated in three Olympic competitions and spends time speaking to corporations and businesses about reaching his dream. He heard about our program and has been impressed by the high quality of work and students at The Guthrie Center. Ruben lives in the Katy area.",
-    "programs": ["Digital Filmmaking"],
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-04-24-ruben-gonzales.jpg",
     "source": "web"
   },
@@ -190,7 +224,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Sam's Club Awards CAD Class $1,000 Check for Valentine's Day Fundraiser",
     "body": "Back in February, Ms. Greiner's Architectural Drafting students held a fundraiser for their program, selling roses for Valentine's Day. They had arranged with Sam's Club on the Katy Freeway to match the money they raised. This week, the management team at Sam's awarded Ms. Greiner's class a check for $1,000, presented at the morning crew meeting in front of about fifty employees. Congratulations to Ms. Greiner, her students, and thank you Sam's Club for your support!",
-    "programs": ["Architectural Design"],
+    "programs": [
+      "Architectural Design"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -200,7 +236,10 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Nine Students Represent SBISD at State SkillsUSA in Fort Worth",
     "body": "Nine SBISD students representing the four high schools traveled to Fort Worth to compete in the state SkillsUSA/VICA contests in Computer Animation and Cosmetology: Alberto Capetillo and Emelin Rodriguez (MHS); Aaron Blair and Michelle Ma (SHS); Graham Musgrove and Thao Diep (SWHS); Maria DeLeon, Anna Sandoval, and Pierre Vega (NHS). We wish all of these students good luck and good times while they show their talent to the judges.",
-    "programs": ["3D Animation", "Cosmetology"],
+    "programs": [
+      "3D Animation",
+      "Cosmetology"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -210,7 +249,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "SkillsUSA State Champions: Computer Animation Students Headed to Kansas City",
     "body": "Four Computer Animation students competed and won in the SkillsUSA Texas State Championships. Graham Musgrove (SWHS) and Pierre Vega (NHS) each took third place. Aaron Blair (SHS) and Alberto Capetillo won first place and will compete at the national convention in Kansas City in June.",
-    "programs": ["3D Animation"],
+    "programs": [
+      "3D Animation"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -230,7 +271,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "CAD Students Excel at Michael Myers AIA Design Competition",
     "body": "Many Computer Architectural Drafting students worked feverishly to complete entries in the Michael Myers AIA Design Competition — the Houston chapter of the AIA (American Institute of Architects) annual scholarship and recognition event for high school students. Ms. Greiner's class spent many evenings and weekend hours finishing their projects. SWHS student Bo-Hye Na won first place in the individual competition, while Carlos Gomez, also from SWHS, placed in that division. The team of Eduardo Alvardo (NHS) and Manrique Amaya (SWHS) took third place in the group competition. Thanks to Ms. Greiner for going above and beyond to make this opportunity happen.",
-    "programs": ["Architectural Design"],
+    "programs": [
+      "Architectural Design"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -240,7 +283,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Explorers Post 664 Takes Third at Katy ISD Law Enforcement Contest",
     "body": "Explorers Post 664 attended a Law Enforcement Contest hosted by Katy ISD. Mr. Winn and his team of John Figaroa, Laura Cross, and Jesus Guillen took third place in the Felony Traffic Stop — notable as The Guthrie Center's first competition in this venue. Explorers are trained in law enforcement tactics including: Accident Investigation, Arrest and Search, Domestic Crisis, Crime Scene Search, Misdemeanor and Felony Traffic Stop, Hold Up Alarm Response, Crisis Negotiation, and a written test on the Texas Criminal, Traffic, and Procedural Code. A special thanks to Dan Steffenauer, Officer Chiles, Sgt. Fleming, and Chief Brawner of SBISD PD for their assistance and expertise.",
-    "programs": ["Criminal Justice"],
+    "programs": [
+      "Criminal Justice"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -250,7 +295,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Unit Earns Distinguished Recognition — 2nd Overall in Region",
     "body": "One of the most coveted awards in JROTC is to earn Distinguished recognition from the sponsoring armed service. Master Chief Heuser and Lt. Col. Sluis found out that once again the NJROTC unit from The Guthrie Center received this honor. Specifically, out of sixty-plus NJROTC units in this area, ours placed second overall, with academic honors. This means our students have excelled above almost every other school in the area. It also opens up great college opportunities for cadets pursuing a career in the armed forces — the principal from a distinguished unit may nominate up to nine appointments for qualifying seniors to West Point, the Air Force Academy, and the Naval Academy. Congratulations to the cadets, student leaders, and instructors of the NJROTC unit.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "web"
   },
@@ -260,7 +307,10 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "BPA Web Development Team Earns Second Place Nationally in Chicago",
     "body": "The Guthrie Center has been fortunate to have J. Axel Murillo as our website creator and organizer this year. George, as we know him, is a student of our Computer Networking and Media Technology classes. He and fellow Stratford students Josh Hosseinali and Emily Kelsch, along with sponsor Kristy Schaper, entered the national BPA Web Development Competition in Chicago. Their design of Fusion Productions earned second place overall in the nation.",
-    "programs": ["Digital Filmmaking", "Networking"],
+    "programs": [
+      "Digital Filmmaking",
+      "Networking"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-12-axel-murillo.jpg",
     "source": "web"
   },
@@ -270,7 +320,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Josh Franer Wins Silver Remi Award at WorldFest Houston 2002",
     "body": "Josh Franer, a Media Technology student, was awarded the prestigious Remi Award from the 35th annual WorldFest Houston 2002. Josh submitted his short film, a digital video entry entitled \"The Beginning of the End,\" and competed among 3,900 entries to win a Silver Remi Award. He also won $5,000 in the Culture Shapers Art Festival and an honorable mention in the Spindletop Film Festival. \"I cann't believe I won,\" says Franer. \"There were so many entries…I really didnn't expect to even place.\" Josh, you have done an outstanding job this year and represented yourself and our school well.",
-    "programs": ["Digital Filmmaking"],
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-13-josh-franer.jpg",
     "source": "web"
   },
@@ -280,7 +332,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "CAD Classes Celebrate End-of-Year with Potluck Lunch",
     "body": "Today Ms. Greiner's CAD classes held their end-of-year post-final exam celebration with a potluck lunch supplied by the teacher and all of her students. They dined on fajitas, kiwi-marinated pork, flan, beans and rice, and other homemade delicacies. Here's to the cook!",
-    "programs": ["Architectural Design"],
+    "programs": [
+      "Architectural Design"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-15-cad-lunch.jpg",
     "source": "web"
   },
@@ -290,8 +344,22 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "A Nation Remembers — NJROTC Color Guard Raises Flag at Half-Staff",
     "body": "As first period students watch with respect and reverence, our NJROTC Color Guard raises the American flag then lowers it to half-staff. Following the flag ceremony and Pledge of Allegiance, students read aloud the Presidential Proclamation of Patriot Day. We join with the rest of the nation in remembering the victims of the horrific terrorist attacks and those brave persons fighting for our freedom.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-09-11-njrotc-flag-ceremony.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2002-09-14",
+    "date": "2002-09-14",
+    "year": 2002,
+    "headline": "NJROTC Earns Gold, Silver, and Bronze at Challenger 7 Orienteering Meet",
+    "body": "Our NJROTC Orienteering students were involved in their first meet of the year at Challenger Park in the NASA area. Orienteering is a sport where participants use a compass and a map to find their way around unknown areas — scored on speed of completion and number of checkpoints found. Gold Medals went to Arjun Rau and Ryan Hicks; Silver Medals to J. Florez and J. Domingo; Bronze medals were awarded to M. Gonzales and J. Sustala. Congratulations to these and the rest of the cadets who participated in this Houston Orienteering Club competition. Next week, the second meeting will be held at Prairie View A&M University.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -300,7 +368,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Greenhouse Construction Underway at Ag Science Center",
     "body": "The Ag Science Center has been anticipating the construction of the greenhouse funded in part by a USDA grant in cooperation with Houston Community College and Texas A&M University. After what has seemed like endless delays, the assembly is now underway!",
-    "programs": ["Agricultural Science"],
+    "programs": [
+      "Agricultural Science"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-09-ag-greenhouse.jpg",
     "source": "web"
   },
@@ -310,7 +380,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Auto Technology Students Get Up Close with a Dodge Viper",
     "body": "Auto Technology students were treated to a visit from Mike Cleveland of HCC. They learned about the Chrysler CAP internship program and were fortunate enough to see and touch the new Dodge Viper.",
-    "programs": ["Automotive Technology"],
+    "programs": [
+      "Automotive Technology"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-15-auto-tech-dodge-viper.jpg",
     "source": "web"
   },
@@ -320,7 +392,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Takes 1st and 2nd at West Brook Drill Meet",
     "body": "NJROTC students competed in the West Brook Drill Meet against many other JROTC units from the Gulf Coast area. The Unarmed Drill Team won 1st place for Inspection and 2nd place for Basic Drill. The Color Guard was awarded 2nd place overall.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-23-njrotc-drill-meet.jpg",
     "source": "web"
   },
@@ -330,7 +404,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Criminal Justice Students Observe 228th District Court with Judge Ted Poe",
     "body": "Criminal Justice seniors and instructor Tom Winn saw justice served in the 228th District Criminal Court. They observed court procedures including sentencing, toured lockup facilities, and had a private audience with a district attorney, a defense attorney, and Judge Ted Poe himself.",
-    "programs": ["Criminal Justice"],
+    "programs": [
+      "Criminal Justice"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-24-criminal-justice-court.jpg",
     "source": "web"
   },
@@ -340,7 +416,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Cadets Treated Royally on University of Texas Visit",
     "body": "A group of NJROTC students visited the University of Texas campus, touring the State Capitol, the UT NROTC program, Coach Mack Brown's office, and the UT Trophy Room. They also attended the UT-Baylor football game and visited the Oasis Restaurant on Lake Travis.",
-    "programs": ["NJROTC"],
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-09-njrotc-ut-visit.jpg",
     "source": "web"
   },
@@ -350,57 +428,400 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "CultureShapers 2002: Josh Franer Wins $5,000 for Second Year in a Row",
     "body": "Spring Branch ISD students from The Guthrie Center claimed awards at the CultureShapers contest banquet at the Wyndham Hotel. Josh Franer (MHS) won the top spot two years in a row, with Coleman McFarland (SHS) and Brendon Lankford (MHS) finishing in the top 10. This is the third year in a row a Guthrie Media Tech student captured first place.",
-    "programs": ["Digital Filmmaking"],
+    "programs": [
+      "Digital Filmmaking"
+    ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-21-cultureshapers-winners.jpg",
     "source": "web"
   },
   {
-    "id": "2003-02-01",
+    "id": "2003-01-16",
+    "date": "2003-01-16",
+    "year": 2003,
+    "headline": "FFA 25th Annual Show and Sale Coming February 14-15",
+    "body": "The Houston Livestock Show is not the only one in town during February. Get a head start right here in Spring Branch — our FFA is having their 25th Annual Show and Sale on Friday, February 14th and Saturday, February 15th. Come out and support our members and reward the students for all of their hard work this year. If you have a desire to bid on animals at HLSR, get some practice by attending and bidding on the Grand Champions during Saturday's sale.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-01a",
     "date": "2003-02-01",
     "year": 2003,
     "headline": "Ten Students Place at Spindletop Film Festival in Beaumont",
-    "body": "Spindletop Film Fest results from Lamar University in Beaumont — over 100 entries in the High School division and ten Guthrie students placed in top spots. Josh Franer won Best of Show from the Houston Film Commission. Other winners included Jeffrey Block (1st Documentary), Omar Garcia (2nd Documentary), Charles Harkey (1st PSA), and Brendan Lankford (1st Experimental).",
+    "body": "Spindletop Film Fest begins this weekend in Beaumont at Lamar University — over 100 entries in the High School division, and ten of our students placed in the top spots. Results: Documentary — Jeffrey Block (MHS) 1st, Omar Garcia (NHS) 2nd, Raimie Falero (SW) 3rd, Alan Smith (SHS) Honorable Mention; Public Service Announcement — Charles Harkey (SW) 1st; High School Narrative — Coleman McFarland (SHS) 3rd, Brendan Lankford (MHS) Honorable Mention; Music Video — Josh Franer (SHS) 1st, Zack Kimmel (SW) Honorable Mention; Experimental — Brendan Lankford (MHS) 1st. A new Best of Show award, presented by the Houston Film Commission for the best of the best, was given to Josh Franer. Congratulations to all of our students for this honorable recognition!",
     "programs": [
       "Digital Filmmaking"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-02-01-spindletop-winners.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-02-01-spindletop-winners.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-02-01b",
+    "date": "2003-02-01",
+    "year": 2003,
+    "headline": "Academy of Finance Students Travel to New York City",
+    "body": "Nearly two dozen Academy of Finance students and teachers traveled with Linda Russell to New York City on a study trip to visit many of the places where financial decisions are made. Besides the Wall Street area, they also made their way to a Broadway play — The Lion King — Rockefeller Center, Times Square, the Statue of Liberty, and a few brave students even found their way onto the outside set of The Today Show in 20-degree weather.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-01c",
+    "date": "2003-02-01",
+    "year": 2003,
+    "headline": "NJROTC Cadets Earn Medals at Team Texas Score-O Orienteering Meet",
+    "body": "These NJROTC cadets were doing push-ups at 8:35 on a Saturday morning to get ready for their competitive events in the annual Team Texas Score-O Orienteering Meet held in W.G. Jones State Park near The Woodlands. Cadets ran through woods, dodged trees, and jumped over streams to earn medals. Hard work paid off: Eber Flores (2nd place), Ryan Hicks (3rd place), Raquel Larsen (4th place), and Jose Balbuena (4th place). All cadets gave it their all and then feasted on some good ol' Cajun Gumbo. The unit's triumphs were great but paled significantly when we learned of the loss of the Columbia. Our thoughts and prayers are with the friends and families of those lost.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-04",
+    "date": "2003-02-04",
+    "year": 2003,
+    "headline": "Chef Training Class Job Shadows at TGI Fridays",
+    "body": "The Chef Training class was invited to spend the day at TGI Fridays restaurant to experience what it is like to work in a restaurant. The class learned all about the TGI Fridays concept and philosophy of always being better than expected. Students job shadowed with managers in the front and back of the house, saw the kitchen staff working in different stations during a busy lunchtime, and observed how the customer is taken care of from the hostess to the server. The Chef Training class had a wonderful learning experience.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-05",
+    "date": "2003-02-05",
+    "year": 2003,
+    "headline": "DECA Students Win Hospitality Competition, Advance to State in Austin",
+    "body": "We have DECA winners! Jennifer Espino, Evonne Perez, Amanda Buford, and Jamie Stanley each took home a trophy in DECA's Hospitality Services Management Team Decision Making competition. The event has two parts: each student must pass a 100-question exam on business economics and marketing, and each team must role-play a case study to industry judges, designing and presenting a promotional mix using PowerPoint and drawing from their internship experiences. Interns will proceed to the State DECA competition in Austin February 27 through March 1st, where they will compete to qualify for National DECA in Orlando.",
+    "programs": [
+      "Hotel Management",
+      "Internships"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-06",
+    "date": "2003-02-06",
+    "year": 2003,
+    "headline": "Jamie Stanley Wins Top Fundraising Award from Learning for Life Explorers",
+    "body": "Congratulations to Jamie Stanley, who was the top seller in Houston's Learning for Life Explorer's Community Service fundraising project affiliated with The Guthrie Center's Hotel and Restaurant Management Academy of Travel and Tourism Internship program. Jamie proudly accepted a DVD player from Mr. Larry Monks, Exploring Executive.",
+    "programs": [
+      "Hotel Management",
+      "Internships"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-13",
+    "date": "2003-02-13",
+    "year": 2003,
+    "headline": "800 Children Visit Agricultural Center for Children's Barnyard",
+    "body": "Today at the Agricultural Center, nearly 800 future Ag students came to the Children's Barnyard. Thanks to the Ag and FFA students, Mike McManners, and Sheyenne Krysher for dedicating so much time to bring so many smiles to their faces. Next up — the FFA Show and Sale tomorrow and Saturday.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-15",
+    "date": "2003-02-15",
+    "year": 2003,
+    "headline": "NJROTC Competes at Tomball High School Drill Meet",
+    "body": "Our NJROTC students competed in a meet at Tomball High School, going up against JROTC programs from the Gulf Coast in areas of armed and unarmed drill teams, color guards, general inspection, and physical fitness. From the photos you can see they proudly represented Spring Branch ISD.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-02-17",
     "date": "2003-02-17",
     "year": 2003,
     "headline": "25th Annual FFA Show and Sale a Spectacular Success",
-    "body": "What a spectacular weekend at the Ag Center on Brittmoore as FFA students, parents and advisors held the 25th Annual Show and Sale. Board of Trustees member Barbara Larson helped judge and presented winners. Attendance was way up, as were the number of buyers on the floor on Saturday. Special thanks to Mike McManners and Sheyenne Krysher for bringing new life into this outstanding program.",
+    "body": "What a spectacular weekend at the Ag Center on Brittmoore as FFA students, parents, and advisors held the 25th Annual Show and Sale. Friday evening, Board of Trustees member Barbara Larson helped judge and presented the winners in several categories with their banners and ribbons. Attendance was way up, as were the number of buyers on the floor on Saturday. Thanks to all who worked to make this a success, and a special thanks to Mike McManners and Sheyenne Krysher for bringing new life into this outstanding program.",
     "programs": [
       "Agricultural Science"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-02-17-ffa-show-sale.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-02-17-ffa-show-sale.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-02-20",
+    "date": "2003-02-20",
+    "year": 2003,
+    "headline": "Lt. Col. Ken Sluis Named Guthrie Center Teacher of the Year",
+    "body": "Congratulations to Lt. Col. Ken Sluis, elected by his peers as the Teacher of the Year from The Guthrie Center for 2003. Col. Sluis is one of our NJROTC instructors and has been here since its beginnings six years ago. Ken is always looking out for and assisting everyone else at our school, a quality he brought with him from the United States Marine Corps. We are proud to have Col. Sluis represent our school!",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-02-25",
+    "date": "2003-02-25",
+    "year": 2003,
+    "headline": "New QuickTime Program Slideshow Added to Website",
+    "body": "Something new to see on our website is a QuickTime slideshow about the programs we offer, created by Beverly Litton. Click on the link at the top of our Programs page to view the show.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-03-04",
+    "date": "2003-03-04",
+    "year": 2003,
+    "headline": "Architectural CAD Students Tour Minute Maid Park",
+    "body": "Many of our Architectural CAD students were treated to a study trip to Minute Maid Park to see how modern-day architectural and construction techniques work together with the aesthetics of the past.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-03-05",
+    "date": "2003-03-05",
+    "year": 2003,
+    "headline": "Two Guthrie Teachers Win Fund for Teachers Summer Development Grants",
+    "body": "The Fund for Teachers annually awards educational staff in SBISD and HISD grants for staff development over the summer. The Guthrie Center is proud that two of our teachers — Sonia Greiner (Architectural CAD) and Patty Nilsson (Digital Filmmaking) — are among the selected SBISD teachers for this year. Congratulations to Patty and Sonia, and a great big thanks to the Fund for Teachers organization for so graciously donating the grants.",
+    "programs": [
+      "Architectural Design",
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-03-06",
     "date": "2003-03-06",
     "year": 2003,
     "headline": "Digital Media Showcase Draws Visitors from Across Texas",
-    "body": "Our Media Technology program was bustling with people as students showed off their accomplishments during the Digital Media/Filmmaking Showcase. Visitors came from as far as McAllen to watch the work of these award-winning videographers. Special appreciation to Dr. Katz and board of trustees member Barbara Larson for their participation.",
+    "body": "Although most students were busy taking benchmark tests, our Media Technology program was bustling with people as they showed off students' accomplishments during our Digital Media/Filmmaking Showcase. We entertained visitors from as far as McAllen to watch the work of these award-winning videographers. Our teachers also explained to interested guests how they built such an impressive industry-standard lab with Apple Computers while remaining fiscally conservative. Special appreciation to Dr. Katz and board of trustees member Barbara Larson for their participation.",
     "programs": [
       "Digital Filmmaking"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-03-06-filmmaking-showcase.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-03-06-filmmaking-showcase.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-03-10",
+    "date": "2003-03-10",
+    "year": 2003,
+    "headline": "SkillsUSA Students Win Big in Computer Animation and Cosmetology",
+    "body": "Congratulations to students in SkillsUSA/VICA competition this weekend. Computer Animation District 8 results: 1st Place — Keita Kazo and Luis Roa; 2nd Place — Rudy Chinchilla and Dennis Bugerenko; 3rd Place — Aaron Blair and Ryan Hiner. Project 1st place awards (qualifying for state): Alberto Villa — Best of Show; Ryan Hiner and Luis Roa. Cosmetology District Contest on March 7th: 1st place Nail Care — Michelle Ma (advances to state); 2nd place Nail Care — Rocio Garcia (advances for Technical Information); 3rd place Men's Haircutting — Maria De Leon (advances for Technical Information). Fantastic Sam's Contest on March 9th: 1st place Fantasy Project — Emely Rodriguez ($250); 3rd place Haircutting — Glades Hernandez ($175).",
+    "programs": [
+      "3D Animation",
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-03-21",
+    "date": "2003-03-21",
+    "year": 2003,
+    "headline": "Ackerley and Grotzinger Families Donate to Digital Filmmaking, Architecture, and Library",
+    "body": "Two donations have been made to our school that will improve the quality of education for students in Digital Filmmaking, Architecture, and our Resource Center in the library. Thank you to the Ackerley Family and the Grotzinger Family for your generous donations and for supporting our students. We encourage anyone wanting to donate or sponsor a particular program to contact Becky Page with the Education Foundation.",
+    "programs": [
+      "Digital Filmmaking",
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-03-27",
+    "date": "2003-03-27",
+    "year": 2003,
+    "headline": "Apple Computer Features Guthrie Digital Filmmaking Program as Education Profile of Success",
+    "body": "Apple Computer, Inc. has written and featured our Digital Filmmaking program on its website as an Education Profile of Success. We are thrilled to have our students' work featured in this manner and are grateful for an outstanding partnership with Apple.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-03-28",
+    "date": "2003-03-28",
+    "year": 2003,
+    "headline": "Seven Students Place at MFA Young Filmmakers Festival; 16 Cosmetologists Pass State Exam",
+    "body": "More student winners at the Museum of Fine Arts Young Filmmakers Festival — awards ceremony April 13 at 2:00 PM at the MFA. 1st Place Documentary: Whitney Rogers (MHS) and Nikki Ramey (MHS), 'A Skater's Dream'; 3rd Place Documentary: Mackenzie Gibb (SWHS) and Bailey Moore (SWHS), 'Redhouse'; 1st Place Artistic Vision: Josh Franer (MHS), 'Unfinished Dream'; 3rd Place Narrative: Bailey Moore (SWHS), 'A Child's Monster'. Also: congratulations to our newest cosmetologists who traveled to Austin last month and took the State Cosmetology Exam — all sixteen students who tested, passed!",
+    "programs": [
+      "Digital Filmmaking",
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-02",
+    "date": "2003-04-02",
+    "year": 2003,
+    "headline": "Guthrie Center Launches New Website Design for Summer and Fall 2003",
+    "body": "The Guthrie Center would like to welcome you to its brand new web layout for the upcoming summer and fall of 2003. We hope you enjoy our new look and welcome your feedback and questions about this site.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-05",
+    "date": "2003-04-05",
+    "year": 2003,
+    "headline": "NJROTC PT Team Takes 1st at Final Drill Meet at Rice University",
+    "body": "Our NJROTC cadets competed in their final drill meet of the season at Rice University. Before a supportive crowd of family and friends, the Armed, Unarmed, Color Guard, and PT Teams vied against other NJROTC units throughout the Gulf Coast area. The PT team was celebrating when they learned they were in 1st place after the push-up competition — Cadet Steven deLaCruz of SWHS completed 119 push-ups in 120 seconds, a remarkable display of physical ability. He is also Captain of the Armed Drill Team. Congratulations to all cadets and instructors for your hard work and results.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-04-05-njrotc-rice-drillmeet.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2003-04-10",
+    "date": "2003-04-10",
+    "year": 2003,
+    "headline": "Saray Rodriguez Named Best of Texas in Marketing Education by CTAT",
+    "body": "Congratulations to NHS senior Saray Rodriguez, who was named Best of Texas in Marketing Education by the Career and Technology Administrators of Texas organization. Students from all over the state were nominated by CTAT members. Saray will receive her award and scholarship on May 9th in Austin.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-13",
+    "date": "2003-04-13",
+    "year": 2003,
+    "headline": "Career Day Preview — Dozens of Business Leaders to Visit Campus April 17",
+    "body": "We will be hosting our annual Career Day at The Guthrie Center on Thursday for our students and visiting ones from Westchester Academy for International Studies and some of our middle schools. We are fortunate to have dozens of guests who will give students a brief look at many professional careers. Thanks to Beverly Litton, our Career Counselor, for arranging this yearly event.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-14",
+    "date": "2003-04-14",
+    "year": 2003,
+    "headline": "Seven Digital Filmmaking Students Take Top Awards at MFA Houston Young Moviemakers",
+    "body": "Seven students from the Digital Filmmaking class took top awards at the second annual Houston Young Moviemakers showcase sponsored by The Museum of Fine Arts Houston Films, Women in Film and Television, and the Education Foundation of Harris County. Emceed by KHOU's Debra Duncan to a standing-room-only crowd. Results: 1st Place Documentary — Whitney Rogers and Nikki Ramey (Memorial), 'A Skater's Dream'; 2nd Place Documentary — Michael Ortiz (Stratford), 'Hockey'; 3rd Place Documentary — Mackenzie Gibb and Bailey Moore (Spring Woods), 'Redhouse'; 3rd Place Documentary (tie) — Omar Garcia (Northbrook), 'Depressed'; 1st Place Artistic Vision — Josh Franer (Stratford), 'Unfinished Dream'; 3rd Place Narrative — Bailey Moore (Spring Woods), 'A Child's Monster'.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-15",
+    "date": "2003-04-15",
+    "year": 2003,
+    "headline": "Master Chief Heuser and Ed Kent Named to Who's Who Among America's Teachers",
+    "body": "NJROTC's Master Chief Mark Heuser and Automotive Technology's Edward Kent were nominated by their students as prestigious educators in Who's Who Among America's Teachers. Students from across the nation were asked to nominate the one teacher in their entire school who made a difference in their lives and helped shape their values. Our school has two of them, with Master Chief Heuser receiving this nomination for the third year in a row.",
+    "programs": [
+      "NJROTC",
+      "Automotive Technology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-16",
+    "date": "2003-04-16",
+    "year": 2003,
+    "headline": "3D Animation Students Take 2nd in State at SkillsUSA in Fort Worth",
+    "body": "Congratulations to our 3D Animation students who traveled with Ms. Davidson to Fort Worth to compete in the SkillsUSA/VICA competition. Keita Kazo and Alberto Villa were second in the entire State of Texas for 3D Imaging and Animation Skills. Students Ryan Hiner, Luis Roa, and Alberto Villa also received 1st place awards for their 3D Animation projects.",
+    "programs": [
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-04-17",
+    "date": "2003-04-17",
+    "year": 2003,
+    "headline": "Career Day Draws 1,200 Students and 60+ Business Leaders to Campus",
+    "body": "Career Day was attended by over 1,200 high school and middle school students today at The Guthrie Center. We had exciting presentations from 60+ area business leaders who donated their time and talents to expose our students to the possibilities in the professional work world. We appreciate their efforts, with special recognition to Beverly Litton, our counselor who worked countless hours coordinating this outstanding event.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-05-05",
+    "date": "2003-05-05",
+    "year": 2003,
+    "headline": "Architectural CAD Students Win AIA Michael G. Meyers Design Competition",
+    "body": "Congratulations to our Architectural CAD students who entered and won the AIA competition. Over the past couple of weeks, nearly 40 students from Ms. Greiner's class burned the midnight oil working on their entries — Spring Branch accounted for nearly one-third of the contestants in the Houston Chapter of the American Institute of Architecture's Michael G. Meyers High School Design Competition. Daniel Guillen and Michael Martin from Spring Woods won First Place.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-05-13",
+    "date": "2003-05-13",
+    "year": 2003,
+    "headline": "NJROTC Earns Distinguished Unit with Academic Honors — Sixth Time in Seven Years",
+    "body": "Our NJROTC unit received word today that they have been recognized as a Distinguished Unit with Academic Honors. This is the sixth time in seven years they have been designated as one of the top JROTC units in this part of the USA! Congratulations to the cadets, Lt. Col. Sluis, and Master Chief Heuser for another outstanding job well done.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-05-14",
+    "date": "2003-05-14",
+    "year": 2003,
+    "headline": "Automotive Technology Teacher Ed Kent Honored at Northbrook for Impact on Student",
+    "body": "Automotive Technology instructor Ed Kent was presented an award at Northbrook High School for his contributions to education. Mr. Kent was nominated by one of his students as being the motivating force that kept him in school. It is a great honor for any educator to know that he or she had a positive effect on a student. Congratulations — we know there are many more silent voices that have the same opinion.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-05-16",
+    "date": "2003-05-16",
+    "year": 2003,
+    "headline": "Chef Training Class Holds Edible Final Exam at the Art Institute of Houston",
+    "body": "Today the Chef Training class had their edible final exam at The Art Institute of Houston, where they spend three hours on Thursdays and Fridays learning the art of being a chef. Parents, guests, and a few staff from school were invited for a culinary feast including Corn, Goat Cheese, and Tomato Salad; Basil Pesto Stuffed Chicken Breast with Grilled Asparagus, Red Potatoes, and Grilled Squash; and Raspberry Cheesecake. We thank the Art Institute and Chef Holderfield for a great partnership and hospitality, and Wendy Bousley, our Chef Training instructor, for a delicious semester!",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2003-05-19",
+    "date": "2003-05-19",
+    "year": 2003,
+    "headline": "Business Education Students Sell Cookies, Send Phone Cards to USS Harry Truman Sailors",
+    "body": "Throughout the year, Ms. Alexander's Business Education classes have made and sold cookies as a fundraiser — and as an ongoing lesson in entrepreneurship. Besides purchases they made for the program, this week they bought and sent international phone cards to the sailors on the USS Harry Truman. They also contributed to The Guthrie Center beautification project by donating funds to purchase plants and flowers for the exterior. Thanks to the students and Ms. Alexander for your generosity and support!",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2003-05-22",
     "date": "2003-05-22",
     "year": 2003,
     "headline": "Russell Williams Named Outstanding Automotive Student of the Year",
-    "body": "Russell Williams, an Automotive Technology student, was honored as the Outstanding Automotive Student of the Year at ceremonies on May 22, 2003. Russell received a professional set of tools from MAC Tool Company presented by District Manager Frank Moler. Russell plans to attend the Automotive Technology program at San Jacinto College.",
+    "body": "Russell Williams, an Automotive Technology student at The Guthrie Center, was honored as the Outstanding Automotive Student of the Year at ceremonies on May 22, 2003. Russell received a professional set of tools from the MAC Tool Company, presented by Frank Moler, District Manager for MAC Tools. Russell plans to continue in the automotive service industry, attending the Automotive Technology program at San Jacinto College and working at Scott's Auto Repair where he served his internship this year.",
     "programs": [
       "Automotive Technology"
     ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-05-22-auto-student-year.jpg"
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-05-22-auto-student-year.jpg",
+    "source": "web"
   },
   {
     "id": "2003-09-03-4265",
@@ -932,18 +1353,6 @@ const NEWS_DATA =
     "source": "web"
   },
   {
-    "id": "2004-11-06-4079",
-    "date": "2004-11-06",
-    "year": 2004,
-    "headline": "Cadets Help Out at the AHA Annual Walk-A-Thon",
-    "body": "On Saturday, thirty Spring Branch NJROTC cadets arrived at Sam Houston Park to help prepare the city for the annual American Heart Association Walk-A-Thon . We were designated with the responsibility of manning the water stations throughout the 5-mile course, and to provide the reception for the over 10,000 walkers that participated in the walk. \"The cadets were very motivated and very glad to cheer the runners and walkers on,\" reported Executive Officer C/Lt. Molano . Overall our cadets did an outstanding job and we are proud to report that we earned over 187 hours of community service. Special thanks go out to The Guthrie Center\\'s own Darrell Lewis, C/SCPO Lewis\\' father, for his help as a chaperone.",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": null,
-    "source": "web"
-  },
-  {
     "id": "2004-11-06",
     "date": "2004-11-06",
     "year": 2004,
@@ -954,6 +1363,18 @@ const NEWS_DATA =
     ],
     "source": "web",
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-06-njrotc-heart-walk.jpg"
+  },
+  {
+    "id": "2004-11-06-4079",
+    "date": "2004-11-06",
+    "year": 2004,
+    "headline": "Cadets Help Out at the AHA Annual Walk-A-Thon",
+    "body": "On Saturday, thirty Spring Branch NJROTC cadets arrived at Sam Houston Park to help prepare the city for the annual American Heart Association Walk-A-Thon . We were designated with the responsibility of manning the water stations throughout the 5-mile course, and to provide the reception for the over 10,000 walkers that participated in the walk. \"The cadets were very motivated and very glad to cheer the runners and walkers on,\" reported Executive Officer C/Lt. Molano . Overall our cadets did an outstanding job and we are proud to report that we earned over 187 hours of community service. Special thanks go out to The Guthrie Center\\'s own Darrell Lewis, C/SCPO Lewis\\' father, for his help as a chaperone.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
   },
   {
     "id": "2004-11-08-4076",
@@ -1546,6 +1967,19 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-03-31",
+    "date": "2005-03-31",
+    "year": 2005,
+    "headline": "Corey Harget Takes 2nd in Garde Manger Fruit Carving at Culinary Competition",
+    "body": "Chef Training student Corey Harget competed in the Houston Area Hospitality & Culinary competition, taking 2nd place in Garde Manger for fruit carving over students from 30 schools. His aquarium theme featured fish and flowers cut from watermelon, cantaloupe, honeydew, lemons and oranges.",
+    "programs": [
+      "Culinary Arts",
+      "Agricultural Science"
+    ],
+    "source": "web",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-31-chef-garde-manger-harget.jpg"
+  },
+  {
     "id": "2005-03-31-3959",
     "date": "2005-03-31",
     "year": 2005,
@@ -1558,19 +1992,6 @@ const NEWS_DATA =
     ],
     "imageUrl": null,
     "source": "web"
-  },
-  {
-    "id": "2005-03-31",
-    "date": "2005-03-31",
-    "year": 2005,
-    "headline": "Corey Harget Takes 2nd in Garde Manger Fruit Carving at Culinary Competition",
-    "body": "Chef Training student Corey Harget competed in the Houston Area Hospitality & Culinary competition, taking 2nd place in Garde Manger for fruit carving over students from 30 schools. His aquarium theme featured fish and flowers cut from watermelon, cantaloupe, honeydew, lemons and oranges.",
-    "programs": [
-      "Culinary Arts",
-      "Agricultural Science"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-31-chef-garde-manger-harget.jpg"
   },
   {
     "id": "2005-04-03-3957",
@@ -5600,30 +6021,6 @@ const NEWS_DATA =
     "tweet_id": "21119586516"
   },
   {
-    "id": "2010-08-15-72",
-    "date": "2010-08-15",
-    "year": 2010,
-    "headline": "3D Animation",
-    "body": "Learn to develop and communicate your animation ideas through 3D modeling, animation, concept drawings, storyboards, virtual lights & cameras, and scene design using the same techniques and software used by animation professionals. 3d animation 2013-2014 3D Animation Learn to develop and communicate your animation ideas through 3D Modeling, animation, concept drawings, storyboards, virtual lights & cameras, and scene design using the same techniques and software used by animation professionals. Grades: 9-12 Credit/Course ID: 2 / 13008300 / CAV11A & CAV11B 3D Animation 2 | Advanced Expand the skills and creativity you developed in Animation! Skills taught include advanced modeling and texturing techniques, effective in-depth storytelling, visual effects, and integrated audio. Advanced Animation students will develop video portfolios of their work. Prerequisite: Successful completion of Animation. Grades: 10-12 Credit/Course ID: 2 / 13008400 / CAV21A & CAV21B 3D Animation 3 | Practicum 1 Utilize the latest technologies in 3D Modeling, Animation and Motion Capture for developing real time graphics, game development and interactive communication. Grades: 11-12 Credit/Course ID: 2 / 13009000 / CAV83A & CAV83B 3D Animation 4 | Practicum 2 This course expands the use of motion capture as it applies to visual effects. You will explore concepts in layering digital assets into composites for video and film. This also prepares you for working in the industry through real world projects and internships with local business partners, as well as extending animation studies at a college or university. Grades: 12 Credit/Course ID: 2 / 13009010 / CAV93A & CAV93B 3d Animation One-Pager",
-    "programs": [
-      "3D Animation"
-    ],
-    "imageUrl": null,
-    "source": "web"
-  },
-  {
-    "id": "2010-08-15-86",
-    "date": "2010-08-15",
-    "year": 2010,
-    "headline": "Agricultural Science",
-    "body": "Careers in Agriculture and Natural Resources involve planning, managing and performing agricultural production, horticulture and landscaping service planning, managing and performing mining and extraction operations; managing and conserving natural resources; performing related environmental services, and veterinary sciences. ag science for 2013-2014 Advanced Animal Science (State Approved 4th Year Science Credit) This course is designed for students who want to further their knowledge of the livestock industry. In depth studies include animal industry, anatomy & physiology, and livestock husbandry. Offered Spring Semester Only. Prerequisite: Successful completion of Livestock Production 4th Year Science Prerequisite: Completion of Biology, Chemistry, and concurrent with or after Physics. Grades: 11-12 Credit/Course ID: 1 / 13000700 / CTAG15 Advanced Plant and Soil Science (State Approved as 4th Year Science Credit) Get out of the classroom! This course is designed around greenhouse management from germinating seedling to marketing a finished product. Learn the techniques involved with propagation, fertilization, and maintenance. Investigations, laboratory practices, and field exercises will be used to develop an understanding of current plant and soil science. Prerequisite: Successful completion of Horticulture Science 4th Year Science Prerequisite: Completion of Biology, Chemistry, and concurrent with or after Physics. Grades: 11-12 Credit/Course ID: 1 / 13002100 / CTAG29 Equine Science Students will be exposed to equine science and technology principles that include genetics, anatomy, physiology/nutrition, diseases, pests, and management practices. Topics also include an introduction to the equine industry, various breeds, conformation, selection, care and management, soundness, health, feeding, farrier observation, restraints, general vaccinations and overall managerial duties. Grades: 10-1",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "web"
-  },
-  {
     "id": "2010-08-15-138",
     "date": "2010-08-15",
     "year": 2010,
@@ -5749,6 +6146,30 @@ const NEWS_DATA =
     "body": "These programs will prepare you to take CompTIA’s A+ and N+ Certification exams. With these certifications, you will be ready to go to work in the high-tech and high-paying IT jobs of tomorrow. Through hands on activities and labs, you will learn how to assemble and configure computers and networks, install operating systems, software, and troubleshoot hardware, software and network problems. This class of current and future IT careers will help you discover the skills and education you will need for success in the field. computer tech for 2013-2014 Computer Maintenance These programs will prepare students to take CompTIA’s A+ and N+ Certification exams. With these certifications, you will be ready to go to work in the high-tech and high-paying IT jobs of tomorrow. Through hands on activities and labs, you will learn how to assemble and configure computers and networks, install operating systems, software, and troubleshoot hardware, software and network problems. Grades: 9-12 Credit/Course ID: 2 / 13027300 / CIT11A & CIT11B Dual Credit: may be available for qualified 11th/12th grade students technical certification option: Comptia A+ Certification Cisco Networking This program will prepare students to take the Cisco CCNA or CCENT Certification exams. With these certifications, you will be ready to go to work in the high-tech and high-paying IT jobs of tomorrow. Through hands on activities and labs, you will learn how to configure routers and set up small networks using many commercial design and network administrator tools. Grades: 10-12 Credit/Course ID: 2 / 13027400 / CIT12A & CIT12B Dual Credit: may be available for qualified 11th/12th grade students technical certification option: Cisco Entry Networking Technician Cisco Networking 2 | Research in IT In this second year of Cisco Networking, you will gain additional knowledge and experience in preparation of CCNA/CCENT certifications. Successful comple",
     "programs": [
       "Computer Maintenance"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2010-08-15-72",
+    "date": "2010-08-15",
+    "year": 2010,
+    "headline": "3D Animation",
+    "body": "Learn to develop and communicate your animation ideas through 3D modeling, animation, concept drawings, storyboards, virtual lights & cameras, and scene design using the same techniques and software used by animation professionals. 3d animation 2013-2014 3D Animation Learn to develop and communicate your animation ideas through 3D Modeling, animation, concept drawings, storyboards, virtual lights & cameras, and scene design using the same techniques and software used by animation professionals. Grades: 9-12 Credit/Course ID: 2 / 13008300 / CAV11A & CAV11B 3D Animation 2 | Advanced Expand the skills and creativity you developed in Animation! Skills taught include advanced modeling and texturing techniques, effective in-depth storytelling, visual effects, and integrated audio. Advanced Animation students will develop video portfolios of their work. Prerequisite: Successful completion of Animation. Grades: 10-12 Credit/Course ID: 2 / 13008400 / CAV21A & CAV21B 3D Animation 3 | Practicum 1 Utilize the latest technologies in 3D Modeling, Animation and Motion Capture for developing real time graphics, game development and interactive communication. Grades: 11-12 Credit/Course ID: 2 / 13009000 / CAV83A & CAV83B 3D Animation 4 | Practicum 2 This course expands the use of motion capture as it applies to visual effects. You will explore concepts in layering digital assets into composites for video and film. This also prepares you for working in the industry through real world projects and internships with local business partners, as well as extending animation studies at a college or university. Grades: 12 Credit/Course ID: 2 / 13009010 / CAV93A & CAV93B 3d Animation One-Pager",
+    "programs": [
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2010-08-15-86",
+    "date": "2010-08-15",
+    "year": 2010,
+    "headline": "Agricultural Science",
+    "body": "Careers in Agriculture and Natural Resources involve planning, managing and performing agricultural production, horticulture and landscaping service planning, managing and performing mining and extraction operations; managing and conserving natural resources; performing related environmental services, and veterinary sciences. ag science for 2013-2014 Advanced Animal Science (State Approved 4th Year Science Credit) This course is designed for students who want to further their knowledge of the livestock industry. In depth studies include animal industry, anatomy & physiology, and livestock husbandry. Offered Spring Semester Only. Prerequisite: Successful completion of Livestock Production 4th Year Science Prerequisite: Completion of Biology, Chemistry, and concurrent with or after Physics. Grades: 11-12 Credit/Course ID: 1 / 13000700 / CTAG15 Advanced Plant and Soil Science (State Approved as 4th Year Science Credit) Get out of the classroom! This course is designed around greenhouse management from germinating seedling to marketing a finished product. Learn the techniques involved with propagation, fertilization, and maintenance. Investigations, laboratory practices, and field exercises will be used to develop an understanding of current plant and soil science. Prerequisite: Successful completion of Horticulture Science 4th Year Science Prerequisite: Completion of Biology, Chemistry, and concurrent with or after Physics. Grades: 11-12 Credit/Course ID: 1 / 13002100 / CTAG29 Equine Science Students will be exposed to equine science and technology principles that include genetics, anatomy, physiology/nutrition, diseases, pests, and management practices. Topics also include an introduction to the equine industry, various breeds, conformation, selection, care and management, soundness, health, feeding, farrier observation, restraints, general vaccinations and overall managerial duties. Grades: 10-1",
+    "programs": [
+      "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "web"
@@ -6225,6 +6646,17 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
+    "id": "2011-02-23-tw40250302691020800",
+    "date": "2011-02-23",
+    "year": 2011,
+    "headline": "Her Character Is Without Question http://bit",
+    "body": "Her Character Is Without Question http://bit.ly/fP6yIh",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "40250302691020800"
+  },
+  {
     "id": "2011-02-23-tw40250305031442432",
     "date": "2011-02-23",
     "year": 2011,
@@ -6238,50 +6670,17 @@ const NEWS_DATA =
     "tweet_id": "40250305031442432"
   },
   {
-    "id": "2011-02-23-tw40250302691020800",
-    "date": "2011-02-23",
-    "year": 2011,
-    "headline": "Her Character Is Without Question http://bit",
-    "body": "Her Character Is Without Question http://bit.ly/fP6yIh",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "40250302691020800"
-  },
-  {
-    "id": "2011-02-27-tw41909331339255808",
+    "id": "2011-02-27-tw41867783209750528",
     "date": "2011-02-27",
     "year": 2011,
-    "headline": "Yolanda Rodriguez, Operations: We welcome Yolanda to our operations staff at Guthrie! http://bit",
-    "body": "Yolanda Rodriguez, Operations: We welcome Yolanda to our operations staff at Guthrie! http://bit.ly/gbguLu",
+    "headline": "No Stumbling At Stubblefield: NJROTC Orienteering Team participated in the Stubblefield Orienteer...",
+    "body": "No Stumbling At Stubblefield: NJROTC Orienteering Team participated in the Stubblefield Orienteering Meet. http://bit.ly/gGPTEZ",
     "programs": [
       "NJROTC"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "41909331339255808"
-  },
-  {
-    "id": "2011-02-27-tw41909330437472256",
-    "date": "2011-02-27",
-    "year": 2011,
-    "headline": "School Of The Future Competition: This Saturday we will host the regional competition for the Cou...",
-    "body": "School Of The Future Competition: This Saturday we will host the regional competition for the Council of Educati... http://bit.ly/eEZipH",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "41909330437472256"
-  },
-  {
-    "id": "2011-02-27-tw41909329904795648",
-    "date": "2011-02-27",
-    "year": 2011,
-    "headline": "GC Now on Twitter & Facebook: If you're on the go, please check out links to our latest posts on ...",
-    "body": "GC Now on Twitter & Facebook: If you're on the go, please check out links to our latest posts on Twitter. And if... http://bit.ly/eqdL2L",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "41909329904795648"
+    "tweet_id": "41867783209750528"
   },
   {
     "id": "2011-02-27-tw41909329313398785",
@@ -6297,17 +6696,39 @@ const NEWS_DATA =
     "tweet_id": "41909329313398785"
   },
   {
-    "id": "2011-02-27-tw41867783209750528",
+    "id": "2011-02-27-tw41909329904795648",
     "date": "2011-02-27",
     "year": 2011,
-    "headline": "No Stumbling At Stubblefield: NJROTC Orienteering Team participated in the Stubblefield Orienteer...",
-    "body": "No Stumbling At Stubblefield: NJROTC Orienteering Team participated in the Stubblefield Orienteering Meet. http://bit.ly/gGPTEZ",
+    "headline": "GC Now on Twitter & Facebook: If you're on the go, please check out links to our latest posts on ...",
+    "body": "GC Now on Twitter & Facebook: If you're on the go, please check out links to our latest posts on Twitter. And if... http://bit.ly/eqdL2L",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "41909329904795648"
+  },
+  {
+    "id": "2011-02-27-tw41909330437472256",
+    "date": "2011-02-27",
+    "year": 2011,
+    "headline": "School Of The Future Competition: This Saturday we will host the regional competition for the Cou...",
+    "body": "School Of The Future Competition: This Saturday we will host the regional competition for the Council of Educati... http://bit.ly/eEZipH",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "41909330437472256"
+  },
+  {
+    "id": "2011-02-27-tw41909331339255808",
+    "date": "2011-02-27",
+    "year": 2011,
+    "headline": "Yolanda Rodriguez, Operations: We welcome Yolanda to our operations staff at Guthrie! http://bit",
+    "body": "Yolanda Rodriguez, Operations: We welcome Yolanda to our operations staff at Guthrie! http://bit.ly/gbguLu",
     "programs": [
       "NJROTC"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "41867783209750528"
+    "tweet_id": "41909331339255808"
   },
   {
     "id": "2011-03-01-tw42702536955797504",
@@ -6416,18 +6837,17 @@ const NEWS_DATA =
     "tweet_id": "50967875632107520"
   },
   {
-    "id": "2011-03-29-tw52755066632945664",
+    "id": "2011-03-29-tw52692984973635584",
     "date": "2011-03-29",
     "year": 2011,
-    "headline": "A Week At The Show: Many FFA students and spent Spring Break at the Houston Livestock Show and R",
-    "body": "A Week At The Show: Many FFA students and spent Spring Break at the Houston Livestock Show and R... http://bit.ly/hULeoD #guthrie_center",
+    "headline": "Cadets Win At Top Gun Meet: Congratulations to our NJROTC cadets who won at the Top Gun competit",
+    "body": "Cadets Win At Top Gun Meet: Congratulations to our NJROTC cadets who won at the Top Gun competit... http://bit.ly/gbNiNc #guthrie_center",
     "programs": [
-      "Agricultural Science",
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2011/03/SBFFAscramble1.jpg",
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "52755066632945664"
+    "tweet_id": "52692984973635584"
   },
   {
     "id": "2011-03-29-tw52731597019025408",
@@ -6441,17 +6861,18 @@ const NEWS_DATA =
     "tweet_id": "52731597019025408"
   },
   {
-    "id": "2011-03-29-tw52692984973635584",
+    "id": "2011-03-29-tw52755066632945664",
     "date": "2011-03-29",
     "year": 2011,
-    "headline": "Cadets Win At Top Gun Meet: Congratulations to our NJROTC cadets who won at the Top Gun competit",
-    "body": "Cadets Win At Top Gun Meet: Congratulations to our NJROTC cadets who won at the Top Gun competit... http://bit.ly/gbNiNc #guthrie_center",
+    "headline": "A Week At The Show: Many FFA students and spent Spring Break at the Houston Livestock Show and R",
+    "body": "A Week At The Show: Many FFA students and spent Spring Break at the Houston Livestock Show and R... http://bit.ly/hULeoD #guthrie_center",
     "programs": [
+      "Agricultural Science",
       "NJROTC"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2011/03/SBFFAscramble1.jpg",
     "source": "twitter",
-    "tweet_id": "52692984973635584"
+    "tweet_id": "52755066632945664"
   },
   {
     "id": "2011-03-30-tw52887449571037184",
@@ -6647,17 +7068,17 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2011-05-03-tw65422406042398720",
+    "id": "2011-05-03-tw65368314838401024",
     "date": "2011-05-03",
     "year": 2011,
-    "headline": "MGM High School Design Competition Results: Our Architectural Design department is proud to anno",
-    "body": "MGM High School Design Competition Results: Our Architectural Design department is proud to anno... http://bit.ly/kC2ypq #guthrie_center",
+    "headline": "Spring Branch Right Now: Advanced Film Students put their skills to work as they shot the first",
+    "body": "Spring Branch Right Now: Advanced Film Students put their skills to work as they shot the first ... http://bit.ly/iFISB7 #guthrie_center",
     "programs": [
-      "Architectural Design"
+      "Digital Filmmaking"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "65422406042398720"
+    "tweet_id": "65368314838401024"
   },
   {
     "id": "2011-05-03-tw65414649939640321",
@@ -6671,17 +7092,17 @@ const NEWS_DATA =
     "tweet_id": "65414649939640321"
   },
   {
-    "id": "2011-05-03-tw65368314838401024",
+    "id": "2011-05-03-tw65422406042398720",
     "date": "2011-05-03",
     "year": 2011,
-    "headline": "Spring Branch Right Now: Advanced Film Students put their skills to work as they shot the first",
-    "body": "Spring Branch Right Now: Advanced Film Students put their skills to work as they shot the first ... http://bit.ly/iFISB7 #guthrie_center",
+    "headline": "MGM High School Design Competition Results: Our Architectural Design department is proud to anno",
+    "body": "MGM High School Design Competition Results: Our Architectural Design department is proud to anno... http://bit.ly/kC2ypq #guthrie_center",
     "programs": [
-      "Digital Filmmaking"
+      "Architectural Design"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "65368314838401024"
+    "tweet_id": "65422406042398720"
   },
   {
     "id": "2011-05-05-2269",
@@ -6767,17 +7188,26 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2011-05-13-tw69160529268187136",
+    "id": "2011-05-13-tw68870586339823616",
     "date": "2011-05-13",
     "year": 2011,
-    "headline": "Crime Scene Investigations: Law Enforcement 1 students worked a crime scene as a portion of thei",
-    "body": "Crime Scene Investigations: Law Enforcement 1 students worked a crime scene as a portion of thei... http://bit.ly/jCGavX #guthrie_center",
-    "programs": [
-      "Criminal Justice"
-    ],
+    "headline": "2011 CTE Awards Luncheon: The 2011 Career & Technical Education Awards Luncheon was held today t",
+    "body": "2011 CTE Awards Luncheon: The 2011 Career & Technical Education Awards Luncheon was held today t... http://bit.ly/ioAnn7 #guthrie_center",
+    "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "69160529268187136"
+    "tweet_id": "68870586339823616"
+  },
+  {
+    "id": "2011-05-13-tw68987701587746816",
+    "date": "2011-05-13",
+    "year": 2011,
+    "headline": "When Architecture, Math and Science Collide…: Problem solving and teamwork are just two of the m",
+    "body": "When Architecture, Math and Science Collide…: Problem solving and teamwork are just two of the m... http://bit.ly/l4M5Kh #guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "68987701587746816"
   },
   {
     "id": "2011-05-13-tw69065935625007105",
@@ -6793,26 +7223,17 @@ const NEWS_DATA =
     "tweet_id": "69065935625007105"
   },
   {
-    "id": "2011-05-13-tw68987701587746816",
+    "id": "2011-05-13-tw69160529268187136",
     "date": "2011-05-13",
     "year": 2011,
-    "headline": "When Architecture, Math and Science Collide…: Problem solving and teamwork are just two of the m",
-    "body": "When Architecture, Math and Science Collide…: Problem solving and teamwork are just two of the m... http://bit.ly/l4M5Kh #guthrie_center",
-    "programs": [],
+    "headline": "Crime Scene Investigations: Law Enforcement 1 students worked a crime scene as a portion of thei",
+    "body": "Crime Scene Investigations: Law Enforcement 1 students worked a crime scene as a portion of thei... http://bit.ly/jCGavX #guthrie_center",
+    "programs": [
+      "Criminal Justice"
+    ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "68987701587746816"
-  },
-  {
-    "id": "2011-05-13-tw68870586339823616",
-    "date": "2011-05-13",
-    "year": 2011,
-    "headline": "2011 CTE Awards Luncheon: The 2011 Career & Technical Education Awards Luncheon was held today t",
-    "body": "2011 CTE Awards Luncheon: The 2011 Career & Technical Education Awards Luncheon was held today t... http://bit.ly/ioAnn7 #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "68870586339823616"
+    "tweet_id": "69160529268187136"
   },
   {
     "id": "2011-05-16-2349",
@@ -7047,6 +7468,17 @@ const NEWS_DATA =
     "tweet_id": "126733745691688960"
   },
   {
+    "id": "2011-10-21-tw127360200834416640",
+    "date": "2011-10-21",
+    "year": 2011,
+    "headline": "Eagle Scout Makes It Safer For Our Studen http://t",
+    "body": "Eagle Scout Makes It Safer For Our Studen http://t.co/09HP6DrY #sbleads",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "127360200834416640"
+  },
+  {
     "id": "2011-10-21-tw127459336220979200",
     "date": "2011-10-21",
     "year": 2011,
@@ -7060,15 +7492,17 @@ const NEWS_DATA =
     "tweet_id": "127459336220979200"
   },
   {
-    "id": "2011-10-21-tw127360200834416640",
-    "date": "2011-10-21",
+    "id": "2011-10-24-tw128543135172280320",
+    "date": "2011-10-24",
     "year": 2011,
-    "headline": "Eagle Scout Makes It Safer For Our Studen http://t",
-    "body": "Eagle Scout Makes It Safer For Our Studen http://t.co/09HP6DrY #sbleads",
-    "programs": [],
+    "headline": "NJROTC Team Excels At Annual Prairie View A&M Competition - The results from our NJROTC Prairie V...",
+    "body": "NJROTC Team Excels At Annual Prairie View A&M Competition - The results from our NJROTC Prairie View A&M... http://t.co/ivqJi19i",
+    "programs": [
+      "NJROTC"
+    ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "127360200834416640"
+    "tweet_id": "128543135172280320"
   },
   {
     "id": "2011-10-24-tw128543135767867392",
@@ -7082,19 +7516,6 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "128543135767867392"
-  },
-  {
-    "id": "2011-10-24-tw128543135172280320",
-    "date": "2011-10-24",
-    "year": 2011,
-    "headline": "NJROTC Team Excels At Annual Prairie View A&M Competition - The results from our NJROTC Prairie V...",
-    "body": "NJROTC Team Excels At Annual Prairie View A&M Competition - The results from our NJROTC Prairie View A&M... http://t.co/ivqJi19i",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "128543135172280320"
   },
   {
     "id": "2011-10-25-4390",
@@ -7128,15 +7549,15 @@ const NEWS_DATA =
     "tweet_id": "129233210965110784"
   },
   {
-    "id": "2011-10-27-tw129558815380209664",
+    "id": "2011-10-27-tw129504063778848768",
     "date": "2011-10-27",
     "year": 2011,
-    "headline": "Community Tuesday A Success http://t",
-    "body": "Community Tuesday A Success http://t.co/ZiTDJWM5 #sbleads",
+    "headline": "A Quick Way To Find The Guthrie Web http://t",
+    "body": "A Quick Way To Find The Guthrie Web http://t.co/SPY4Lvuu #sbleads",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "129558815380209664"
+    "tweet_id": "129504063778848768"
   },
   {
     "id": "2011-10-27-tw129558793276243968",
@@ -7150,15 +7571,15 @@ const NEWS_DATA =
     "tweet_id": "129558793276243968"
   },
   {
-    "id": "2011-10-27-tw129504063778848768",
+    "id": "2011-10-27-tw129558815380209664",
     "date": "2011-10-27",
     "year": 2011,
-    "headline": "A Quick Way To Find The Guthrie Web http://t",
-    "body": "A Quick Way To Find The Guthrie Web http://t.co/SPY4Lvuu #sbleads",
+    "headline": "Community Tuesday A Success http://t",
+    "body": "Community Tuesday A Success http://t.co/ZiTDJWM5 #sbleads",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "129504063778848768"
+    "tweet_id": "129558815380209664"
   },
   {
     "id": "2011-10-29-4408",
@@ -7297,17 +7718,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2011-11-20-tw138394761378799617",
-    "date": "2011-11-20",
-    "year": 2011,
-    "headline": "Photo: Advanced Film and Video Practicum student Kelly Kmiecik was recognized by City ArtWorks re...",
-    "body": "Photo: Advanced Film and Video Practicum student Kelly Kmiecik was recognized by City ArtWorks recently for... http://t.co/3KEvG42Y",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "138394761378799617"
-  },
-  {
     "id": "2011-11-20-tw138383973737959425",
     "date": "2011-11-20",
     "year": 2011,
@@ -7317,6 +7727,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "138383973737959425"
+  },
+  {
+    "id": "2011-11-20-tw138394761378799617",
+    "date": "2011-11-20",
+    "year": 2011,
+    "headline": "Photo: Advanced Film and Video Practicum student Kelly Kmiecik was recognized by City ArtWorks re...",
+    "body": "Photo: Advanced Film and Video Practicum student Kelly Kmiecik was recognized by City ArtWorks recently for... http://t.co/3KEvG42Y",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "138394761378799617"
   },
   {
     "id": "2011-11-21-tw138447155428999168",
@@ -7445,17 +7866,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2011-12-15-tw147428845065216000",
-    "date": "2011-12-15",
-    "year": 2011,
-    "headline": "Santa's Farm A Great Success A couple thousand Spring Branc http://t",
-    "body": "Santa's Farm A Great Success A couple thousand Spring Branc http://t.co/qmqbhdkY #sbleads",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "147428845065216000"
-  },
-  {
     "id": "2011-12-15-tw147426086316281856",
     "date": "2011-12-15",
     "year": 2011,
@@ -7467,6 +7877,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "147426086316281856"
+  },
+  {
+    "id": "2011-12-15-tw147428845065216000",
+    "date": "2011-12-15",
+    "year": 2011,
+    "headline": "Santa's Farm A Great Success A couple thousand Spring Branc http://t",
+    "body": "Santa's Farm A Great Success A couple thousand Spring Branc http://t.co/qmqbhdkY #sbleads",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "147428845065216000"
   },
   {
     "id": "2011-12-16-tw147705128210792449",
@@ -7622,17 +8043,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2012-01-31-tw164335496078700546",
-    "date": "2012-01-31",
-    "year": 2012,
-    "headline": "A Brief Intro You can learn a lot about our http://t",
-    "body": "A Brief Intro You can learn a lot about our http://t.co/GexOBeZG #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "164335496078700546"
-  },
-  {
     "id": "2012-01-31-tw164304778489368577",
     "date": "2012-01-31",
     "year": 2012,
@@ -7644,15 +8054,15 @@ const NEWS_DATA =
     "tweet_id": "164304778489368577"
   },
   {
-    "id": "2012-02-01-tw164673018600239105",
-    "date": "2012-02-01",
+    "id": "2012-01-31-tw164335496078700546",
+    "date": "2012-01-31",
     "year": 2012,
-    "headline": "Honorable Mention - Reporter Rusty Graham spent time a couple of weeks ago to see first-hand the ...",
-    "body": "Honorable Mention - Reporter Rusty Graham spent time a couple of weeks ago to see first-hand the great... http://t.co/VHBg749i",
+    "headline": "A Brief Intro You can learn a lot about our http://t",
+    "body": "A Brief Intro You can learn a lot about our http://t.co/GexOBeZG #guthrie_center",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "164673018600239105"
+    "tweet_id": "164335496078700546"
   },
   {
     "id": "2012-02-01-tw164503624398024704",
@@ -7666,6 +8076,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "164503624398024704"
+  },
+  {
+    "id": "2012-02-01-tw164673018600239105",
+    "date": "2012-02-01",
+    "year": 2012,
+    "headline": "Honorable Mention - Reporter Rusty Graham spent time a couple of weeks ago to see first-hand the ...",
+    "body": "Honorable Mention - Reporter Rusty Graham spent time a couple of weeks ago to see first-hand the great... http://t.co/VHBg749i",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "164673018600239105"
   },
   {
     "id": "2012-02-02-4948",
@@ -7718,6 +8139,19 @@ const NEWS_DATA =
     "tweet_id": "166266234881589248"
   },
   {
+    "id": "2012-02-10-tw168109525147189248",
+    "date": "2012-02-10",
+    "year": 2012,
+    "headline": "2012 FFA Livestock Show Results - Updated Daily…Congratulations To All Our Competitors Event: Mar...",
+    "body": "2012 FFA Livestock Show Results - Updated Daily…Congratulations To All Our Competitors Event: Market Rabbits... http://t.co/7ixwg8CM",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "168109525147189248"
+  },
+  {
     "id": "2012-02-10-tw168109545086914562",
     "date": "2012-02-10",
     "year": 2012,
@@ -7732,17 +8166,17 @@ const NEWS_DATA =
     "tweet_id": "168109545086914562"
   },
   {
-    "id": "2012-02-10-tw168109525147189248",
-    "date": "2012-02-10",
+    "id": "2012-02-11-tw168193538763390976",
+    "date": "2012-02-11",
     "year": 2012,
-    "headline": "2012 FFA Livestock Show Results - Updated Daily…Congratulations To All Our Competitors Event: Mar...",
-    "body": "2012 FFA Livestock Show Results - Updated Daily…Congratulations To All Our Competitors Event: Market Rabbits... http://t.co/7ixwg8CM",
+    "headline": "March 30th - 7th Annual Guthrie Center Battle of The Bands - The Digital Filmmaking and Commercial",
+    "body": "March 30th - 7th Annual Guthrie Center Battle of The Bands - The Digital Filmmaking and Commercial... http://t.co/NAQCRT1B",
     "programs": [
-      "Agricultural Science"
+      "Digital Filmmaking"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "168109525147189248"
+    "tweet_id": "168193538763390976"
   },
   {
     "id": "2012-02-11-tw168193544706723842",
@@ -7756,19 +8190,6 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "168193544706723842"
-  },
-  {
-    "id": "2012-02-11-tw168193538763390976",
-    "date": "2012-02-11",
-    "year": 2012,
-    "headline": "March 30th - 7th Annual Guthrie Center Battle of The Bands - The Digital Filmmaking and Commercial",
-    "body": "March 30th - 7th Annual Guthrie Center Battle of The Bands - The Digital Filmmaking and Commercial... http://t.co/NAQCRT1B",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "168193538763390976"
   },
   {
     "id": "2012-02-15-tw169782271145017344",
@@ -7844,19 +8265,6 @@ const NEWS_DATA =
     "tweet_id": "172030161078857728"
   },
   {
-    "id": "2012-02-23-tw172719699312918528",
-    "date": "2012-02-23",
-    "year": 2012,
-    "headline": "NTHS Induction Ceremony The Guthrie Center's inaugural http://t",
-    "body": "NTHS Induction Ceremony The Guthrie Center's inaugural http://t.co/miDELPJv #guthrie_center",
-    "programs": [
-      "NTHS"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "172719699312918528"
-  },
-  {
     "id": "2012-02-23-tw172719690672635904",
     "date": "2012-02-23",
     "year": 2012,
@@ -7868,6 +8276,19 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "172719690672635904"
+  },
+  {
+    "id": "2012-02-23-tw172719699312918528",
+    "date": "2012-02-23",
+    "year": 2012,
+    "headline": "NTHS Induction Ceremony The Guthrie Center's inaugural http://t",
+    "body": "NTHS Induction Ceremony The Guthrie Center's inaugural http://t.co/miDELPJv #guthrie_center",
+    "programs": [
+      "NTHS"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "172719699312918528"
   },
   {
     "id": "2012-03-03-5066",
@@ -8009,19 +8430,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2012-03-30-tw185789234567852032",
-    "date": "2012-03-30",
-    "year": 2012,
-    "headline": "FFA Connects With Local Farmers To Win Our FFA Chapter placed 9th in http://t",
-    "body": "FFA Connects With Local Farmers To Win Our FFA Chapter placed 9th in http://t.co/ncN4m1Av #guthrie_center",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "185789234567852032"
-  },
-  {
     "id": "2012-03-30-tw185765283519152129",
     "date": "2012-03-30",
     "year": 2012,
@@ -8033,6 +8441,19 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "185765283519152129"
+  },
+  {
+    "id": "2012-03-30-tw185789234567852032",
+    "date": "2012-03-30",
+    "year": 2012,
+    "headline": "FFA Connects With Local Farmers To Win Our FFA Chapter placed 9th in http://t",
+    "body": "FFA Connects With Local Farmers To Win Our FFA Chapter placed 9th in http://t.co/ncN4m1Av #guthrie_center",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "185789234567852032"
   },
   {
     "id": "2012-03-31-5610",
@@ -8058,17 +8479,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2012-04-03-tw187300447743262720",
-    "date": "2012-04-03",
-    "year": 2012,
-    "headline": "Guthrie Community Tuesday Kicks Off Early Community Tuesday started very http://t",
-    "body": "Guthrie Community Tuesday Kicks Off Early Community Tuesday started very http://t.co/22mKwvN4 #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "187300447743262720"
-  },
-  {
     "id": "2012-04-03-tw187226530403991552",
     "date": "2012-04-03",
     "year": 2012,
@@ -8080,6 +8490,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "187226530403991552"
+  },
+  {
+    "id": "2012-04-03-tw187300447743262720",
+    "date": "2012-04-03",
+    "year": 2012,
+    "headline": "Guthrie Community Tuesday Kicks Off Early Community Tuesday started very http://t",
+    "body": "Guthrie Community Tuesday Kicks Off Early Community Tuesday started very http://t.co/22mKwvN4 #guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "187300447743262720"
   },
   {
     "id": "2012-04-05-5703",
@@ -8104,17 +8525,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2012-04-09-tw189421706010574850",
-    "date": "2012-04-09",
-    "year": 2012,
-    "headline": "Battle Of The Bands Rocks Out The 7th Annual Guthrie Battle http://t",
-    "body": "Battle Of The Bands Rocks Out The 7th Annual Guthrie Battle http://t.co/oNqz1NcK #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "189421706010574850"
-  },
-  {
     "id": "2012-04-09-tw189342124121128961",
     "date": "2012-04-09",
     "year": 2012,
@@ -8124,6 +8534,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "189342124121128961"
+  },
+  {
+    "id": "2012-04-09-tw189421706010574850",
+    "date": "2012-04-09",
+    "year": 2012,
+    "headline": "Battle Of The Bands Rocks Out The 7th Annual Guthrie Battle http://t",
+    "body": "Battle Of The Bands Rocks Out The 7th Annual Guthrie Battle http://t.co/oNqz1NcK #guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "189421706010574850"
   },
   {
     "id": "2012-04-10-5623",
@@ -8294,65 +8715,17 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2012-05-22-tw204940885245427712",
+    "id": "2012-05-22-tw204939971147214848",
     "date": "2012-05-22",
     "year": 2012,
-    "headline": "FFA Students Sweep District 7 Competition http://t",
-    "body": "FFA Students Sweep District 7 Competition http://t.co/qMfVZei6 #guthrie_center",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "204940885245427712"
-  },
-  {
-    "id": "2012-05-22-tw204940829935153153",
-    "date": "2012-05-22",
-    "year": 2012,
-    "headline": "NJROTC Continues Streak Of Earning Distinguished Unit With Academic Honors http://t",
-    "body": "NJROTC Continues Streak Of Earning Distinguished Unit With Academic Honors http://t.co/adO4fsKl #guthrie_center",
+    "headline": "NJROTC Academically In Top 3% http://t",
+    "body": "NJROTC Academically In Top 3% http://t.co/4YibQWeU #guthrie_center",
     "programs": [
       "NJROTC"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "204940829935153153"
-  },
-  {
-    "id": "2012-05-22-tw204940804182114304",
-    "date": "2012-05-22",
-    "year": 2012,
-    "headline": "Animation Students Accepted At Ringling http://t",
-    "body": "Animation Students Accepted At Ringling http://t.co/ZtKkbOn3 #guthrie_center",
-    "programs": [
-      "3D Animation"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "204940804182114304"
-  },
-  {
-    "id": "2012-05-22-tw204940785500688384",
-    "date": "2012-05-22",
-    "year": 2012,
-    "headline": "What A Year In Animation Can Do To You http://t",
-    "body": "What A Year In Animation Can Do To You http://t.co/gsassmg1 #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "204940785500688384"
-  },
-  {
-    "id": "2012-05-22-tw204940768568283138",
-    "date": "2012-05-22",
-    "year": 2012,
-    "headline": "Making Us Look Good Once Again http://t",
-    "body": "Making Us Look Good Once Again http://t.co/wRGICNwK #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "204940768568283138"
+    "tweet_id": "204939971147214848"
   },
   {
     "id": "2012-05-22-tw204940713178308608",
@@ -8368,17 +8741,65 @@ const NEWS_DATA =
     "tweet_id": "204940713178308608"
   },
   {
-    "id": "2012-05-22-tw204939971147214848",
+    "id": "2012-05-22-tw204940768568283138",
     "date": "2012-05-22",
     "year": 2012,
-    "headline": "NJROTC Academically In Top 3% http://t",
-    "body": "NJROTC Academically In Top 3% http://t.co/4YibQWeU #guthrie_center",
+    "headline": "Making Us Look Good Once Again http://t",
+    "body": "Making Us Look Good Once Again http://t.co/wRGICNwK #guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "204940768568283138"
+  },
+  {
+    "id": "2012-05-22-tw204940785500688384",
+    "date": "2012-05-22",
+    "year": 2012,
+    "headline": "What A Year In Animation Can Do To You http://t",
+    "body": "What A Year In Animation Can Do To You http://t.co/gsassmg1 #guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "204940785500688384"
+  },
+  {
+    "id": "2012-05-22-tw204940804182114304",
+    "date": "2012-05-22",
+    "year": 2012,
+    "headline": "Animation Students Accepted At Ringling http://t",
+    "body": "Animation Students Accepted At Ringling http://t.co/ZtKkbOn3 #guthrie_center",
+    "programs": [
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "204940804182114304"
+  },
+  {
+    "id": "2012-05-22-tw204940829935153153",
+    "date": "2012-05-22",
+    "year": 2012,
+    "headline": "NJROTC Continues Streak Of Earning Distinguished Unit With Academic Honors http://t",
+    "body": "NJROTC Continues Streak Of Earning Distinguished Unit With Academic Honors http://t.co/adO4fsKl #guthrie_center",
     "programs": [
       "NJROTC"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "204939971147214848"
+    "tweet_id": "204940829935153153"
+  },
+  {
+    "id": "2012-05-22-tw204940885245427712",
+    "date": "2012-05-22",
+    "year": 2012,
+    "headline": "FFA Students Sweep District 7 Competition http://t",
+    "body": "FFA Students Sweep District 7 Competition http://t.co/qMfVZei6 #guthrie_center",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "204940885245427712"
   },
   {
     "id": "2012-06-06-tw210316934611341312",
@@ -8479,6 +8900,17 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
+    "id": "2012-09-23-tw249854436204220416",
+    "date": "2012-09-23",
+    "year": 2012,
+    "headline": "Senator Dan Patrick Visits Guthrie State Senator Dan Patrick took http://t",
+    "body": "Senator Dan Patrick Visits Guthrie State Senator Dan Patrick took http://t.co/e6MksPqg #guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "249854436204220416"
+  },
+  {
     "id": "2012-09-23-tw249854580182097921",
     "date": "2012-09-23",
     "year": 2012,
@@ -8491,17 +8923,6 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "249854580182097921"
-  },
-  {
-    "id": "2012-09-23-tw249854436204220416",
-    "date": "2012-09-23",
-    "year": 2012,
-    "headline": "Senator Dan Patrick Visits Guthrie State Senator Dan Patrick took http://t",
-    "body": "Senator Dan Patrick Visits Guthrie State Senator Dan Patrick took http://t.co/e6MksPqg #guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "249854436204220416"
   },
   {
     "id": "2012-09-26-6144",
@@ -8612,43 +9033,15 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2012-11-12-tw268055984335880192",
+    "id": "2012-11-12-tw267955389658710016",
     "date": "2012-11-12",
     "year": 2012,
-    "headline": "Harris County Fair Report All through the week of Septem http://t",
-    "body": "Harris County Fair Report All through the week of Septem http://t.co/KkHtX8kc #guthrie_center",
-    "programs": [
-      "Agricultural Science",
-      "Digital Filmmaking",
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2012/11/sizzle.png",
-    "source": "twitter",
-    "tweet_id": "268055984335880192"
-  },
-  {
-    "id": "2012-11-12-tw268053154891980800",
-    "date": "2012-11-12",
-    "year": 2012,
-    "headline": "Pageant Report Katheryn Tekell and Emilia Cay http://t",
-    "body": "Pageant Report Katheryn Tekell and Emilia Cay http://t.co/xYvlylXp #guthrie_center",
+    "headline": "Food Imitates Life District staff members discove http://t",
+    "body": "Food Imitates Life District staff members discove http://t.co/PXDx9lR7 #guthrie_center",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "268053154891980800"
-  },
-  {
-    "id": "2012-11-12-tw268038852600553473",
-    "date": "2012-11-12",
-    "year": 2012,
-    "headline": "Weaving A New Partnership Digital Film student interns G http://t",
-    "body": "Weaving A New Partnership Digital Film student interns G http://t.co/lEmoBTJC #guthrie_center",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "268038852600553473"
+    "tweet_id": "267955389658710016"
   },
   {
     "id": "2012-11-12-tw267957233441177601",
@@ -8664,15 +9057,43 @@ const NEWS_DATA =
     "tweet_id": "267957233441177601"
   },
   {
-    "id": "2012-11-12-tw267955389658710016",
+    "id": "2012-11-12-tw268038852600553473",
     "date": "2012-11-12",
     "year": 2012,
-    "headline": "Food Imitates Life District staff members discove http://t",
-    "body": "Food Imitates Life District staff members discove http://t.co/PXDx9lR7 #guthrie_center",
+    "headline": "Weaving A New Partnership Digital Film student interns G http://t",
+    "body": "Weaving A New Partnership Digital Film student interns G http://t.co/lEmoBTJC #guthrie_center",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "268038852600553473"
+  },
+  {
+    "id": "2012-11-12-tw268053154891980800",
+    "date": "2012-11-12",
+    "year": 2012,
+    "headline": "Pageant Report Katheryn Tekell and Emilia Cay http://t",
+    "body": "Pageant Report Katheryn Tekell and Emilia Cay http://t.co/xYvlylXp #guthrie_center",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "267955389658710016"
+    "tweet_id": "268053154891980800"
+  },
+  {
+    "id": "2012-11-12-tw268055984335880192",
+    "date": "2012-11-12",
+    "year": 2012,
+    "headline": "Harris County Fair Report All through the week of Septem http://t",
+    "body": "Harris County Fair Report All through the week of Septem http://t.co/KkHtX8kc #guthrie_center",
+    "programs": [
+      "Agricultural Science",
+      "Digital Filmmaking",
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2012/11/sizzle.png",
+    "source": "twitter",
+    "tweet_id": "268055984335880192"
   },
   {
     "id": "2012-11-14-6433",
@@ -8926,28 +9347,15 @@ const NEWS_DATA =
     "tweet_id": "301366550345183232"
   },
   {
-    "id": "2013-02-13-tw301824471738761216",
+    "id": "2013-02-13-tw301531600221515776",
     "date": "2013-02-13",
     "year": 2013,
-    "headline": "Student Photographer Recognized http://t",
-    "body": "Student Photographer Recognized http://t.co/PXnKiOsV",
-    "programs": [
-      "Commercial Photography"
-    ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2013/02/Commercial-Photography.jpeg",
-    "source": "twitter",
-    "tweet_id": "301824471738761216"
-  },
-  {
-    "id": "2013-02-13-tw301820679144235010",
-    "date": "2013-02-13",
-    "year": 2013,
-    "headline": "Ready On The Set - Student Talk Is Coming http://t",
-    "body": "Ready On The Set - Student Talk Is Coming http://t.co/giJ1H7Nq",
+    "headline": "Place And Show At Regionals http://t",
+    "body": "Place And Show At Regionals http://t.co/3h4mMIag",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "301820679144235010"
+    "tweet_id": "301531600221515776"
   },
   {
     "id": "2013-02-13-tw301703965307969538",
@@ -8961,15 +9369,28 @@ const NEWS_DATA =
     "tweet_id": "301703965307969538"
   },
   {
-    "id": "2013-02-13-tw301531600221515776",
+    "id": "2013-02-13-tw301820679144235010",
     "date": "2013-02-13",
     "year": 2013,
-    "headline": "Place And Show At Regionals http://t",
-    "body": "Place And Show At Regionals http://t.co/3h4mMIag",
+    "headline": "Ready On The Set - Student Talk Is Coming http://t",
+    "body": "Ready On The Set - Student Talk Is Coming http://t.co/giJ1H7Nq",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "301531600221515776"
+    "tweet_id": "301820679144235010"
+  },
+  {
+    "id": "2013-02-13-tw301824471738761216",
+    "date": "2013-02-13",
+    "year": 2013,
+    "headline": "Student Photographer Recognized http://t",
+    "body": "Student Photographer Recognized http://t.co/PXnKiOsV",
+    "programs": [
+      "Commercial Photography"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2013/02/Commercial-Photography.jpeg",
+    "source": "twitter",
+    "tweet_id": "301824471738761216"
   },
   {
     "id": "2013-02-19-6748",
@@ -8986,17 +9407,15 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2013-02-19-tw303936165986324484",
+    "id": "2013-02-19-tw303913869884157953",
     "date": "2013-02-19",
     "year": 2013,
-    "headline": "NTHS Inducts 59 Members http://t",
-    "body": "NTHS Inducts 59 Members http://t.co/jX63kCd4",
-    "programs": [
-      "NTHS"
-    ],
+    "headline": "This Is How It's Done http://t",
+    "body": "This Is How It's Done http://t.co/zDJJwOIp",
+    "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "303936165986324484"
+    "tweet_id": "303913869884157953"
   },
   {
     "id": "2013-02-19-tw303930388592619520",
@@ -9010,15 +9429,17 @@ const NEWS_DATA =
     "tweet_id": "303930388592619520"
   },
   {
-    "id": "2013-02-19-tw303913869884157953",
+    "id": "2013-02-19-tw303936165986324484",
     "date": "2013-02-19",
     "year": 2013,
-    "headline": "This Is How It's Done http://t",
-    "body": "This Is How It's Done http://t.co/zDJJwOIp",
-    "programs": [],
+    "headline": "NTHS Inducts 59 Members http://t",
+    "body": "NTHS Inducts 59 Members http://t.co/jX63kCd4",
+    "programs": [
+      "NTHS"
+    ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "303913869884157953"
+    "tweet_id": "303936165986324484"
   },
   {
     "id": "2013-02-20-6757",
@@ -9354,43 +9775,28 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2013-05-08-tw332260599872495619",
+    "id": "2013-05-08-tw332196869780430848",
     "date": "2013-05-08",
     "year": 2013,
-    "headline": "NetRiders Get Off To A Sprint http://t",
-    "body": "NetRiders Get Off To A Sprint http://t.co/EsBRE73Q9y",
-    "programs": [
-      "Networking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "332260599872495619"
-  },
-  {
-    "id": "2013-05-08-tw332260337623654401",
-    "date": "2013-05-08",
-    "year": 2013,
-    "headline": "Architectural Design Wins Big At AIA Competition http://t",
-    "body": "Architectural Design Wins Big At AIA Competition http://t.co/CXUNk59yOd",
-    "programs": [
-      "Architectural Design"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "332260337623654401"
-  },
-  {
-    "id": "2013-05-08-tw332215143591198720",
-    "date": "2013-05-08",
-    "year": 2013,
-    "headline": "Reel Teen Film Festival Winners http://t",
-    "body": "Reel Teen Film Festival Winners http://t.co/qBmqO4ciCi",
+    "headline": "And The Worldfest Remi Awards Go To",
+    "body": "And The Worldfest Remi Awards Go To.... http://t.co/Q3M328GJuF",
     "programs": [
       "Digital Filmmaking"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "332215143591198720"
+    "tweet_id": "332196869780430848"
+  },
+  {
+    "id": "2013-05-08-tw332203583405694976",
+    "date": "2013-05-08",
+    "year": 2013,
+    "headline": "Officers For 2013-2014 Elected http://t",
+    "body": "Officers For 2013-2014 Elected http://t.co/YiE5fg9whS",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "332203583405694976"
   },
   {
     "id": "2013-05-08-tw332206609663160321",
@@ -9406,28 +9812,43 @@ const NEWS_DATA =
     "tweet_id": "332206609663160321"
   },
   {
-    "id": "2013-05-08-tw332203583405694976",
+    "id": "2013-05-08-tw332215143591198720",
     "date": "2013-05-08",
     "year": 2013,
-    "headline": "Officers For 2013-2014 Elected http://t",
-    "body": "Officers For 2013-2014 Elected http://t.co/YiE5fg9whS",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "332203583405694976"
-  },
-  {
-    "id": "2013-05-08-tw332196869780430848",
-    "date": "2013-05-08",
-    "year": 2013,
-    "headline": "And The Worldfest Remi Awards Go To",
-    "body": "And The Worldfest Remi Awards Go To.... http://t.co/Q3M328GJuF",
+    "headline": "Reel Teen Film Festival Winners http://t",
+    "body": "Reel Teen Film Festival Winners http://t.co/qBmqO4ciCi",
     "programs": [
       "Digital Filmmaking"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "332196869780430848"
+    "tweet_id": "332215143591198720"
+  },
+  {
+    "id": "2013-05-08-tw332260337623654401",
+    "date": "2013-05-08",
+    "year": 2013,
+    "headline": "Architectural Design Wins Big At AIA Competition http://t",
+    "body": "Architectural Design Wins Big At AIA Competition http://t.co/CXUNk59yOd",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "332260337623654401"
+  },
+  {
+    "id": "2013-05-08-tw332260599872495619",
+    "date": "2013-05-08",
+    "year": 2013,
+    "headline": "NetRiders Get Off To A Sprint http://t",
+    "body": "NetRiders Get Off To A Sprint http://t.co/EsBRE73Q9y",
+    "programs": [
+      "Networking"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "332260599872495619"
   },
   {
     "id": "2013-05-09-7136",
@@ -9511,19 +9932,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2013-05-17-tw335485863049957377",
-    "date": "2013-05-17",
-    "year": 2013,
-    "headline": "Commercial Photography Students Earn Big Bucks http://t",
-    "body": "Commercial Photography Students Earn Big Bucks http://t.co/I5wQBxOAs9",
-    "programs": [
-      "Commercial Photography"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "335485863049957377"
-  },
-  {
     "id": "2013-05-17-tw335481143614922752",
     "date": "2013-05-17",
     "year": 2013,
@@ -9535,6 +9943,19 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "335481143614922752"
+  },
+  {
+    "id": "2013-05-17-tw335485863049957377",
+    "date": "2013-05-17",
+    "year": 2013,
+    "headline": "Commercial Photography Students Earn Big Bucks http://t",
+    "body": "Commercial Photography Students Earn Big Bucks http://t.co/I5wQBxOAs9",
+    "programs": [
+      "Commercial Photography"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "335485863049957377"
   },
   {
     "id": "2013-05-21-tw336848364505268226",
@@ -9886,39 +10307,15 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2013-09-30-tw384758650872410112",
+    "id": "2013-09-30-tw384631331365195776",
     "date": "2013-09-30",
     "year": 2013,
-    "headline": "Spring Branch Cadets Open National USCG CPOA Convention http://t",
-    "body": "Spring Branch Cadets Open National USCG CPOA Convention http://t.co/FWJ27JvFrD",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "384758650872410112"
-  },
-  {
-    "id": "2013-09-30-tw384758443694755841",
-    "date": "2013-09-30",
-    "year": 2013,
-    "headline": "Architectural Photographer Leaves Impression http://t",
-    "body": "Architectural Photographer Leaves Impression http://t.co/c0HEzmpm4W",
+    "headline": "Community Tuesday Open House http://t",
+    "body": "Community Tuesday Open House http://t.co/37vBsFRArF",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "384758443694755841"
-  },
-  {
-    "id": "2013-09-30-tw384757571170476032",
-    "date": "2013-09-30",
-    "year": 2013,
-    "headline": "Back to School Health Fair http://t",
-    "body": "Back to School Health Fair http://t.co/44gC2NaTIJ",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "384757571170476032"
+    "tweet_id": "384631331365195776"
   },
   {
     "id": "2013-09-30-tw384757293977305088",
@@ -9934,15 +10331,39 @@ const NEWS_DATA =
     "tweet_id": "384757293977305088"
   },
   {
-    "id": "2013-09-30-tw384631331365195776",
+    "id": "2013-09-30-tw384757571170476032",
     "date": "2013-09-30",
     "year": 2013,
-    "headline": "Community Tuesday Open House http://t",
-    "body": "Community Tuesday Open House http://t.co/37vBsFRArF",
+    "headline": "Back to School Health Fair http://t",
+    "body": "Back to School Health Fair http://t.co/44gC2NaTIJ",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "384631331365195776"
+    "tweet_id": "384757571170476032"
+  },
+  {
+    "id": "2013-09-30-tw384758443694755841",
+    "date": "2013-09-30",
+    "year": 2013,
+    "headline": "Architectural Photographer Leaves Impression http://t",
+    "body": "Architectural Photographer Leaves Impression http://t.co/c0HEzmpm4W",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "384758443694755841"
+  },
+  {
+    "id": "2013-09-30-tw384758650872410112",
+    "date": "2013-09-30",
+    "year": 2013,
+    "headline": "Spring Branch Cadets Open National USCG CPOA Convention http://t",
+    "body": "Spring Branch Cadets Open National USCG CPOA Convention http://t.co/FWJ27JvFrD",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "384758650872410112"
   },
   {
     "id": "2013-10-08-8298",
@@ -10155,17 +10576,17 @@ const NEWS_DATA =
     "tweet_id": "401411627762720769"
   },
   {
-    "id": "2013-11-18-tw402448509401436160",
+    "id": "2013-11-18-tw402398083087998977",
     "date": "2013-11-18",
     "year": 2013,
-    "headline": "HC Fair And Youth Expo Results For FFA http://t",
-    "body": "HC Fair And Youth Expo Results For FFA http://t.co/3jFvK4Pkio",
+    "headline": "Santa's Farm - A Gift To You From FFA http://t",
+    "body": "Santa's Farm - A Gift To You From FFA http://t.co/GdnkwSJjon",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "402448509401436160"
+    "tweet_id": "402398083087998977"
   },
   {
     "id": "2013-11-18-tw402433546842677248",
@@ -10181,17 +10602,17 @@ const NEWS_DATA =
     "tweet_id": "402433546842677248"
   },
   {
-    "id": "2013-11-18-tw402398083087998977",
+    "id": "2013-11-18-tw402448509401436160",
     "date": "2013-11-18",
     "year": 2013,
-    "headline": "Santa's Farm - A Gift To You From FFA http://t",
-    "body": "Santa's Farm - A Gift To You From FFA http://t.co/GdnkwSJjon",
+    "headline": "HC Fair And Youth Expo Results For FFA http://t",
+    "body": "HC Fair And Youth Expo Results For FFA http://t.co/3jFvK4Pkio",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "402398083087998977"
+    "tweet_id": "402448509401436160"
   },
   {
     "id": "2013-12-02-tw407568106555338753",
@@ -10309,17 +10730,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2014-01-21-tw425599625819455488",
-    "date": "2014-01-21",
-    "year": 2014,
-    "headline": "Course Selection Preview Night: January 23 http://t",
-    "body": "Course Selection Preview Night: January 23 http://t.co/QKEL9JyD3D",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "425599625819455488"
-  },
-  {
     "id": "2014-01-21-tw425590400842096641",
     "date": "2014-01-21",
     "year": 2014,
@@ -10331,6 +10741,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "425590400842096641"
+  },
+  {
+    "id": "2014-01-21-tw425599625819455488",
+    "date": "2014-01-21",
+    "year": 2014,
+    "headline": "Course Selection Preview Night: January 23 http://t",
+    "body": "Course Selection Preview Night: January 23 http://t.co/QKEL9JyD3D",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "425599625819455488"
   },
   {
     "id": "2014-01-23-tw426381648175697920",
@@ -10392,19 +10813,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2014-02-10-tw432907510937182208",
-    "date": "2014-02-10",
-    "year": 2014,
-    "headline": "36th Annual FFA Show and Sale http://t",
-    "body": "36th Annual FFA Show and Sale http://t.co/sNxV62Mrx0",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "432907510937182208"
-  },
-  {
     "id": "2014-02-10-tw432723336624222209",
     "date": "2014-02-10",
     "year": 2014,
@@ -10416,6 +10824,19 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "432723336624222209"
+  },
+  {
+    "id": "2014-02-10-tw432907510937182208",
+    "date": "2014-02-10",
+    "year": 2014,
+    "headline": "36th Annual FFA Show and Sale http://t",
+    "body": "36th Annual FFA Show and Sale http://t.co/sNxV62Mrx0",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "432907510937182208"
   },
   {
     "id": "2014-02-15-8998",
@@ -10636,93 +11057,17 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2014-05-13-tw466313081669177344",
+    "id": "2014-05-13-tw466286193068367872",
     "date": "2014-05-13",
     "year": 2014,
-    "headline": "FFA Day At The Capitol 2014 http://t",
-    "body": "FFA Day At The Capitol 2014 http://t.co/iy8yGrPDdf",
+    "headline": "NJROTC Brings It For The 9th Year In A Row http://t",
+    "body": "NJROTC Brings It For The 9th Year In A Row http://t.co/bo5LcNDNaM",
     "programs": [
-      "Agricultural Science"
+      "NJROTC"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "466313081669177344"
-  },
-  {
-    "id": "2014-05-13-tw466304361031667712",
-    "date": "2014-05-13",
-    "year": 2014,
-    "headline": "Digital Film Student Earns Statewide Honorable Mention http://t",
-    "body": "Digital Film Student Earns Statewide Honorable Mention http://t.co/mGokqPVGPk",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "466304361031667712"
-  },
-  {
-    "id": "2014-05-13-tw466289104477380608",
-    "date": "2014-05-13",
-    "year": 2014,
-    "headline": "Filmmaker Finalists in The Greatest Save Competition http://t",
-    "body": "Filmmaker Finalists in The Greatest Save Competition http://t.co/3wjrNdA3S2",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "466289104477380608"
-  },
-  {
-    "id": "2014-05-13-tw466289075805102081",
-    "date": "2014-05-13",
-    "year": 2014,
-    "headline": "Spring Branch Eagles Still Fit To Win http://t",
-    "body": "Spring Branch Eagles Still Fit To Win http://t.co/IwJfDZ7its",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "466289075805102081"
-  },
-  {
-    "id": "2014-05-13-tw466288863925657600",
-    "date": "2014-05-13",
-    "year": 2014,
-    "headline": "Guthrie Students Earn Awards At Mediafest http://t",
-    "body": "Guthrie Students Earn Awards At Mediafest http://t.co/hOHMYJy6E5",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "466288863925657600"
-  },
-  {
-    "id": "2014-05-13-tw466288462547910658",
-    "date": "2014-05-13",
-    "year": 2014,
-    "headline": "FFA Ambassador Appointment Honor http://t",
-    "body": "FFA Ambassador Appointment Honor http://t.co/i7n6fBLeIr",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "466288462547910658"
-  },
-  {
-    "id": "2014-05-13-tw466288275431243777",
-    "date": "2014-05-13",
-    "year": 2014,
-    "headline": "Digital Film Alum Featured In Chronicle http://t",
-    "body": "Digital Film Alum Featured In Chronicle http://t.co/HFamuuMyPd",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "466288275431243777"
+    "tweet_id": "466286193068367872"
   },
   {
     "id": "2014-05-13-tw466288228916400128",
@@ -10738,30 +11083,93 @@ const NEWS_DATA =
     "tweet_id": "466288228916400128"
   },
   {
-    "id": "2014-05-13-tw466286193068367872",
+    "id": "2014-05-13-tw466288275431243777",
     "date": "2014-05-13",
     "year": 2014,
-    "headline": "NJROTC Brings It For The 9th Year In A Row http://t",
-    "body": "NJROTC Brings It For The 9th Year In A Row http://t.co/bo5LcNDNaM",
+    "headline": "Digital Film Alum Featured In Chronicle http://t",
+    "body": "Digital Film Alum Featured In Chronicle http://t.co/HFamuuMyPd",
     "programs": [
-      "NJROTC"
+      "Digital Filmmaking"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "466286193068367872"
+    "tweet_id": "466288275431243777"
   },
   {
-    "id": "2014-05-14-tw466649349150478337",
-    "date": "2014-05-14",
+    "id": "2014-05-13-tw466288462547910658",
+    "date": "2014-05-13",
     "year": 2014,
-    "headline": "FFA Banquet 2014 http://t",
-    "body": "FFA Banquet 2014 http://t.co/1CmyliveHT",
+    "headline": "FFA Ambassador Appointment Honor http://t",
+    "body": "FFA Ambassador Appointment Honor http://t.co/i7n6fBLeIr",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "466649349150478337"
+    "tweet_id": "466288462547910658"
+  },
+  {
+    "id": "2014-05-13-tw466288863925657600",
+    "date": "2014-05-13",
+    "year": 2014,
+    "headline": "Guthrie Students Earn Awards At Mediafest http://t",
+    "body": "Guthrie Students Earn Awards At Mediafest http://t.co/hOHMYJy6E5",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "466288863925657600"
+  },
+  {
+    "id": "2014-05-13-tw466289075805102081",
+    "date": "2014-05-13",
+    "year": 2014,
+    "headline": "Spring Branch Eagles Still Fit To Win http://t",
+    "body": "Spring Branch Eagles Still Fit To Win http://t.co/IwJfDZ7its",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "466289075805102081"
+  },
+  {
+    "id": "2014-05-13-tw466289104477380608",
+    "date": "2014-05-13",
+    "year": 2014,
+    "headline": "Filmmaker Finalists in The Greatest Save Competition http://t",
+    "body": "Filmmaker Finalists in The Greatest Save Competition http://t.co/3wjrNdA3S2",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "466289104477380608"
+  },
+  {
+    "id": "2014-05-13-tw466304361031667712",
+    "date": "2014-05-13",
+    "year": 2014,
+    "headline": "Digital Film Student Earns Statewide Honorable Mention http://t",
+    "body": "Digital Film Student Earns Statewide Honorable Mention http://t.co/mGokqPVGPk",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "466304361031667712"
+  },
+  {
+    "id": "2014-05-13-tw466313081669177344",
+    "date": "2014-05-13",
+    "year": 2014,
+    "headline": "FFA Day At The Capitol 2014 http://t",
+    "body": "FFA Day At The Capitol 2014 http://t.co/iy8yGrPDdf",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "466313081669177344"
   },
   {
     "id": "2014-05-14-tw466594439096315904",
@@ -10775,6 +11183,19 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "466594439096315904"
+  },
+  {
+    "id": "2014-05-14-tw466649349150478337",
+    "date": "2014-05-14",
+    "year": 2014,
+    "headline": "FFA Banquet 2014 http://t",
+    "body": "FFA Banquet 2014 http://t.co/1CmyliveHT",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "466649349150478337"
   },
   {
     "id": "2014-05-16-9090",
@@ -11005,17 +11426,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2014-10-17-tw523199381948727296",
-    "date": "2014-10-17",
-    "year": 2014,
-    "headline": "And The Emmy Goes To http://t",
-    "body": "And The Emmy Goes To http://t.co/Up8PdLDx4v",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "523199381948727296"
-  },
-  {
     "id": "2014-10-17-tw523179007898951680",
     "date": "2014-10-17",
     "year": 2014,
@@ -11025,6 +11435,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "523179007898951680"
+  },
+  {
+    "id": "2014-10-17-tw523199381948727296",
+    "date": "2014-10-17",
+    "year": 2014,
+    "headline": "And The Emmy Goes To http://t",
+    "body": "And The Emmy Goes To http://t.co/Up8PdLDx4v",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "523199381948727296"
   },
   {
     "id": "2014-10-21-9643",
@@ -11070,17 +11491,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2014-12-04-tw540543103480778752",
-    "date": "2014-12-04",
-    "year": 2014,
-    "headline": "Santa’s Farm Is Friday http://t",
-    "body": "Santa’s Farm Is Friday http://t.co/rwGxvNYN4n",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "540543103480778752"
-  },
-  {
     "id": "2014-12-04-tw540536981449482240",
     "date": "2014-12-04",
     "year": 2014,
@@ -11092,6 +11502,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "540536981449482240"
+  },
+  {
+    "id": "2014-12-04-tw540543103480778752",
+    "date": "2014-12-04",
+    "year": 2014,
+    "headline": "Santa’s Farm Is Friday http://t",
+    "body": "Santa’s Farm Is Friday http://t.co/rwGxvNYN4n",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "540543103480778752"
   },
   {
     "id": "2015-01-21-13705",
@@ -11333,15 +11754,17 @@ const NEWS_DATA =
     "tweet_id": "600823451096469504"
   },
   {
-    "id": "2015-05-21-tw601187640554074114",
+    "id": "2015-05-21-tw601186302076133376",
     "date": "2015-05-21",
     "year": 2015,
-    "headline": "HWCOC Business and Education Partnership Luncheon http://t",
-    "body": "HWCOC Business and Education Partnership Luncheon http://t.co/2HvDV3Rm8m",
-    "programs": [],
+    "headline": "NTHS End Of Year Celebration http://t",
+    "body": "NTHS End Of Year Celebration http://t.co/Yp7CksdlaN",
+    "programs": [
+      "NTHS"
+    ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "601187640554074114"
+    "tweet_id": "601186302076133376"
   },
   {
     "id": "2015-05-21-tw601187353164582912",
@@ -11357,17 +11780,15 @@ const NEWS_DATA =
     "tweet_id": "601187353164582912"
   },
   {
-    "id": "2015-05-21-tw601186302076133376",
+    "id": "2015-05-21-tw601187640554074114",
     "date": "2015-05-21",
     "year": 2015,
-    "headline": "NTHS End Of Year Celebration http://t",
-    "body": "NTHS End Of Year Celebration http://t.co/Yp7CksdlaN",
-    "programs": [
-      "NTHS"
-    ],
+    "headline": "HWCOC Business and Education Partnership Luncheon http://t",
+    "body": "HWCOC Business and Education Partnership Luncheon http://t.co/2HvDV3Rm8m",
+    "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "601186302076133376"
+    "tweet_id": "601187640554074114"
   },
   {
     "id": "2015-06-09-14136",
@@ -11405,17 +11826,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2015-07-13-tw620673544695869441",
-    "date": "2015-07-13",
-    "year": 2015,
-    "headline": "Welcome Katie http://t",
-    "body": "Welcome Katie http://t.co/taUfsAjEfj",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "620673544695869441"
-  },
-  {
     "id": "2015-07-13-tw620667550469259264",
     "date": "2015-07-13",
     "year": 2015,
@@ -11425,6 +11835,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "620667550469259264"
+  },
+  {
+    "id": "2015-07-13-tw620673544695869441",
+    "date": "2015-07-13",
+    "year": 2015,
+    "headline": "Welcome Katie http://t",
+    "body": "Welcome Katie http://t.co/taUfsAjEfj",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "620673544695869441"
   },
   {
     "id": "2015-08-19-tw633917615711240192",
@@ -11486,17 +11907,15 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2015-09-12-tw642760660082819072",
+    "id": "2015-09-12-tw642602832168747008",
     "date": "2015-09-12",
     "year": 2015,
-    "headline": "Orienteering Teams Unite http://t",
-    "body": "Orienteering Teams Unite http://t.co/9eHQWGSOJR http://t.co/YuIXdix2qa",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/COuLaevUcAA4NWx.jpg",
+    "headline": "Last Minute Additions http://t",
+    "body": "Last Minute Additions http://t.co/whMMFt0j0o",
+    "programs": [],
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "642760660082819072"
+    "tweet_id": "642602832168747008"
   },
   {
     "id": "2015-09-12-tw642609134911643648",
@@ -11512,15 +11931,17 @@ const NEWS_DATA =
     "tweet_id": "642609134911643648"
   },
   {
-    "id": "2015-09-12-tw642602832168747008",
+    "id": "2015-09-12-tw642760660082819072",
     "date": "2015-09-12",
     "year": 2015,
-    "headline": "Last Minute Additions http://t",
-    "body": "Last Minute Additions http://t.co/whMMFt0j0o",
-    "programs": [],
-    "imageUrl": null,
+    "headline": "Orienteering Teams Unite http://t",
+    "body": "Orienteering Teams Unite http://t.co/9eHQWGSOJR http://t.co/YuIXdix2qa",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/COuLaevUcAA4NWx.jpg",
     "source": "twitter",
-    "tweet_id": "642602832168747008"
+    "tweet_id": "642760660082819072"
   },
   {
     "id": "2015-09-21-14354",
@@ -11548,17 +11969,15 @@ const NEWS_DATA =
     "tweet_id": "645950795439992833"
   },
   {
-    "id": "2015-10-15-tw654733530115641344",
+    "id": "2015-10-15-tw654594794102984704",
     "date": "2015-10-15",
     "year": 2015,
-    "headline": "NTHS Car Wash Saturday at Guthrie http://t",
-    "body": "NTHS Car Wash Saturday at Guthrie http://t.co/unpddJev42",
-    "programs": [
-      "NTHS"
-    ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2015/10/NTHS7.jpg",
+    "headline": "Tuesday Is For Our Community http://t",
+    "body": "Tuesday Is For Our Community http://t.co/DAGEUjANHK",
+    "programs": [],
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "654733530115641344"
+    "tweet_id": "654594794102984704"
   },
   {
     "id": "2015-10-15-tw654656356721389568",
@@ -11572,15 +11991,17 @@ const NEWS_DATA =
     "tweet_id": "654656356721389568"
   },
   {
-    "id": "2015-10-15-tw654594794102984704",
+    "id": "2015-10-15-tw654733530115641344",
     "date": "2015-10-15",
     "year": 2015,
-    "headline": "Tuesday Is For Our Community http://t",
-    "body": "Tuesday Is For Our Community http://t.co/DAGEUjANHK",
-    "programs": [],
-    "imageUrl": null,
+    "headline": "NTHS Car Wash Saturday at Guthrie http://t",
+    "body": "NTHS Car Wash Saturday at Guthrie http://t.co/unpddJev42",
+    "programs": [
+      "NTHS"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2015/10/NTHS7.jpg",
     "source": "twitter",
-    "tweet_id": "654594794102984704"
+    "tweet_id": "654733530115641344"
   },
   {
     "id": "2015-10-17-tw655431906238988288",
@@ -11651,15 +12072,15 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2015-11-13-tw665259052801232896",
+    "id": "2015-11-13-tw665257104404410368",
     "date": "2015-11-13",
     "year": 2015,
-    "headline": "November CIT Meeting",
-    "body": "November CIT Meeting",
+    "headline": "Guthrie’s Campus Improvement Plan",
+    "body": "Guthrie’s Campus Improvement Plan",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "665259052801232896"
+    "tweet_id": "665257104404410368"
   },
   {
     "id": "2015-11-13-tw665258808172785664",
@@ -11673,15 +12094,15 @@ const NEWS_DATA =
     "tweet_id": "665258808172785664"
   },
   {
-    "id": "2015-11-13-tw665257104404410368",
+    "id": "2015-11-13-tw665259052801232896",
     "date": "2015-11-13",
     "year": 2015,
-    "headline": "Guthrie’s Campus Improvement Plan",
-    "body": "Guthrie’s Campus Improvement Plan",
+    "headline": "November CIT Meeting",
+    "body": "November CIT Meeting",
     "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "665257104404410368"
+    "tweet_id": "665259052801232896"
   },
   {
     "id": "2015-11-20-tw667494709393235968",
@@ -11708,17 +12129,6 @@ const NEWS_DATA =
     "tweet_id": "672053937340416000"
   },
   {
-    "id": "2015-12-05-tw672944426591784960",
-    "date": "2015-12-05",
-    "year": 2015,
-    "headline": "Face painting, hay rides, crafts, fun and free! #SantasFarm",
-    "body": "Face painting, hay rides, crafts, fun and free! #SantasFarm",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/CVbHY_NU8AA1_TM.jpg",
-    "source": "twitter",
-    "tweet_id": "672944426591784960"
-  },
-  {
     "id": "2015-12-05-tw672943225896701952",
     "date": "2015-12-05",
     "year": 2015,
@@ -11730,6 +12140,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/CVbGSeZUAAAmrBn.jpg",
     "source": "twitter",
     "tweet_id": "672943225896701952"
+  },
+  {
+    "id": "2015-12-05-tw672944426591784960",
+    "date": "2015-12-05",
+    "year": 2015,
+    "headline": "Face painting, hay rides, crafts, fun and free! #SantasFarm",
+    "body": "Face painting, hay rides, crafts, fun and free! #SantasFarm",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/CVbHY_NU8AA1_TM.jpg",
+    "source": "twitter",
+    "tweet_id": "672944426591784960"
   },
   {
     "id": "2016-01-24-14641",
@@ -11770,26 +12191,15 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2016-01-25-tw691707729463762944",
+    "id": "2016-01-25-tw691634361486061573",
     "date": "2016-01-25",
     "year": 2016,
-    "headline": "Spring Branch Community Education News",
-    "body": "Spring Branch Community Education News",
+    "headline": "The Guthrie Experience: Architectural Design",
+    "body": "The Guthrie Experience: Architectural Design",
     "programs": [],
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/CZktyT8UUAEXmg6.jpg",
     "source": "twitter",
-    "tweet_id": "691707729463762944"
-  },
-  {
-    "id": "2016-01-25-tw691648499192999937",
-    "date": "2016-01-25",
-    "year": 2016,
-    "headline": "The Guthrie Experience: Computer Tech",
-    "body": "The Guthrie Experience: Computer Tech",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/CZk6pPMUMAElD9h.jpg",
-    "source": "twitter",
-    "tweet_id": "691648499192999937"
+    "tweet_id": "691634361486061573"
   },
   {
     "id": "2016-01-25-tw691646111438622720",
@@ -11805,15 +12215,26 @@ const NEWS_DATA =
     "tweet_id": "691646111438622720"
   },
   {
-    "id": "2016-01-25-tw691634361486061573",
+    "id": "2016-01-25-tw691648499192999937",
     "date": "2016-01-25",
     "year": 2016,
-    "headline": "The Guthrie Experience: Architectural Design",
-    "body": "The Guthrie Experience: Architectural Design",
+    "headline": "The Guthrie Experience: Computer Tech",
+    "body": "The Guthrie Experience: Computer Tech",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/CZktyT8UUAEXmg6.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CZk6pPMUMAElD9h.jpg",
     "source": "twitter",
-    "tweet_id": "691634361486061573"
+    "tweet_id": "691648499192999937"
+  },
+  {
+    "id": "2016-01-25-tw691707729463762944",
+    "date": "2016-01-25",
+    "year": 2016,
+    "headline": "Spring Branch Community Education News",
+    "body": "Spring Branch Community Education News",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "691707729463762944"
   },
   {
     "id": "2016-02-01-14665",
@@ -11841,56 +12262,17 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2016-02-12-tw698293091736748032",
+    "id": "2016-02-12-tw698247381003870208",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "FFA Show and Sale results: NON-LIVESTOCK",
-    "body": "FFA Show and Sale results: NON-LIVESTOCK. #EveryChild #SBFFA",
+    "headline": "The FFA Show and Sale is rolling from now until 7PM",
+    "body": "The FFA Show and Sale is rolling from now until 7PM. Still to come: rabbits, goats, lambs, heifers, steer &amp; swine.",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CbDV2gsUsAECXUN.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CbCsSDtUYAALTQJ.jpg",
     "source": "twitter",
-    "tweet_id": "698293091736748032"
-  },
-  {
-    "id": "2016-02-12-tw698274514036068352",
-    "date": "2016-02-12",
-    "year": 2016,
-    "headline": "FFA Show and Sale - goats finishing up, lambs awaiting",
-    "body": "FFA Show and Sale - goats finishing up, lambs awaiting. #EveryChild #SBFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CbDE9BvVIAAUlCJ.jpg",
-    "source": "twitter",
-    "tweet_id": "698274514036068352"
-  },
-  {
-    "id": "2016-02-12-tw698271790200557568",
-    "date": "2016-02-12",
-    "year": 2016,
-    "headline": "FFA Show and Sale Goat Show #EveryChild #SBFFA",
-    "body": "FFA Show and Sale Goat Show #EveryChild #SBFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CbDCeKkUsAA6mVm.jpg",
-    "source": "twitter",
-    "tweet_id": "698271790200557568"
-  },
-  {
-    "id": "2016-02-12-tw698268197099704320",
-    "date": "2016-02-12",
-    "year": 2016,
-    "headline": "FFA Show and Sale results: BROILERS",
-    "body": "FFA Show and Sale results: BROILERS. #EveryChild #SBFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CbC_Ob-UcAAq9T-.jpg",
-    "source": "twitter",
-    "tweet_id": "698268197099704320"
+    "tweet_id": "698247381003870208"
   },
   {
     "id": "2016-02-12-tw698255903833784320",
@@ -11906,69 +12288,69 @@ const NEWS_DATA =
     "tweet_id": "698255903833784320"
   },
   {
-    "id": "2016-02-12-tw698247381003870208",
+    "id": "2016-02-12-tw698268197099704320",
     "date": "2016-02-12",
     "year": 2016,
-    "headline": "The FFA Show and Sale is rolling from now until 7PM",
-    "body": "The FFA Show and Sale is rolling from now until 7PM. Still to come: rabbits, goats, lambs, heifers, steer &amp; swine.",
+    "headline": "FFA Show and Sale results: BROILERS",
+    "body": "FFA Show and Sale results: BROILERS. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CbCsSDtUYAALTQJ.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CbC_Ob-UcAAq9T-.jpg",
     "source": "twitter",
-    "tweet_id": "698247381003870208"
+    "tweet_id": "698268197099704320"
   },
   {
-    "id": "2016-02-13-tw698590902327988224",
-    "date": "2016-02-13",
+    "id": "2016-02-12-tw698271790200557568",
+    "date": "2016-02-12",
     "year": 2016,
-    "headline": "Spring Branch FFA Auction, a great place to be on a Saturday in February",
-    "body": "Spring Branch FFA Auction, a great place to be on a Saturday in February. #SBFFA #EveryChild",
+    "headline": "FFA Show and Sale Goat Show #EveryChild #SBFFA",
+    "body": "FFA Show and Sale Goat Show #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CbHkuWuUMAEZUBW.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CbDCeKkUsAA6mVm.jpg",
     "source": "twitter",
-    "tweet_id": "698590902327988224"
+    "tweet_id": "698271790200557568"
   },
   {
-    "id": "2016-02-13-tw698588273250168832",
-    "date": "2016-02-13",
+    "id": "2016-02-12-tw698274514036068352",
+    "date": "2016-02-12",
     "year": 2016,
-    "headline": "The FFA Auction is Live! Grand Champion Steer on the block!",
-    "body": "The FFA Auction is Live! Grand Champion Steer on the block!",
+    "headline": "FFA Show and Sale - goats finishing up, lambs awaiting",
+    "body": "FFA Show and Sale - goats finishing up, lambs awaiting. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/698588094061113344/pu/img/EesxIiN0g3LAvduG.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CbDE9BvVIAAUlCJ.jpg",
     "source": "twitter",
-    "tweet_id": "698588273250168832"
+    "tweet_id": "698274514036068352"
   },
   {
-    "id": "2016-02-13-tw698319557111328768",
-    "date": "2016-02-13",
+    "id": "2016-02-12-tw698293091736748032",
+    "date": "2016-02-12",
     "year": 2016,
-    "headline": "Grand Champion Swine Katie Edgley #SBFFA #EveryChild",
-    "body": "Grand Champion Swine Katie Edgley #SBFFA #EveryChild",
+    "headline": "FFA Show and Sale results: NON-LIVESTOCK",
+    "body": "FFA Show and Sale results: NON-LIVESTOCK. #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/698319368367648768/pu/img/UwV6yV9CqaGRFMUT.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CbDV2gsUsAECXUN.jpg",
     "source": "twitter",
-    "tweet_id": "698319557111328768"
+    "tweet_id": "698293091736748032"
   },
   {
-    "id": "2016-02-13-tw698318444790284288",
+    "id": "2016-02-13-tw698303131839430656",
     "date": "2016-02-13",
     "year": 2016,
-    "headline": "SBFFA Show and Sale Swine Finals #SBFFA #EveryChild",
-    "body": "SBFFA Show and Sale Swine Finals #SBFFA #EveryChild",
+    "headline": "FFA Show and Sale Grand Champion Steer + Showmanship: Mitchell Fargerson #EveryChild #SBFFA",
+    "body": "FFA Show and Sale Grand Champion Steer + Showmanship: Mitchell Fargerson #EveryChild #SBFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/698318243061084160/pu/img/O510EeRjOwXydzvU.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CbDe_BGUkAAarIb.jpg",
     "source": "twitter",
-    "tweet_id": "698318444790284288"
+    "tweet_id": "698303131839430656"
   },
   {
     "id": "2016-02-13-tw698311893107105792",
@@ -11984,17 +12366,56 @@ const NEWS_DATA =
     "tweet_id": "698311893107105792"
   },
   {
-    "id": "2016-02-13-tw698303131839430656",
+    "id": "2016-02-13-tw698318444790284288",
     "date": "2016-02-13",
     "year": 2016,
-    "headline": "FFA Show and Sale Grand Champion Steer + Showmanship: Mitchell Fargerson #EveryChild #SBFFA",
-    "body": "FFA Show and Sale Grand Champion Steer + Showmanship: Mitchell Fargerson #EveryChild #SBFFA",
+    "headline": "SBFFA Show and Sale Swine Finals #SBFFA #EveryChild",
+    "body": "SBFFA Show and Sale Swine Finals #SBFFA #EveryChild",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CbDe_BGUkAAarIb.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/698318243061084160/pu/img/O510EeRjOwXydzvU.jpg",
     "source": "twitter",
-    "tweet_id": "698303131839430656"
+    "tweet_id": "698318444790284288"
+  },
+  {
+    "id": "2016-02-13-tw698319557111328768",
+    "date": "2016-02-13",
+    "year": 2016,
+    "headline": "Grand Champion Swine Katie Edgley #SBFFA #EveryChild",
+    "body": "Grand Champion Swine Katie Edgley #SBFFA #EveryChild",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/698319368367648768/pu/img/UwV6yV9CqaGRFMUT.jpg",
+    "source": "twitter",
+    "tweet_id": "698319557111328768"
+  },
+  {
+    "id": "2016-02-13-tw698588273250168832",
+    "date": "2016-02-13",
+    "year": 2016,
+    "headline": "The FFA Auction is Live! Grand Champion Steer on the block!",
+    "body": "The FFA Auction is Live! Grand Champion Steer on the block!",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/698588094061113344/pu/img/EesxIiN0g3LAvduG.jpg",
+    "source": "twitter",
+    "tweet_id": "698588273250168832"
+  },
+  {
+    "id": "2016-02-13-tw698590902327988224",
+    "date": "2016-02-13",
+    "year": 2016,
+    "headline": "Spring Branch FFA Auction, a great place to be on a Saturday in February",
+    "body": "Spring Branch FFA Auction, a great place to be on a Saturday in February. #SBFFA #EveryChild",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CbHkuWuUMAEZUBW.jpg",
+    "source": "twitter",
+    "tweet_id": "698590902327988224"
   },
   {
     "id": "2016-02-14-14673",
@@ -12097,95 +12518,17 @@ const NEWS_DATA =
     "tweet_id": "703283120963870720"
   },
   {
-    "id": "2016-02-27-tw703716180826042368",
+    "id": "2016-02-27-tw703624171918462976",
     "date": "2016-02-27",
     "year": 2016,
-    "headline": "Congrats as both teams head to state",
-    "body": "Congrats as both teams head to state. [Artist rendering depicts jubilation] @GCProStart @guthrie_center @SBISD",
+    "headline": "Guthrie Management Team finished presentation",
+    "body": "Guthrie Management Team finished presentation. Results at noon! #GCProStart",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CcQaH6RVIAE6hIh.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CcPGcvAUUAQWg5j.jpg",
     "source": "twitter",
-    "tweet_id": "703716180826042368"
-  },
-  {
-    "id": "2016-02-27-tw703654340146245632",
-    "date": "2016-02-27",
-    "year": 2016,
-    "headline": "Abundant Smiles @GCProStart @SBISD @guthrie_center #EveryChild",
-    "body": "Abundant Smiles @GCProStart @SBISD @guthrie_center #EveryChild",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CcPh3lxUsAAoKVr.jpg",
-    "source": "twitter",
-    "tweet_id": "703654340146245632"
-  },
-  {
-    "id": "2016-02-27-tw703653658676756480",
-    "date": "2016-02-27",
-    "year": 2016,
-    "headline": "Management Team's Presentation Board @GCProStart @guthrie_center @SBISD #EveryChild",
-    "body": "Management Team's Presentation Board @GCProStart @guthrie_center @SBISD #EveryChild",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CcPhPerVIAA9-ir.jpg",
-    "source": "twitter",
-    "tweet_id": "703653658676756480"
-  },
-  {
-    "id": "2016-02-27-tw703648233046671360",
-    "date": "2016-02-27",
-    "year": 2016,
-    "headline": "Meal delivered. Teams debriefed by judges now, results announced later today! @guthrie_center @GC...",
-    "body": "Meal delivered. Teams debriefed by judges now, results announced later today! @guthrie_center @GCProStart",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/703648032345075713/pu/img/iJ6eYsBncPFtk0SE.jpg",
-    "source": "twitter",
-    "tweet_id": "703648233046671360"
-  },
-  {
-    "id": "2016-02-27-tw703643583526506496",
-    "date": "2016-02-27",
-    "year": 2016,
-    "headline": "Final Countdown @guthrie_center @SBISD @GCProStart #EveryChild",
-    "body": "Final Countdown @guthrie_center @SBISD @GCProStart #EveryChild",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/703643361563975680/pu/img/OvmWwtRzX5mGbqdp.jpg",
-    "source": "twitter",
-    "tweet_id": "703643583526506496"
-  },
-  {
-    "id": "2016-02-27-tw703641820228505601",
-    "date": "2016-02-27",
-    "year": 2016,
-    "headline": "5:00 remaining. @GCProStart @guthrie_center @SBISD #EveryChild...",
-    "body": "5:00 remaining. @GCProStart @guthrie_center @SBISD #EveryChild",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CcPWfcKUcAEMKmA.jpg",
-    "source": "twitter",
-    "tweet_id": "703641820228505601"
-  },
-  {
-    "id": "2016-02-27-tw703639988181676032",
-    "date": "2016-02-27",
-    "year": 2016,
-    "headline": "Less than 15 minutes to finish the task! @guthrie_center @SBISD @GCProStart #EveryChild",
-    "body": "Less than 15 minutes to finish the task! @guthrie_center @SBISD @GCProStart #EveryChild",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CcPU0pBUcAAv3lp.jpg",
-    "source": "twitter",
-    "tweet_id": "703639988181676032"
+    "tweet_id": "703624171918462976"
   },
   {
     "id": "2016-02-27-tw703631062560149504",
@@ -12201,17 +12544,95 @@ const NEWS_DATA =
     "tweet_id": "703631062560149504"
   },
   {
-    "id": "2016-02-27-tw703624171918462976",
+    "id": "2016-02-27-tw703639988181676032",
     "date": "2016-02-27",
     "year": 2016,
-    "headline": "Guthrie Management Team finished presentation",
-    "body": "Guthrie Management Team finished presentation. Results at noon! #GCProStart",
+    "headline": "Less than 15 minutes to finish the task! @guthrie_center @SBISD @GCProStart #EveryChild",
+    "body": "Less than 15 minutes to finish the task! @guthrie_center @SBISD @GCProStart #EveryChild",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CcPGcvAUUAQWg5j.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CcPU0pBUcAAv3lp.jpg",
     "source": "twitter",
-    "tweet_id": "703624171918462976"
+    "tweet_id": "703639988181676032"
+  },
+  {
+    "id": "2016-02-27-tw703641820228505601",
+    "date": "2016-02-27",
+    "year": 2016,
+    "headline": "5:00 remaining. @GCProStart @guthrie_center @SBISD #EveryChild...",
+    "body": "5:00 remaining. @GCProStart @guthrie_center @SBISD #EveryChild",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CcPWfcKUcAEMKmA.jpg",
+    "source": "twitter",
+    "tweet_id": "703641820228505601"
+  },
+  {
+    "id": "2016-02-27-tw703643583526506496",
+    "date": "2016-02-27",
+    "year": 2016,
+    "headline": "Final Countdown @guthrie_center @SBISD @GCProStart #EveryChild",
+    "body": "Final Countdown @guthrie_center @SBISD @GCProStart #EveryChild",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/703643361563975680/pu/img/OvmWwtRzX5mGbqdp.jpg",
+    "source": "twitter",
+    "tweet_id": "703643583526506496"
+  },
+  {
+    "id": "2016-02-27-tw703648233046671360",
+    "date": "2016-02-27",
+    "year": 2016,
+    "headline": "Meal delivered. Teams debriefed by judges now, results announced later today! @guthrie_center @GC...",
+    "body": "Meal delivered. Teams debriefed by judges now, results announced later today! @guthrie_center @GCProStart",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/703648032345075713/pu/img/iJ6eYsBncPFtk0SE.jpg",
+    "source": "twitter",
+    "tweet_id": "703648233046671360"
+  },
+  {
+    "id": "2016-02-27-tw703653658676756480",
+    "date": "2016-02-27",
+    "year": 2016,
+    "headline": "Management Team's Presentation Board @GCProStart @guthrie_center @SBISD #EveryChild",
+    "body": "Management Team's Presentation Board @GCProStart @guthrie_center @SBISD #EveryChild",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CcPhPerVIAA9-ir.jpg",
+    "source": "twitter",
+    "tweet_id": "703653658676756480"
+  },
+  {
+    "id": "2016-02-27-tw703654340146245632",
+    "date": "2016-02-27",
+    "year": 2016,
+    "headline": "Abundant Smiles @GCProStart @SBISD @guthrie_center #EveryChild",
+    "body": "Abundant Smiles @GCProStart @SBISD @guthrie_center #EveryChild",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CcPh3lxUsAAoKVr.jpg",
+    "source": "twitter",
+    "tweet_id": "703654340146245632"
+  },
+  {
+    "id": "2016-02-27-tw703716180826042368",
+    "date": "2016-02-27",
+    "year": 2016,
+    "headline": "Congrats as both teams head to state",
+    "body": "Congrats as both teams head to state. [Artist rendering depicts jubilation] @GCProStart @guthrie_center @SBISD",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CcQaH6RVIAE6hIh.jpg",
+    "source": "twitter",
+    "tweet_id": "703716180826042368"
   },
   {
     "id": "2016-02-29-tw704437329625108480",
@@ -12225,17 +12646,6 @@ const NEWS_DATA =
     "tweet_id": "704437329625108480"
   },
   {
-    "id": "2016-03-04-tw705849079037710336",
-    "date": "2016-03-04",
-    "year": 2016,
-    "headline": "The community of Chefs around Houston is strong and supportive",
-    "body": "The community of Chefs around Houston is strong and supportive.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Ccut98FUcAAyVfs.jpg",
-    "source": "twitter",
-    "tweet_id": "705849079037710336"
-  },
-  {
     "id": "2016-03-04-tw705847930729574402",
     "date": "2016-03-04",
     "year": 2016,
@@ -12245,6 +12655,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/Ccus8BEUAAE-sWp.jpg",
     "source": "twitter",
     "tweet_id": "705847930729574402"
+  },
+  {
+    "id": "2016-03-04-tw705849079037710336",
+    "date": "2016-03-04",
+    "year": 2016,
+    "headline": "The community of Chefs around Houston is strong and supportive",
+    "body": "The community of Chefs around Houston is strong and supportive.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Ccut98FUcAAyVfs.jpg",
+    "source": "twitter",
+    "tweet_id": "705849079037710336"
   },
   {
     "id": "2016-03-05-tw706263496091041792",
@@ -12260,17 +12681,6 @@ const NEWS_DATA =
     "tweet_id": "706263496091041792"
   },
   {
-    "id": "2016-03-07-tw706970034443190272",
-    "date": "2016-03-07",
-    "year": 2016,
-    "headline": "And Deep Fried Butter is definitely not in the lead",
-    "body": "And Deep Fried Butter is definitely not in the lead. @guthrie_center @SBISD @RODEOHOUSTON",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Cc-pgCCUEAAHr8y.jpg",
-    "source": "twitter",
-    "tweet_id": "706970034443190272"
-  },
-  {
     "id": "2016-03-07-tw706969165710516224",
     "date": "2016-03-07",
     "year": 2016,
@@ -12282,43 +12692,28 @@ const NEWS_DATA =
     "tweet_id": "706969165710516224"
   },
   {
-    "id": "2016-03-22-tw712353578518642688",
-    "date": "2016-03-22",
+    "id": "2016-03-07-tw706970034443190272",
+    "date": "2016-03-07",
     "year": 2016,
-    "headline": "The finished product! Results later today, stay tuned",
-    "body": "The finished product! Results later today, stay tuned. @GCProStart @SBISD @guthrie_center",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CeLJzFdUEAAN1D8.jpg",
+    "headline": "And Deep Fried Butter is definitely not in the lead",
+    "body": "And Deep Fried Butter is definitely not in the lead. @guthrie_center @SBISD @RODEOHOUSTON",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Cc-pgCCUEAAHr8y.jpg",
     "source": "twitter",
-    "tweet_id": "712353578518642688"
+    "tweet_id": "706970034443190272"
   },
   {
-    "id": "2016-03-22-tw712313743250628608",
+    "id": "2016-03-22-tw712217857354936320",
     "date": "2016-03-22",
     "year": 2016,
-    "headline": "Halfway mark. @GCProStart @guthrie_center @SBISD #EveryChild...",
-    "body": "Halfway mark. @GCProStart @guthrie_center @SBISD #EveryChild",
+    "headline": "Go @guthrie_center Culinary Teams at State! @SBISD #EveryChild",
+    "body": "Go @guthrie_center Culinary Teams at State! @SBISD #EveryChild",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CeKlkbuUEAEu7Go.jpg",
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "712313743250628608"
-  },
-  {
-    "id": "2016-03-22-tw712294070022877184",
-    "date": "2016-03-22",
-    "year": 2016,
-    "headline": "Culinary Team on the clock in Waco! @GCProStart @SBISD #EveryChild",
-    "body": "Culinary Team on the clock in Waco! @GCProStart @SBISD #EveryChild",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CeKTrDuVIAENYKk.jpg",
-    "source": "twitter",
-    "tweet_id": "712294070022877184"
+    "tweet_id": "712217857354936320"
   },
   {
     "id": "2016-03-22-tw712275645556924417",
@@ -12334,17 +12729,43 @@ const NEWS_DATA =
     "tweet_id": "712275645556924417"
   },
   {
-    "id": "2016-03-22-tw712217857354936320",
+    "id": "2016-03-22-tw712294070022877184",
     "date": "2016-03-22",
     "year": 2016,
-    "headline": "Go @guthrie_center Culinary Teams at State! @SBISD #EveryChild",
-    "body": "Go @guthrie_center Culinary Teams at State! @SBISD #EveryChild",
+    "headline": "Culinary Team on the clock in Waco! @GCProStart @SBISD #EveryChild",
+    "body": "Culinary Team on the clock in Waco! @GCProStart @SBISD #EveryChild",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/CeKTrDuVIAENYKk.jpg",
     "source": "twitter",
-    "tweet_id": "712217857354936320"
+    "tweet_id": "712294070022877184"
+  },
+  {
+    "id": "2016-03-22-tw712313743250628608",
+    "date": "2016-03-22",
+    "year": 2016,
+    "headline": "Halfway mark. @GCProStart @guthrie_center @SBISD #EveryChild...",
+    "body": "Halfway mark. @GCProStart @guthrie_center @SBISD #EveryChild",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CeKlkbuUEAEu7Go.jpg",
+    "source": "twitter",
+    "tweet_id": "712313743250628608"
+  },
+  {
+    "id": "2016-03-22-tw712353578518642688",
+    "date": "2016-03-22",
+    "year": 2016,
+    "headline": "The finished product! Results later today, stay tuned",
+    "body": "The finished product! Results later today, stay tuned. @GCProStart @SBISD @guthrie_center",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CeLJzFdUEAAN1D8.jpg",
+    "source": "twitter",
+    "tweet_id": "712353578518642688"
   },
   {
     "id": "2016-03-31-14788",
@@ -12379,17 +12800,17 @@ const NEWS_DATA =
     "tweet_id": "717384618660397056"
   },
   {
-    "id": "2016-04-10-tw718971309422567426",
+    "id": "2016-04-10-tw718962344554987521",
     "date": "2016-04-10",
     "year": 2016,
-    "headline": "Ceremonial change of the cadet leadership team",
-    "body": "Ceremonial change of the cadet leadership team. #NJROTC @SBISD #EveryChild",
+    "headline": "NJROTC Military Ball Senior Cadets prepare to say thanks and farewell to the underclassmen",
+    "body": "NJROTC Military Ball Senior Cadets prepare to say thanks and farewell to the underclassmen . @SBISD #EveryChild",
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/718971048322949121/pu/img/Gp5nmxucqlJoFTVR.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CfpEbfOUkAAJrZ4.jpg",
     "source": "twitter",
-    "tweet_id": "718971309422567426"
+    "tweet_id": "718962344554987521"
   },
   {
     "id": "2016-04-10-tw718968069352108032",
@@ -12405,17 +12826,17 @@ const NEWS_DATA =
     "tweet_id": "718968069352108032"
   },
   {
-    "id": "2016-04-10-tw718962344554987521",
+    "id": "2016-04-10-tw718971309422567426",
     "date": "2016-04-10",
     "year": 2016,
-    "headline": "NJROTC Military Ball Senior Cadets prepare to say thanks and farewell to the underclassmen",
-    "body": "NJROTC Military Ball Senior Cadets prepare to say thanks and farewell to the underclassmen . @SBISD #EveryChild",
+    "headline": "Ceremonial change of the cadet leadership team",
+    "body": "Ceremonial change of the cadet leadership team. #NJROTC @SBISD #EveryChild",
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CfpEbfOUkAAJrZ4.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/718971048322949121/pu/img/Gp5nmxucqlJoFTVR.jpg",
     "source": "twitter",
-    "tweet_id": "718962344554987521"
+    "tweet_id": "718971309422567426"
   },
   {
     "id": "2016-04-26-tw725009465628479488",
@@ -12429,17 +12850,17 @@ const NEWS_DATA =
     "tweet_id": "725009465628479488"
   },
   {
-    "id": "2016-05-10-tw730109453899464705",
+    "id": "2016-05-10-tw730081425123201024",
     "date": "2016-05-10",
     "year": 2016,
-    "headline": "Thank you Chefs Baze and Manske and the Chef Training class of 2016",
-    "body": "Thank you Chefs Baze and Manske and the Chef Training class of 2016.",
+    "headline": "Chef Training's Final Exam is absolutely delicious, thanks to our partners at AiH! @SBISD @ArtIns...",
+    "body": "Chef Training's Final Exam is absolutely delicious, thanks to our partners at AiH! @SBISD @ArtInstituteHOU",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CiHeq1AUYAAnJwT.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CiHFL_LVEAAf2x-.jpg",
     "source": "twitter",
-    "tweet_id": "730109453899464705"
+    "tweet_id": "730081425123201024"
   },
   {
     "id": "2016-05-10-tw730085161656668160",
@@ -12453,17 +12874,17 @@ const NEWS_DATA =
     "tweet_id": "730085161656668160"
   },
   {
-    "id": "2016-05-10-tw730081425123201024",
+    "id": "2016-05-10-tw730109453899464705",
     "date": "2016-05-10",
     "year": 2016,
-    "headline": "Chef Training's Final Exam is absolutely delicious, thanks to our partners at AiH! @SBISD @ArtIns...",
-    "body": "Chef Training's Final Exam is absolutely delicious, thanks to our partners at AiH! @SBISD @ArtInstituteHOU",
+    "headline": "Thank you Chefs Baze and Manske and the Chef Training class of 2016",
+    "body": "Thank you Chefs Baze and Manske and the Chef Training class of 2016.",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CiHFL_LVEAAf2x-.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CiHeq1AUYAAnJwT.jpg",
     "source": "twitter",
-    "tweet_id": "730081425123201024"
+    "tweet_id": "730109453899464705"
   },
   {
     "id": "2016-05-11-tw730504831274618882",
@@ -12503,17 +12924,17 @@ const NEWS_DATA =
     "tweet_id": "733461544856522757"
   },
   {
-    "id": "2016-09-10-tw774662982542340096",
+    "id": "2016-09-10-tw774615156286382080",
     "date": "2016-09-10",
     "year": 2016,
-    "headline": "Friends, fellowship and FFA! Thanks for being here",
-    "body": "Friends, fellowship and FFA! Thanks for being here. @SpringbranchFFA #EveryChild",
+    "headline": "Learn about opportunities &amp; meet new friends at the FFA Family Picnic from 11-1 today",
+    "body": "Learn about opportunities &amp; meet new friends at the FFA Family Picnic from 11-1 today. Something for #EveryChild ! @SBISD @SpringbranchFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CsAn3h_VIAAGTAP.jpg",
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "774662982542340096"
+    "tweet_id": "774615156286382080"
   },
   {
     "id": "2016-09-10-tw774615822132088832",
@@ -12527,17 +12948,17 @@ const NEWS_DATA =
     "tweet_id": "774615822132088832"
   },
   {
-    "id": "2016-09-10-tw774615156286382080",
+    "id": "2016-09-10-tw774662982542340096",
     "date": "2016-09-10",
     "year": 2016,
-    "headline": "Learn about opportunities &amp; meet new friends at the FFA Family Picnic from 11-1 today",
-    "body": "Learn about opportunities &amp; meet new friends at the FFA Family Picnic from 11-1 today. Something for #EveryChild ! @SBISD @SpringbranchFFA",
+    "headline": "Friends, fellowship and FFA! Thanks for being here",
+    "body": "Friends, fellowship and FFA! Thanks for being here. @SpringbranchFFA #EveryChild",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/CsAn3h_VIAAGTAP.jpg",
     "source": "twitter",
-    "tweet_id": "774615156286382080"
+    "tweet_id": "774662982542340096"
   },
   {
     "id": "2016-09-21-tw778689145195548673",
@@ -12613,30 +13034,17 @@ const NEWS_DATA =
     "tweet_id": "793617178201161728"
   },
   {
-    "id": "2016-11-30-tw803991559960231937",
+    "id": "2016-11-30-tw803964312356261888",
     "date": "2016-11-30",
     "year": 2016,
-    "headline": "That's a wrap folks. The rest is behind the scenes and reporting out. Thank you parents for comin...",
-    "body": "That's a wrap folks. The rest is behind the scenes and reporting out. Thank you parents for coming out.",
+    "headline": "NJROTC Annual Military Inspection begins in 7 minutes",
+    "body": "NJROTC Annual Military Inspection begins in 7 minutes. Good luck Cadets! Open to the public. @SBISD @guthrie_center",
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CyhaDi9WIAEMiSH.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CyhBR9OXgAACdnw.jpg",
     "source": "twitter",
-    "tweet_id": "803991559960231937"
-  },
-  {
-    "id": "2016-11-30-tw803987866699370496",
-    "date": "2016-11-30",
-    "year": 2016,
-    "headline": "Pass In Review completes the main portions of the AMI",
-    "body": "Pass In Review completes the main portions of the AMI. Great job Cadets!#NJROTC @guthrie_center @SBISD",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/CyhWsfVXUAAmlYi.jpg",
-    "source": "twitter",
-    "tweet_id": "803987866699370496"
+    "tweet_id": "803964312356261888"
   },
   {
     "id": "2016-11-30-tw803969891414011905",
@@ -12652,17 +13060,30 @@ const NEWS_DATA =
     "tweet_id": "803969891414011905"
   },
   {
-    "id": "2016-11-30-tw803964312356261888",
+    "id": "2016-11-30-tw803987866699370496",
     "date": "2016-11-30",
     "year": 2016,
-    "headline": "NJROTC Annual Military Inspection begins in 7 minutes",
-    "body": "NJROTC Annual Military Inspection begins in 7 minutes. Good luck Cadets! Open to the public. @SBISD @guthrie_center",
+    "headline": "Pass In Review completes the main portions of the AMI",
+    "body": "Pass In Review completes the main portions of the AMI. Great job Cadets!#NJROTC @guthrie_center @SBISD",
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/CyhBR9OXgAACdnw.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/CyhWsfVXUAAmlYi.jpg",
     "source": "twitter",
-    "tweet_id": "803964312356261888"
+    "tweet_id": "803987866699370496"
+  },
+  {
+    "id": "2016-11-30-tw803991559960231937",
+    "date": "2016-11-30",
+    "year": 2016,
+    "headline": "That's a wrap folks. The rest is behind the scenes and reporting out. Thank you parents for comin...",
+    "body": "That's a wrap folks. The rest is behind the scenes and reporting out. Thank you parents for coming out.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/CyhaDi9WIAEMiSH.jpg",
+    "source": "twitter",
+    "tweet_id": "803991559960231937"
   },
   {
     "id": "2016-12-02-tw804836324628905984",
@@ -12678,17 +13099,15 @@ const NEWS_DATA =
     "tweet_id": "804836324628905984"
   },
   {
-    "id": "2016-12-03-tw804869834848817152",
+    "id": "2016-12-03-tw804866497839591424",
     "date": "2016-12-03",
     "year": 2016,
-    "headline": "And thanks Guthrie teachers, staff, parents and numerous other volunteers for making this happen!...",
-    "body": "And thanks Guthrie teachers, staff, parents and numerous other volunteers for making this happen! @guthrie_center @SpringbranchFFA @SBISD",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/Cyt418EUoAAke7_.jpg",
+    "headline": "Thank you Spring Branch community for enjoying a rainy night in a dry place with Santa and his ma...",
+    "body": "Thank you Spring Branch community for enjoying a rainy night in a dry place with Santa and his many helpers.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Cyt1zi5UUAE0Kg_.jpg",
     "source": "twitter",
-    "tweet_id": "804869834848817152"
+    "tweet_id": "804866497839591424"
   },
   {
     "id": "2016-12-03-tw804868476330512384",
@@ -12711,15 +13130,17 @@ const NEWS_DATA =
     "tweet_id": "804868476330512384"
   },
   {
-    "id": "2016-12-03-tw804866497839591424",
+    "id": "2016-12-03-tw804869834848817152",
     "date": "2016-12-03",
     "year": 2016,
-    "headline": "Thank you Spring Branch community for enjoying a rainy night in a dry place with Santa and his ma...",
-    "body": "Thank you Spring Branch community for enjoying a rainy night in a dry place with Santa and his many helpers.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Cyt1zi5UUAE0Kg_.jpg",
+    "headline": "And thanks Guthrie teachers, staff, parents and numerous other volunteers for making this happen!...",
+    "body": "And thanks Guthrie teachers, staff, parents and numerous other volunteers for making this happen! @guthrie_center @SpringbranchFFA @SBISD",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/Cyt418EUoAAke7_.jpg",
     "source": "twitter",
-    "tweet_id": "804866497839591424"
+    "tweet_id": "804869834848817152"
   },
   {
     "id": "2016-12-06-tw805932133068001280",
@@ -12746,17 +13167,6 @@ const NEWS_DATA =
     "tweet_id": "821402118976249856"
   },
   {
-    "id": "2017-02-03-tw827564707980701696",
-    "date": "2017-02-03",
-    "year": 2017,
-    "headline": "Headshots, media interviews, inspirational speakers and more",
-    "body": "Headshots, media interviews, inspirational speakers and more. Live stream at #NFLWomensSummit @guthrie_center @SBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/C3wZtMvUcAINeYa.jpg",
-    "source": "twitter",
-    "tweet_id": "827564707980701696"
-  },
-  {
     "id": "2017-02-03-tw827537922228379648",
     "date": "2017-02-03",
     "year": 2017,
@@ -12766,6 +13176,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/C3wBWQvVcAAfBWC.jpg",
     "source": "twitter",
     "tweet_id": "827537922228379648"
+  },
+  {
+    "id": "2017-02-03-tw827564707980701696",
+    "date": "2017-02-03",
+    "year": 2017,
+    "headline": "Headshots, media interviews, inspirational speakers and more",
+    "body": "Headshots, media interviews, inspirational speakers and more. Live stream at #NFLWomensSummit @guthrie_center @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/C3wZtMvUcAINeYa.jpg",
+    "source": "twitter",
+    "tweet_id": "827564707980701696"
   },
   {
     "id": "2017-02-07-tw829007861334282241",
@@ -12794,106 +13215,17 @@ const NEWS_DATA =
     "tweet_id": "830185701379624965"
   },
   {
-    "id": "2017-02-11-tw830514542463578112",
+    "id": "2017-02-11-tw830206817175236612",
     "date": "2017-02-11",
     "year": 2017,
-    "headline": "Thanks @BrendaStardig for supporting our students with your time and treasure",
-    "body": "Thanks @BrendaStardig for supporting our students with your time and treasure. @SpringbranchFFA @SBISD",
+    "headline": "Heifer Show....congratulations Abby Cline, Grand Champion and Showmanship winner!...",
+    "body": "Heifer Show....congratulations Abby Cline, Grand Champion and Showmanship winner!",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/C4aUkepUcAAwVoW.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/C4V8syvWQAAjN8B.jpg",
     "source": "twitter",
-    "tweet_id": "830514542463578112"
-  },
-  {
-    "id": "2017-02-11-tw830499995136749568",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "GC Steer just sold for $20K, GC Swine for $7K",
-    "body": "GC Steer just sold for $20K, GC Swine for $7K. Thanks Jarrar &amp; Company and J. Carter Breed for your great support. @SpringbranchFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/C4aHVlDUYAAh5jK.jpg",
-    "source": "twitter",
-    "tweet_id": "830499995136749568"
-  },
-  {
-    "id": "2017-02-11-tw830498845876445186",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "FFA Auction is underway, thanks to Alexa for providing our National Anthem",
-    "body": "FFA Auction is underway, thanks to Alexa for providing our National Anthem. @SpringbranchFFA @SBISD",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/C4aGSoHUEAEROc5.jpg",
-    "source": "twitter",
-    "tweet_id": "830498845876445186"
-  },
-  {
-    "id": "2017-02-11-tw830477169218486272",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "All of his efforts, with the help of so many who saw Ben’s vision, will benefit SBISD students fo...",
-    "body": "All of his efforts, with the help of so many who saw Ben’s vision, will benefit SBISD students for years. #CollaborativeSpirit @TexasFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/C4Zyj0WUYAAlKMP.jpg",
-    "source": "twitter",
-    "tweet_id": "830477169218486272"
-  },
-  {
-    "id": "2017-02-11-tw830475745952673792",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "TXFFA Ford Leadership Scholar Ben Johnson with distinguished guests at dedication of his Learning...",
-    "body": "TXFFA Ford Leadership Scholar Ben Johnson with distinguished guests at dedication of his Learning Center project. @SpringbranchFFA @SBISD",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/830475534047944704/pu/img/k6Fj04yuGLwkUT5F.jpg",
-    "source": "twitter",
-    "tweet_id": "830475745952673792"
-  },
-  {
-    "id": "2017-02-11-tw830442472727838721",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "Navy JROTC students are competing in multiple events at Spring HS Drill Meet today",
-    "body": "Navy JROTC students are competing in multiple events at Spring HS Drill Meet today. Good luck Cadets! #NJROTC @SBISD",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/C4ZTBtcWQAQMRP8.jpg",
-    "source": "twitter",
-    "tweet_id": "830442472727838721"
-  },
-  {
-    "id": "2017-02-11-tw830221529401131010",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "Swine are fine! We will post the final results later this evening",
-    "body": "Swine are fine! We will post the final results later this evening. @SpringbranchFFA @SBISD",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/C4WKFIeWYAA59Hy.jpg",
-    "source": "twitter",
-    "tweet_id": "830221529401131010"
-  },
-  {
-    "id": "2017-02-11-tw830215151412531200",
-    "date": "2017-02-11",
-    "year": 2017,
-    "headline": "Grand Champion Steer goes to Abby Cline",
-    "body": "Grand Champion Steer goes to Abby Cline.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/C4WER25WAAAvnJo.jpg",
-    "source": "twitter",
-    "tweet_id": "830215151412531200"
+    "tweet_id": "830206817175236612"
   },
   {
     "id": "2017-02-11-tw830211563990740994",
@@ -12909,17 +13241,106 @@ const NEWS_DATA =
     "tweet_id": "830211563990740994"
   },
   {
-    "id": "2017-02-11-tw830206817175236612",
+    "id": "2017-02-11-tw830215151412531200",
     "date": "2017-02-11",
     "year": 2017,
-    "headline": "Heifer Show....congratulations Abby Cline, Grand Champion and Showmanship winner!...",
-    "body": "Heifer Show....congratulations Abby Cline, Grand Champion and Showmanship winner!",
+    "headline": "Grand Champion Steer goes to Abby Cline",
+    "body": "Grand Champion Steer goes to Abby Cline.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/C4WER25WAAAvnJo.jpg",
+    "source": "twitter",
+    "tweet_id": "830215151412531200"
+  },
+  {
+    "id": "2017-02-11-tw830221529401131010",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "Swine are fine! We will post the final results later this evening",
+    "body": "Swine are fine! We will post the final results later this evening. @SpringbranchFFA @SBISD",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/C4V8syvWQAAjN8B.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/C4WKFIeWYAA59Hy.jpg",
     "source": "twitter",
-    "tweet_id": "830206817175236612"
+    "tweet_id": "830221529401131010"
+  },
+  {
+    "id": "2017-02-11-tw830442472727838721",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "Navy JROTC students are competing in multiple events at Spring HS Drill Meet today",
+    "body": "Navy JROTC students are competing in multiple events at Spring HS Drill Meet today. Good luck Cadets! #NJROTC @SBISD",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/C4ZTBtcWQAQMRP8.jpg",
+    "source": "twitter",
+    "tweet_id": "830442472727838721"
+  },
+  {
+    "id": "2017-02-11-tw830475745952673792",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "TXFFA Ford Leadership Scholar Ben Johnson with distinguished guests at dedication of his Learning...",
+    "body": "TXFFA Ford Leadership Scholar Ben Johnson with distinguished guests at dedication of his Learning Center project. @SpringbranchFFA @SBISD",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/830475534047944704/pu/img/k6Fj04yuGLwkUT5F.jpg",
+    "source": "twitter",
+    "tweet_id": "830475745952673792"
+  },
+  {
+    "id": "2017-02-11-tw830477169218486272",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "All of his efforts, with the help of so many who saw Ben’s vision, will benefit SBISD students fo...",
+    "body": "All of his efforts, with the help of so many who saw Ben’s vision, will benefit SBISD students for years. #CollaborativeSpirit @TexasFFA",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/C4Zyj0WUYAAlKMP.jpg",
+    "source": "twitter",
+    "tweet_id": "830477169218486272"
+  },
+  {
+    "id": "2017-02-11-tw830498845876445186",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "FFA Auction is underway, thanks to Alexa for providing our National Anthem",
+    "body": "FFA Auction is underway, thanks to Alexa for providing our National Anthem. @SpringbranchFFA @SBISD",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/C4aGSoHUEAEROc5.jpg",
+    "source": "twitter",
+    "tweet_id": "830498845876445186"
+  },
+  {
+    "id": "2017-02-11-tw830499995136749568",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "GC Steer just sold for $20K, GC Swine for $7K",
+    "body": "GC Steer just sold for $20K, GC Swine for $7K. Thanks Jarrar &amp; Company and J. Carter Breed for your great support. @SpringbranchFFA",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/C4aHVlDUYAAh5jK.jpg",
+    "source": "twitter",
+    "tweet_id": "830499995136749568"
+  },
+  {
+    "id": "2017-02-11-tw830514542463578112",
+    "date": "2017-02-11",
+    "year": 2017,
+    "headline": "Thanks @BrendaStardig for supporting our students with your time and treasure",
+    "body": "Thanks @BrendaStardig for supporting our students with your time and treasure. @SpringbranchFFA @SBISD",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/C4aUkepUcAAwVoW.jpg",
+    "source": "twitter",
+    "tweet_id": "830514542463578112"
   },
   {
     "id": "2017-02-18-tw833083493685018629",
@@ -12970,6 +13391,17 @@ const NEWS_DATA =
     "tweet_id": "847810275936014336"
   },
   {
+    "id": "2017-04-04-tw849399761203601408",
+    "date": "2017-04-04",
+    "year": 2017,
+    "headline": "Check out GIS's Sandbox at our Community Tuesday open house until 7:30 tonight",
+    "body": "Check out GIS's Sandbox at our Community Tuesday open house until 7:30 tonight. #everychild @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/849399555175194624/pu/img/-WiFxp2dmIHslN2p.jpg",
+    "source": "twitter",
+    "tweet_id": "849399761203601408"
+  },
+  {
     "id": "2017-04-04-tw849403705166364675",
     "date": "2017-04-04",
     "year": 2017,
@@ -12983,15 +13415,15 @@ const NEWS_DATA =
     "tweet_id": "849403705166364675"
   },
   {
-    "id": "2017-04-04-tw849399761203601408",
-    "date": "2017-04-04",
+    "id": "2017-04-07-tw850381389522489344",
+    "date": "2017-04-07",
     "year": 2017,
-    "headline": "Check out GIS's Sandbox at our Community Tuesday open house until 7:30 tonight",
-    "body": "Check out GIS's Sandbox at our Community Tuesday open house until 7:30 tonight. #everychild @SBISD",
+    "headline": "Getting ready to kick off Teen Police Academy, a new partnership w/Harris Co",
+    "body": "Getting ready to kick off Teen Police Academy, a new partnership w/Harris Co. Pct 5 Constable. #everychild @SBISD TY SBISD alum Ted Heap.",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/849399555175194624/pu/img/-WiFxp2dmIHslN2p.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/C80pXACU0AACwZe.jpg",
     "source": "twitter",
-    "tweet_id": "849399761203601408"
+    "tweet_id": "850381389522489344"
   },
   {
     "id": "2017-04-07-tw850384447279169536",
@@ -13003,17 +13435,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/C80sJAdUIAIGv7j.jpg",
     "source": "twitter",
     "tweet_id": "850384447279169536"
-  },
-  {
-    "id": "2017-04-07-tw850381389522489344",
-    "date": "2017-04-07",
-    "year": 2017,
-    "headline": "Getting ready to kick off Teen Police Academy, a new partnership w/Harris Co",
-    "body": "Getting ready to kick off Teen Police Academy, a new partnership w/Harris Co. Pct 5 Constable. #everychild @SBISD TY SBISD alum Ted Heap.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/C80pXACU0AACwZe.jpg",
-    "source": "twitter",
-    "tweet_id": "850381389522489344"
   },
   {
     "id": "2017-04-08-tw850847187386986496",
@@ -13042,17 +13463,6 @@ const NEWS_DATA =
     "tweet_id": "850881582953107456"
   },
   {
-    "id": "2017-04-13-tw852562423873712129",
-    "date": "2017-04-13",
-    "year": 2017,
-    "headline": "We are looking for 50 sophomores to start in the program next year",
-    "body": "We are looking for 50 sophomores to start in the program next year. Interested? Ask your counselor or contact one of us. @guthrie_center",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "852562423873712129"
-  },
-  {
     "id": "2017-04-13-tw852561608966647808",
     "date": "2017-04-13",
     "year": 2017,
@@ -13064,6 +13474,39 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/C9ToQmxU0AAgrUL.jpg",
     "source": "twitter",
     "tweet_id": "852561608966647808"
+  },
+  {
+    "id": "2017-04-13-tw852562423873712129",
+    "date": "2017-04-13",
+    "year": 2017,
+    "headline": "We are looking for 50 sophomores to start in the program next year",
+    "body": "We are looking for 50 sophomores to start in the program next year. Interested? Ask your counselor or contact one of us. @guthrie_center",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "852562423873712129"
+  },
+  {
+    "id": "2017-04-21-tw855443367718785025",
+    "date": "2017-04-21",
+    "year": 2017,
+    "headline": "PSE students learn how to prepare and eat healthy snacks as part of our Kids Teaching Kids partne...",
+    "body": "PSE students learn how to prepare and eat healthy snacks as part of our Kids Teaching Kids partnership with HCA Corp.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/C98lNX1WsAIpAbd.jpg",
+    "source": "twitter",
+    "tweet_id": "855443367718785025"
+  },
+  {
+    "id": "2017-04-21-tw855447662371405825",
+    "date": "2017-04-21",
+    "year": 2017,
+    "headline": "Kids Teaching Kids brings together @SBISD and @guthrie_center with @HCAGulfCoast @westhoustoncare...",
+    "body": "Kids Teaching Kids brings together @SBISD and @guthrie_center with @HCAGulfCoast @westhoustoncare &amp; @wecareforwomen for a 21 day challenge.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "855447662371405825"
   },
   {
     "id": "2017-04-21-tw855448434358333441",
@@ -13079,28 +13522,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/C98p0CpV0AAckrc.jpg",
     "source": "twitter",
     "tweet_id": "855448434358333441"
-  },
-  {
-    "id": "2017-04-21-tw855447662371405825",
-    "date": "2017-04-21",
-    "year": 2017,
-    "headline": "Kids Teaching Kids brings together @SBISD and @guthrie_center with @HCAGulfCoast @westhoustoncare...",
-    "body": "Kids Teaching Kids brings together @SBISD and @guthrie_center with @HCAGulfCoast @westhoustoncare &amp; @wecareforwomen for a 21 day challenge.",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "855447662371405825"
-  },
-  {
-    "id": "2017-04-21-tw855443367718785025",
-    "date": "2017-04-21",
-    "year": 2017,
-    "headline": "PSE students learn how to prepare and eat healthy snacks as part of our Kids Teaching Kids partne...",
-    "body": "PSE students learn how to prepare and eat healthy snacks as part of our Kids Teaching Kids partnership with HCA Corp.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/C98lNX1WsAIpAbd.jpg",
-    "source": "twitter",
-    "tweet_id": "855443367718785025"
   },
   {
     "id": "2017-04-28-tw858004654508134400",
@@ -13127,19 +13548,6 @@ const NEWS_DATA =
     "tweet_id": "862421055331291136"
   },
   {
-    "id": "2017-05-12-tw863092483533787137",
-    "date": "2017-05-12",
-    "year": 2017,
-    "headline": "Future chefs are recognized by our Culinary Arts team of Chefs while family members request more ...",
-    "body": "Future chefs are recognized by our Culinary Arts team of Chefs while family members request more exams like this! @SBISD @ArtInstituteHou",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/C_pSB7iUQAAYuvX.jpg",
-    "source": "twitter",
-    "tweet_id": "863092483533787137"
-  },
-  {
     "id": "2017-05-12-tw863081905591390210",
     "date": "2017-05-12",
     "year": 2017,
@@ -13151,6 +13559,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/C_pIaNbVYAAgHok.jpg",
     "source": "twitter",
     "tweet_id": "863081905591390210"
+  },
+  {
+    "id": "2017-05-12-tw863092483533787137",
+    "date": "2017-05-12",
+    "year": 2017,
+    "headline": "Future chefs are recognized by our Culinary Arts team of Chefs while family members request more ...",
+    "body": "Future chefs are recognized by our Culinary Arts team of Chefs while family members request more exams like this! @SBISD @ArtInstituteHou",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/C_pSB7iUQAAYuvX.jpg",
+    "source": "twitter",
+    "tweet_id": "863092483533787137"
   },
   {
     "id": "2017-05-19-tw865614916522319878",
@@ -13218,17 +13639,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2017-08-07-tw894592247362138112",
-    "date": "2017-08-07",
-    "year": 2017,
-    "headline": "We love showing GC off to our new friends in SBISD, and appreciate the dozens of students, teache...",
-    "body": "We love showing GC off to our new friends in SBISD, and appreciate the dozens of students, teachers and staff for escorting them around.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DGo65nWVYAAtr0w.jpg",
-    "source": "twitter",
-    "tweet_id": "894592247362138112"
-  },
-  {
     "id": "2017-08-07-tw894589573854113793",
     "date": "2017-08-07",
     "year": 2017,
@@ -13238,6 +13648,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/894589515645435905/pu/img/6EHP73fV9Xd5e7vP.jpg",
     "source": "twitter",
     "tweet_id": "894589573854113793"
+  },
+  {
+    "id": "2017-08-07-tw894592247362138112",
+    "date": "2017-08-07",
+    "year": 2017,
+    "headline": "We love showing GC off to our new friends in SBISD, and appreciate the dozens of students, teache...",
+    "body": "We love showing GC off to our new friends in SBISD, and appreciate the dozens of students, teachers and staff for escorting them around.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DGo65nWVYAAtr0w.jpg",
+    "source": "twitter",
+    "tweet_id": "894592247362138112"
   },
   {
     "id": "2017-08-25-18458",
@@ -13250,144 +13671,103 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2017-09-05-tw905132067536719872",
+    "id": "2017-09-05-tw905130898252734464",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Chef Erin Land",
-    "body": "Chef Erin Land",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DI-s0VDUEAAsBrU.jpg",
-    "source": "twitter",
-    "tweet_id": "905132067536719872"
-  },
-  {
-    "id": "2017-09-05-tw905132043318775808",
-    "date": "2017-09-05",
-    "year": 2017,
-    "headline": "Tina Miller",
-    "body": "Tina Miller",
+    "headline": "Yolanda Matthews-Porter",
+    "body": "Yolanda Matthews-Porter",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sy49VYAENXjV.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-rwRcUwAADu2w.jpg",
     "source": "twitter",
-    "tweet_id": "905132043318775808"
+    "tweet_id": "905130898252734464"
   },
   {
-    "id": "2017-09-05-tw905131900490190848",
+    "id": "2017-09-05-tw905130907400536065",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Sonia Greiner",
-    "body": "Sonia Greiner",
-    "programs": [
-      "Architectural Design"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sqkCUQAAUADp.jpg",
-    "source": "twitter",
-    "tweet_id": "905131900490190848"
-  },
-  {
-    "id": "2017-09-05-tw905131868265168896",
-    "date": "2017-09-05",
-    "year": 2017,
-    "headline": "Pete Prelli",
-    "body": "Pete Prelli",
+    "headline": "Chris Olson",
+    "body": "Chris Olson",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sot_UwAAAnsc.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-rwziUMAA7_E2.jpg",
     "source": "twitter",
-    "tweet_id": "905131868265168896"
+    "tweet_id": "905130907400536065"
   },
   {
-    "id": "2017-09-05-tw905131842726178816",
+    "id": "2017-09-05-tw905131069627920384",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Patty Nilsson",
-    "body": "Patty Nilsson",
+    "headline": "Dan Jones",
+    "body": "Dan Jones",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-snN4UwAEhmFA.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-r6LLVwAEcQNn.jpg",
     "source": "twitter",
-    "tweet_id": "905131842726178816"
+    "tweet_id": "905131069627920384"
   },
   {
-    "id": "2017-09-05-tw905131681165836289",
+    "id": "2017-09-05-tw905131094705664000",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Nick Gonzales",
-    "body": "Nick Gonzales",
+    "headline": "Darrell Lewis",
+    "body": "Darrell Lewis",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sdzRUEAAlQW9.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-r7q4VwAAat-e.jpg",
     "source": "twitter",
-    "tweet_id": "905131681165836289"
+    "tweet_id": "905131094705664000"
   },
   {
-    "id": "2017-09-05-tw905131670432600064",
+    "id": "2017-09-05-tw905131123373727748",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Mike Radler",
-    "body": "Mike Radler",
+    "headline": "HM1 Dominic Monita",
+    "body": "HM1 Dominic Monita",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sdMVUQAAr75A.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-r9XCUwAAivhJ.jpg",
     "source": "twitter",
-    "tweet_id": "905131670432600064"
+    "tweet_id": "905131123373727748"
   },
   {
-    "id": "2017-09-05-tw905131618909786113",
+    "id": "2017-09-05-tw905131234405355520",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Michael Ortiz",
-    "body": "Michael Ortiz",
+    "headline": "Edgar Anguilu",
+    "body": "Edgar Anguilu",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-saMxVwAAuPUo.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sDytVoAAYqqw.jpg",
     "source": "twitter",
-    "tweet_id": "905131618909786113"
+    "tweet_id": "905131234405355520"
   },
   {
-    "id": "2017-09-05-tw905131505676058624",
+    "id": "2017-09-05-tw905131247776784384",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Chef Mel Manske",
-    "body": "Chef Mel Manske",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sTmCVAAATzGZ.jpg",
-    "source": "twitter",
-    "tweet_id": "905131505676058624"
-  },
-  {
-    "id": "2017-09-05-tw905131480204152832",
-    "date": "2017-09-05",
-    "year": 2017,
-    "headline": "Mary Layton",
-    "body": "Mary Layton",
+    "headline": "Ella Park",
+    "body": "Ella Park",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sSFeUIAAiJII.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sEmdVYAAnoDn.jpg",
     "source": "twitter",
-    "tweet_id": "905131480204152832"
+    "tweet_id": "905131247776784384"
   },
   {
-    "id": "2017-09-05-tw905131472683765760",
+    "id": "2017-09-05-tw905131310909358081",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Lorraine Hamilton",
-    "body": "Lorraine Hamilton",
-    "programs": [
-      "Hotel Management"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sRuEUQAAZvue.jpg",
-    "source": "twitter",
-    "tweet_id": "905131472683765760"
-  },
-  {
-    "id": "2017-09-05-tw905131459392000000",
-    "date": "2017-09-05",
-    "year": 2017,
-    "headline": "Katie Thompson",
-    "body": "Katie Thompson",
+    "headline": "Fuad Loutfi",
+    "body": "Fuad Loutfi",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sQ7wUMAAYWEN.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sIRbUEAACLd7.jpg",
     "source": "twitter",
-    "tweet_id": "905131459392000000"
+    "tweet_id": "905131310909358081"
+  },
+  {
+    "id": "2017-09-05-tw905131325895606272",
+    "date": "2017-09-05",
+    "year": 2017,
+    "headline": "CDR Jerry Coufal",
+    "body": "CDR Jerry Coufal",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DI-sJJ5UEAAxlnq.jpg",
+    "source": "twitter",
+    "tweet_id": "905131325895606272"
   },
   {
     "id": "2017-09-05-tw905131336079249408",
@@ -13403,103 +13783,144 @@ const NEWS_DATA =
     "tweet_id": "905131336079249408"
   },
   {
-    "id": "2017-09-05-tw905131325895606272",
+    "id": "2017-09-05-tw905131459392000000",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "CDR Jerry Coufal",
-    "body": "CDR Jerry Coufal",
+    "headline": "Katie Thompson",
+    "body": "Katie Thompson",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sJJ5UEAAxlnq.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sQ7wUMAAYWEN.jpg",
     "source": "twitter",
-    "tweet_id": "905131325895606272"
+    "tweet_id": "905131459392000000"
   },
   {
-    "id": "2017-09-05-tw905131310909358081",
+    "id": "2017-09-05-tw905131472683765760",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Fuad Loutfi",
-    "body": "Fuad Loutfi",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sIRbUEAACLd7.jpg",
+    "headline": "Lorraine Hamilton",
+    "body": "Lorraine Hamilton",
+    "programs": [
+      "Hotel Management"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DI-sRuEUQAAZvue.jpg",
     "source": "twitter",
-    "tweet_id": "905131310909358081"
+    "tweet_id": "905131472683765760"
   },
   {
-    "id": "2017-09-05-tw905131247776784384",
+    "id": "2017-09-05-tw905131480204152832",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Ella Park",
-    "body": "Ella Park",
+    "headline": "Mary Layton",
+    "body": "Mary Layton",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sEmdVYAAnoDn.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sSFeUIAAiJII.jpg",
     "source": "twitter",
-    "tweet_id": "905131247776784384"
+    "tweet_id": "905131480204152832"
   },
   {
-    "id": "2017-09-05-tw905131234405355520",
+    "id": "2017-09-05-tw905131505676058624",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Edgar Anguilu",
-    "body": "Edgar Anguilu",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-sDytVoAAYqqw.jpg",
+    "headline": "Chef Mel Manske",
+    "body": "Chef Mel Manske",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DI-sTmCVAAATzGZ.jpg",
     "source": "twitter",
-    "tweet_id": "905131234405355520"
+    "tweet_id": "905131505676058624"
   },
   {
-    "id": "2017-09-05-tw905131123373727748",
+    "id": "2017-09-05-tw905131618909786113",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "HM1 Dominic Monita",
-    "body": "HM1 Dominic Monita",
+    "headline": "Michael Ortiz",
+    "body": "Michael Ortiz",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-r9XCUwAAivhJ.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-saMxVwAAuPUo.jpg",
     "source": "twitter",
-    "tweet_id": "905131123373727748"
+    "tweet_id": "905131618909786113"
   },
   {
-    "id": "2017-09-05-tw905131094705664000",
+    "id": "2017-09-05-tw905131670432600064",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Darrell Lewis",
-    "body": "Darrell Lewis",
+    "headline": "Mike Radler",
+    "body": "Mike Radler",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-r7q4VwAAat-e.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sdMVUQAAr75A.jpg",
     "source": "twitter",
-    "tweet_id": "905131094705664000"
+    "tweet_id": "905131670432600064"
   },
   {
-    "id": "2017-09-05-tw905131069627920384",
+    "id": "2017-09-05-tw905131681165836289",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Dan Jones",
-    "body": "Dan Jones",
+    "headline": "Nick Gonzales",
+    "body": "Nick Gonzales",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-r6LLVwAEcQNn.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sdzRUEAAlQW9.jpg",
     "source": "twitter",
-    "tweet_id": "905131069627920384"
+    "tweet_id": "905131681165836289"
   },
   {
-    "id": "2017-09-05-tw905130907400536065",
+    "id": "2017-09-05-tw905131842726178816",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Chris Olson",
-    "body": "Chris Olson",
+    "headline": "Patty Nilsson",
+    "body": "Patty Nilsson",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-rwziUMAA7_E2.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-snN4UwAEhmFA.jpg",
     "source": "twitter",
-    "tweet_id": "905130907400536065"
+    "tweet_id": "905131842726178816"
   },
   {
-    "id": "2017-09-05-tw905130898252734464",
+    "id": "2017-09-05-tw905131868265168896",
     "date": "2017-09-05",
     "year": 2017,
-    "headline": "Yolanda Matthews-Porter",
-    "body": "Yolanda Matthews-Porter",
+    "headline": "Pete Prelli",
+    "body": "Pete Prelli",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DI-rwRcUwAADu2w.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DI-sot_UwAAAnsc.jpg",
     "source": "twitter",
-    "tweet_id": "905130898252734464"
+    "tweet_id": "905131868265168896"
+  },
+  {
+    "id": "2017-09-05-tw905131900490190848",
+    "date": "2017-09-05",
+    "year": 2017,
+    "headline": "Sonia Greiner",
+    "body": "Sonia Greiner",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DI-sqkCUQAAUADp.jpg",
+    "source": "twitter",
+    "tweet_id": "905131900490190848"
+  },
+  {
+    "id": "2017-09-05-tw905132043318775808",
+    "date": "2017-09-05",
+    "year": 2017,
+    "headline": "Tina Miller",
+    "body": "Tina Miller",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DI-sy49VYAENXjV.jpg",
+    "source": "twitter",
+    "tweet_id": "905132043318775808"
+  },
+  {
+    "id": "2017-09-05-tw905132067536719872",
+    "date": "2017-09-05",
+    "year": 2017,
+    "headline": "Chef Erin Land",
+    "body": "Chef Erin Land",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DI-s0VDUEAAsBrU.jpg",
+    "source": "twitter",
+    "tweet_id": "905132067536719872"
   },
   {
     "id": "2017-09-14-tw908477300609572867",
@@ -13515,6 +13936,17 @@ const NEWS_DATA =
     "tweet_id": "908477300609572867"
   },
   {
+    "id": "2017-09-25-tw912358375089991682",
+    "date": "2017-09-25",
+    "year": 2017,
+    "headline": "Please join us for Community Tuesday Open House tomorrow from 5-7:30 PM",
+    "body": "Please join us for Community Tuesday Open House tomorrow from 5-7:30 PM. See why 1,375 students attend daily. #limitlesscuriosity @SBISD",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "912358375089991682"
+  },
+  {
     "id": "2017-09-25-tw912455441564741635",
     "date": "2017-09-25",
     "year": 2017,
@@ -13528,17 +13960,6 @@ const NEWS_DATA =
     "tweet_id": "912455441564741635"
   },
   {
-    "id": "2017-09-25-tw912358375089991682",
-    "date": "2017-09-25",
-    "year": 2017,
-    "headline": "Please join us for Community Tuesday Open House tomorrow from 5-7:30 PM",
-    "body": "Please join us for Community Tuesday Open House tomorrow from 5-7:30 PM. See why 1,375 students attend daily. #limitlesscuriosity @SBISD",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "912358375089991682"
-  },
-  {
     "id": "2017-09-26-tw912812946803380225",
     "date": "2017-09-26",
     "year": 2017,
@@ -13548,6 +13969,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/DKr2iQAW0AI26K5.jpg",
     "source": "twitter",
     "tweet_id": "912812946803380225"
+  },
+  {
+    "id": "2017-09-27-tw912832216367091713",
+    "date": "2017-09-27",
+    "year": 2017,
+    "headline": "NJROTC Cadetd drill at our Community Tuesday Open House",
+    "body": "NJROTC Cadetd drill at our Community Tuesday Open House. #everychild @SB_GuthrieJROTC",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/912832144514342912/pu/img/igzP6X2XTH290ozz.jpg",
+    "source": "twitter",
+    "tweet_id": "912832216367091713"
   },
   {
     "id": "2017-09-27-tw913189297414660096",
@@ -13564,17 +13998,15 @@ const NEWS_DATA =
     "tweet_id": "913189297414660096"
   },
   {
-    "id": "2017-09-27-tw912832216367091713",
-    "date": "2017-09-27",
+    "id": "2017-09-28-tw913474337713176576",
+    "date": "2017-09-28",
     "year": 2017,
-    "headline": "NJROTC Cadetd drill at our Community Tuesday Open House",
-    "body": "NJROTC Cadetd drill at our Community Tuesday Open House. #everychild @SB_GuthrieJROTC",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/912832144514342912/pu/img/igzP6X2XTH290ozz.jpg",
+    "headline": "TWC Commissioner Julian Alvarez addresses a SRO audience at the ApprenticeshipTexas conference in...",
+    "body": "TWC Commissioner Julian Alvarez addresses a SRO audience at the ApprenticeshipTexas conference in San Antonio. #collaborativespirit @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DK1QENXVoAAYcm1.jpg",
     "source": "twitter",
-    "tweet_id": "912832216367091713"
+    "tweet_id": "913474337713176576"
   },
   {
     "id": "2017-09-28-tw913476882682724352",
@@ -13586,17 +14018,6 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "913476882682724352"
-  },
-  {
-    "id": "2017-09-28-tw913474337713176576",
-    "date": "2017-09-28",
-    "year": 2017,
-    "headline": "TWC Commissioner Julian Alvarez addresses a SRO audience at the ApprenticeshipTexas conference in...",
-    "body": "TWC Commissioner Julian Alvarez addresses a SRO audience at the ApprenticeshipTexas conference in San Antonio. #collaborativespirit @SBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DK1QENXVoAAYcm1.jpg",
-    "source": "twitter",
-    "tweet_id": "913474337713176576"
   },
   {
     "id": "2017-10-05-18564",
@@ -13665,17 +14086,6 @@ const NEWS_DATA =
     "source": "wordpress"
   },
   {
-    "id": "2017-10-13-tw918717537457659904",
-    "date": "2017-10-13",
-    "year": 2017,
-    "headline": "Not Your Ordinary Classroom",
-    "body": "Not Your Ordinary Classroom",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DL_wuvIUQAEF0Rp.jpg",
-    "source": "twitter",
-    "tweet_id": "918717537457659904"
-  },
-  {
     "id": "2017-10-13-tw918707468171018240",
     "date": "2017-10-13",
     "year": 2017,
@@ -13685,6 +14095,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "918707468171018240"
+  },
+  {
+    "id": "2017-10-13-tw918717537457659904",
+    "date": "2017-10-13",
+    "year": 2017,
+    "headline": "Not Your Ordinary Classroom",
+    "body": "Not Your Ordinary Classroom",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DL_wuvIUQAEF0Rp.jpg",
+    "source": "twitter",
+    "tweet_id": "918717537457659904"
   },
   {
     "id": "2017-10-16-tw920000597390004224",
@@ -13711,17 +14132,6 @@ const NEWS_DATA =
     "tweet_id": "920761829185466369"
   },
   {
-    "id": "2017-10-24-tw922975037233270784",
-    "date": "2017-10-24",
-    "year": 2017,
-    "headline": "#CollectiveGreatness as SBISD, HCC and TRIO Electric leaders are here to welcome and congratulate...",
-    "body": "#CollectiveGreatness as SBISD, HCC and TRIO Electric leaders are here to welcome and congratulate our pioneering Cohort #1.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DM8Q51ZW4Aoirlp.jpg",
-    "source": "twitter",
-    "tweet_id": "922975037233270784"
-  },
-  {
     "id": "2017-10-24-tw922972961426038784",
     "date": "2017-10-24",
     "year": 2017,
@@ -13731,6 +14141,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/DM8PBE7W0AABTLc.jpg",
     "source": "twitter",
     "tweet_id": "922972961426038784"
+  },
+  {
+    "id": "2017-10-24-tw922975037233270784",
+    "date": "2017-10-24",
+    "year": 2017,
+    "headline": "#CollectiveGreatness as SBISD, HCC and TRIO Electric leaders are here to welcome and congratulate...",
+    "body": "#CollectiveGreatness as SBISD, HCC and TRIO Electric leaders are here to welcome and congratulate our pioneering Cohort #1.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DM8Q51ZW4Aoirlp.jpg",
+    "source": "twitter",
+    "tweet_id": "922975037233270784"
   },
   {
     "id": "2017-10-25-tw922979994720235520",
@@ -13770,15 +14191,17 @@ const NEWS_DATA =
     "tweet_id": "925161677208858625"
   },
   {
-    "id": "2017-11-04-tw926897906010992641",
+    "id": "2017-11-04-tw926805158633398272",
     "date": "2017-11-04",
     "year": 2017,
-    "headline": "JJ Watt immortalized by creamed corn, tuna fish and beans for his help to families impacted by Ha...",
-    "body": "JJ Watt immortalized by creamed corn, tuna fish and beans for his help to families impacted by Harvey. #CollectiveGreatness @JJWatt @SBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DN0AteQVoAAvF9q.jpg",
+    "headline": "Architecture students at Canstruction plan &amp; prepare to build a structure entirely out of can...",
+    "body": "Architecture students at Canstruction plan &amp; prepare to build a structure entirely out of cans of donated food. #collaborativespirit @SBISD",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DNysYM3UIAAfzBk.jpg",
     "source": "twitter",
-    "tweet_id": "926897906010992641"
+    "tweet_id": "926805158633398272"
   },
   {
     "id": "2017-11-04-tw926806334468636678",
@@ -13792,17 +14215,15 @@ const NEWS_DATA =
     "tweet_id": "926806334468636678"
   },
   {
-    "id": "2017-11-04-tw926805158633398272",
+    "id": "2017-11-04-tw926897906010992641",
     "date": "2017-11-04",
     "year": 2017,
-    "headline": "Architecture students at Canstruction plan &amp; prepare to build a structure entirely out of can...",
-    "body": "Architecture students at Canstruction plan &amp; prepare to build a structure entirely out of cans of donated food. #collaborativespirit @SBISD",
-    "programs": [
-      "Architectural Design"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DNysYM3UIAAfzBk.jpg",
+    "headline": "JJ Watt immortalized by creamed corn, tuna fish and beans for his help to families impacted by Ha...",
+    "body": "JJ Watt immortalized by creamed corn, tuna fish and beans for his help to families impacted by Harvey. #CollectiveGreatness @JJWatt @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DN0AteQVoAAvF9q.jpg",
     "source": "twitter",
-    "tweet_id": "926805158633398272"
+    "tweet_id": "926897906010992641"
   },
   {
     "id": "2017-11-10-tw929024525135679489",
@@ -13831,6 +14252,19 @@ const NEWS_DATA =
     "tweet_id": "929336928389955585"
   },
   {
+    "id": "2017-11-15-tw930801858125484032",
+    "date": "2017-11-15",
+    "year": 2017,
+    "headline": "NJROTC Cadets ready for their Annual Military Inspection",
+    "body": "NJROTC Cadets ready for their Annual Military Inspection. Good luck @SB_GuthrieJROTC #collectivegreatness",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DOrfWzbWkAA-6rt.jpg",
+    "source": "twitter",
+    "tweet_id": "930801858125484032"
+  },
+  {
     "id": "2017-11-15-tw930802656175673345",
     "date": "2017-11-15",
     "year": 2017,
@@ -13844,17 +14278,15 @@ const NEWS_DATA =
     "tweet_id": "930802656175673345"
   },
   {
-    "id": "2017-11-15-tw930801858125484032",
-    "date": "2017-11-15",
+    "id": "2017-11-29-tw935820308430442496",
+    "date": "2017-11-29",
     "year": 2017,
-    "headline": "NJROTC Cadets ready for their Annual Military Inspection",
-    "body": "NJROTC Cadets ready for their Annual Military Inspection. Good luck @SB_GuthrieJROTC #collectivegreatness",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DOrfWzbWkAA-6rt.jpg",
+    "headline": "We look forward to seeing you at Santa's Farm on Friday!",
+    "body": "We look forward to seeing you at Santa's Farm on Friday!",
+    "programs": [],
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "930801858125484032"
+    "tweet_id": "935820308430442496"
   },
   {
     "id": "2017-11-29-tw935926160235663360",
@@ -13870,17 +14302,6 @@ const NEWS_DATA =
     "tweet_id": "935926160235663360"
   },
   {
-    "id": "2017-11-29-tw935820308430442496",
-    "date": "2017-11-29",
-    "year": 2017,
-    "headline": "We look forward to seeing you at Santa's Farm on Friday!",
-    "body": "We look forward to seeing you at Santa's Farm on Friday!",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "935820308430442496"
-  },
-  {
     "id": "2017-12-01-tw936744330148052993",
     "date": "2017-12-01",
     "year": 2017,
@@ -13892,6 +14313,28 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/936744246911971328/pu/img/l_p4J5SvAbLZWMGx.jpg",
     "source": "twitter",
     "tweet_id": "936744330148052993"
+  },
+  {
+    "id": "2017-12-02-tw936755194108489728",
+    "date": "2017-12-02",
+    "year": 2017,
+    "headline": "Santa’s Farm...petting zoo, face painting, arts &amp; crafts, hayrides and more. We are here unti...",
+    "body": "Santa’s Farm...petting zoo, face painting, arts &amp; crafts, hayrides and more. We are here until 8!",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DQAF2UxUEAA0G-5.jpg",
+    "source": "twitter",
+    "tweet_id": "936755194108489728"
+  },
+  {
+    "id": "2017-12-02-tw936756576412753922",
+    "date": "2017-12-02",
+    "year": 2017,
+    "headline": "Thanks to @BrendaStardig for sharing District A’s mounted patrol horses Smash and Star",
+    "body": "Thanks to @BrendaStardig for sharing District A’s mounted patrol horses Smash and Star. #CollectiveGreatness",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DQAHIR4V4AIeVI_.jpg",
+    "source": "twitter",
+    "tweet_id": "936756576412753922"
   },
   {
     "id": "2017-12-02-tw936777893350219776",
@@ -13912,28 +14355,6 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "936777893350219776"
-  },
-  {
-    "id": "2017-12-02-tw936756576412753922",
-    "date": "2017-12-02",
-    "year": 2017,
-    "headline": "Thanks to @BrendaStardig for sharing District A’s mounted patrol horses Smash and Star",
-    "body": "Thanks to @BrendaStardig for sharing District A’s mounted patrol horses Smash and Star. #CollectiveGreatness",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DQAHIR4V4AIeVI_.jpg",
-    "source": "twitter",
-    "tweet_id": "936756576412753922"
-  },
-  {
-    "id": "2017-12-02-tw936755194108489728",
-    "date": "2017-12-02",
-    "year": 2017,
-    "headline": "Santa’s Farm...petting zoo, face painting, arts &amp; crafts, hayrides and more. We are here unti...",
-    "body": "Santa’s Farm...petting zoo, face painting, arts &amp; crafts, hayrides and more. We are here until 8!",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DQAF2UxUEAA0G-5.jpg",
-    "source": "twitter",
-    "tweet_id": "936755194108489728"
   },
   {
     "id": "2017-12-08-tw939227702816583680",
@@ -14008,19 +14429,6 @@ const NEWS_DATA =
     "tweet_id": "952373712472494080"
   },
   {
-    "id": "2018-01-20-tw954749547670069248",
-    "date": "2018-01-20",
-    "year": 2018,
-    "headline": "NJROTC Cadets deliver an exceptional performance in the fog at the Dekaney drill meet",
-    "body": "NJROTC Cadets deliver an exceptional performance in the fog at the Dekaney drill meet. @SB_GuthrieJROTC",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DT_zpiIU8AA725p.jpg",
-    "source": "twitter",
-    "tweet_id": "954749547670069248"
-  },
-  {
     "id": "2018-01-20-tw954748629775978499",
     "date": "2018-01-20",
     "year": 2018,
@@ -14034,17 +14442,17 @@ const NEWS_DATA =
     "tweet_id": "954748629775978499"
   },
   {
-    "id": "2018-01-24-tw956212047804551169",
-    "date": "2018-01-24",
+    "id": "2018-01-20-tw954749547670069248",
+    "date": "2018-01-20",
     "year": 2018,
-    "headline": "Our FFA students are teaching today",
-    "body": "Our FFA students are teaching today. @SpringbranchFFA #collectivegreatness",
+    "headline": "NJROTC Cadets deliver an exceptional performance in the fog at the Dekaney drill meet",
+    "body": "NJROTC Cadets deliver an exceptional performance in the fog at the Dekaney drill meet. @SB_GuthrieJROTC",
     "programs": [
-      "Agricultural Science"
+      "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/DUUlx3nVAAABWko.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DT_zpiIU8AA725p.jpg",
     "source": "twitter",
-    "tweet_id": "956212047804551169"
+    "tweet_id": "954749547670069248"
   },
   {
     "id": "2018-01-24-tw956208504519516160",
@@ -14058,6 +14466,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/956208337565069317/pu/img/zdNOFQ-Ueh0vtJWM.jpg",
     "source": "twitter",
     "tweet_id": "956208504519516160"
+  },
+  {
+    "id": "2018-01-24-tw956212047804551169",
+    "date": "2018-01-24",
+    "year": 2018,
+    "headline": "Our FFA students are teaching today",
+    "body": "Our FFA students are teaching today. @SpringbranchFFA #collectivegreatness",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DUUlx3nVAAABWko.jpg",
+    "source": "twitter",
+    "tweet_id": "956212047804551169"
   },
   {
     "id": "2018-01-26-tw956959265587113984",
@@ -14086,82 +14507,17 @@ const NEWS_DATA =
     "tweet_id": "959192933370036230"
   },
   {
-    "id": "2018-02-02-tw959567003865329665",
+    "id": "2018-02-02-tw959458692986032128",
     "date": "2018-02-02",
     "year": 2018,
-    "headline": "Lambs 40th Annual Spring Branch FFA Livestock Show",
-    "body": "Lambs 40th Annual Spring Branch FFA Livestock Show",
+    "headline": "LIVESTOCK SHOW TIMES 2:00 Broiler Show, Turkey Show, Rabbit Show 3:30 Market Goat Show 4:00 Non-...",
+    "body": "LIVESTOCK SHOW TIMES 2:00 Broiler Show, Turkey Show, Rabbit Show 3:30 Market Goat Show 4:00 Non-Livestock Results part 1 4:30 Market Lamb Show 5:00 Breeding Heifer Show 5:45 Non-Livestock part 2 6:00 Market Steer Show 7:00 Market Swine Show @SpringbranchFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/DVEVL5fWAAAiNBT.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DVCumIzX0AMnxmb.jpg",
     "source": "twitter",
-    "tweet_id": "959567003865329665"
-  },
-  {
-    "id": "2018-02-02-tw959527128009080832",
-    "date": "2018-02-02",
-    "year": 2018,
-    "headline": "Turkey Show is on. Rabbits coming after this. 40th Annual Spring Branch FFA Livestock Show...",
-    "body": "Turkey Show is on. Rabbits coming after this. 40th Annual Spring Branch FFA Livestock Show",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "959527128009080832"
-  },
-  {
-    "id": "2018-02-02-tw959522095406440449",
-    "date": "2018-02-02",
-    "year": 2018,
-    "headline": "Like Santa, the judge is checking them twice to see which ones are plump and nice",
-    "body": "Like Santa, the judge is checking them twice to see which ones are plump and nice. @SpringbranchFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DVDoQleW0AAXo9J.jpg",
-    "source": "twitter",
-    "tweet_id": "959522095406440449"
-  },
-  {
-    "id": "2018-02-02-tw959509542143901696",
-    "date": "2018-02-02",
-    "year": 2018,
-    "headline": "40th Annual Spring Branch FFA Livestock Show and Sale 40th Annual Spring Branch FFA Livestock Show",
-    "body": "40th Annual Spring Branch FFA Livestock Show and Sale 40th Annual Spring Branch FFA Livestock Show",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "959509542143901696"
-  },
-  {
-    "id": "2018-02-02-tw959497108276432896",
-    "date": "2018-02-02",
-    "year": 2018,
-    "headline": "40th Annual Spring Branch FFA Livestock Show test stream 3",
-    "body": "40th Annual Spring Branch FFA Livestock Show test stream 3",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "959497108276432896"
-  },
-  {
-    "id": "2018-02-02-tw959489347107082240",
-    "date": "2018-02-02",
-    "year": 2018,
-    "headline": "This is what our Electrician Apprenticeship students are doing today",
-    "body": "This is what our Electrician Apprenticeship students are doing today. What’s going on in your classroom? @SBISD #EveryChild",
-    "programs": [
-      "Electrician Technician"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/959489272737710080/pu/img/sBnBLzVikWzfgY_l.jpg",
-    "source": "twitter",
-    "tweet_id": "959489347107082240"
+    "tweet_id": "959458692986032128"
   },
   {
     "id": "2018-02-02-tw959471635513274368",
@@ -14177,56 +14533,95 @@ const NEWS_DATA =
     "tweet_id": "959471635513274368"
   },
   {
-    "id": "2018-02-02-tw959458692986032128",
+    "id": "2018-02-02-tw959489347107082240",
     "date": "2018-02-02",
     "year": 2018,
-    "headline": "LIVESTOCK SHOW TIMES 2:00 Broiler Show, Turkey Show, Rabbit Show 3:30 Market Goat Show 4:00 Non-...",
-    "body": "LIVESTOCK SHOW TIMES 2:00 Broiler Show, Turkey Show, Rabbit Show 3:30 Market Goat Show 4:00 Non-Livestock Results part 1 4:30 Market Lamb Show 5:00 Breeding Heifer Show 5:45 Non-Livestock part 2 6:00 Market Steer Show 7:00 Market Swine Show @SpringbranchFFA",
+    "headline": "This is what our Electrician Apprenticeship students are doing today",
+    "body": "This is what our Electrician Apprenticeship students are doing today. What’s going on in your classroom? @SBISD #EveryChild",
     "programs": [
-      "Agricultural Science"
+      "Electrician Technician"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/DVCumIzX0AMnxmb.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/959489272737710080/pu/img/sBnBLzVikWzfgY_l.jpg",
     "source": "twitter",
-    "tweet_id": "959458692986032128"
+    "tweet_id": "959489347107082240"
   },
   {
-    "id": "2018-02-03-tw959877021533921281",
-    "date": "2018-02-03",
+    "id": "2018-02-02-tw959497108276432896",
+    "date": "2018-02-02",
     "year": 2018,
-    "headline": "Smile all around from buyers, students and families",
-    "body": "Smile all around from buyers, students and families. Thank you Spring Branch community!",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DVIrDlOV4AAb7NR.jpg",
-    "source": "twitter",
-    "tweet_id": "959877021533921281"
-  },
-  {
-    "id": "2018-02-03-tw959864794512637952",
-    "date": "2018-02-03",
-    "year": 2018,
-    "headline": "Spring Branch FFA Auction #40 is on! 40th Annual Spring Branch FFA Livestock Show",
-    "body": "Spring Branch FFA Auction #40 is on! 40th Annual Spring Branch FFA Livestock Show",
+    "headline": "40th Annual Spring Branch FFA Livestock Show test stream 3",
+    "body": "40th Annual Spring Branch FFA Livestock Show test stream 3",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "959864794512637952"
+    "tweet_id": "959497108276432896"
   },
   {
-    "id": "2018-02-03-tw959596546957258753",
-    "date": "2018-02-03",
+    "id": "2018-02-02-tw959509542143901696",
+    "date": "2018-02-02",
     "year": 2018,
-    "headline": "Swine Time 40th Annual Spring Branch FFA Livestock Show",
-    "body": "Swine Time 40th Annual Spring Branch FFA Livestock Show",
+    "headline": "40th Annual Spring Branch FFA Livestock Show and Sale 40th Annual Spring Branch FFA Livestock Show",
+    "body": "40th Annual Spring Branch FFA Livestock Show and Sale 40th Annual Spring Branch FFA Livestock Show",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "959596546957258753"
+    "tweet_id": "959509542143901696"
+  },
+  {
+    "id": "2018-02-02-tw959522095406440449",
+    "date": "2018-02-02",
+    "year": 2018,
+    "headline": "Like Santa, the judge is checking them twice to see which ones are plump and nice",
+    "body": "Like Santa, the judge is checking them twice to see which ones are plump and nice. @SpringbranchFFA",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DVDoQleW0AAXo9J.jpg",
+    "source": "twitter",
+    "tweet_id": "959522095406440449"
+  },
+  {
+    "id": "2018-02-02-tw959527128009080832",
+    "date": "2018-02-02",
+    "year": 2018,
+    "headline": "Turkey Show is on. Rabbits coming after this. 40th Annual Spring Branch FFA Livestock Show...",
+    "body": "Turkey Show is on. Rabbits coming after this. 40th Annual Spring Branch FFA Livestock Show",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "959527128009080832"
+  },
+  {
+    "id": "2018-02-02-tw959567003865329665",
+    "date": "2018-02-02",
+    "year": 2018,
+    "headline": "Lambs 40th Annual Spring Branch FFA Livestock Show",
+    "body": "Lambs 40th Annual Spring Branch FFA Livestock Show",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DVEVL5fWAAAiNBT.jpg",
+    "source": "twitter",
+    "tweet_id": "959567003865329665"
+  },
+  {
+    "id": "2018-02-03-tw959583830645473282",
+    "date": "2018-02-03",
+    "year": 2018,
+    "headline": "After this steer show, there’s one more to go! 40th Annual Spring Branch FFA Livestock Show",
+    "body": "After this steer show, there’s one more to go! 40th Annual Spring Branch FFA Livestock Show",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "959583830645473282"
   },
   {
     "id": "2018-02-03-tw959586863005753346",
@@ -14242,17 +14637,43 @@ const NEWS_DATA =
     "tweet_id": "959586863005753346"
   },
   {
-    "id": "2018-02-03-tw959583830645473282",
+    "id": "2018-02-03-tw959596546957258753",
     "date": "2018-02-03",
     "year": 2018,
-    "headline": "After this steer show, there’s one more to go! 40th Annual Spring Branch FFA Livestock Show",
-    "body": "After this steer show, there’s one more to go! 40th Annual Spring Branch FFA Livestock Show",
+    "headline": "Swine Time 40th Annual Spring Branch FFA Livestock Show",
+    "body": "Swine Time 40th Annual Spring Branch FFA Livestock Show",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "959583830645473282"
+    "tweet_id": "959596546957258753"
+  },
+  {
+    "id": "2018-02-03-tw959864794512637952",
+    "date": "2018-02-03",
+    "year": 2018,
+    "headline": "Spring Branch FFA Auction #40 is on! 40th Annual Spring Branch FFA Livestock Show",
+    "body": "Spring Branch FFA Auction #40 is on! 40th Annual Spring Branch FFA Livestock Show",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "959864794512637952"
+  },
+  {
+    "id": "2018-02-03-tw959877021533921281",
+    "date": "2018-02-03",
+    "year": 2018,
+    "headline": "Smile all around from buyers, students and families",
+    "body": "Smile all around from buyers, students and families. Thank you Spring Branch community!",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DVIrDlOV4AAb7NR.jpg",
+    "source": "twitter",
+    "tweet_id": "959877021533921281"
   },
   {
     "id": "2018-02-06-tw960958309372256256",
@@ -14289,19 +14710,6 @@ const NEWS_DATA =
     "tweet_id": "968279390089039872"
   },
   {
-    "id": "2018-03-22-tw976969695441059840",
-    "date": "2018-03-22",
-    "year": 2018,
-    "headline": "Lilian Baldwin from @HCCDistrict explains to prospective students how the dual credit part of the...",
-    "body": "Lilian Baldwin from @HCCDistrict explains to prospective students how the dual credit part of the TRIO Electrician Apprenticeship program benefits them.",
-    "programs": [
-      "Electrician Technician"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DY7kwShVwAAhzVc.jpg",
-    "source": "twitter",
-    "tweet_id": "976969695441059840"
-  },
-  {
     "id": "2018-03-22-tw976950976782520322",
     "date": "2018-03-22",
     "year": 2018,
@@ -14313,6 +14721,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/DY7TuFqVAAAAfS7.jpg",
     "source": "twitter",
     "tweet_id": "976950976782520322"
+  },
+  {
+    "id": "2018-03-22-tw976969695441059840",
+    "date": "2018-03-22",
+    "year": 2018,
+    "headline": "Lilian Baldwin from @HCCDistrict explains to prospective students how the dual credit part of the...",
+    "body": "Lilian Baldwin from @HCCDistrict explains to prospective students how the dual credit part of the TRIO Electrician Apprenticeship program benefits them.",
+    "programs": [
+      "Electrician Technician"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DY7kwShVwAAhzVc.jpg",
+    "source": "twitter",
+    "tweet_id": "976969695441059840"
   },
   {
     "id": "2018-04-12-tw984291421476794368",
@@ -14373,17 +14794,6 @@ const NEWS_DATA =
     "tweet_id": "996837715059597313"
   },
   {
-    "id": "2018-05-17-tw997261204467970049",
-    "date": "2018-05-17",
-    "year": 2018,
-    "headline": "Considering Shifting Demographics, How Will Houston Meet Demand For Skilled Workers? #CollectiveG...",
-    "body": "Considering Shifting Demographics, How Will Houston Meet Demand For Skilled Workers? #CollectiveGreatness",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "997261204467970049"
-  },
-  {
     "id": "2018-05-17-tw997143701855047680",
     "date": "2018-05-17",
     "year": 2018,
@@ -14393,6 +14803,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "997143701855047680"
+  },
+  {
+    "id": "2018-05-17-tw997261204467970049",
+    "date": "2018-05-17",
+    "year": 2018,
+    "headline": "Considering Shifting Demographics, How Will Houston Meet Demand For Skilled Workers? #CollectiveG...",
+    "body": "Considering Shifting Demographics, How Will Houston Meet Demand For Skilled Workers? #CollectiveGreatness",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "997261204467970049"
   },
   {
     "id": "2018-06-05-18975",
@@ -14416,19 +14837,6 @@ const NEWS_DATA =
     "tweet_id": "1004061785207369728"
   },
   {
-    "id": "2018-06-07-tw1004874639900905472",
-    "date": "2018-06-07",
-    "year": 2018,
-    "headline": "Elizabeth Quigley was half of the 1st place female Orienteering Team",
-    "body": "Elizabeth Quigley was half of the 1st place female Orienteering Team. Aldo Maldonado earned 1st in male Sit-Ups, and Daniela Ortiz &amp; Elizabeth were 1st &amp; 3rd respectively in female Push-Ups. Former BLT graduates Dennis Lopez &amp; Megan Olivera served as graduate assistants.",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DfIIJ1oUEAAEe4W.jpg",
-    "source": "twitter",
-    "tweet_id": "1004874639900905472"
-  },
-  {
     "id": "2018-06-07-tw1004862005222825984",
     "date": "2018-06-07",
     "year": 2018,
@@ -14440,6 +14848,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1004861939732738048/pu/img/DCftZqoUwxHjZpgv.jpg",
     "source": "twitter",
     "tweet_id": "1004862005222825984"
+  },
+  {
+    "id": "2018-06-07-tw1004874639900905472",
+    "date": "2018-06-07",
+    "year": 2018,
+    "headline": "Elizabeth Quigley was half of the 1st place female Orienteering Team",
+    "body": "Elizabeth Quigley was half of the 1st place female Orienteering Team. Aldo Maldonado earned 1st in male Sit-Ups, and Daniela Ortiz &amp; Elizabeth were 1st &amp; 3rd respectively in female Push-Ups. Former BLT graduates Dennis Lopez &amp; Megan Olivera served as graduate assistants.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DfIIJ1oUEAAEe4W.jpg",
+    "source": "twitter",
+    "tweet_id": "1004874639900905472"
   },
   {
     "id": "2018-06-11-tw1006183194444656640",
@@ -14479,30 +14900,6 @@ const NEWS_DATA =
     "tweet_id": "1012699367860527104"
   },
   {
-    "id": "2018-07-27-tw1022922290365968384",
-    "date": "2018-07-27",
-    "year": 2018,
-    "headline": "Mayor Turner shared a story from his youth working as an electrician apprentice, and presented CE...",
-    "body": "Mayor Turner shared a story from his youth working as an electrician apprentice, and presented CEO Beau Pollock a City of Houston proclamation making today TRIO Electrician PreApprenticeship Day.",
-    "programs": [
-      "Electrician Technician"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DjImYa7VAAASNzv.jpg",
-    "source": "twitter",
-    "tweet_id": "1022922290365968384"
-  },
-  {
-    "id": "2018-07-27-tw1022885655762878464",
-    "date": "2018-07-27",
-    "year": 2018,
-    "headline": "Great results from a solid partnership with Guthrie, SBISD, TRIO, HCC, TWC, UpSkill Houston and more",
-    "body": "Great results from a solid partnership with Guthrie, SBISD, TRIO, HCC, TWC, UpSkill Houston and more. #Collaborativespirit",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DjIFEzXVsAATNDH.jpg",
-    "source": "twitter",
-    "tweet_id": "1022885655762878464"
-  },
-  {
     "id": "2018-07-27-tw1022880159328874496",
     "date": "2018-07-27",
     "year": 2018,
@@ -14516,37 +14913,28 @@ const NEWS_DATA =
     "tweet_id": "1022880159328874496"
   },
   {
-    "id": "2018-08-06-tw1026412093577355264",
-    "date": "2018-08-06",
+    "id": "2018-07-27-tw1022885655762878464",
+    "date": "2018-07-27",
     "year": 2018,
-    "headline": "Xavier Martinez",
-    "body": "Xavier Martinez",
+    "headline": "Great results from a solid partnership with Guthrie, SBISD, TRIO, HCC, TWC, UpSkill Houston and more",
+    "body": "Great results from a solid partnership with Guthrie, SBISD, TRIO, HCC, TWC, UpSkill Houston and more. #Collaborativespirit",
     "programs": [],
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/DjIFEzXVsAATNDH.jpg",
     "source": "twitter",
-    "tweet_id": "1026412093577355264"
+    "tweet_id": "1022885655762878464"
   },
   {
-    "id": "2018-08-06-tw1026412074669359105",
-    "date": "2018-08-06",
+    "id": "2018-07-27-tw1022922290365968384",
+    "date": "2018-07-27",
     "year": 2018,
-    "headline": "Kelli Brannan",
-    "body": "Kelli Brannan",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Dj6MV3RUUAAu1OK.jpg",
+    "headline": "Mayor Turner shared a story from his youth working as an electrician apprentice, and presented CE...",
+    "body": "Mayor Turner shared a story from his youth working as an electrician apprentice, and presented CEO Beau Pollock a City of Houston proclamation making today TRIO Electrician PreApprenticeship Day.",
+    "programs": [
+      "Electrician Technician"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DjImYa7VAAASNzv.jpg",
     "source": "twitter",
-    "tweet_id": "1026412074669359105"
-  },
-  {
-    "id": "2018-08-06-tw1026412046617903107",
-    "date": "2018-08-06",
-    "year": 2018,
-    "headline": "Marlon Roquemore",
-    "body": "Marlon Roquemore",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "1026412046617903107"
+    "tweet_id": "1022922290365968384"
   },
   {
     "id": "2018-08-06-tw1026411988988116992",
@@ -14560,6 +14948,39 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/Dj6MQ4JUwAAZFmC.jpg",
     "source": "twitter",
     "tweet_id": "1026411988988116992"
+  },
+  {
+    "id": "2018-08-06-tw1026412046617903107",
+    "date": "2018-08-06",
+    "year": 2018,
+    "headline": "Marlon Roquemore",
+    "body": "Marlon Roquemore",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "1026412046617903107"
+  },
+  {
+    "id": "2018-08-06-tw1026412074669359105",
+    "date": "2018-08-06",
+    "year": 2018,
+    "headline": "Kelli Brannan",
+    "body": "Kelli Brannan",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Dj6MV3RUUAAu1OK.jpg",
+    "source": "twitter",
+    "tweet_id": "1026412074669359105"
+  },
+  {
+    "id": "2018-08-06-tw1026412093577355264",
+    "date": "2018-08-06",
+    "year": 2018,
+    "headline": "Xavier Martinez",
+    "body": "Xavier Martinez",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "1026412093577355264"
   },
   {
     "id": "2018-08-23-tw1032605562855411715",
@@ -14610,19 +15031,6 @@ const NEWS_DATA =
     "tweet_id": "1039942755689095169"
   },
   {
-    "id": "2018-09-29-tw1046116913498271744",
-    "date": "2018-09-29",
-    "year": 2018,
-    "headline": "In the final PT event, @SB_GuthrieJROTC cadets finish strong with one of the fastest times so far",
-    "body": "In the final PT event, @SB_GuthrieJROTC cadets finish strong with one of the fastest times so far. Go Cadets! #EveryChild @SBISD",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1046115991544107009/pu/img/zLzV_FtIr_yHIyX-.jpg",
-    "source": "twitter",
-    "tweet_id": "1046116913498271744"
-  },
-  {
     "id": "2018-09-29-tw1046066444415438849",
     "date": "2018-09-29",
     "year": 2018,
@@ -14634,6 +15042,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/DoRf4OtXcAIXifQ.jpg",
     "source": "twitter",
     "tweet_id": "1046066444415438849"
+  },
+  {
+    "id": "2018-09-29-tw1046116913498271744",
+    "date": "2018-09-29",
+    "year": 2018,
+    "headline": "In the final PT event, @SB_GuthrieJROTC cadets finish strong with one of the fastest times so far",
+    "body": "In the final PT event, @SB_GuthrieJROTC cadets finish strong with one of the fastest times so far. Go Cadets! #EveryChild @SBISD",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1046115991544107009/pu/img/zLzV_FtIr_yHIyX-.jpg",
+    "source": "twitter",
+    "tweet_id": "1046116913498271744"
   },
   {
     "id": "2018-10-11-tw1050461057947500544",
@@ -14710,6 +15131,17 @@ const NEWS_DATA =
     "tweet_id": "1063609594554056704"
   },
   {
+    "id": "2018-12-01-tw1068903484714622976",
+    "date": "2018-12-01",
+    "year": 2018,
+    "headline": "A relaxed and happy Annie after her State Senior Creed event",
+    "body": "A relaxed and happy Annie after her State Senior Creed event.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/DtWCC_iU8AAQhIY.jpg",
+    "source": "twitter",
+    "tweet_id": "1068903484714622976"
+  },
+  {
     "id": "2018-12-01-tw1068910570663895040",
     "date": "2018-12-01",
     "year": 2018,
@@ -14721,17 +15153,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/DtWIfY_U8AAnxxC.jpg",
     "source": "twitter",
     "tweet_id": "1068910570663895040"
-  },
-  {
-    "id": "2018-12-01-tw1068903484714622976",
-    "date": "2018-12-01",
-    "year": 2018,
-    "headline": "A relaxed and happy Annie after her State Senior Creed event",
-    "body": "A relaxed and happy Annie after her State Senior Creed event.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/DtWCC_iU8AAQhIY.jpg",
-    "source": "twitter",
-    "tweet_id": "1068903484714622976"
   },
   {
     "id": "2018-12-05-tw1070321392829300736",
@@ -14771,19 +15192,6 @@ const NEWS_DATA =
     "tweet_id": "1075772448996376576"
   },
   {
-    "id": "2019-01-19-tw1086636088427454466",
-    "date": "2019-01-19",
-    "year": 2019,
-    "headline": "Follow all of the excitement at today’s culinary competition at the University of Houston on Twit...",
-    "body": "Follow all of the excitement at today’s culinary competition at the University of Houston on Twitter at @GCProStart",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "1086636088427454466"
-  },
-  {
     "id": "2019-01-19-tw1086628914066264064",
     "date": "2019-01-19",
     "year": 2019,
@@ -14797,17 +15205,28 @@ const NEWS_DATA =
     "tweet_id": "1086628914066264064"
   },
   {
-    "id": "2019-01-24-tw1088516374039838720",
+    "id": "2019-01-19-tw1086636088427454466",
+    "date": "2019-01-19",
+    "year": 2019,
+    "headline": "Follow all of the excitement at today’s culinary competition at the University of Houston on Twit...",
+    "body": "Follow all of the excitement at today’s culinary competition at the University of Houston on Twitter at @GCProStart",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "1086636088427454466"
+  },
+  {
+    "id": "2019-01-24-tw1088462976875667457",
     "date": "2019-01-24",
     "year": 2019,
-    "headline": "There can’t be a better place to have Childrens Barnyard than in our Agricultural Science barn",
-    "body": "There can’t be a better place to have Childrens Barnyard than in our Agricultural Science barn. Thanks @SBISD Board for providing this great facility. #CollectiveGreatness",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/Dxsv3DhUYAEb3zm.jpg",
+    "headline": "⁦Industry partner @TrioElectric⁩ CEO Beau Pollock talks to ⁦@SpringWoodsHigh⁩ students about the ...",
+    "body": "⁦Industry partner @TrioElectric⁩ CEO Beau Pollock talks to ⁦@SpringWoodsHigh⁩ students about the great opportunity in our innovative Electrician PreApprenticeship program. We have something for #EveryChild",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Dxr-ujJU0AEfpvC.jpg",
     "source": "twitter",
-    "tweet_id": "1088516374039838720"
+    "tweet_id": "1088462976875667457"
   },
   {
     "id": "2019-01-24-tw1088510907334967296",
@@ -14823,67 +15242,17 @@ const NEWS_DATA =
     "tweet_id": "1088510907334967296"
   },
   {
-    "id": "2019-01-24-tw1088462976875667457",
+    "id": "2019-01-24-tw1088516374039838720",
     "date": "2019-01-24",
     "year": 2019,
-    "headline": "⁦Industry partner @TrioElectric⁩ CEO Beau Pollock talks to ⁦@SpringWoodsHigh⁩ students about the ...",
-    "body": "⁦Industry partner @TrioElectric⁩ CEO Beau Pollock talks to ⁦@SpringWoodsHigh⁩ students about the great opportunity in our innovative Electrician PreApprenticeship program. We have something for #EveryChild",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Dxr-ujJU0AEfpvC.jpg",
-    "source": "twitter",
-    "tweet_id": "1088462976875667457"
-  },
-  {
-    "id": "2019-02-01-tw1091423486516645888",
-    "date": "2019-02-01",
-    "year": 2019,
-    "headline": "Live from the 2019 FFA Show and Sale via @YouTube @SpringbranchFFA",
-    "body": "Live from the 2019 FFA Show and Sale via @YouTube @SpringbranchFFA",
+    "headline": "There can’t be a better place to have Childrens Barnyard than in our Agricultural Science barn",
+    "body": "There can’t be a better place to have Childrens Barnyard than in our Agricultural Science barn. Thanks @SBISD Board for providing this great facility. #CollectiveGreatness",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/DyVXsnSU8AA4sXr.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/Dxsv3DhUYAEb3zm.jpg",
     "source": "twitter",
-    "tweet_id": "1091423486516645888"
-  },
-  {
-    "id": "2019-02-01-tw1091399037079773187",
-    "date": "2019-02-01",
-    "year": 2019,
-    "headline": "Chef Manske and Guthrie Culinary Arts students are serving it up for @FOX26Houston cameras at the...",
-    "body": "Chef Manske and Guthrie Culinary Arts students are serving it up for @FOX26Houston cameras at the 8th Annual SOUP’ER BOWL fundraiser for Houston Westchase Rotary Club. @GCProStart",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DyVtomjU0AAi9oz.jpg",
-    "source": "twitter",
-    "tweet_id": "1091399037079773187"
-  },
-  {
-    "id": "2019-02-01-tw1091396652542373889",
-    "date": "2019-02-01",
-    "year": 2019,
-    "headline": "We want to congratulate Joseph Cruz, our Character Without Question recipient for 2019",
-    "body": "We want to congratulate Joseph Cruz, our Character Without Question recipient for 2019. This @SB_GuthrieJROTC cadet and @WAISSBISD junior is a strong leader and solid representative of @guthrie_center and @SBISD values.",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DyVrd7LVsAA-66o.jpg",
-    "source": "twitter",
-    "tweet_id": "1091396652542373889"
-  },
-  {
-    "id": "2019-02-01-tw1091370033085927428",
-    "date": "2019-02-01",
-    "year": 2019,
-    "headline": "Culinary Soup Chefs 👩‍🍳👨‍🍳 are headed to the Houston Westchase Rotary Club SOUP'ER BOWL at the Qu...",
-    "body": "Culinary Soup Chefs 👩‍🍳👨‍🍳 are headed to the Houston Westchase Rotary Club SOUP'ER BOWL at the Quillian Center. Guthrie culinary's Gumbo plans to WOW the judges as they help raise scholarship money for seniors in @SBISD and @AliefISD",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/DyVSICpVYAAQ1Oj.jpg",
-    "source": "twitter",
-    "tweet_id": "1091370033085927428"
+    "tweet_id": "1088516374039838720"
   },
   {
     "id": "2019-02-01-tw1091362799794745344",
@@ -14899,17 +15268,56 @@ const NEWS_DATA =
     "tweet_id": "1091362799794745344"
   },
   {
-    "id": "2019-02-02-tw1091808212028981248",
-    "date": "2019-02-02",
+    "id": "2019-02-01-tw1091370033085927428",
+    "date": "2019-02-01",
     "year": 2019,
-    "headline": "Thank you ⁦⁦@BrendaStardig⁩ for supporting all ⁦@SBISD⁩ FFA students at our 41st Auction",
-    "body": "Thank you ⁦⁦@BrendaStardig⁩ for supporting all ⁦@SBISD⁩ FFA students at our 41st Auction. #CollectiveGreatness ⁦@SpringbranchFFA⁩",
+    "headline": "Culinary Soup Chefs 👩‍🍳👨‍🍳 are headed to the Houston Westchase Rotary Club SOUP'ER BOWL at the Qu...",
+    "body": "Culinary Soup Chefs 👩‍🍳👨‍🍳 are headed to the Houston Westchase Rotary Club SOUP'ER BOWL at the Quillian Center. Guthrie culinary's Gumbo plans to WOW the judges as they help raise scholarship money for seniors in @SBISD and @AliefISD",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DyVSICpVYAAQ1Oj.jpg",
+    "source": "twitter",
+    "tweet_id": "1091370033085927428"
+  },
+  {
+    "id": "2019-02-01-tw1091396652542373889",
+    "date": "2019-02-01",
+    "year": 2019,
+    "headline": "We want to congratulate Joseph Cruz, our Character Without Question recipient for 2019",
+    "body": "We want to congratulate Joseph Cruz, our Character Without Question recipient for 2019. This @SB_GuthrieJROTC cadet and @WAISSBISD junior is a strong leader and solid representative of @guthrie_center and @SBISD values.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DyVrd7LVsAA-66o.jpg",
+    "source": "twitter",
+    "tweet_id": "1091396652542373889"
+  },
+  {
+    "id": "2019-02-01-tw1091399037079773187",
+    "date": "2019-02-01",
+    "year": 2019,
+    "headline": "Chef Manske and Guthrie Culinary Arts students are serving it up for @FOX26Houston cameras at the...",
+    "body": "Chef Manske and Guthrie Culinary Arts students are serving it up for @FOX26Houston cameras at the 8th Annual SOUP’ER BOWL fundraiser for Houston Westchase Rotary Club. @GCProStart",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DyVtomjU0AAi9oz.jpg",
+    "source": "twitter",
+    "tweet_id": "1091399037079773187"
+  },
+  {
+    "id": "2019-02-01-tw1091423486516645888",
+    "date": "2019-02-01",
+    "year": 2019,
+    "headline": "Live from the 2019 FFA Show and Sale via @YouTube @SpringbranchFFA",
+    "body": "Live from the 2019 FFA Show and Sale via @YouTube @SpringbranchFFA",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/DybhxtoUwAAsKbw.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/DyVXsnSU8AA4sXr.jpg",
     "source": "twitter",
-    "tweet_id": "1091808212028981248"
+    "tweet_id": "1091423486516645888"
   },
   {
     "id": "2019-02-02-tw1091775393902796801",
@@ -14923,6 +15331,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/DybD7fPUUAAwRIq.jpg",
     "source": "twitter",
     "tweet_id": "1091775393902796801"
+  },
+  {
+    "id": "2019-02-02-tw1091808212028981248",
+    "date": "2019-02-02",
+    "year": 2019,
+    "headline": "Thank you ⁦⁦@BrendaStardig⁩ for supporting all ⁦@SBISD⁩ FFA students at our 41st Auction",
+    "body": "Thank you ⁦⁦@BrendaStardig⁩ for supporting all ⁦@SBISD⁩ FFA students at our 41st Auction. #CollectiveGreatness ⁦@SpringbranchFFA⁩",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/DybhxtoUwAAsKbw.jpg",
+    "source": "twitter",
+    "tweet_id": "1091808212028981248"
   },
   {
     "id": "2019-02-08-tw1093903106189021186",
@@ -14963,17 +15384,17 @@ const NEWS_DATA =
     "tweet_id": "1101905666145468416"
   },
   {
-    "id": "2019-03-09-tw1104513323494711296",
+    "id": "2019-03-09-tw1104397340788645888",
     "date": "2019-03-09",
     "year": 2019,
-    "headline": "Our team is heading back to Houston after a great showing",
-    "body": "Our team is heading back to Houston after a great showing. Only 1st place goes to nationals and while @GCProStart was not 1st, Cameron Watson, Ayddee Amaro, Lauren Dumensneil and Nikki Altmann are the best to us. Congratulations on a great showing and for making all of us hungry.",
+    "headline": "Keep up with Guthrie's Culinary ProStart team at State this morning in San Antonio on Twitter @GC...",
+    "body": "Keep up with Guthrie's Culinary ProStart team at State this morning in San Antonio on Twitter @GCProStart. This quartet is cool, calm and collected in a sizzling sort of way. @SBISD #CollectiveGreatness",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/D1QFA4NWoAY1HzO.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/D1ObhzbXcAIHe5x.jpg",
     "source": "twitter",
-    "tweet_id": "1104513323494711296"
+    "tweet_id": "1104397340788645888"
   },
   {
     "id": "2019-03-09-tw1104438384867581952",
@@ -14989,30 +15410,17 @@ const NEWS_DATA =
     "tweet_id": "1104438384867581952"
   },
   {
-    "id": "2019-03-09-tw1104397340788645888",
+    "id": "2019-03-09-tw1104513323494711296",
     "date": "2019-03-09",
     "year": 2019,
-    "headline": "Keep up with Guthrie's Culinary ProStart team at State this morning in San Antonio on Twitter @GC...",
-    "body": "Keep up with Guthrie's Culinary ProStart team at State this morning in San Antonio on Twitter @GCProStart. This quartet is cool, calm and collected in a sizzling sort of way. @SBISD #CollectiveGreatness",
+    "headline": "Our team is heading back to Houston after a great showing",
+    "body": "Our team is heading back to Houston after a great showing. Only 1st place goes to nationals and while @GCProStart was not 1st, Cameron Watson, Ayddee Amaro, Lauren Dumensneil and Nikki Altmann are the best to us. Congratulations on a great showing and for making all of us hungry.",
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/D1ObhzbXcAIHe5x.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/D1QFA4NWoAY1HzO.jpg",
     "source": "twitter",
-    "tweet_id": "1104397340788645888"
-  },
-  {
-    "id": "2019-03-12-tw1105342121744187392",
-    "date": "2019-03-12",
-    "year": 2019,
-    "headline": "Congratulations and thank you all for representing @SBISD and @guthrie_center at #hlsr",
-    "body": "Congratulations and thank you all for representing @SBISD and @guthrie_center at #hlsr",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/D1b2zPLXQAAeGXl.jpg",
-    "source": "twitter",
-    "tweet_id": "1105342121744187392"
+    "tweet_id": "1104513323494711296"
   },
   {
     "id": "2019-03-12-tw1105337284654559232",
@@ -15028,6 +15436,19 @@ const NEWS_DATA =
     "tweet_id": "1105337284654559232"
   },
   {
+    "id": "2019-03-12-tw1105342121744187392",
+    "date": "2019-03-12",
+    "year": 2019,
+    "headline": "Congratulations and thank you all for representing @SBISD and @guthrie_center at #hlsr",
+    "body": "Congratulations and thank you all for representing @SBISD and @guthrie_center at #hlsr",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/D1b2zPLXQAAeGXl.jpg",
+    "source": "twitter",
+    "tweet_id": "1105342121744187392"
+  },
+  {
     "id": "2019-03-26-tw1110564095248470017",
     "date": "2019-03-26",
     "year": 2019,
@@ -15037,6 +15458,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/D2mEKMHX0AEDtI0.jpg",
     "source": "twitter",
     "tweet_id": "1110564095248470017"
+  },
+  {
+    "id": "2019-04-02-tw1113214935532736512",
+    "date": "2019-04-02",
+    "year": 2019,
+    "headline": "Guthrie’s Community Tuesday open house is happening now until 7PM",
+    "body": "Guthrie’s Community Tuesday open house is happening now until 7PM.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1113214908546592768/pu/img/7yDNcDAUNB8uNU5o.jpg",
+    "source": "twitter",
+    "tweet_id": "1113214935532736512"
   },
   {
     "id": "2019-04-02-tw1113217557446692865",
@@ -15050,17 +15482,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/D3LxeBdXkAARdym.jpg",
     "source": "twitter",
     "tweet_id": "1113217557446692865"
-  },
-  {
-    "id": "2019-04-02-tw1113214935532736512",
-    "date": "2019-04-02",
-    "year": 2019,
-    "headline": "Guthrie’s Community Tuesday open house is happening now until 7PM",
-    "body": "Guthrie’s Community Tuesday open house is happening now until 7PM.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1113214908546592768/pu/img/7yDNcDAUNB8uNU5o.jpg",
-    "source": "twitter",
-    "tweet_id": "1113214935532736512"
   },
   {
     "id": "2019-04-06-tw1114612452967239680",
@@ -15089,19 +15510,6 @@ const NEWS_DATA =
     "tweet_id": "1116383929290899456"
   },
   {
-    "id": "2019-04-14-tw1117243701225558016",
-    "date": "2019-04-14",
-    "year": 2019,
-    "headline": "Military Ball Change of Command: Outgoing CO Daisy Baltazar relinquishes her command to Joseph Cr...",
-    "body": "Military Ball Change of Command: Outgoing CO Daisy Baltazar relinquishes her command to Joseph Cruz effective immediately. HM1 Monita made a special announcement that SB NJROTC has once again earned Distinguished with Academic Honors. Congratulations Cadets!",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/D4E_OYmWkAEYZRf.jpg",
-    "source": "twitter",
-    "tweet_id": "1117243701225558016"
-  },
-  {
     "id": "2019-04-14-tw1117215952658227200",
     "date": "2019-04-14",
     "year": 2019,
@@ -15113,6 +15521,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/D4El_QIWAAEXauc.jpg",
     "source": "twitter",
     "tweet_id": "1117215952658227200"
+  },
+  {
+    "id": "2019-04-14-tw1117243701225558016",
+    "date": "2019-04-14",
+    "year": 2019,
+    "headline": "Military Ball Change of Command: Outgoing CO Daisy Baltazar relinquishes her command to Joseph Cr...",
+    "body": "Military Ball Change of Command: Outgoing CO Daisy Baltazar relinquishes her command to Joseph Cruz effective immediately. HM1 Monita made a special announcement that SB NJROTC has once again earned Distinguished with Academic Honors. Congratulations Cadets!",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/D4E_OYmWkAEYZRf.jpg",
+    "source": "twitter",
+    "tweet_id": "1117243701225558016"
   },
   {
     "id": "2019-05-06-tw1125498312512147464",
@@ -15128,17 +15549,17 @@ const NEWS_DATA =
     "tweet_id": "1125498312512147464"
   },
   {
-    "id": "2019-05-08-tw1125932291849695232",
+    "id": "2019-05-08-tw1125923970723852293",
     "date": "2019-05-08",
     "year": 2019,
-    "headline": "In a poignant moment, seniors retire their FFA jackets",
-    "body": "In a poignant moment, seniors retire their FFA jackets.",
+    "headline": "Over 200 are gathered tonight at the annual @SpringbranchFFA Awards Banquet",
+    "body": "Over 200 are gathered tonight at the annual @SpringbranchFFA Awards Banquet. FFA has something for #EveryChild and brings out the #CollectiveGreatness of our chapter.",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/D6Adc1kXoAAENbC.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/D6AV4dzWsAA_f6E.jpg",
     "source": "twitter",
-    "tweet_id": "1125932291849695232"
+    "tweet_id": "1125923970723852293"
   },
   {
     "id": "2019-05-08-tw1125929553061347332",
@@ -15154,61 +15575,17 @@ const NEWS_DATA =
     "tweet_id": "1125929553061347332"
   },
   {
-    "id": "2019-05-08-tw1125923970723852293",
+    "id": "2019-05-08-tw1125932291849695232",
     "date": "2019-05-08",
     "year": 2019,
-    "headline": "Over 200 are gathered tonight at the annual @SpringbranchFFA Awards Banquet",
-    "body": "Over 200 are gathered tonight at the annual @SpringbranchFFA Awards Banquet. FFA has something for #EveryChild and brings out the #CollectiveGreatness of our chapter.",
+    "headline": "In a poignant moment, seniors retire their FFA jackets",
+    "body": "In a poignant moment, seniors retire their FFA jackets.",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/D6AV4dzWsAA_f6E.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/D6Adc1kXoAAENbC.jpg",
     "source": "twitter",
-    "tweet_id": "1125923970723852293"
-  },
-  {
-    "id": "2019-05-14-tw1128448241597669377",
-    "date": "2019-05-14",
-    "year": 2019,
-    "headline": "PreApprenticeship completer Abigail Johnson talks to the audience about her time in the program",
-    "body": "PreApprenticeship completer Abigail Johnson talks to the audience about her time in the program.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1128448186853593088/pu/img/V6ofOaw3xi58RSmF.jpg",
-    "source": "twitter",
-    "tweet_id": "1128448241597669377"
-  },
-  {
-    "id": "2019-05-14-tw1128447069818114049",
-    "date": "2019-05-14",
-    "year": 2019,
-    "headline": "Cohort 1 student Kevin Isidoro addresses his peers and others",
-    "body": "Cohort 1 student Kevin Isidoro addresses his peers and others. @TRIOElectric @SBISD @HCCS @AlvarezTWClabor",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1128447021264846848/pu/img/v5YOrMGiJPMx4EOE.jpg",
-    "source": "twitter",
-    "tweet_id": "1128447069818114049"
-  },
-  {
-    "id": "2019-05-14-tw1128445413063892994",
-    "date": "2019-05-14",
-    "year": 2019,
-    "headline": "Commissioner Julian Alvarez congratulates our 37 TRIO Electric Cohort 1 students who have complet...",
-    "body": "Commissioner Julian Alvarez congratulates our 37 TRIO Electric Cohort 1 students who have completed their PreApprenticeship program.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/D6kLH2yXoAg86SI.jpg",
-    "source": "twitter",
-    "tweet_id": "1128445413063892994"
-  },
-  {
-    "id": "2019-05-14-tw1128339069036052480",
-    "date": "2019-05-14",
-    "year": 2019,
-    "headline": "Students please share your thoughts about your Guthrie experience by taking our two minute, 16 qu...",
-    "body": "Students please share your thoughts about your Guthrie experience by taking our two minute, 16 question Spring Student Survey.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/D6iqZ2sXsAQc1Pk.png",
-    "source": "twitter",
-    "tweet_id": "1128339069036052480"
+    "tweet_id": "1125932291849695232"
   },
   {
     "id": "2019-05-14-tw1128309257001152512",
@@ -15222,6 +15599,50 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/D6iPSjpXkAEsW4q.jpg",
     "source": "twitter",
     "tweet_id": "1128309257001152512"
+  },
+  {
+    "id": "2019-05-14-tw1128339069036052480",
+    "date": "2019-05-14",
+    "year": 2019,
+    "headline": "Students please share your thoughts about your Guthrie experience by taking our two minute, 16 qu...",
+    "body": "Students please share your thoughts about your Guthrie experience by taking our two minute, 16 question Spring Student Survey.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/D6iqZ2sXsAQc1Pk.png",
+    "source": "twitter",
+    "tweet_id": "1128339069036052480"
+  },
+  {
+    "id": "2019-05-14-tw1128445413063892994",
+    "date": "2019-05-14",
+    "year": 2019,
+    "headline": "Commissioner Julian Alvarez congratulates our 37 TRIO Electric Cohort 1 students who have complet...",
+    "body": "Commissioner Julian Alvarez congratulates our 37 TRIO Electric Cohort 1 students who have completed their PreApprenticeship program.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/D6kLH2yXoAg86SI.jpg",
+    "source": "twitter",
+    "tweet_id": "1128445413063892994"
+  },
+  {
+    "id": "2019-05-14-tw1128447069818114049",
+    "date": "2019-05-14",
+    "year": 2019,
+    "headline": "Cohort 1 student Kevin Isidoro addresses his peers and others",
+    "body": "Cohort 1 student Kevin Isidoro addresses his peers and others. @TRIOElectric @SBISD @HCCS @AlvarezTWClabor",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1128447021264846848/pu/img/v5YOrMGiJPMx4EOE.jpg",
+    "source": "twitter",
+    "tweet_id": "1128447069818114049"
+  },
+  {
+    "id": "2019-05-14-tw1128448241597669377",
+    "date": "2019-05-14",
+    "year": 2019,
+    "headline": "PreApprenticeship completer Abigail Johnson talks to the audience about her time in the program",
+    "body": "PreApprenticeship completer Abigail Johnson talks to the audience about her time in the program.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1128448186853593088/pu/img/V6ofOaw3xi58RSmF.jpg",
+    "source": "twitter",
+    "tweet_id": "1128448241597669377"
   },
   {
     "id": "2019-08-08-tw1159556621900681216",
@@ -15248,17 +15669,6 @@ const NEWS_DATA =
     "tweet_id": "1165267521760583686"
   },
   {
-    "id": "2019-09-17-tw1173758887822016512",
-    "date": "2019-09-17",
-    "year": 2019,
-    "headline": "Parents and students get the details for TRIO Cohort 3",
-    "body": "Parents and students get the details for TRIO Cohort 3.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/EEoHfCcWkAUv45-.jpg",
-    "source": "twitter",
-    "tweet_id": "1173758887822016512"
-  },
-  {
     "id": "2019-09-17-tw1173755551299309569",
     "date": "2019-09-17",
     "year": 2019,
@@ -15270,15 +15680,15 @@ const NEWS_DATA =
     "tweet_id": "1173755551299309569"
   },
   {
-    "id": "2019-09-24-tw1176621774437527552",
-    "date": "2019-09-24",
+    "id": "2019-09-17-tw1173758887822016512",
+    "date": "2019-09-17",
     "year": 2019,
-    "headline": "Guadalupe Maldonado, one of TRIO PreApprenticeship Cohort 1 graduates is featured in a segment on...",
-    "body": "Guadalupe Maldonado, one of TRIO PreApprenticeship Cohort 1 graduates is featured in a segment on NBC News Learn Education Now Houston.",
+    "headline": "Parents and students get the details for TRIO Cohort 3",
+    "body": "Parents and students get the details for TRIO Cohort 3.",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/EFQzQ8gWsAI3_Xg.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/EEoHfCcWkAUv45-.jpg",
     "source": "twitter",
-    "tweet_id": "1176621774437527552"
+    "tweet_id": "1173758887822016512"
   },
   {
     "id": "2019-09-24-tw1176581556380536833",
@@ -15290,6 +15700,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "1176581556380536833"
+  },
+  {
+    "id": "2019-09-24-tw1176621774437527552",
+    "date": "2019-09-24",
+    "year": 2019,
+    "headline": "Guadalupe Maldonado, one of TRIO PreApprenticeship Cohort 1 graduates is featured in a segment on...",
+    "body": "Guadalupe Maldonado, one of TRIO PreApprenticeship Cohort 1 graduates is featured in a segment on NBC News Learn Education Now Houston.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/EFQzQ8gWsAI3_Xg.jpg",
+    "source": "twitter",
+    "tweet_id": "1176621774437527552"
   },
   {
     "id": "2019-09-26-tw1177312424082518016",
@@ -15329,6 +15750,17 @@ const NEWS_DATA =
     "tweet_id": "1179126746546868225"
   },
   {
+    "id": "2019-10-02-tw1179443921891581954",
+    "date": "2019-10-02",
+    "year": 2019,
+    "headline": "Since we continuously try to improve and add value to our programs, we asked our students about t...",
+    "body": "Since we continuously try to improve and add value to our programs, we asked our students about their Guthrie experience. What a response! #EveryChild",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/EF45_vLXYAEliPb.jpg",
+    "source": "twitter",
+    "tweet_id": "1179443921891581954"
+  },
+  {
     "id": "2019-10-02-tw1179539775201714176",
     "date": "2019-10-02",
     "year": 2019,
@@ -15342,17 +15774,6 @@ const NEWS_DATA =
     "tweet_id": "1179539775201714176"
   },
   {
-    "id": "2019-10-02-tw1179443921891581954",
-    "date": "2019-10-02",
-    "year": 2019,
-    "headline": "Since we continuously try to improve and add value to our programs, we asked our students about t...",
-    "body": "Since we continuously try to improve and add value to our programs, we asked our students about their Guthrie experience. What a response! #EveryChild",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/EF45_vLXYAEliPb.jpg",
-    "source": "twitter",
-    "tweet_id": "1179443921891581954"
-  },
-  {
     "id": "2019-10-08-tw1181638834901139457",
     "date": "2019-10-08",
     "year": 2019,
@@ -15362,19 +15783,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/EGYGQiiX0AA7Wdg.jpg",
     "source": "twitter",
     "tweet_id": "1181638834901139457"
-  },
-  {
-    "id": "2019-10-17-tw1184902111403921408",
-    "date": "2019-10-17",
-    "year": 2019,
-    "headline": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today",
-    "body": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today. Photos at link below. @SB_GuthrieJROTC",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/EHGeMNlWoAAYxsA.jpg",
-    "source": "twitter",
-    "tweet_id": "1184902111403921408"
   },
   {
     "id": "2019-10-17-tw1184821860313243650",
@@ -15388,6 +15796,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/EHFVM9cX4AEWvO1.jpg",
     "source": "twitter",
     "tweet_id": "1184821860313243650"
+  },
+  {
+    "id": "2019-10-17-tw1184902111403921408",
+    "date": "2019-10-17",
+    "year": 2019,
+    "headline": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today",
+    "body": "Congratulations to our outstanding NJROTC Cadets and NSI’s for a solid AMI today. Photos at link below. @SB_GuthrieJROTC",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/EHGeMNlWoAAYxsA.jpg",
+    "source": "twitter",
+    "tweet_id": "1184902111403921408"
   },
   {
     "id": "2019-10-30-tw1189556472188936192",
@@ -15471,6 +15892,17 @@ const NEWS_DATA =
     "tweet_id": "1217489998313861121"
   },
   {
+    "id": "2020-01-16-tw1217837712100610049",
+    "date": "2020-01-16",
+    "year": 2020,
+    "headline": "Welcome Spring Branch Middle and Academy of Choice students to your personalized Guthrie tour! @S...",
+    "body": "Welcome Spring Branch Middle and Academy of Choice students to your personalized Guthrie tour! @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/EOag8esX4AYL_O4.jpg",
+    "source": "twitter",
+    "tweet_id": "1217837712100610049"
+  },
+  {
     "id": "2020-01-16-tw1217854426397978626",
     "date": "2020-01-16",
     "year": 2020,
@@ -15482,17 +15914,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/EOawJXAXsAUt8Du.jpg",
     "source": "twitter",
     "tweet_id": "1217854426397978626"
-  },
-  {
-    "id": "2020-01-16-tw1217837712100610049",
-    "date": "2020-01-16",
-    "year": 2020,
-    "headline": "Welcome Spring Branch Middle and Academy of Choice students to your personalized Guthrie tour! @S...",
-    "body": "Welcome Spring Branch Middle and Academy of Choice students to your personalized Guthrie tour! @SBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/EOag8esX4AYL_O4.jpg",
-    "source": "twitter",
-    "tweet_id": "1217837712100610049"
   },
   {
     "id": "2020-01-23-tw1220407077132283904",
@@ -15521,43 +15942,15 @@ const NEWS_DATA =
     "tweet_id": "1222592850770251776"
   },
   {
-    "id": "2020-01-31-tw1223331735275962368",
+    "id": "2020-01-31-tw1223294125480394752",
     "date": "2020-01-31",
     "year": 2020,
-    "headline": "Congratulations Chef Alford and the Culinary team for winning 1st Place in the Soup’er Bowl",
-    "body": "Congratulations Chef Alford and the Culinary team for winning 1st Place in the Soup’er Bowl. Thank you George A. Kurisky for sponsoring our students at the Houston Westchase Rotary event! @SBISD",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/EPoltZ3X0AAbA4Y.jpg",
-    "source": "twitter",
-    "tweet_id": "1223331735275962368"
-  },
-  {
-    "id": "2020-01-31-tw1223307288762437635",
-    "date": "2020-01-31",
-    "year": 2020,
-    "headline": "42nd Annual SB FFA Livestock Show The Guthrie Center, Spring Branch ISD, Houston, TX",
-    "body": "42nd Annual SB FFA Livestock Show The Guthrie Center, Spring Branch ISD, Houston, TX",
-    "programs": [
-      "Agricultural Science"
-    ],
+    "headline": "Live from Mevo The Guthrie Center, Spring Branch ISD, Houston, TX",
+    "body": "Live from Mevo The Guthrie Center, Spring Branch ISD, Houston, TX",
+    "programs": [],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "1223307288762437635"
-  },
-  {
-    "id": "2020-01-31-tw1223299881479102468",
-    "date": "2020-01-31",
-    "year": 2020,
-    "headline": "Chef Alford’s team are ready to compete against other HS teams at the Houston Westchase Rotary So...",
-    "body": "Chef Alford’s team are ready to compete against other HS teams at the Houston Westchase Rotary Soup'er Bowl 2020 Cookoff! Go Guthrie Culinary! @SBISD",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/EPoIwOIXkAAKOme.jpg",
-    "source": "twitter",
-    "tweet_id": "1223299881479102468"
+    "tweet_id": "1223294125480394752"
   },
   {
     "id": "2020-01-31-tw1223296568100438016",
@@ -15573,41 +15966,56 @@ const NEWS_DATA =
     "tweet_id": "1223296568100438016"
   },
   {
-    "id": "2020-01-31-tw1223294125480394752",
+    "id": "2020-01-31-tw1223299881479102468",
     "date": "2020-01-31",
     "year": 2020,
-    "headline": "Live from Mevo The Guthrie Center, Spring Branch ISD, Houston, TX",
-    "body": "Live from Mevo The Guthrie Center, Spring Branch ISD, Houston, TX",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "1223294125480394752"
-  },
-  {
-    "id": "2020-02-01-tw1223684075799633922",
-    "date": "2020-02-01",
-    "year": 2020,
-    "headline": "The 42nd Annual FFA Auction is starting",
-    "body": "The 42nd Annual FFA Auction is starting. If you can make it, please join us at 1905 Brittmoore. If not you can watch online via our Twitter feed @guthrie_center",
+    "headline": "Chef Alford’s team are ready to compete against other HS teams at the Houston Westchase Rotary So...",
+    "body": "Chef Alford’s team are ready to compete against other HS teams at the Houston Westchase Rotary Soup'er Bowl 2020 Cookoff! Go Guthrie Culinary! @SBISD",
     "programs": [
-      "Agricultural Science"
+      "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/EPtmLhwWAAAfeB1.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/EPoIwOIXkAAKOme.jpg",
     "source": "twitter",
-    "tweet_id": "1223684075799633922"
+    "tweet_id": "1223299881479102468"
   },
   {
-    "id": "2020-02-01-tw1223682228967706625",
-    "date": "2020-02-01",
+    "id": "2020-01-31-tw1223307288762437635",
+    "date": "2020-01-31",
     "year": 2020,
-    "headline": "42nd Spring Branch FFA Auction 2020 The Guthrie Center, Spring Branch ISD, Houston, TX",
-    "body": "42nd Spring Branch FFA Auction 2020 The Guthrie Center, Spring Branch ISD, Houston, TX",
+    "headline": "42nd Annual SB FFA Livestock Show The Guthrie Center, Spring Branch ISD, Houston, TX",
+    "body": "42nd Annual SB FFA Livestock Show The Guthrie Center, Spring Branch ISD, Houston, TX",
     "programs": [
       "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "1223682228967706625"
+    "tweet_id": "1223307288762437635"
+  },
+  {
+    "id": "2020-01-31-tw1223331735275962368",
+    "date": "2020-01-31",
+    "year": 2020,
+    "headline": "Congratulations Chef Alford and the Culinary team for winning 1st Place in the Soup’er Bowl",
+    "body": "Congratulations Chef Alford and the Culinary team for winning 1st Place in the Soup’er Bowl. Thank you George A. Kurisky for sponsoring our students at the Houston Westchase Rotary event! @SBISD",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/EPoltZ3X0AAbA4Y.jpg",
+    "source": "twitter",
+    "tweet_id": "1223331735275962368"
+  },
+  {
+    "id": "2020-02-01-tw1223399683239878663",
+    "date": "2020-02-01",
+    "year": 2020,
+    "headline": "Hog showmanship marks the end of the 2020 Livestock Show",
+    "body": "Hog showmanship marks the end of the 2020 Livestock Show. Auction starts at 1 tomorrow, we hope to see you here.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1223399621571096577/pu/img/QxWca2l-dgL4spEh.jpg",
+    "source": "twitter",
+    "tweet_id": "1223399683239878663"
   },
   {
     "id": "2020-02-01-tw1223660381069041664",
@@ -15623,17 +16031,30 @@ const NEWS_DATA =
     "tweet_id": "1223660381069041664"
   },
   {
-    "id": "2020-02-01-tw1223399683239878663",
+    "id": "2020-02-01-tw1223682228967706625",
     "date": "2020-02-01",
     "year": 2020,
-    "headline": "Hog showmanship marks the end of the 2020 Livestock Show",
-    "body": "Hog showmanship marks the end of the 2020 Livestock Show. Auction starts at 1 tomorrow, we hope to see you here.",
+    "headline": "42nd Spring Branch FFA Auction 2020 The Guthrie Center, Spring Branch ISD, Houston, TX",
+    "body": "42nd Spring Branch FFA Auction 2020 The Guthrie Center, Spring Branch ISD, Houston, TX",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1223399621571096577/pu/img/QxWca2l-dgL4spEh.jpg",
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "1223399683239878663"
+    "tweet_id": "1223682228967706625"
+  },
+  {
+    "id": "2020-02-01-tw1223684075799633922",
+    "date": "2020-02-01",
+    "year": 2020,
+    "headline": "The 42nd Annual FFA Auction is starting",
+    "body": "The 42nd Annual FFA Auction is starting. If you can make it, please join us at 1905 Brittmoore. If not you can watch online via our Twitter feed @guthrie_center",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/EPtmLhwWAAAfeB1.jpg",
+    "source": "twitter",
+    "tweet_id": "1223684075799633922"
   },
   {
     "id": "2020-02-22-tw1231303899920961537",
@@ -15687,17 +16108,6 @@ const NEWS_DATA =
     "tweet_id": "1235628562717249536"
   },
   {
-    "id": "2020-03-09-tw1237092165777526786",
-    "date": "2020-03-09",
-    "year": 2020,
-    "headline": "Guthrie Students, it's time to show your skills in the 1st Annual Guthrie Soft Skills Competition",
-    "body": "Guthrie Students, it's time to show your skills in the 1st Annual Guthrie Soft Skills Competition. Ask your teacher for details and get qualified for the finals on April 21st.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/ESsIxGuXsAEZYtw.jpg",
-    "source": "twitter",
-    "tweet_id": "1237092165777526786"
-  },
-  {
     "id": "2020-03-09-tw1237090522398887937",
     "date": "2020-03-09",
     "year": 2020,
@@ -15709,6 +16119,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/ESsHRc_WoAEGGiu.jpg",
     "source": "twitter",
     "tweet_id": "1237090522398887937"
+  },
+  {
+    "id": "2020-03-09-tw1237092165777526786",
+    "date": "2020-03-09",
+    "year": 2020,
+    "headline": "Guthrie Students, it's time to show your skills in the 1st Annual Guthrie Soft Skills Competition",
+    "body": "Guthrie Students, it's time to show your skills in the 1st Annual Guthrie Soft Skills Competition. Ask your teacher for details and get qualified for the finals on April 21st.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/ESsIxGuXsAEZYtw.jpg",
+    "source": "twitter",
+    "tweet_id": "1237092165777526786"
   },
   {
     "id": "2020-09-02-19737",
@@ -15748,17 +16169,6 @@ const NEWS_DATA =
     "tweet_id": "1353787022448717832"
   },
   {
-    "id": "2021-02-01-tw1356353147300675588",
-    "date": "2021-02-01",
-    "year": 2021,
-    "headline": "Guthrie classes teach you the technical skills to start your career, but even more important is w...",
-    "body": "Guthrie classes teach you the technical skills to start your career, but even more important is we will make sure you have the professional skills to stay employed and successful. #SpringWoodsHigh #northbrookhigh #WAISSBISD #MHShouston #StratfordSBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/EtK7v4_XUAMifEW.jpg",
-    "source": "twitter",
-    "tweet_id": "1356353147300675588"
-  },
-  {
     "id": "2021-02-01-tw1356246723367215110",
     "date": "2021-02-01",
     "year": 2021,
@@ -15770,30 +16180,15 @@ const NEWS_DATA =
     "tweet_id": "1356246723367215110"
   },
   {
-    "id": "2021-02-09-tw1359276509605752833",
-    "date": "2021-02-09",
+    "id": "2021-02-01-tw1356353147300675588",
+    "date": "2021-02-01",
     "year": 2021,
-    "headline": "Spring Branch FFA Show and Sale",
-    "body": "Spring Branch FFA Show and Sale",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
+    "headline": "Guthrie classes teach you the technical skills to start your career, but even more important is w...",
+    "body": "Guthrie classes teach you the technical skills to start your career, but even more important is we will make sure you have the professional skills to stay employed and successful. #SpringWoodsHigh #northbrookhigh #WAISSBISD #MHShouston #StratfordSBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/EtK7v4_XUAMifEW.jpg",
     "source": "twitter",
-    "tweet_id": "1359276509605752833"
-  },
-  {
-    "id": "2021-02-09-tw1359272282628055043",
-    "date": "2021-02-09",
-    "year": 2021,
-    "headline": "Spring Branch FFA Show and Sale",
-    "body": "Spring Branch FFA Show and Sale",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "1359272282628055043"
+    "tweet_id": "1356353147300675588"
   },
   {
     "id": "2021-02-09-tw1359269826259079168",
@@ -15809,17 +16204,30 @@ const NEWS_DATA =
     "tweet_id": "1359269826259079168"
   },
   {
-    "id": "2021-02-10-tw1359642274980896768",
-    "date": "2021-02-10",
+    "id": "2021-02-09-tw1359272282628055043",
+    "date": "2021-02-09",
     "year": 2021,
-    "headline": "Masks, social distancing and FFA students getting last-minute information",
-    "body": "Masks, social distancing and FFA students getting last-minute information.",
+    "headline": "Spring Branch FFA Show and Sale",
+    "body": "Spring Branch FFA Show and Sale",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/Et5rcZFVIAEiuHw.jpg",
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "1359642274980896768"
+    "tweet_id": "1359272282628055043"
+  },
+  {
+    "id": "2021-02-09-tw1359276509605752833",
+    "date": "2021-02-09",
+    "year": 2021,
+    "headline": "Spring Branch FFA Show and Sale",
+    "body": "Spring Branch FFA Show and Sale",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "1359276509605752833"
   },
   {
     "id": "2021-02-10-tw1359639314574028804",
@@ -15835,17 +16243,17 @@ const NEWS_DATA =
     "tweet_id": "1359639314574028804"
   },
   {
-    "id": "2021-02-11-tw1360002728232054786",
-    "date": "2021-02-11",
+    "id": "2021-02-10-tw1359642274980896768",
+    "date": "2021-02-10",
     "year": 2021,
-    "headline": "Spring Branch FFA Show and Sale",
-    "body": "Spring Branch FFA Show and Sale",
+    "headline": "Masks, social distancing and FFA students getting last-minute information",
+    "body": "Masks, social distancing and FFA students getting last-minute information.",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": null,
+    "imageUrl": "https://pbs.twimg.com/media/Et5rcZFVIAEiuHw.jpg",
     "source": "twitter",
-    "tweet_id": "1360002728232054786"
+    "tweet_id": "1359642274980896768"
   },
   {
     "id": "2021-02-11-tw1359657033058775040",
@@ -15859,6 +16267,19 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "1359657033058775040"
+  },
+  {
+    "id": "2021-02-11-tw1360002728232054786",
+    "date": "2021-02-11",
+    "year": 2021,
+    "headline": "Spring Branch FFA Show and Sale",
+    "body": "Spring Branch FFA Show and Sale",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "1360002728232054786"
   },
   {
     "id": "2021-02-12-tw1360371586583453699",
@@ -15988,17 +16409,6 @@ const NEWS_DATA =
     "tweet_id": "1397217576535658496"
   },
   {
-    "id": "2021-06-03-tw1400459260991918081",
-    "date": "2021-06-03",
-    "year": 2021,
-    "headline": "Here is the article link along the rest of the sketches from our students (Joshua Flower, Rayne A...",
-    "body": "Here is the article link along the rest of the sketches from our students (Joshua Flower, Rayne Ammar, Charlie Williams, Amelia Nuzzo, Ana Martinez, Stephen Davidson and Riley Kerns) submissions.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/E29uRZNVoAgc3QQ.jpg",
-    "source": "twitter",
-    "tweet_id": "1400459260991918081"
-  },
-  {
     "id": "2021-06-03-tw1400459221255147522",
     "date": "2021-06-03",
     "year": 2021,
@@ -16010,6 +16420,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/E29uPAwUUA0PHtD.jpg",
     "source": "twitter",
     "tweet_id": "1400459221255147522"
+  },
+  {
+    "id": "2021-06-03-tw1400459260991918081",
+    "date": "2021-06-03",
+    "year": 2021,
+    "headline": "Here is the article link along the rest of the sketches from our students (Joshua Flower, Rayne A...",
+    "body": "Here is the article link along the rest of the sketches from our students (Joshua Flower, Rayne Ammar, Charlie Williams, Amelia Nuzzo, Ana Martinez, Stephen Davidson and Riley Kerns) submissions.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/E29uRZNVoAgc3QQ.jpg",
+    "source": "twitter",
+    "tweet_id": "1400459260991918081"
   },
   {
     "id": "2021-06-23-tw1407759092190519299",
@@ -16137,15 +16558,17 @@ const NEWS_DATA =
     "tweet_id": "1468254425663877130"
   },
   {
-    "id": "2021-12-08-tw1468661979724369920",
+    "id": "2021-12-08-tw1468598508928356352",
     "date": "2021-12-08",
     "year": 2021,
-    "headline": "Happy Birthday Spring Branch ISD from us @SBISD",
-    "body": "Happy Birthday Spring Branch ISD from us @SBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FGG-mwKX0AUcHN5.jpg",
+    "headline": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Gu...",
+    "body": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FGGCjxqXIAIMAtm.jpg",
     "source": "twitter",
-    "tweet_id": "1468661979724369920"
+    "tweet_id": "1468598508928356352"
   },
   {
     "id": "2021-12-08-tw1468610395812339724",
@@ -16161,30 +16584,26 @@ const NEWS_DATA =
     "tweet_id": "1468610395812339724"
   },
   {
-    "id": "2021-12-08-tw1468598508928356352",
+    "id": "2021-12-08-tw1468661979724369920",
     "date": "2021-12-08",
     "year": 2021,
-    "headline": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Gu...",
-    "body": "Include Agricultural Science/FFA in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FGGCjxqXIAIMAtm.jpg",
+    "headline": "Happy Birthday Spring Branch ISD from us @SBISD",
+    "body": "Happy Birthday Spring Branch ISD from us @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FGG-mwKX0AUcHN5.jpg",
     "source": "twitter",
-    "tweet_id": "1468598508928356352"
+    "tweet_id": "1468661979724369920"
   },
   {
-    "id": "2021-12-09-tw1469084250448220162",
+    "id": "2021-12-09-tw1469002918741393414",
     "date": "2021-12-09",
     "year": 2021,
-    "headline": "Culinary Arts future baking and pastry chefs help spread the holiday cheer at a gathering at the ...",
-    "body": "Culinary Arts future baking and pastry chefs help spread the holiday cheer at a gathering at the Wayne F. Schaper Leadership Center. You can smell the sweetness when you walk through the doors!",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1469084202369011722/pu/img/DX4hAPQou6Do2LKw.jpg",
+    "headline": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie",
+    "body": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FGLyXimXEAUeplg.jpg",
     "source": "twitter",
-    "tweet_id": "1469084250448220162"
+    "tweet_id": "1469002918741393414"
   },
   {
     "id": "2021-12-09-tw1469045209250025480",
@@ -16200,50 +16619,17 @@ const NEWS_DATA =
     "tweet_id": "1469045209250025480"
   },
   {
-    "id": "2021-12-09-tw1469002918741393414",
+    "id": "2021-12-09-tw1469084250448220162",
     "date": "2021-12-09",
     "year": 2021,
-    "headline": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie",
-    "body": "IncludeArchitecturalDesigninyourhigh school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FGLyXimXEAUeplg.jpg",
-    "source": "twitter",
-    "tweet_id": "1469002918741393414"
-  },
-  {
-    "id": "2021-12-10-tw1469448152935768071",
-    "date": "2021-12-10",
-    "year": 2021,
-    "headline": "Santa and all his Elves are ready to see you until 8 tonight at Santa’s Farm!",
-    "body": "Santa and all his Elves are ready to see you until 8 tonight at Santa’s Farm!",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FGSHTTHX0AkPdro.jpg",
-    "source": "twitter",
-    "tweet_id": "1469448152935768071"
-  },
-  {
-    "id": "2021-12-10-tw1469404829629960199",
-    "date": "2021-12-10",
-    "year": 2021,
-    "headline": "SAVE THE DATE! Our next Community Tuesday open house will be Jan",
-    "body": "SAVE THE DATE! Our next Community Tuesday open house will be Jan. 18, 2022 from 4:30-7:00 PM. Please join us to visit the programs and experiences available for Guthrie students. @SBISD @sbranchisd",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FGRf5yCX0Ags8ee.jpg",
-    "source": "twitter",
-    "tweet_id": "1469404829629960199"
-  },
-  {
-    "id": "2021-12-10-tw1469365815585775618",
-    "date": "2021-12-10",
-    "year": 2021,
-    "headline": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie",
-    "body": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie. Discover Guthrie",
+    "headline": "Culinary Arts future baking and pastry chefs help spread the holiday cheer at a gathering at the ...",
+    "body": "Culinary Arts future baking and pastry chefs help spread the holiday cheer at a gathering at the Wayne F. Schaper Leadership Center. You can smell the sweetness when you walk through the doors!",
     "programs": [
-      "Criminal Justice"
+      "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/FGQ8a9IXwAMYmLP.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1469084202369011722/pu/img/DX4hAPQou6Do2LKw.jpg",
     "source": "twitter",
-    "tweet_id": "1469365815585775618"
+    "tweet_id": "1469084250448220162"
   },
   {
     "id": "2021-12-10-tw1469309391857930255",
@@ -16259,17 +16645,50 @@ const NEWS_DATA =
     "tweet_id": "1469309391857930255"
   },
   {
-    "id": "2021-12-11-tw1469749651331031053",
+    "id": "2021-12-10-tw1469365815585775618",
+    "date": "2021-12-10",
+    "year": 2021,
+    "headline": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie",
+    "body": "Include Criminal Justice in your high schoolplan,oneofmanyoutstandingprogramsat Guthrie. Discover Guthrie",
+    "programs": [
+      "Criminal Justice"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FGQ8a9IXwAMYmLP.jpg",
+    "source": "twitter",
+    "tweet_id": "1469365815585775618"
+  },
+  {
+    "id": "2021-12-10-tw1469404829629960199",
+    "date": "2021-12-10",
+    "year": 2021,
+    "headline": "SAVE THE DATE! Our next Community Tuesday open house will be Jan",
+    "body": "SAVE THE DATE! Our next Community Tuesday open house will be Jan. 18, 2022 from 4:30-7:00 PM. Please join us to visit the programs and experiences available for Guthrie students. @SBISD @sbranchisd",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FGRf5yCX0Ags8ee.jpg",
+    "source": "twitter",
+    "tweet_id": "1469404829629960199"
+  },
+  {
+    "id": "2021-12-10-tw1469448152935768071",
+    "date": "2021-12-10",
+    "year": 2021,
+    "headline": "Santa and all his Elves are ready to see you until 8 tonight at Santa’s Farm!",
+    "body": "Santa and all his Elves are ready to see you until 8 tonight at Santa’s Farm!",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FGSHTTHX0AkPdro.jpg",
+    "source": "twitter",
+    "tweet_id": "1469448152935768071"
+  },
+  {
+    "id": "2021-12-11-tw1469463930187792396",
     "date": "2021-12-11",
     "year": 2021,
-    "headline": "NJROTC cadets comparing results after completing the Orienteering course at WG Jones State Forest...",
-    "body": "NJROTC cadets comparing results after completing the Orienteering course at WG Jones State Forest near Conroe. Participants use a map and compass (no GPS or phone app) to find as many checkpoints as they can and safely return to start.",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FGWZg-9WUAMtVXH.jpg",
+    "headline": "We are halfway through Santa’s Farm, we will be here until 8, so please come out and enjoy the fun!",
+    "body": "We are halfway through Santa’s Farm, we will be here until 8, so please come out and enjoy the fun!",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1469463914564014084/pu/img/kNBF9BVvHc9e82ZW.jpg",
     "source": "twitter",
-    "tweet_id": "1469749651331031053"
+    "tweet_id": "1469463930187792396"
   },
   {
     "id": "2021-12-11-tw1469729711454568454",
@@ -16285,15 +16704,17 @@ const NEWS_DATA =
     "tweet_id": "1469729711454568454"
   },
   {
-    "id": "2021-12-11-tw1469463930187792396",
+    "id": "2021-12-11-tw1469749651331031053",
     "date": "2021-12-11",
     "year": 2021,
-    "headline": "We are halfway through Santa’s Farm, we will be here until 8, so please come out and enjoy the fun!",
-    "body": "We are halfway through Santa’s Farm, we will be here until 8, so please come out and enjoy the fun!",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1469463914564014084/pu/img/kNBF9BVvHc9e82ZW.jpg",
+    "headline": "NJROTC cadets comparing results after completing the Orienteering course at WG Jones State Forest...",
+    "body": "NJROTC cadets comparing results after completing the Orienteering course at WG Jones State Forest near Conroe. Participants use a map and compass (no GPS or phone app) to find as many checkpoints as they can and safely return to start.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FGWZg-9WUAMtVXH.jpg",
     "source": "twitter",
-    "tweet_id": "1469463930187792396"
+    "tweet_id": "1469749651331031053"
   },
   {
     "id": "2021-12-12-tw1470099646085316615",
@@ -16409,15 +16830,17 @@ const NEWS_DATA =
     "tweet_id": "1473014855850467331"
   },
   {
-    "id": "2022-01-04-tw1478457969620701184",
+    "id": "2022-01-04-tw1478451637509402625",
     "date": "2022-01-04",
     "year": 2022,
-    "headline": "If you want to know more about our programs and opportunities for SBISD high school students, ple...",
-    "body": "If you want to know more about our programs and opportunities for SBISD high school students, please visit us during our Community Tuesday Open House on 1/18/2022 from 4:30-7. That’s just 2 weeks away!",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FISJr8uXIAU__uq.jpg",
+    "headline": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie",
+    "body": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
+    "programs": [
+      "Patient Care Tech"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FISD7b6WQAAkbj2.jpg",
     "source": "twitter",
-    "tweet_id": "1478457969620701184"
+    "tweet_id": "1478451637509402625"
   },
   {
     "id": "2022-01-04-tw1478457365456433154",
@@ -16431,17 +16854,15 @@ const NEWS_DATA =
     "tweet_id": "1478457365456433154"
   },
   {
-    "id": "2022-01-04-tw1478451637509402625",
+    "id": "2022-01-04-tw1478457969620701184",
     "date": "2022-01-04",
     "year": 2022,
-    "headline": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Patient Care Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
-    "programs": [
-      "Patient Care Tech"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FISD7b6WQAAkbj2.jpg",
+    "headline": "If you want to know more about our programs and opportunities for SBISD high school students, ple...",
+    "body": "If you want to know more about our programs and opportunities for SBISD high school students, please visit us during our Community Tuesday Open House on 1/18/2022 from 4:30-7. That’s just 2 weeks away!",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FISJr8uXIAU__uq.jpg",
     "source": "twitter",
-    "tweet_id": "1478451637509402625"
+    "tweet_id": "1478457969620701184"
   },
   {
     "id": "2022-01-05-tw1478780345810132992",
@@ -16507,20 +16928,6 @@ const NEWS_DATA =
     "tweet_id": "1480530256398331906"
   },
   {
-    "id": "2022-01-11-tw1481005968691507202",
-    "date": "2022-01-11",
-    "year": 2022,
-    "headline": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie. DiscoverGuthrie",
-    "programs": [
-      "Electrician Technician",
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FI2XFBmXsAgCxkq.jpg",
-    "source": "twitter",
-    "tweet_id": "1481005968691507202"
-  },
-  {
     "id": "2022-01-11-tw1480917657843023878",
     "date": "2022-01-11",
     "year": 2022,
@@ -16534,26 +16941,18 @@ const NEWS_DATA =
     "tweet_id": "1480917657843023878"
   },
   {
-    "id": "2022-01-12-tw1481395313831301126",
-    "date": "2022-01-12",
+    "id": "2022-01-11-tw1481005968691507202",
+    "date": "2022-01-11",
     "year": 2022,
-    "headline": "If it’s January, it’s course selection time",
-    "body": "If it’s January, it’s course selection time. Perhaps you just can’t decide which Guthrie program to take? We can help with that - come visit Tuesday from 4:30-7 and see all 15 programs at our Community Tuesday Open House. @SBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FI75L1iWUAId4ze.jpg",
+    "headline": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie",
+    "body": "Include Electrician Technician in your high school plan, one of many outstanding programs at Guthrie. DiscoverGuthrie",
+    "programs": [
+      "Electrician Technician",
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FI2XFBmXsAgCxkq.jpg",
     "source": "twitter",
-    "tweet_id": "1481395313831301126"
-  },
-  {
-    "id": "2022-01-12-tw1481352292444291072",
-    "date": "2022-01-12",
-    "year": 2022,
-    "headline": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FI7SDtfXEAEkzKC.jpg",
-    "source": "twitter",
-    "tweet_id": "1481352292444291072"
+    "tweet_id": "1481005968691507202"
   },
   {
     "id": "2022-01-12-tw1481289135117713418",
@@ -16569,15 +16968,26 @@ const NEWS_DATA =
     "tweet_id": "1481289135117713418"
   },
   {
-    "id": "2022-01-13-tw1481652366885539850",
-    "date": "2022-01-13",
+    "id": "2022-01-12-tw1481352292444291072",
+    "date": "2022-01-12",
     "year": 2022,
-    "headline": "Join us at our Open House: Tue 1/18 from 4:30-7",
-    "body": "Join us at our Open House: Tue 1/18 from 4:30-7. Both Guthrie and the Ag Farm will be open for you to learn more. @SpringWoodsHigh @northbrookhigh @WAISSBISD @mhshouston @stratfordsbisd @SBISD @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride",
+    "headline": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie",
+    "body": "Include Computer/Info Tech in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FI_i-FkUcAcnhMD.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/FI7SDtfXEAEkzKC.jpg",
     "source": "twitter",
-    "tweet_id": "1481652366885539850"
+    "tweet_id": "1481352292444291072"
+  },
+  {
+    "id": "2022-01-12-tw1481395313831301126",
+    "date": "2022-01-12",
+    "year": 2022,
+    "headline": "If it’s January, it’s course selection time",
+    "body": "If it’s January, it’s course selection time. Perhaps you just can’t decide which Guthrie program to take? We can help with that - come visit Tuesday from 4:30-7 and see all 15 programs at our Community Tuesday Open House. @SBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FI75L1iWUAId4ze.jpg",
+    "source": "twitter",
+    "tweet_id": "1481395313831301126"
   },
   {
     "id": "2022-01-13-tw1481642559151620096",
@@ -16593,17 +17003,15 @@ const NEWS_DATA =
     "tweet_id": "1481642559151620096"
   },
   {
-    "id": "2022-01-15-tw1482374597043527684",
-    "date": "2022-01-15",
+    "id": "2022-01-13-tw1481652366885539850",
+    "date": "2022-01-13",
     "year": 2022,
-    "headline": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie",
-    "body": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
-    "programs": [
-      "Architectural Design"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FJJz1sgXsAUK4k6.jpg",
+    "headline": "Join us at our Open House: Tue 1/18 from 4:30-7",
+    "body": "Join us at our Open House: Tue 1/18 from 4:30-7. Both Guthrie and the Ag Farm will be open for you to learn more. @SpringWoodsHigh @northbrookhigh @WAISSBISD @mhshouston @stratfordsbisd @SBISD @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FI_i-FkUcAcnhMD.jpg",
     "source": "twitter",
-    "tweet_id": "1482374597043527684"
+    "tweet_id": "1481652366885539850"
   },
   {
     "id": "2022-01-15-tw1482228641060773889",
@@ -16619,6 +17027,19 @@ const NEWS_DATA =
     "tweet_id": "1482228641060773889"
   },
   {
+    "id": "2022-01-15-tw1482374597043527684",
+    "date": "2022-01-15",
+    "year": 2022,
+    "headline": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie",
+    "body": "Include Architectural Design in your high school plan, one of many outstanding programs at Guthrie. Discover Guthrie",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FJJz1sgXsAUK4k6.jpg",
+    "source": "twitter",
+    "tweet_id": "1482374597043527684"
+  },
+  {
     "id": "2022-01-17-tw1483187235784732681",
     "date": "2022-01-17",
     "year": 2022,
@@ -16632,15 +17053,15 @@ const NEWS_DATA =
     "tweet_id": "1483187235784732681"
   },
   {
-    "id": "2022-01-18-tw1483588987377930246",
+    "id": "2022-01-18-tw1483443031424524292",
     "date": "2022-01-18",
     "year": 2022,
-    "headline": "Our Community Tuesday open house has something for everyone",
-    "body": "Our Community Tuesday open house has something for everyone. We are here until 7 PM tonight!",
+    "headline": "Join us at later today (4:30-7) at our open house to learn more about the excellent opportunities...",
+    "body": "Join us at later today (4:30-7) at our open house to learn more about the excellent opportunities for you to pursue in high school. You can visit both Guthrie and the Ag Farm and explore our programs.",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FJbEUdEXIAEf2wa.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/FJY_kwcXEAApwTL.jpg",
     "source": "twitter",
-    "tweet_id": "1483588987377930246"
+    "tweet_id": "1483443031424524292"
   },
   {
     "id": "2022-01-18-tw1483476540998434820",
@@ -16656,28 +17077,15 @@ const NEWS_DATA =
     "tweet_id": "1483476540998434820"
   },
   {
-    "id": "2022-01-18-tw1483443031424524292",
+    "id": "2022-01-18-tw1483588987377930246",
     "date": "2022-01-18",
     "year": 2022,
-    "headline": "Join us at later today (4:30-7) at our open house to learn more about the excellent opportunities...",
-    "body": "Join us at later today (4:30-7) at our open house to learn more about the excellent opportunities for you to pursue in high school. You can visit both Guthrie and the Ag Farm and explore our programs.",
+    "headline": "Our Community Tuesday open house has something for everyone",
+    "body": "Our Community Tuesday open house has something for everyone. We are here until 7 PM tonight!",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FJY_kwcXEAApwTL.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/FJbEUdEXIAEf2wa.jpg",
     "source": "twitter",
-    "tweet_id": "1483443031424524292"
-  },
-  {
-    "id": "2022-02-10-tw1491920363453886466",
-    "date": "2022-02-10",
-    "year": 2022,
-    "headline": "Poultry Perfection. @SpringbranchFFA...",
-    "body": "Poultry Perfection. @SpringbranchFFA",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FLRdqThXwAgxyh9.jpg",
-    "source": "twitter",
-    "tweet_id": "1491920363453886466"
+    "tweet_id": "1483588987377930246"
   },
   {
     "id": "2022-02-10-tw1491826370929995779",
@@ -16691,6 +17099,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/FLQILS_XEAYgQDh.png",
     "source": "twitter",
     "tweet_id": "1491826370929995779"
+  },
+  {
+    "id": "2022-02-10-tw1491920363453886466",
+    "date": "2022-02-10",
+    "year": 2022,
+    "headline": "Poultry Perfection. @SpringbranchFFA...",
+    "body": "Poultry Perfection. @SpringbranchFFA",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FLRdqThXwAgxyh9.jpg",
+    "source": "twitter",
+    "tweet_id": "1491920363453886466"
   },
   {
     "id": "2022-02-11-tw1491936777564741639",
@@ -16855,17 +17276,28 @@ const NEWS_DATA =
     "tweet_id": "1522298929928413184"
   },
   {
-    "id": "2022-05-06-tw1522722884803829760",
+    "id": "2022-05-06-tw1522653326508187654",
     "date": "2022-05-06",
     "year": 2022,
-    "headline": "Congratulations to the eighteen members our 2022 Pharmacy Technician cohort",
-    "body": "Congratulations to the eighteen members our 2022 Pharmacy Technician cohort. These students not only graduate with multiple technical certifications, they already have or are about to begin positions in the industry while they pursue their healthcare education after high school.",
+    "headline": "Architectural Design @gc_architecture students learned last night the fruits of their labor in th...",
+    "body": "Architectural Design @gc_architecture students learned last night the fruits of their labor in the Michael G. Meyers Design Competition sponsored by AIAH. Since 2005, our students have participated and continue the tradition of finishing strong by taking 9 of the 15 awards. 1",
     "programs": [
-      "Pharmacy Tech"
+      "Architectural Design"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/FSHMZJpX0AEWbOY.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/FSGNEp7XsAAlCB-.jpg",
     "source": "twitter",
-    "tweet_id": "1522722884803829760"
+    "tweet_id": "1522653326508187654"
+  },
+  {
+    "id": "2022-05-06-tw1522653655454961666",
+    "date": "2022-05-06",
+    "year": 2022,
+    "headline": "MGM Results: 1st Place Individual: Amelia Nuzzo, Verde Marketplace 2nd Place Individual: Ashley ...",
+    "body": "MGM Results: 1st Place Individual: Amelia Nuzzo, Verde Marketplace 2nd Place Individual: Ashley Jauregui, La Flor 3rd Place Individual: Jackson Potter, WeMo Market 2nd Place Group: Rene Cerda and Leonel Figueroa, WeMo Market AIA Dedication to Architecture Award: Ashley Jauregui",
+    "programs": [],
+    "imageUrl": null,
+    "source": "twitter",
+    "tweet_id": "1522653655454961666"
   },
   {
     "id": "2022-05-06-tw1522712882001379328",
@@ -16881,28 +17313,17 @@ const NEWS_DATA =
     "tweet_id": "1522712882001379328"
   },
   {
-    "id": "2022-05-06-tw1522653655454961666",
+    "id": "2022-05-06-tw1522722884803829760",
     "date": "2022-05-06",
     "year": 2022,
-    "headline": "MGM Results: 1st Place Individual: Amelia Nuzzo, Verde Marketplace 2nd Place Individual: Ashley ...",
-    "body": "MGM Results: 1st Place Individual: Amelia Nuzzo, Verde Marketplace 2nd Place Individual: Ashley Jauregui, La Flor 3rd Place Individual: Jackson Potter, WeMo Market 2nd Place Group: Rene Cerda and Leonel Figueroa, WeMo Market AIA Dedication to Architecture Award: Ashley Jauregui",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "1522653655454961666"
-  },
-  {
-    "id": "2022-05-06-tw1522653326508187654",
-    "date": "2022-05-06",
-    "year": 2022,
-    "headline": "Architectural Design @gc_architecture students learned last night the fruits of their labor in th...",
-    "body": "Architectural Design @gc_architecture students learned last night the fruits of their labor in the Michael G. Meyers Design Competition sponsored by AIAH. Since 2005, our students have participated and continue the tradition of finishing strong by taking 9 of the 15 awards. 1",
+    "headline": "Congratulations to the eighteen members our 2022 Pharmacy Technician cohort",
+    "body": "Congratulations to the eighteen members our 2022 Pharmacy Technician cohort. These students not only graduate with multiple technical certifications, they already have or are about to begin positions in the industry while they pursue their healthcare education after high school.",
     "programs": [
-      "Architectural Design"
+      "Pharmacy Tech"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/FSGNEp7XsAAlCB-.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/FSHMZJpX0AEWbOY.jpg",
     "source": "twitter",
-    "tweet_id": "1522653326508187654"
+    "tweet_id": "1522722884803829760"
   },
   {
     "id": "2022-05-07-tw1522747587190833152",
@@ -16955,17 +17376,6 @@ const NEWS_DATA =
     "tweet_id": "1542899851226128384"
   },
   {
-    "id": "2022-08-11-tw1557793487952691201",
-    "date": "2022-08-11",
-    "year": 2022,
-    "headline": "We look forward to an amazing 50th year serving @SBISD high school students",
-    "body": "We look forward to an amazing 50th year serving @SBISD high school students.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FZ5k63dXkAALW3R.jpg",
-    "source": "twitter",
-    "tweet_id": "1557793487952691201"
-  },
-  {
     "id": "2022-08-11-tw1557792170098061312",
     "date": "2022-08-11",
     "year": 2022,
@@ -16975,6 +17385,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/FZ5juKAWYAAmqAe.jpg",
     "source": "twitter",
     "tweet_id": "1557792170098061312"
+  },
+  {
+    "id": "2022-08-11-tw1557793487952691201",
+    "date": "2022-08-11",
+    "year": 2022,
+    "headline": "We look forward to an amazing 50th year serving @SBISD high school students",
+    "body": "We look forward to an amazing 50th year serving @SBISD high school students.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FZ5k63dXkAALW3R.jpg",
+    "source": "twitter",
+    "tweet_id": "1557793487952691201"
   },
   {
     "id": "2022-09-26-tw1574434861082886150",
@@ -16988,17 +17409,6 @@ const NEWS_DATA =
     "tweet_id": "1574434861082886150"
   },
   {
-    "id": "2022-09-30-tw1575907802014531587",
-    "date": "2022-09-30",
-    "year": 2022,
-    "headline": "Please join us this Tuesday, October 4th from 5 to 7 PM at our fall Community Tuesday Open House",
-    "body": "Please join us this Tuesday, October 4th from 5 to 7 PM at our fall Community Tuesday Open House. It's an excellent opportunity for everyone to meet our teachers and learn about the incredible programs available to all @SBISD high school students.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Fd6_ybVXwAgwj4H.jpg",
-    "source": "twitter",
-    "tweet_id": "1575907802014531587"
-  },
-  {
     "id": "2022-09-30-tw1575887212922691589",
     "date": "2022-09-30",
     "year": 2022,
@@ -17010,6 +17420,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1575887139023249408/pu/img/sMSx0N1FmdH-Qwpr.jpg",
     "source": "twitter",
     "tweet_id": "1575887212922691589"
+  },
+  {
+    "id": "2022-09-30-tw1575907802014531587",
+    "date": "2022-09-30",
+    "year": 2022,
+    "headline": "Please join us this Tuesday, October 4th from 5 to 7 PM at our fall Community Tuesday Open House",
+    "body": "Please join us this Tuesday, October 4th from 5 to 7 PM at our fall Community Tuesday Open House. It's an excellent opportunity for everyone to meet our teachers and learn about the incredible programs available to all @SBISD high school students.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Fd6_ybVXwAgwj4H.jpg",
+    "source": "twitter",
+    "tweet_id": "1575907802014531587"
   },
   {
     "id": "2022-10-01-tw1576257345088274433",
@@ -17136,6 +17557,17 @@ const NEWS_DATA =
     "tweet_id": "1601356514975010816"
   },
   {
+    "id": "2022-12-12-tw1602330274473410562",
+    "date": "2022-12-12",
+    "year": 2022,
+    "headline": "For their final project, 3D Practicum students were given a diagram of a fracking tree to guide t...",
+    "body": "For their final project, 3D Practicum students were given a diagram of a fracking tree to guide their design and creation of a 3D model. This work is similar to the experience professional animators have working in Houston's oil and gas industry. #EveryChild",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/Fjye3_8XkAACyEq.jpg",
+    "source": "twitter",
+    "tweet_id": "1602330274473410562"
+  },
+  {
     "id": "2022-12-12-tw1602372686918844427",
     "date": "2022-12-12",
     "year": 2022,
@@ -17147,17 +17579,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/FjzFcxoXEAESm_z.jpg",
     "source": "twitter",
     "tweet_id": "1602372686918844427"
-  },
-  {
-    "id": "2022-12-12-tw1602330274473410562",
-    "date": "2022-12-12",
-    "year": 2022,
-    "headline": "For their final project, 3D Practicum students were given a diagram of a fracking tree to guide t...",
-    "body": "For their final project, 3D Practicum students were given a diagram of a fracking tree to guide their design and creation of a 3D model. This work is similar to the experience professional animators have working in Houston's oil and gas industry. #EveryChild",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/Fjye3_8XkAACyEq.jpg",
-    "source": "twitter",
-    "tweet_id": "1602330274473410562"
   },
   {
     "id": "2023-01-09-tw1612468163215593473",
@@ -17182,6 +17603,17 @@ const NEWS_DATA =
     "tweet_id": "1613704393894797314"
   },
   {
+    "id": "2023-01-26-tw1618608655477211136",
+    "date": "2023-01-26",
+    "year": 2023,
+    "headline": "Congratulations to Guthrie teachers Xavier Martinez and Chess Franklin, nominees by the Gulf Coas...",
+    "body": "Congratulations to Guthrie teachers Xavier Martinez and Chess Franklin, nominees by the Gulf Coast chapter of CTAT @texascte for Educator and New Educator of the Year. Both will interview next week for the chance to represent Texas in the regional ACTE @actecareertech awards.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FnZz_crXgAAQ9HS.jpg",
+    "source": "twitter",
+    "tweet_id": "1618608655477211136"
+  },
+  {
     "id": "2023-01-26-tw1618621657542713346",
     "date": "2023-01-26",
     "year": 2023,
@@ -17193,17 +17625,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/FnZ_0CBWAAEUgeB.jpg",
     "source": "twitter",
     "tweet_id": "1618621657542713346"
-  },
-  {
-    "id": "2023-01-26-tw1618608655477211136",
-    "date": "2023-01-26",
-    "year": 2023,
-    "headline": "Congratulations to Guthrie teachers Xavier Martinez and Chess Franklin, nominees by the Gulf Coas...",
-    "body": "Congratulations to Guthrie teachers Xavier Martinez and Chess Franklin, nominees by the Gulf Coast chapter of CTAT @texascte for Educator and New Educator of the Year. Both will interview next week for the chance to represent Texas in the regional ACTE @actecareertech awards.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FnZz_crXgAAQ9HS.jpg",
-    "source": "twitter",
-    "tweet_id": "1618608655477211136"
   },
   {
     "id": "2023-01-28-tw1619397035823611904",
@@ -17245,19 +17666,6 @@ const NEWS_DATA =
     "tweet_id": "1623819181211676674"
   },
   {
-    "id": "2023-02-10-tw1624130951402889216",
-    "date": "2023-02-10",
-    "year": 2023,
-    "headline": "Congratulations to our Culinary Team, earning 2nd place in the high school portion of the 9th Ann...",
-    "body": "Congratulations to our Culinary Team, earning 2nd place in the high school portion of the 9th Annual Soup'er Bowl for the Houston Westchase Rotary Club. Thanks to George Kurisky for sponsoring our students in the event that raises money for student scholarships.",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/FooSfOHXEAcMNuR.jpg",
-    "source": "twitter",
-    "tweet_id": "1624130951402889216"
-  },
-  {
     "id": "2023-02-10-tw1624059945565007873",
     "date": "2023-02-10",
     "year": 2023,
@@ -17269,6 +17677,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/FonR6TwWAAI0mFX.jpg",
     "source": "twitter",
     "tweet_id": "1624059945565007873"
+  },
+  {
+    "id": "2023-02-10-tw1624130951402889216",
+    "date": "2023-02-10",
+    "year": 2023,
+    "headline": "Congratulations to our Culinary Team, earning 2nd place in the high school portion of the 9th Ann...",
+    "body": "Congratulations to our Culinary Team, earning 2nd place in the high school portion of the 9th Annual Soup'er Bowl for the Houston Westchase Rotary Club. Thanks to George Kurisky for sponsoring our students in the event that raises money for student scholarships.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/FooSfOHXEAcMNuR.jpg",
+    "source": "twitter",
+    "tweet_id": "1624130951402889216"
   },
   {
     "id": "2023-02-11-tw1624446108360491009",
@@ -17468,17 +17889,6 @@ const NEWS_DATA =
     "tweet_id": "1658930321247576065"
   },
   {
-    "id": "2023-05-19-tw1659654834453184512",
-    "date": "2023-05-19",
-    "year": 2023,
-    "headline": "…were tops individually, along with Leonel Figueroa/Josef York, and Mayar Bradi/Cameron Kennedy w...",
-    "body": "…were tops individually, along with Leonel Figueroa/Josef York, and Mayar Bradi/Cameron Kennedy who won the group events. All told they shared almost $43,000 in scholarships. Thanks to teachers Fuad Loutfi &amp; Xavier Martinez for leading them to victory! @SBISD @gc_architecture",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/FwhHRmvWIBUGuM2.jpg",
-    "source": "twitter",
-    "tweet_id": "1659654834453184512"
-  },
-  {
     "id": "2023-05-19-tw1659654828438462484",
     "date": "2023-05-19",
     "year": 2023,
@@ -17490,6 +17900,17 @@ const NEWS_DATA =
     "imageUrl": null,
     "source": "twitter",
     "tweet_id": "1659654828438462484"
+  },
+  {
+    "id": "2023-05-19-tw1659654834453184512",
+    "date": "2023-05-19",
+    "year": 2023,
+    "headline": "…were tops individually, along with Leonel Figueroa/Josef York, and Mayar Bradi/Cameron Kennedy w...",
+    "body": "…were tops individually, along with Leonel Figueroa/Josef York, and Mayar Bradi/Cameron Kennedy who won the group events. All told they shared almost $43,000 in scholarships. Thanks to teachers Fuad Loutfi &amp; Xavier Martinez for leading them to victory! @SBISD @gc_architecture",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/FwhHRmvWIBUGuM2.jpg",
+    "source": "twitter",
+    "tweet_id": "1659654834453184512"
   },
   {
     "id": "2023-05-27-tw1662474192317448192",
@@ -17652,15 +18073,17 @@ const NEWS_DATA =
     "tweet_id": "1720162039283233248"
   },
   {
-    "id": "2023-11-10-tw1723047989919248735",
+    "id": "2023-11-10-tw1723001869243486699",
     "date": "2023-11-10",
     "year": 2023,
-    "headline": "The CTSO Leadership Conference was arranged and sponsored by SBISD's CTE Department",
-    "body": "The CTSO Leadership Conference was arranged and sponsored by SBISD's CTE Department. For more info about Spring Branch CTE, visit their webpage.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/F-l_AwmXoAE2VOD.jpg",
+    "headline": "Save the date: Friday, December 8 from 5 to 8 PM",
+    "body": "Save the date: Friday, December 8 from 5 to 8 PM....please join us at Santa's Farm at the Agricultural Science Center, 1905 Brittmoore. There will be pictures with Santa, a variety of activities, and lots of fun for everyone. @SBISD @SpringbranchFFA @sbranchffa",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/F-lVEXFXIAAw_1z.jpg",
     "source": "twitter",
-    "tweet_id": "1723047989919248735"
+    "tweet_id": "1723001869243486699"
   },
   {
     "id": "2023-11-10-tw1723044364811714831",
@@ -17679,17 +18102,15 @@ const NEWS_DATA =
     "tweet_id": "1723044364811714831"
   },
   {
-    "id": "2023-11-10-tw1723001869243486699",
+    "id": "2023-11-10-tw1723047989919248735",
     "date": "2023-11-10",
     "year": 2023,
-    "headline": "Save the date: Friday, December 8 from 5 to 8 PM",
-    "body": "Save the date: Friday, December 8 from 5 to 8 PM....please join us at Santa's Farm at the Agricultural Science Center, 1905 Brittmoore. There will be pictures with Santa, a variety of activities, and lots of fun for everyone. @SBISD @SpringbranchFFA @sbranchffa",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/F-lVEXFXIAAw_1z.jpg",
+    "headline": "The CTSO Leadership Conference was arranged and sponsored by SBISD's CTE Department",
+    "body": "The CTSO Leadership Conference was arranged and sponsored by SBISD's CTE Department. For more info about Spring Branch CTE, visit their webpage.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/F-l_AwmXoAE2VOD.jpg",
     "source": "twitter",
-    "tweet_id": "1723001869243486699"
+    "tweet_id": "1723047989919248735"
   },
   {
     "id": "2023-11-18-tw1725945860305920373",
@@ -17792,17 +18213,6 @@ const NEWS_DATA =
     "tweet_id": "1745851102556295413"
   },
   {
-    "id": "2024-01-17-tw1747735503179260188",
-    "date": "2024-01-17",
-    "year": 2024,
-    "headline": "Guthrie's Open House is Thursday from 5-7 PM",
-    "body": "Guthrie's Open House is Thursday from 5-7 PM. Please join us! @SBISD @SpringWoodsHigh @northbrookhigh @WAISSBISD @MHShouston @StratfordSBISD @LandrumMS @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride @CSASBISD @SpringForestMS @AOCSBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/GEE0INKXUAAx4iY.jpg",
-    "source": "twitter",
-    "tweet_id": "1747735503179260188"
-  },
-  {
     "id": "2024-01-17-tw1747699682065645706",
     "date": "2024-01-17",
     "year": 2024,
@@ -17812,6 +18222,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GEETmVOWUAAW9k2.jpg",
     "source": "twitter",
     "tweet_id": "1747699682065645706"
+  },
+  {
+    "id": "2024-01-17-tw1747735503179260188",
+    "date": "2024-01-17",
+    "year": 2024,
+    "headline": "Guthrie's Open House is Thursday from 5-7 PM",
+    "body": "Guthrie's Open House is Thursday from 5-7 PM. Please join us! @SBISD @SpringWoodsHigh @northbrookhigh @WAISSBISD @MHShouston @StratfordSBISD @LandrumMS @MemorialEagles @NorthbrookMS @WoodsMiddle @SOMSPanthers @SBAI_SBISD @SBMSBearPride @CSASBISD @SpringForestMS @AOCSBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/GEE0INKXUAAx4iY.jpg",
+    "source": "twitter",
+    "tweet_id": "1747735503179260188"
   },
   {
     "id": "2024-01-20-tw1748781771422871751",
@@ -17827,17 +18248,17 @@ const NEWS_DATA =
     "tweet_id": "1748781771422871751"
   },
   {
-    "id": "2024-01-31-tw1752708133267570809",
+    "id": "2024-01-31-tw1752702021919293667",
     "date": "2024-01-31",
     "year": 2024,
-    "headline": "Each platoon conducts a marching drill which will be followed by Unarmed and Armed Drill Teams, C...",
-    "body": "Each platoon conducts a marching drill which will be followed by Unarmed and Armed Drill Teams, Color Guard, and will finish with Pass in Review. @SBISD @SB_GuthrieJROTC",
+    "headline": "Personnel inspection is underway at the Annual Military Inspection for our NJROTC unit",
+    "body": "Personnel inspection is underway at the Annual Military Inspection for our NJROTC unit. After this, cadets will complete their drills in front of the campus. @SBISD @SB_GuthrieJROTC",
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1752708099142455296/pu/img/JAIHqbPO4zVIKrMa.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GFLZK5HaUAENuWQ.jpg",
     "source": "twitter",
-    "tweet_id": "1752708133267570809"
+    "tweet_id": "1752702021919293667"
   },
   {
     "id": "2024-01-31-tw1752702447494316157",
@@ -17853,17 +18274,28 @@ const NEWS_DATA =
     "tweet_id": "1752702447494316157"
   },
   {
-    "id": "2024-01-31-tw1752702021919293667",
+    "id": "2024-01-31-tw1752708133267570809",
     "date": "2024-01-31",
     "year": 2024,
-    "headline": "Personnel inspection is underway at the Annual Military Inspection for our NJROTC unit",
-    "body": "Personnel inspection is underway at the Annual Military Inspection for our NJROTC unit. After this, cadets will complete their drills in front of the campus. @SBISD @SB_GuthrieJROTC",
+    "headline": "Each platoon conducts a marching drill which will be followed by Unarmed and Armed Drill Teams, C...",
+    "body": "Each platoon conducts a marching drill which will be followed by Unarmed and Armed Drill Teams, Color Guard, and will finish with Pass in Review. @SBISD @SB_GuthrieJROTC",
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GFLZK5HaUAENuWQ.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1752708099142455296/pu/img/JAIHqbPO4zVIKrMa.jpg",
     "source": "twitter",
-    "tweet_id": "1752702021919293667"
+    "tweet_id": "1752708133267570809"
+  },
+  {
+    "id": "2024-02-02-tw1753436389931168216",
+    "date": "2024-02-02",
+    "year": 2024,
+    "headline": "Students are lined up to help judge the winners in the Annual Cupcake Wars battle",
+    "body": "Students are lined up to help judge the winners in the Annual Cupcake Wars battle.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/GFV1FAYXsAACOdo.jpg",
+    "source": "twitter",
+    "tweet_id": "1753436389931168216"
   },
   {
     "id": "2024-02-02-tw1753481212436394163",
@@ -17878,17 +18310,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GFWd2V2WoAA2LVb.jpg",
     "source": "twitter",
     "tweet_id": "1753481212436394163"
-  },
-  {
-    "id": "2024-02-02-tw1753436389931168216",
-    "date": "2024-02-02",
-    "year": 2024,
-    "headline": "Students are lined up to help judge the winners in the Annual Cupcake Wars battle",
-    "body": "Students are lined up to help judge the winners in the Annual Cupcake Wars battle.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/GFV1FAYXsAACOdo.jpg",
-    "source": "twitter",
-    "tweet_id": "1753436389931168216"
   },
   {
     "id": "2024-02-05-tw1754506631071572287",
@@ -17917,17 +18338,17 @@ const NEWS_DATA =
     "tweet_id": "1755675626009153660"
   },
   {
-    "id": "2024-02-09-tw1756036103369322854",
+    "id": "2024-02-09-tw1755983758186922344",
     "date": "2024-02-09",
     "year": 2024,
-    "headline": "Meanwhile, in another part of Houston, Chef Training students created Creamy Potato Soup with Spa...",
-    "body": "Meanwhile, in another part of Houston, Chef Training students created Creamy Potato Soup with Spanish Chorizo for the Soup-er Bowl contest sponsored by the West Houston Rotary. @guthrie_culinary @SBISD",
+    "headline": "We are thrilled to announce 3D Animation instructor Chris Olson is Guthrie's Teacher of the Year!...",
+    "body": "We are thrilled to announce 3D Animation instructor Chris Olson is Guthrie's Teacher of the Year! Chris has been a rock at our campus for nearly 14 years. Congratulations Chris! @SBISD",
     "programs": [
-      "Culinary Arts"
+      "3D Animation"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GF6xf5CXkAAmoe3.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GF6B65sW0AAhIqB.jpg",
     "source": "twitter",
-    "tweet_id": "1756036103369322854"
+    "tweet_id": "1755983758186922344"
   },
   {
     "id": "2024-02-09-tw1756032645857783847",
@@ -17944,17 +18365,17 @@ const NEWS_DATA =
     "tweet_id": "1756032645857783847"
   },
   {
-    "id": "2024-02-09-tw1755983758186922344",
+    "id": "2024-02-09-tw1756036103369322854",
     "date": "2024-02-09",
     "year": 2024,
-    "headline": "We are thrilled to announce 3D Animation instructor Chris Olson is Guthrie's Teacher of the Year!...",
-    "body": "We are thrilled to announce 3D Animation instructor Chris Olson is Guthrie's Teacher of the Year! Chris has been a rock at our campus for nearly 14 years. Congratulations Chris! @SBISD",
+    "headline": "Meanwhile, in another part of Houston, Chef Training students created Creamy Potato Soup with Spa...",
+    "body": "Meanwhile, in another part of Houston, Chef Training students created Creamy Potato Soup with Spanish Chorizo for the Soup-er Bowl contest sponsored by the West Houston Rotary. @guthrie_culinary @SBISD",
     "programs": [
-      "3D Animation"
+      "Culinary Arts"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GF6B65sW0AAhIqB.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GF6xf5CXkAAmoe3.jpg",
     "source": "twitter",
-    "tweet_id": "1755983758186922344"
+    "tweet_id": "1756036103369322854"
   },
   {
     "id": "2024-02-10-tw1756336361555021975",
@@ -17984,17 +18405,17 @@ const NEWS_DATA =
     "tweet_id": "1758503867149369347"
   },
   {
-    "id": "2024-03-01-tw1763707886914465912",
+    "id": "2024-03-01-tw1763703964887916555",
     "date": "2024-03-01",
     "year": 2024,
-    "headline": "At the BOT meeting on Monday, all of the Character Without Question nominees were honored from al...",
-    "body": "At the BOT meeting on Monday, all of the Character Without Question nominees were honored from all SBISD campuses. Internship student and NTHS Vice-President Tatum Marye is representing Guthrie for this school year. Congratulations Tatum!",
+    "headline": "Our Health Science Clinical students started their hospital rotations at Memorial Hermann Memoria...",
+    "body": "Our Health Science Clinical students started their hospital rotations at Memorial Hermann Memorial City Hospital this week. It was an exciting first day to witness future opportunities for a career in the health profession. Thanks to our great partner @memorialhermann",
     "programs": [
-      "NTHS"
+      "Health Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1763707858112139264/pu/img/yYsOWPVTysmVC_on.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GHnvZYsWAAAbJ6z.jpg",
     "source": "twitter",
-    "tweet_id": "1763707886914465912"
+    "tweet_id": "1763703964887916555"
   },
   {
     "id": "2024-03-01-tw1763706697921532098",
@@ -18011,17 +18432,17 @@ const NEWS_DATA =
     "tweet_id": "1763706697921532098"
   },
   {
-    "id": "2024-03-01-tw1763703964887916555",
+    "id": "2024-03-01-tw1763707886914465912",
     "date": "2024-03-01",
     "year": 2024,
-    "headline": "Our Health Science Clinical students started their hospital rotations at Memorial Hermann Memoria...",
-    "body": "Our Health Science Clinical students started their hospital rotations at Memorial Hermann Memorial City Hospital this week. It was an exciting first day to witness future opportunities for a career in the health profession. Thanks to our great partner @memorialhermann",
+    "headline": "At the BOT meeting on Monday, all of the Character Without Question nominees were honored from al...",
+    "body": "At the BOT meeting on Monday, all of the Character Without Question nominees were honored from all SBISD campuses. Internship student and NTHS Vice-President Tatum Marye is representing Guthrie for this school year. Congratulations Tatum!",
     "programs": [
-      "Health Science"
+      "NTHS"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GHnvZYsWAAAbJ6z.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1763707858112139264/pu/img/yYsOWPVTysmVC_on.jpg",
     "source": "twitter",
-    "tweet_id": "1763703964887916555"
+    "tweet_id": "1763707886914465912"
   },
   {
     "id": "2024-03-20-tw1770472830427177451",
@@ -18051,17 +18472,6 @@ const NEWS_DATA =
     "tweet_id": "1776643327967834329"
   },
   {
-    "id": "2024-04-10-tw1778121621481332801",
-    "date": "2024-04-10",
-    "year": 2024,
-    "headline": "Our students get so excited when the home campus principals and staff come to see them at Guthrie",
-    "body": "Our students get so excited when the home campus principals and staff come to see them at Guthrie. Thanks for the visit Ms. Meshell! @SBISD @SpringWoodsHigh @gc_architecture",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/GK0oMLPWUAMuu0X.jpg",
-    "source": "twitter",
-    "tweet_id": "1778121621481332801"
-  },
-  {
     "id": "2024-04-10-tw1778118104863691255",
     "date": "2024-04-10",
     "year": 2024,
@@ -18073,6 +18483,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GK0k-BaXsAE1JxL.jpg",
     "source": "twitter",
     "tweet_id": "1778118104863691255"
+  },
+  {
+    "id": "2024-04-10-tw1778121621481332801",
+    "date": "2024-04-10",
+    "year": 2024,
+    "headline": "Our students get so excited when the home campus principals and staff come to see them at Guthrie",
+    "body": "Our students get so excited when the home campus principals and staff come to see them at Guthrie. Thanks for the visit Ms. Meshell! @SBISD @SpringWoodsHigh @gc_architecture",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/GK0oMLPWUAMuu0X.jpg",
+    "source": "twitter",
+    "tweet_id": "1778121621481332801"
   },
   {
     "id": "2024-04-13-tw1779187803638657062",
@@ -18271,19 +18692,6 @@ const NEWS_DATA =
     "tweet_id": "1850196218573430869"
   },
   {
-    "id": "2024-10-31-tw1852031194805748104",
-    "date": "2024-10-31",
-    "year": 2024,
-    "headline": "Also at Guthrie today, first-year Cosmetology students have their Spooky Head contest",
-    "body": "Also at Guthrie today, first-year Cosmetology students have their Spooky Head contest. Many of them look downright sinister. Also happening today is a Salon Afternoon from 1-5 PM.",
-    "programs": [
-      "Cosmetology"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/GbO8i7aWQAA1Va0.jpg",
-    "source": "twitter",
-    "tweet_id": "1852031194805748104"
-  },
-  {
     "id": "2024-10-31-tw1852027817287934175",
     "date": "2024-10-31",
     "year": 2024,
@@ -18295,6 +18703,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GbO5e4IWYAAOoJP.jpg",
     "source": "twitter",
     "tweet_id": "1852027817287934175"
+  },
+  {
+    "id": "2024-10-31-tw1852031194805748104",
+    "date": "2024-10-31",
+    "year": 2024,
+    "headline": "Also at Guthrie today, first-year Cosmetology students have their Spooky Head contest",
+    "body": "Also at Guthrie today, first-year Cosmetology students have their Spooky Head contest. Many of them look downright sinister. Also happening today is a Salon Afternoon from 1-5 PM.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/GbO8i7aWQAA1Va0.jpg",
+    "source": "twitter",
+    "tweet_id": "1852031194805748104"
   },
   {
     "id": "2024-11-11-tw1855954892252176645",
@@ -18332,17 +18753,6 @@ const NEWS_DATA =
     "tweet_id": "1859244512830235011"
   },
   {
-    "id": "2024-11-22-tw1860050066972536920",
-    "date": "2024-11-22",
-    "year": 2024,
-    "headline": "On 12/8/24, the Mayor's Office and Cigna Healthcare are providing a Sunday in the Park at Agnes M...",
-    "body": "On 12/8/24, the Mayor's Office and Cigna Healthcare are providing a Sunday in the Park at Agnes Moffitt Park across the street from Guthrie. The event will be from noon to 4 PM, it is free and fun for the entire family. #INTHEPARKHTX @coh_mayors_events",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/GdA5rJdXUAAJvuq.jpg",
-    "source": "twitter",
-    "tweet_id": "1860050066972536920"
-  },
-  {
     "id": "2024-11-22-tw1860029441402900968",
     "date": "2024-11-22",
     "year": 2024,
@@ -18354,6 +18764,30 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GdAm550XYAAmNxp.jpg",
     "source": "twitter",
     "tweet_id": "1860029441402900968"
+  },
+  {
+    "id": "2024-11-22-tw1860050066972536920",
+    "date": "2024-11-22",
+    "year": 2024,
+    "headline": "On 12/8/24, the Mayor's Office and Cigna Healthcare are providing a Sunday in the Park at Agnes M...",
+    "body": "On 12/8/24, the Mayor's Office and Cigna Healthcare are providing a Sunday in the Park at Agnes Moffitt Park across the street from Guthrie. The event will be from noon to 4 PM, it is free and fun for the entire family. #INTHEPARKHTX @coh_mayors_events",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/GdA5rJdXUAAJvuq.jpg",
+    "source": "twitter",
+    "tweet_id": "1860050066972536920"
+  },
+  {
+    "id": "2024-12-07-tw1865457768313844102",
+    "date": "2024-12-07",
+    "year": 2024,
+    "headline": "On a cool rainy morning, 23 NJROTC cadets competed with units from other districts in the annual ...",
+    "body": "On a cool rainy morning, 23 NJROTC cadets competed with units from other districts in the annual Nimitz Drill Meet in Aldine ISD. While the rain moved the events indoors, most planned activities are happening. @SB_GuthrieJROTC @springbranchjrotc",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1865457750936899584/pu/img/dqM-ijaN0AVpyKrW.jpg",
+    "source": "twitter",
+    "tweet_id": "1865457768313844102"
   },
   {
     "id": "2024-12-07-tw1865462212082454840",
@@ -18368,19 +18802,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GeNz_AbXsAErmrU.jpg",
     "source": "twitter",
     "tweet_id": "1865462212082454840"
-  },
-  {
-    "id": "2024-12-07-tw1865457768313844102",
-    "date": "2024-12-07",
-    "year": 2024,
-    "headline": "On a cool rainy morning, 23 NJROTC cadets competed with units from other districts in the annual ...",
-    "body": "On a cool rainy morning, 23 NJROTC cadets competed with units from other districts in the annual Nimitz Drill Meet in Aldine ISD. While the rain moved the events indoors, most planned activities are happening. @SB_GuthrieJROTC @springbranchjrotc",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1865457750936899584/pu/img/dqM-ijaN0AVpyKrW.jpg",
-    "source": "twitter",
-    "tweet_id": "1865457768313844102"
   },
   {
     "id": "2024-12-19-tw1869770201308471535",
@@ -18409,15 +18830,17 @@ const NEWS_DATA =
     "tweet_id": "1878144794913874156"
   },
   {
-    "id": "2025-01-15-tw1879542853673574515",
+    "id": "2025-01-15-tw1879537512550416406",
     "date": "2025-01-15",
     "year": 2025,
-    "headline": "Personnel Inspection will be followed by drill exhibition",
-    "body": "Personnel Inspection will be followed by drill exhibition. At the end of the morning, platoon and individual awards will be given out, culminating with a Pass In Review.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1879542832572063744/pu/img/DVWiHFjw6Hclqc41.jpg",
+    "headline": "The NJROTC Annual Military Inspection is underway",
+    "body": "The NJROTC Annual Military Inspection is underway. Area 17 CDR Johnson is officiating the day.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/GhV1ZGjWIAACeRX.jpg",
     "source": "twitter",
-    "tweet_id": "1879542853673574515"
+    "tweet_id": "1879537512550416406"
   },
   {
     "id": "2025-01-15-tw1879539028283818463",
@@ -18431,17 +18854,15 @@ const NEWS_DATA =
     "tweet_id": "1879539028283818463"
   },
   {
-    "id": "2025-01-15-tw1879537512550416406",
+    "id": "2025-01-15-tw1879542853673574515",
     "date": "2025-01-15",
     "year": 2025,
-    "headline": "The NJROTC Annual Military Inspection is underway",
-    "body": "The NJROTC Annual Military Inspection is underway. Area 17 CDR Johnson is officiating the day.",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/GhV1ZGjWIAACeRX.jpg",
+    "headline": "Personnel Inspection will be followed by drill exhibition",
+    "body": "Personnel Inspection will be followed by drill exhibition. At the end of the morning, platoon and individual awards will be given out, culminating with a Pass In Review.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1879542832572063744/pu/img/DVWiHFjw6Hclqc41.jpg",
     "source": "twitter",
-    "tweet_id": "1879537512550416406"
+    "tweet_id": "1879542853673574515"
   },
   {
     "id": "2025-01-24-tw1882832564961873926",
@@ -18494,39 +18915,6 @@ const NEWS_DATA =
     "tweet_id": "1885752683480355138"
   },
   {
-    "id": "2025-02-06-tw1887648149226786938",
-    "date": "2025-02-06",
-    "year": 2025,
-    "headline": "Congratulations to all our broiler exhibitors and Grand Champion Vanessa De La Torre and Reserve ...",
-    "body": "Congratulations to all our broiler exhibitors and Grand Champion Vanessa De La Torre and Reserve Champion Catherine Perez! @SpringwoodsHigh @StratfordSBISD",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/GjJF-beWkAAfoWM.jpg",
-    "source": "twitter",
-    "tweet_id": "1887648149226786938"
-  },
-  {
-    "id": "2025-02-06-tw1887639964839530505",
-    "date": "2025-02-06",
-    "year": 2025,
-    "headline": "Turkey Show exhibitors waiting for the judge to decide",
-    "body": "Turkey Show exhibitors waiting for the judge to decide.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/GjI-h8eWIAAAGm9.jpg",
-    "source": "twitter",
-    "tweet_id": "1887639964839530505"
-  },
-  {
-    "id": "2025-02-06-tw1887632108673241411",
-    "date": "2025-02-06",
-    "year": 2025,
-    "headline": "Congratulations SBISD Show &amp; Sale Grand Champion Turkey goes to Catherine Perez (SHS) and Res...",
-    "body": "Congratulations SBISD Show &amp; Sale Grand Champion Turkey goes to Catherine Perez (SHS) and Reserve Champion goes to Lily Wilson (MHS) @SBISD @StratfordSBISD @MHShouston @cte_sbisd",
-    "programs": [],
-    "imageUrl": null,
-    "source": "twitter",
-    "tweet_id": "1887632108673241411"
-  },
-  {
     "id": "2025-02-06-tw1887569166405607807",
     "date": "2025-02-06",
     "year": 2025,
@@ -18540,65 +18928,37 @@ const NEWS_DATA =
     "tweet_id": "1887569166405607807"
   },
   {
-    "id": "2025-02-07-tw1888014635720220999",
-    "date": "2025-02-07",
+    "id": "2025-02-06-tw1887632108673241411",
+    "date": "2025-02-06",
     "year": 2025,
-    "headline": "Lightweight swine winners include Grand Champion Emily Valicek and Reserve Champion Ariana Silva",
-    "body": "Lightweight swine winners include Grand Champion Emily Valicek and Reserve Champion Ariana Silva. More to come….",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/GjOTSt6WYAAf0zK.jpg",
-    "source": "twitter",
-    "tweet_id": "1888014635720220999"
-  },
-  {
-    "id": "2025-02-07-tw1888004012038856990",
-    "date": "2025-02-07",
-    "year": 2025,
-    "headline": "Today’s show is for large animals and swine",
-    "body": "Today’s show is for large animals and swine. Edie Wong showed the Grand Champion Heifer, followed by Grand Champion Steer Camden Hopper and Reserve Champion Wilson Swinbank. Congratulations to these and all of our exhibitors. @StratfordSBISD @MHSHouston",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1888003991432298496/pu/img/7ccV1y0zrZ3NwVdC.jpg",
-    "source": "twitter",
-    "tweet_id": "1888004012038856990"
-  },
-  {
-    "id": "2025-02-07-tw1888002307599557037",
-    "date": "2025-02-07",
-    "year": 2025,
-    "headline": "Today’s show is for large animals and swine",
-    "body": "Today’s show is for large animals and swine. Edie Wong showed the Grand Champion Heifer, followed by Grand Champion Steer Camden Hopper and Reserve Champion Wilson Swinbank. Congratulations to these and all of our exhibitors. @StratfordSBISD @MHSHouston",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1888002275316023297/pu/img/6W3BHFluaB1wSerg.jpg",
-    "source": "twitter",
-    "tweet_id": "1888002307599557037"
-  },
-  {
-    "id": "2025-02-07-tw1887676200010514577",
-    "date": "2025-02-07",
-    "year": 2025,
-    "headline": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor G...",
-    "body": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor Gasca is our Reserve Champion. @StratfordSBISD @WAISSBISD",
+    "headline": "Congratulations SBISD Show &amp; Sale Grand Champion Turkey goes to Catherine Perez (SHS) and Res...",
+    "body": "Congratulations SBISD Show &amp; Sale Grand Champion Turkey goes to Catherine Perez (SHS) and Reserve Champion goes to Lily Wilson (MHS) @SBISD @StratfordSBISD @MHShouston @cte_sbisd",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1887676180460982272/pu/img/YgtuLySad3huod4-.jpg",
+    "imageUrl": null,
     "source": "twitter",
-    "tweet_id": "1887676200010514577"
+    "tweet_id": "1887632108673241411"
   },
   {
-    "id": "2025-02-07-tw1887675977678877100",
-    "date": "2025-02-07",
+    "id": "2025-02-06-tw1887639964839530505",
+    "date": "2025-02-06",
     "year": 2025,
-    "headline": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor G...",
-    "body": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor Gasca is our Reserve Champion. @StratfordSBISD @WAISSBISD",
+    "headline": "Turkey Show exhibitors waiting for the judge to decide",
+    "body": "Turkey Show exhibitors waiting for the judge to decide.",
     "programs": [],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1887675958875803648/pu/img/5BjL8Y88W7NUeOSg.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GjI-h8eWIAAAGm9.jpg",
     "source": "twitter",
-    "tweet_id": "1887675977678877100"
+    "tweet_id": "1887639964839530505"
+  },
+  {
+    "id": "2025-02-06-tw1887648149226786938",
+    "date": "2025-02-06",
+    "year": 2025,
+    "headline": "Congratulations to all our broiler exhibitors and Grand Champion Vanessa De La Torre and Reserve ...",
+    "body": "Congratulations to all our broiler exhibitors and Grand Champion Vanessa De La Torre and Reserve Champion Catherine Perez! @SpringwoodsHigh @StratfordSBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/GjJF-beWkAAfoWM.jpg",
+    "source": "twitter",
+    "tweet_id": "1887648149226786938"
   },
   {
     "id": "2025-02-07-tw1887662367095259381",
@@ -18614,43 +18974,65 @@ const NEWS_DATA =
     "tweet_id": "1887662367095259381"
   },
   {
-    "id": "2025-02-08-tw1888286184662515719",
-    "date": "2025-02-08",
+    "id": "2025-02-07-tw1887675977678877100",
+    "date": "2025-02-07",
     "year": 2025,
-    "headline": "It’s almost FFA Auction time at 1905 Brittmoore",
-    "body": "It’s almost FFA Auction time at 1905 Brittmoore. You can still come out and cheer or register as a buyer and help out our hard working students. The stream is live at",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/GjSKRaIWwAAgDoA.jpg",
+    "headline": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor G...",
+    "body": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor Gasca is our Reserve Champion. @StratfordSBISD @WAISSBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1887675958875803648/pu/img/5BjL8Y88W7NUeOSg.jpg",
     "source": "twitter",
-    "tweet_id": "1888286184662515719"
+    "tweet_id": "1887675977678877100"
   },
   {
-    "id": "2025-02-08-tw1888028456090313107",
-    "date": "2025-02-08",
+    "id": "2025-02-07-tw1887676200010514577",
+    "date": "2025-02-07",
     "year": 2025,
-    "headline": "Swine Grand Champion is Emily Valicek and Grace Smith is our Reserve Grand Champion",
-    "body": "Swine Grand Champion is Emily Valicek and Grace Smith is our Reserve Grand Champion. Congratulations to all of our students showing swine today.",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1888028429523529728/pu/img/dc3GzIk3duMlsPwd.jpg",
+    "headline": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor G...",
+    "body": "In our final show for today, we are happy to share that Ariana Silva is Grand Champion and Flor Gasca is our Reserve Champion. @StratfordSBISD @WAISSBISD",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1887676180460982272/pu/img/YgtuLySad3huod4-.jpg",
     "source": "twitter",
-    "tweet_id": "1888028456090313107"
+    "tweet_id": "1887676200010514577"
   },
   {
-    "id": "2025-02-08-tw1888024973781963071",
-    "date": "2025-02-08",
+    "id": "2025-02-07-tw1888002307599557037",
+    "date": "2025-02-07",
     "year": 2025,
-    "headline": "Heavy weight class swine 1st place was Charlotte Moore followed by Abigail Green in 2nd",
-    "body": "Heavy weight class swine 1st place was Charlotte Moore followed by Abigail Green in 2nd. All the class champions will now show for Grand and Reserve swine.",
+    "headline": "Today’s show is for large animals and swine",
+    "body": "Today’s show is for large animals and swine. Edie Wong showed the Grand Champion Heifer, followed by Grand Champion Steer Camden Hopper and Reserve Champion Wilson Swinbank. Congratulations to these and all of our exhibitors. @StratfordSBISD @MHSHouston",
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GjOcsbTWQAAX7JB.jpg",
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1888002275316023297/pu/img/6W3BHFluaB1wSerg.jpg",
     "source": "twitter",
-    "tweet_id": "1888024973781963071"
+    "tweet_id": "1888002307599557037"
+  },
+  {
+    "id": "2025-02-07-tw1888004012038856990",
+    "date": "2025-02-07",
+    "year": 2025,
+    "headline": "Today’s show is for large animals and swine",
+    "body": "Today’s show is for large animals and swine. Edie Wong showed the Grand Champion Heifer, followed by Grand Champion Steer Camden Hopper and Reserve Champion Wilson Swinbank. Congratulations to these and all of our exhibitors. @StratfordSBISD @MHSHouston",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1888003991432298496/pu/img/7ccV1y0zrZ3NwVdC.jpg",
+    "source": "twitter",
+    "tweet_id": "1888004012038856990"
+  },
+  {
+    "id": "2025-02-07-tw1888014635720220999",
+    "date": "2025-02-07",
+    "year": 2025,
+    "headline": "Lightweight swine winners include Grand Champion Emily Valicek and Reserve Champion Ariana Silva",
+    "body": "Lightweight swine winners include Grand Champion Emily Valicek and Reserve Champion Ariana Silva. More to come….",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/GjOTSt6WYAAf0zK.jpg",
+    "source": "twitter",
+    "tweet_id": "1888014635720220999"
   },
   {
     "id": "2025-02-08-tw1888019750887772183",
@@ -18666,6 +19048,45 @@ const NEWS_DATA =
     "tweet_id": "1888019750887772183"
   },
   {
+    "id": "2025-02-08-tw1888024973781963071",
+    "date": "2025-02-08",
+    "year": 2025,
+    "headline": "Heavy weight class swine 1st place was Charlotte Moore followed by Abigail Green in 2nd",
+    "body": "Heavy weight class swine 1st place was Charlotte Moore followed by Abigail Green in 2nd. All the class champions will now show for Grand and Reserve swine.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/GjOcsbTWQAAX7JB.jpg",
+    "source": "twitter",
+    "tweet_id": "1888024973781963071"
+  },
+  {
+    "id": "2025-02-08-tw1888028456090313107",
+    "date": "2025-02-08",
+    "year": 2025,
+    "headline": "Swine Grand Champion is Emily Valicek and Grace Smith is our Reserve Grand Champion",
+    "body": "Swine Grand Champion is Emily Valicek and Grace Smith is our Reserve Grand Champion. Congratulations to all of our students showing swine today.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1888028429523529728/pu/img/dc3GzIk3duMlsPwd.jpg",
+    "source": "twitter",
+    "tweet_id": "1888028456090313107"
+  },
+  {
+    "id": "2025-02-08-tw1888286184662515719",
+    "date": "2025-02-08",
+    "year": 2025,
+    "headline": "It’s almost FFA Auction time at 1905 Brittmoore",
+    "body": "It’s almost FFA Auction time at 1905 Brittmoore. You can still come out and cheer or register as a buyer and help out our hard working students. The stream is live at",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/GjSKRaIWwAAgDoA.jpg",
+    "source": "twitter",
+    "tweet_id": "1888286184662515719"
+  },
+  {
     "id": "2025-02-13-tw1890138983461712013",
     "date": "2025-02-13",
     "year": 2025,
@@ -18679,19 +19100,6 @@ const NEWS_DATA =
     "tweet_id": "1890138983461712013"
   },
   {
-    "id": "2025-02-19-tw1892224353405673855",
-    "date": "2025-02-19",
-    "year": 2025,
-    "headline": "This past Saturday, our NJROTC Drone Team took first place overall and multiple 1st place wins at...",
-    "body": "This past Saturday, our NJROTC Drone Team took first place overall and multiple 1st place wins at the Urban STEM Aerial Drone Competition. This first-year team has fared remarkably well and will compete at nationals later this semester. @SB_GuthrieJROTC @springbranchjrotc",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1892224326100762624/pu/img/yXmQnG10b_ho0M9A.jpg",
-    "source": "twitter",
-    "tweet_id": "1892224353405673855"
-  },
-  {
     "id": "2025-02-19-tw1892219953849233482",
     "date": "2025-02-19",
     "year": 2025,
@@ -18703,6 +19111,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GkKD-dvXgAAe2PL.png",
     "source": "twitter",
     "tweet_id": "1892219953849233482"
+  },
+  {
+    "id": "2025-02-19-tw1892224353405673855",
+    "date": "2025-02-19",
+    "year": 2025,
+    "headline": "This past Saturday, our NJROTC Drone Team took first place overall and multiple 1st place wins at...",
+    "body": "This past Saturday, our NJROTC Drone Team took first place overall and multiple 1st place wins at the Urban STEM Aerial Drone Competition. This first-year team has fared remarkably well and will compete at nationals later this semester. @SB_GuthrieJROTC @springbranchjrotc",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1892224326100762624/pu/img/yXmQnG10b_ho0M9A.jpg",
+    "source": "twitter",
+    "tweet_id": "1892224353405673855"
   },
   {
     "id": "2025-02-28-tw1895481331276206448",
@@ -18719,20 +19140,6 @@ const NEWS_DATA =
     "tweet_id": "1895481331276206448"
   },
   {
-    "id": "2025-03-03-tw1896649923623350567",
-    "date": "2025-03-03",
-    "year": 2025,
-    "headline": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital C...",
-    "body": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital Cinema Production, along with Churchill Chong &amp; Jose Tovar for Video Production. Congratulations to all four who are headed to State in April. @northbrookhigh @mhshouston @stratfordsbisd",
-    "programs": [
-      "Digital Filmmaking",
-      "SkillsUSA"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/GlJBDSgXgAAK2tR.jpg",
-    "source": "twitter",
-    "tweet_id": "1896649923623350567"
-  },
-  {
     "id": "2025-03-03-tw1896642155508064754",
     "date": "2025-03-03",
     "year": 2025,
@@ -18745,6 +19152,20 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/GlI5_UBX0AAZYoh.jpg",
     "source": "twitter",
     "tweet_id": "1896642155508064754"
+  },
+  {
+    "id": "2025-03-03-tw1896649923623350567",
+    "date": "2025-03-03",
+    "year": 2025,
+    "headline": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital C...",
+    "body": "Filmmaking SkillsUSA results include Xavier Alexander &amp; Alissa Hakalenko winning in Digital Cinema Production, along with Churchill Chong &amp; Jose Tovar for Video Production. Congratulations to all four who are headed to State in April. @northbrookhigh @mhshouston @stratfordsbisd",
+    "programs": [
+      "Digital Filmmaking",
+      "SkillsUSA"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/GlJBDSgXgAAK2tR.jpg",
+    "source": "twitter",
+    "tweet_id": "1896649923623350567"
   },
   {
     "id": "2025-03-04-tw1896996795714277500",
@@ -18800,19 +19221,6 @@ const NEWS_DATA =
     "tweet_id": "1908166050769777068"
   },
   {
-    "id": "2025-04-05-tw1908604058736197661",
-    "date": "2025-04-05",
-    "year": 2025,
-    "headline": "At the Nationals, our NJROTC Cadet Drone Teams took 1st place in both Coding (programming) and Ai...",
-    "body": "At the Nationals, our NJROTC Cadet Drone Teams took 1st place in both Coding (programming) and Airmanship (piloting). A team from American Samoa took second in both. We are so proud of these outstanding results in their first year of drone competitions. @SB_GuthrieJROTC",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/Gny5RUXWcAAG7B7.jpg",
-    "source": "twitter",
-    "tweet_id": "1908604058736197661"
-  },
-  {
     "id": "2025-04-05-tw1908572978247287108",
     "date": "2025-04-05",
     "year": 2025,
@@ -18830,18 +19238,17 @@ const NEWS_DATA =
     "tweet_id": "1908572978247287108"
   },
   {
-    "id": "2025-04-07-tw1909321839647539228",
-    "date": "2025-04-07",
+    "id": "2025-04-05-tw1908604058736197661",
+    "date": "2025-04-05",
     "year": 2025,
-    "headline": "Graphic Design SkillsUSA winners Lupita Perez and Ryne Rush both earned first place in Job Exhibit",
-    "body": "Graphic Design SkillsUSA winners Lupita Perez and Ryne Rush both earned first place in Job Exhibit. Lupita showed a Digital Manipulation Design, and Ryne an Advertising Design Campaign. Congratulations to these talented and creative students.",
+    "headline": "At the Nationals, our NJROTC Cadet Drone Teams took 1st place in both Coding (programming) and Ai...",
+    "body": "At the Nationals, our NJROTC Cadet Drone Teams took 1st place in both Coding (programming) and Airmanship (piloting). A team from American Samoa took second in both. We are so proud of these outstanding results in their first year of drone competitions. @SB_GuthrieJROTC",
     "programs": [
-      "Graphic Design",
-      "SkillsUSA"
+      "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/Gn9GAScWsAA3Xqb.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/Gny5RUXWcAAG7B7.jpg",
     "source": "twitter",
-    "tweet_id": "1909321839647539228"
+    "tweet_id": "1908604058736197661"
   },
   {
     "id": "2025-04-07-tw1909288117061697728",
@@ -18856,6 +19263,20 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/Gn8mwfFXYAEs3mH.jpg",
     "source": "twitter",
     "tweet_id": "1909288117061697728"
+  },
+  {
+    "id": "2025-04-07-tw1909321839647539228",
+    "date": "2025-04-07",
+    "year": 2025,
+    "headline": "Graphic Design SkillsUSA winners Lupita Perez and Ryne Rush both earned first place in Job Exhibit",
+    "body": "Graphic Design SkillsUSA winners Lupita Perez and Ryne Rush both earned first place in Job Exhibit. Lupita showed a Digital Manipulation Design, and Ryne an Advertising Design Campaign. Congratulations to these talented and creative students.",
+    "programs": [
+      "Graphic Design",
+      "SkillsUSA"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/Gn9GAScWsAA3Xqb.jpg",
+    "source": "twitter",
+    "tweet_id": "1909321839647539228"
   },
   {
     "id": "2025-04-08-tw1909713283197841668",
@@ -18895,28 +19316,17 @@ const NEWS_DATA =
     "tweet_id": "1912167832034361850"
   },
   {
-    "id": "2025-04-22-tw1914731321080844529",
+    "id": "2025-04-22-tw1914711239122379110",
     "date": "2025-04-22",
     "year": 2025,
-    "headline": "Our latest newsletter about all things Guthrie this semester is live",
-    "body": "Our latest newsletter about all things Guthrie this semester is live. Please take a look at the amazing things our students are doing.",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/1914727455572574209/img/poNNodDPn4JD8rPL.jpg",
-    "source": "twitter",
-    "tweet_id": "1914731321080844529"
-  },
-  {
-    "id": "2025-04-22-tw1914725134377664762",
-    "date": "2025-04-22",
-    "year": 2025,
-    "headline": "Our NJROTC unit had its annual Military Ball at the Sterling Hall last week to celebrate the cade...",
-    "body": "Our NJROTC unit had its annual Military Ball at the Sterling Hall last week to celebrate the cadets' successes, hear from our graduating seniors, install the new cadet leadership team, and enjoy time visiting and dancing. Congratulations to all of our cadets! @SB_GuthrieJROTC",
+    "headline": "Electrician Technician students are asking questions to the electrical foreman and project sup’t ...",
+    "body": "Electrician Technician students are asking questions to the electrical foreman and project sup’t about the new GC campus going up next door. So much of what they learn is being done a few yards from their classes. @gc_electrical@gcelectricaltech",
     "programs": [
-      "NJROTC"
+      "Electrician Technician"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GpJ4L39WkAAkVRQ.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GpJruV9WoAA3Hm0.jpg",
     "source": "twitter",
-    "tweet_id": "1914725134377664762"
+    "tweet_id": "1914711239122379110"
   },
   {
     "id": "2025-04-22-tw1914719478547443923",
@@ -18933,17 +19343,28 @@ const NEWS_DATA =
     "tweet_id": "1914719478547443923"
   },
   {
-    "id": "2025-04-22-tw1914711239122379110",
+    "id": "2025-04-22-tw1914725134377664762",
     "date": "2025-04-22",
     "year": 2025,
-    "headline": "Electrician Technician students are asking questions to the electrical foreman and project sup’t ...",
-    "body": "Electrician Technician students are asking questions to the electrical foreman and project sup’t about the new GC campus going up next door. So much of what they learn is being done a few yards from their classes. @gc_electrical@gcelectricaltech",
+    "headline": "Our NJROTC unit had its annual Military Ball at the Sterling Hall last week to celebrate the cade...",
+    "body": "Our NJROTC unit had its annual Military Ball at the Sterling Hall last week to celebrate the cadets' successes, hear from our graduating seniors, install the new cadet leadership team, and enjoy time visiting and dancing. Congratulations to all of our cadets! @SB_GuthrieJROTC",
     "programs": [
-      "Electrician Technician"
+      "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/GpJruV9WoAA3Hm0.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/GpJ4L39WkAAkVRQ.jpg",
     "source": "twitter",
-    "tweet_id": "1914711239122379110"
+    "tweet_id": "1914725134377664762"
+  },
+  {
+    "id": "2025-04-22-tw1914731321080844529",
+    "date": "2025-04-22",
+    "year": 2025,
+    "headline": "Our latest newsletter about all things Guthrie this semester is live",
+    "body": "Our latest newsletter about all things Guthrie this semester is live. Please take a look at the amazing things our students are doing.",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/1914727455572574209/img/poNNodDPn4JD8rPL.jpg",
+    "source": "twitter",
+    "tweet_id": "1914731321080844529"
   },
   {
     "id": "2025-05-16-tw1923365515822571969",
@@ -19046,19 +19467,6 @@ const NEWS_DATA =
     "tweet_id": "1968360005893288399"
   },
   {
-    "id": "2025-09-18-tw1968499429448532090",
-    "date": "2025-09-18",
-    "year": 2025,
-    "headline": "Our Culinary Practicum leaders students visited the Ben E Keith Holiday Food Show to learn from i...",
-    "body": "Our Culinary Practicum leaders students visited the Ben E Keith Holiday Food Show to learn from industry professionals and apply their culinary leaning to real world skills such as marketing, packaging, and pricing. @SBISD @cte_sbisd @GuthrieCafe",
-    "programs": [
-      "Culinary Arts"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/G1GDy6TWUAEWGvd.jpg",
-    "source": "twitter",
-    "tweet_id": "1968499429448532090"
-  },
-  {
     "id": "2025-09-18-tw1968484673153073621",
     "date": "2025-09-18",
     "year": 2025,
@@ -19070,6 +19478,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/G1F2X7tWYAAAgSs.jpg",
     "source": "twitter",
     "tweet_id": "1968484673153073621"
+  },
+  {
+    "id": "2025-09-18-tw1968499429448532090",
+    "date": "2025-09-18",
+    "year": 2025,
+    "headline": "Our Culinary Practicum leaders students visited the Ben E Keith Holiday Food Show to learn from i...",
+    "body": "Our Culinary Practicum leaders students visited the Ben E Keith Holiday Food Show to learn from industry professionals and apply their culinary leaning to real world skills such as marketing, packaging, and pricing. @SBISD @cte_sbisd @GuthrieCafe",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/G1GDy6TWUAEWGvd.jpg",
+    "source": "twitter",
+    "tweet_id": "1968499429448532090"
   },
   {
     "id": "2025-09-22-tw1970149245760983364",
@@ -19109,6 +19530,19 @@ const NEWS_DATA =
     "tweet_id": "1971662195223134231"
   },
   {
+    "id": "2025-10-16-tw1978853593798131896",
+    "date": "2025-10-16",
+    "year": 2025,
+    "headline": "Our students continue to be community minded! Please join the Health Sciences students during the...",
+    "body": "Our students continue to be community minded! Please join the Health Sciences students during their MD Anderson Blood Drive save some lives during Breast Cancer month! @SBISD @cte_sbisd @MDAndersonNews @breastcancer",
+    "programs": [
+      "Health Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/G3ZM2zYWUAM_r5O.jpg",
+    "source": "twitter",
+    "tweet_id": "1978853593798131896"
+  },
+  {
     "id": "2025-10-16-tw1978964394873614413",
     "date": "2025-10-16",
     "year": 2025,
@@ -19122,17 +19556,15 @@ const NEWS_DATA =
     "tweet_id": "1978964394873614413"
   },
   {
-    "id": "2025-10-16-tw1978853593798131896",
-    "date": "2025-10-16",
+    "id": "2025-10-20-tw1980305792906752406",
+    "date": "2025-10-20",
     "year": 2025,
-    "headline": "Our students continue to be community minded! Please join the Health Sciences students during the...",
-    "body": "Our students continue to be community minded! Please join the Health Sciences students during their MD Anderson Blood Drive save some lives during Breast Cancer month! @SBISD @cte_sbisd @MDAndersonNews @breastcancer",
-    "programs": [
-      "Health Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/G3ZM2zYWUAM_r5O.jpg",
+    "headline": "Dental Practicum students getting an opportunity to learn from and ask questions of an oral surge...",
+    "body": "Dental Practicum students getting an opportunity to learn from and ask questions of an oral surgeon @SBISD @cte_sbisd",
+    "programs": [],
+    "imageUrl": "https://pbs.twimg.com/media/G3t1nz-XQAAlJhe.jpg",
     "source": "twitter",
-    "tweet_id": "1978853593798131896"
+    "tweet_id": "1980305792906752406"
   },
   {
     "id": "2025-10-20-tw1980306650188976441",
@@ -19148,17 +19580,6 @@ const NEWS_DATA =
     "tweet_id": "1980306650188976441"
   },
   {
-    "id": "2025-10-20-tw1980305792906752406",
-    "date": "2025-10-20",
-    "year": 2025,
-    "headline": "Dental Practicum students getting an opportunity to learn from and ask questions of an oral surge...",
-    "body": "Dental Practicum students getting an opportunity to learn from and ask questions of an oral surgeon @SBISD @cte_sbisd",
-    "programs": [],
-    "imageUrl": "https://pbs.twimg.com/media/G3t1nz-XQAAlJhe.jpg",
-    "source": "twitter",
-    "tweet_id": "1980305792906752406"
-  },
-  {
     "id": "2025-10-22-tw1981022538525221206",
     "date": "2025-10-22",
     "year": 2025,
@@ -19172,19 +19593,6 @@ const NEWS_DATA =
     "tweet_id": "1981022538525221206"
   },
   {
-    "id": "2025-10-24-tw1981781052189282690",
-    "date": "2025-10-24",
-    "year": 2025,
-    "headline": "Congratulations to Diana Guevara! She is the first licensed barber from the Cosmetology program! ...",
-    "body": "Congratulations to Diana Guevara! She is the first licensed barber from the Cosmetology program! She was also the first to pass her Texas Cosmetology Exam &amp; Practical last spring! We are proud of you on accomplishing your T24 goal! @cte_sbisd @SBISD @SpringWoodsHigh",
-    "programs": [
-      "Cosmetology"
-    ],
-    "imageUrl": "https://pbs.twimg.com/tweet_video_thumb/G4CzWipWUAAZ7wW.jpg",
-    "source": "twitter",
-    "tweet_id": "1981781052189282690"
-  },
-  {
     "id": "2025-10-24-tw1981768042418995319",
     "date": "2025-10-24",
     "year": 2025,
@@ -19196,6 +19604,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/G4Cnh6LXwAAJSey.jpg",
     "source": "twitter",
     "tweet_id": "1981768042418995319"
+  },
+  {
+    "id": "2025-10-24-tw1981781052189282690",
+    "date": "2025-10-24",
+    "year": 2025,
+    "headline": "Congratulations to Diana Guevara! She is the first licensed barber from the Cosmetology program! ...",
+    "body": "Congratulations to Diana Guevara! She is the first licensed barber from the Cosmetology program! She was also the first to pass her Texas Cosmetology Exam &amp; Practical last spring! We are proud of you on accomplishing your T24 goal! @cte_sbisd @SBISD @SpringWoodsHigh",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": "https://pbs.twimg.com/tweet_video_thumb/G4CzWipWUAAZ7wW.jpg",
+    "source": "twitter",
+    "tweet_id": "1981781052189282690"
   },
   {
     "id": "2025-10-27-tw1982790327166493118",
@@ -19264,19 +19685,6 @@ const NEWS_DATA =
     "tweet_id": "1987270514625126662"
   },
   {
-    "id": "2025-11-15-tw1989769795181424895",
-    "date": "2025-11-15",
-    "year": 2025,
-    "headline": "This is a great day to have a drill meet, so our NJROTC Cadets headed up to Magnolia HS to compet...",
-    "body": "This is a great day to have a drill meet, so our NJROTC Cadets headed up to Magnolia HS to compete in many events, including Color Guard, Armed and Unarmed Drill, Exhibition Drill, Academics, PT, and more. @SB_GuthrieJROTC cadets did an outstanding job.",
-    "programs": [
-      "NJROTC"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/G50VE7bXQAAemQV.jpg",
-    "source": "twitter",
-    "tweet_id": "1989769795181424895"
-  },
-  {
     "id": "2025-11-15-tw1989762693624992012",
     "date": "2025-11-15",
     "year": 2025,
@@ -19291,17 +19699,17 @@ const NEWS_DATA =
     "tweet_id": "1989762693624992012"
   },
   {
-    "id": "2025-11-18-tw1990922370287022505",
-    "date": "2025-11-18",
+    "id": "2025-11-15-tw1989769795181424895",
+    "date": "2025-11-15",
     "year": 2025,
-    "headline": "FFA students raising animals are now at the SBFFA Progress Show, a mini version of the actual liv...",
-    "body": "FFA students raising animals are now at the SBFFA Progress Show, a mini version of the actual livestock shows that will be held on 1/29/26 and 1/30/26.",
+    "headline": "This is a great day to have a drill meet, so our NJROTC Cadets headed up to Magnolia HS to compet...",
+    "body": "This is a great day to have a drill meet, so our NJROTC Cadets headed up to Magnolia HS to compete in many events, including Color Guard, Armed and Unarmed Drill, Exhibition Drill, Academics, PT, and more. @SB_GuthrieJROTC cadets did an outstanding job.",
     "programs": [
-      "Agricultural Science"
+      "NJROTC"
     ],
-    "imageUrl": "https://pbs.twimg.com/media/G6EtV6fWYAA4-pn.jpg",
+    "imageUrl": "https://pbs.twimg.com/media/G50VE7bXQAAemQV.jpg",
     "source": "twitter",
-    "tweet_id": "1990922370287022505"
+    "tweet_id": "1989769795181424895"
   },
   {
     "id": "2025-11-18-tw1990842407596736888",
@@ -19315,6 +19723,19 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/G6DknfzXAAEDT1p.jpg",
     "source": "twitter",
     "tweet_id": "1990842407596736888"
+  },
+  {
+    "id": "2025-11-18-tw1990922370287022505",
+    "date": "2025-11-18",
+    "year": 2025,
+    "headline": "FFA students raising animals are now at the SBFFA Progress Show, a mini version of the actual liv...",
+    "body": "FFA students raising animals are now at the SBFFA Progress Show, a mini version of the actual livestock shows that will be held on 1/29/26 and 1/30/26.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/G6EtV6fWYAA4-pn.jpg",
+    "source": "twitter",
+    "tweet_id": "1990922370287022505"
   },
   {
     "id": "2025-11-20-tw1991571639126093927",
@@ -19567,6 +19988,20 @@ const NEWS_DATA =
     "tweet_id": "2026399978361340038"
   },
   {
+    "id": "2026-02-27-tw2027465145031512402",
+    "date": "2026-02-27",
+    "year": 2026,
+    "headline": "Once again, we appreciate @goodtimecookersBBQ at the HLSR Barbeque Cookoff for allowing our Culin...",
+    "body": "Once again, we appreciate @goodtimecookersBBQ at the HLSR Barbeque Cookoff for allowing our Culinary students to come, learn, and assist them as they prepare for their guests this week. It is a fun, positive experience for our students as they work alongside BBQ pros.",
+    "programs": [
+      "Culinary Arts",
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://pbs.twimg.com/media/HCMAzRBWYAANBEo.jpg",
+    "source": "twitter",
+    "tweet_id": "2027465145031512402"
+  },
+  {
     "id": "2026-02-27-tw2027486721156214966",
     "date": "2026-02-27",
     "year": 2026,
@@ -19580,20 +20015,6 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/HCMUa1vWAAALmvu.jpg",
     "source": "twitter",
     "tweet_id": "2027486721156214966"
-  },
-  {
-    "id": "2026-02-27-tw2027465145031512402",
-    "date": "2026-02-27",
-    "year": 2026,
-    "headline": "Once again, we appreciate @goodtimecookersBBQ at the HLSR Barbeque Cookoff for allowing our Culin...",
-    "body": "Once again, we appreciate @goodtimecookersBBQ at the HLSR Barbeque Cookoff for allowing our Culinary students to come, learn, and assist them as they prepare for their guests this week. It is a fun, positive experience for our students as they work alongside BBQ pros.",
-    "programs": [
-      "Culinary Arts",
-      "Agricultural Science"
-    ],
-    "imageUrl": "https://pbs.twimg.com/media/HCMAzRBWYAANBEo.jpg",
-    "source": "twitter",
-    "tweet_id": "2027465145031512402"
   },
   {
     "id": "2026-03-22-tw2035531609487691794",
@@ -19625,5 +20046,4 @@ const NEWS_DATA =
     "source": "twitter",
     "tweet_id": "2041884711606239287"
   }
-]
-;
+];
