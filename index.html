@@ -4,16 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Guthrie Center — News Archive</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --blue:        #003DA5;   /* Pantone 287C */
+    --blue:        #003DA5;
     --blue-dark:   #002d7a;
     --blue-light:  #1a52b8;
     --blue-pale:   #e8eef8;
-    --gold:        #F2A900;   /* warm amber accent */
+    --gold:        #F2A900;
     --gold-dark:   #c98b00;
     --white:       #ffffff;
     --off-white:   #f5f6f8;
@@ -22,12 +19,13 @@
     --rule:        #dde3ed;
     --card-bg:     #ffffff;
     --tag-bg:      #eef2f7;
-    --navy:        #0d1f3c;   /* kept for JS references */
+    --navy:        #0d1f3c;
     --navy-mid:    #1a3258;
     --cream:       #f5f6f8;
-    --font-display: 'Barlow Condensed', sans-serif;
-    --font:         'Barlow', sans-serif;
-    /* legacy compat */
+    /* Display: Impact-style condensed bold — works on every OS, no download */
+    --font-display: Impact, 'Franklin Gothic Medium', 'Arial Narrow', 'Arial Black', sans-serif;
+    /* Body: comfortable system UI font */
+    --font:        'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
     --gold-light:  #F2A900;
   }
 
@@ -144,7 +142,9 @@
     width: clamp(180px, 20vw, 280px);
     height: auto;
     margin-bottom: 32px;
-    /* WHITE logo — no filter needed */
+    /* Black logo on dark bg: invert to white, screen blend removes background */
+    filter: invert(1);
+    mix-blend-mode: screen;
   }
   .hero-eyebrow {
     font-family: var(--font);
@@ -156,14 +156,13 @@
     margin-bottom: 20px;
   }
   .hero h1 {
-    font-family: var(--font-display);
     font-weight: 900;
     line-height: 1.0;
     text-transform: uppercase;
     margin-bottom: 32px;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 20px;
   }
   .hero-phrase {
     display: flex;
@@ -171,19 +170,22 @@
     line-height: 1;
   }
   .hero-phrase .verb {
-    font-size: clamp(3.2rem, 8vw, 7rem);
+    font-family: var(--font-display);
+    font-size: clamp(3.5rem, 9vw, 8rem);
     color: var(--gold);
-    letter-spacing: -0.01em;
-    line-height: 0.92;
+    letter-spacing: 0.02em;
+    line-height: 0.9;
     display: block;
   }
   .hero-phrase .rest {
-    font-size: clamp(1.3rem, 3vw, 2.4rem);
+    font-family: var(--font);
+    font-size: clamp(1.1rem, 2.5vw, 1.8rem);
     color: var(--white);
-    font-weight: 800;
-    letter-spacing: 0.04em;
+    font-weight: 700;
+    letter-spacing: 0.18em;
     display: block;
-    margin-top: 2px;
+    margin-top: 6px;
+    text-transform: uppercase;
   }
   .hero-sub {
     font-size: 19px;
@@ -970,8 +972,9 @@
   }
   .footer-logo {
     width: 160px;
-    /* WHITE logo — no filter needed */
-    opacity: 0.85;
+    filter: invert(1);
+    mix-blend-mode: screen;
+    opacity: 0.9;
   }
   .footer-info {
     font-size: 15px;
@@ -1078,9 +1081,9 @@
     .archive-label { padding: 12px 20px; }
     .vision-inner { padding: 0 20px; }
     footer { padding: 32px 20px; }
-    .hero-phrase .verb { font-size: clamp(2.4rem, 14vw, 4rem); }
-    .hero-phrase .rest { font-size: clamp(1rem, 5vw, 1.5rem); }
-    .hero h1 { gap: 10px; }
+    .hero-phrase .verb { font-size: clamp(2.8rem, 15vw, 4.5rem); }
+    .hero-phrase .rest { font-size: clamp(0.9rem, 4vw, 1.3rem); letter-spacing: 0.12em; }
+    .hero h1 { gap: 12px; margin-bottom: 24px; }
   }
 </style>
 </head>
@@ -1115,7 +1118,7 @@
   <div class="hero-dots" id="hero-dots"></div>
 
   <div class="hero-content">
-    <img class="hero-logo" src="GClogo-with-name_WHITE.png" alt="The Guthrie Center">
+    <img class="hero-logo" src="GClogo-with-name.png" alt="The Guthrie Center">
     <p class="hero-eyebrow">News Archive · Spring Branch ISD · Houston, Texas</p>
     <h1>
       <span class="hero-phrase">
@@ -1274,7 +1277,7 @@
 ══════════════════════════════════════ -->
 <footer>
   <div class="footer-inner">
-    <img class="footer-logo" src="GClogo-with-name_WHITE.png" alt="The Guthrie Center">
+    <img class="footer-logo" src="GClogo-with-name.png" alt="The Guthrie Center">
     <div class="footer-info">
       <strong>The Guthrie Center News Archive</strong><br>
       Spring Branch ISD · Houston, Texas<br>
