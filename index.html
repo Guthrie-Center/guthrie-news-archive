@@ -921,15 +921,15 @@
   }
   .vision-label {
     font-family: var(--font-display);
-    font-size: 13px;
+    font-size: 26px;
     font-weight: 800;
-    letter-spacing: 0.22em;
+    letter-spacing: 0.15em;
     text-transform: uppercase;
     color: var(--gold);
-    margin-bottom: 8px;
+    margin-bottom: 12px;
   }
   .vision-body {
-    font-size: 17px;
+    font-size: 20px;
     color: rgba(255,255,255,0.85);
     line-height: 1.65;
   }
@@ -994,22 +994,23 @@
   }
   .footer-social-icons {
     display: flex;
-    gap: 12px;
+    gap: 14px;
   }
   .social-icon {
-    width: 36px;
-    height: 36px;
+    width: 52px;
+    height: 52px;
     border-radius: 50%;
-    border: 1px solid rgba(255,255,255,0.2);
+    border: 2px solid rgba(255,255,255,0.3);
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgba(255,255,255,0.5);
+    color: rgba(255,255,255,0.7);
     text-decoration: none;
-    font-size: 14px;
+    font-size: 22px;
+    font-weight: 700;
     transition: all 0.2s;
   }
-  .social-icon:hover { border-color: var(--gold); color: var(--gold); }
+  .social-icon:hover { border-color: var(--gold); color: var(--gold); background: rgba(255,255,255,0.05); }
   .footer-copy {
     grid-column: 1 / -1;
     padding-top: 24px;
@@ -1264,7 +1265,7 @@
       <div class="vision-label">Our Vision</div>
       <p class="vision-body">Our students receive the highest technical, professional, and leadership skills training in a simulated workplace environment — preparing them for success in any future career.</p>
     </div>
-    <a class="vision-cta" href="https://www.springbranchisd.com/schools/career-and-technical-education/guthrie-center" target="_blank" rel="noopener">Learn More About Guthrie</a>
+    <a class="vision-cta" href="https://guthriecenter.springbranchisd.com" target="_blank" rel="noopener">Learn More About Guthrie</a>
   </div>
 </div>
 
@@ -1276,20 +1277,29 @@
     <img class="footer-logo" src="GClogo-with-name WHITE.png" alt="The Guthrie Center">
     <div class="footer-info">
       <strong>The Guthrie Center News Archive</strong><br>
-      Spring Branch ISD · Houston, Texas<br>
-      Career &amp; Technical Education
+      10660 Hammerly Blvd<br>
+      Houston, TX 77043<br>
+      Spring Branch ISD
     </div>
     <div class="footer-social">
       <div class="footer-social-label">Follow Us</div>
       <div class="footer-social-icons">
-        <a class="social-icon" href="https://www.facebook.com/GuthrieCenter" target="_blank" rel="noopener" title="Facebook">f</a>
-        <a class="social-icon" href="https://www.instagram.com/guthrie_center" target="_blank" rel="noopener" title="Instagram">&#9737;</a>
-        <a class="social-icon" href="https://www.youtube.com/@GuthrieCenter" target="_blank" rel="noopener" title="YouTube">▶</a>
-        <a class="social-icon" href="https://x.com/GuthrieCenter" target="_blank" rel="noopener" title="X / Twitter">𝕏</a>
+        <a class="social-icon" href="https://www.facebook.com/guthriecenter/" target="_blank" rel="noopener" title="Facebook">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+        </a>
+        <a class="social-icon" href="https://www.instagram.com/guthrie_center" target="_blank" rel="noopener" title="Instagram">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+        <a class="social-icon" href="https://www.youtube.com/channel/UCgBYlQ0yM2cZc4gHMyxGSSg" target="_blank" rel="noopener" title="YouTube">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 00-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46a2.78 2.78 0 00-1.95 1.96A29 29 0 001 12a29 29 0 00.46 5.58A2.78 2.78 0 003.41 19.54C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 001.95-1.96A29 29 0 0023 12a29 29 0 00-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="white"/></svg>
+        </a>
+        <a class="social-icon" href="https://x.com/Guthrie_Center" target="_blank" rel="noopener" title="X / Twitter">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        </a>
       </div>
     </div>
     <div class="footer-copy">
-      &copy; <span id="footer-year"></span> The Guthrie Center · Spring Branch ISD · This archive is maintained for educational and historical purposes.
+      &copy; <span id="footer-year"></span> The Guthrie Center · Spring Branch ISD · This archive is provided for historical reference.
     </div>
   </div>
 </footer>
