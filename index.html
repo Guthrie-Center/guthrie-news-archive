@@ -1023,6 +1023,19 @@
     text-align: center;
     letter-spacing: 0.04em;
   }
+  .footer-nondiscrimination {
+    grid-column: 1 / -1;
+    padding-top: 14px;
+    margin-top: 4px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+    font-size: 10px;
+    line-height: 1.6;
+    color: rgba(255,255,255,0.3);
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
   @media (max-width: 720px) {
     .footer-inner { grid-template-columns: 1fr; gap: 24px; }
     .footer-social { flex-direction: column; text-align: left; }
@@ -1282,7 +1295,7 @@
   <div class="footer-inner">
     <img class="footer-logo" src="GClogo-with-name WHITE.png" alt="The Guthrie Center">
     <div class="footer-info">
-      <div style="font-size:30px;font-weight:700;color:rgba(255,255,255,0.85);line-height:1.2;margin-bottom:10px;">The Guthrie Center News Archive</div>
+      <div style="font-size:30px;font-weight:700;color:rgba(255,255,255,0.85);line-height:1.2;margin-bottom:10px;">News Archive</div>
       <div style="font-size:15px;color:rgba(255,255,255,0.55);white-space:nowrap;">10660 Hammerly Blvd &nbsp;|&nbsp; Houston, Texas 77043 &nbsp;|&nbsp; 713.251.1300</div>
     </div>
     <div class="footer-social">
@@ -1304,6 +1317,9 @@
     </div>
     <div class="footer-copy">
       &copy; <span id="footer-year"></span> The Guthrie Center · Spring Branch ISD · This archive is provided for historical reference.
+    </div>
+    <div class="footer-nondiscrimination">
+      It is the policy of Spring Branch Independent School District not to discriminate on the basis of race, color, national origin, sex or handicap in its vocational programs, services or activities and provides equal access to the Boy Scouts and other designated youth groups as required by Title VI of the Civil Rights Act of 1964, as amended; Title IX of the Education Amendments of 1972; and Section 504 of the Rehabilitation Act of 1973, as amended.
     </div>
   </div>
 </footer>
