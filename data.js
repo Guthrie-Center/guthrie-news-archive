@@ -4,16 +4,13 @@
 
 const NEWS_DATA = 
 [
-  {
+    {
     "id": "2002-02-03",
     "date": "2002-02-03",
     "year": 2002,
     "headline": "Media Tech and Animation Students Win at Spindletop Film Festival",
-    "body": "Media Tech and Animation students were winners at the annual Spindletop Film Festival sponsored by Lamar University in Beaumont. Awards were presented to multiple students from The Guthrie Center.",
-    "programs": [
-      "Digital Filmmaking",
-      "3D Animation"
-    ],
+    "body": "Media Tech and Animation students were winners on February 2 at the annual Spindletop Film Festival sponsored by Lamar University in Beaumont. Awards were presented to many students from The Guthrie Center. Congratulations also to Mark Heuser, one of our NJROTC instructors who has been selected for the third year in a row in the Who's Who Among American Teachers — recognition that was initiated by his former students.",
+    "programs": ["Digital Filmmaking", "3D Animation", "NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -22,11 +19,8 @@ const NEWS_DATA =
     "date": "2002-02-11",
     "year": 2002,
     "headline": "Spring Branch FFA Show and Sale and NJROTC Military Ball",
-    "body": "The Spring Branch FFA Show and Sale was held with strong community support. The annual NJROTC Military Ball ceremony and dance was held February 9th at the Crown Plaza Brookhollow with a motivating speech by Col. Charles Reeves, USAF ret.",
-    "programs": [
-      "NJROTC",
-      "Agricultural Science"
-    ],
+    "body": "The Spring Branch FFA Show and Sale was held with strong community support — students, faculty and parents thank everyone for their support of this outstanding scholarship program. The annual NJROTC Military Ball ceremony and dance was held Saturday, February 9th at the Crown Plaza Brookhollow. Cadets and guests were treated to a motivating speech by Col. Charles Reeves, USAF ret. and some poignant final thoughts from the senior leaders of the unit.",
+    "programs": ["NJROTC", "Agricultural Science"],
     "imageUrl": null,
     "source": "web"
   },
@@ -35,11 +29,8 @@ const NEWS_DATA =
     "date": "2002-02-18",
     "year": 2002,
     "headline": "Cosmetology Students Win 6 of 18 Awards at Fantastic Sam's Competition",
-    "body": "Fantastic Sam's held a competition with over 400 entries. Students from The Guthrie Center won six of the 18 total awards, earning $750. Congratulations to Juana Castillo, Thao Diep, Sanjuana Flores, Tiffany Foley, Emily Rodriguez, and Angelica Sanchez.",
-    "programs": [
-      "Agricultural Science",
-      "Cosmetology"
-    ],
+    "body": "Fantastic Sam's held a competition this past weekend that had over 400 entries. Students from The Guthrie Center won six of the 18 total awards to the tune of $750, but even more important, they enjoyed their success while learning more about the exciting career of Cosmetology. Congratulations to Juana Castillo, Thao Diep, Sanjuana Flores, Tiffany Foley, Emily Rodriguez, and Angelica Sanchez, and our instructors for their dedication and results!",
+    "programs": ["Cosmetology"],
     "imageUrl": null,
     "source": "web"
   },
@@ -48,10 +39,8 @@ const NEWS_DATA =
     "date": "2002-02-18",
     "year": 2002,
     "headline": "NJROTC Finishes Strong at Tomball Invitational",
-    "body": "The Navy team competed at Tomball High School, finishing second in the inspection phase and third overall in drill meets, with a victory in female tug-of-war. Their next stop is regionals in Mississippi.",
-    "programs": [
-      "NJROTC"
-    ],
+    "body": "Our Navy team competed at Tomball High School on February 16, 2002. They finished second in the inspection phase, third overall in the drill meets, and claimed victory in female tug-of-war. Their next stop is regionals in Mississippi in two weeks, and when they sweep the standings there, they will be able to compete at Nationals in Florida. They are an awesome and inspiring group of future leaders!",
+    "programs": ["NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -60,10 +49,8 @@ const NEWS_DATA =
     "date": "2002-02-25",
     "year": 2002,
     "headline": "Computer Networking Students Get Real-World Experience at Southwestern Energy",
-    "body": "A hand-picked group of students visited Southwestern Energy Production Company to get real-world networking experience as they replaced servers and network racks for the nationwide corporation.",
-    "programs": [
-      "Networking"
-    ],
+    "body": "A hand-picked group of students converged on Southwestern Energy Production Company to get real-world networking experience as they replaced servers and network racks for the nationwide corporation.",
+    "programs": ["Networking"],
     "imageUrl": null,
     "source": "web"
   },
@@ -72,10 +59,8 @@ const NEWS_DATA =
     "date": "2002-02-25",
     "year": 2002,
     "headline": "NJROTC Wins State Medals at Houston Orienteering Club Meet",
-    "body": "NJROTC students were State Medal Winners at the two-day Orienteering Meet at Lake Stubblefield with over 200 competing. Results: Amber Reese and Hector Rodriguez First Place; Christina White Second; Milton Gonzales Third; Jason Domingo and Rosie Olmedo Fourth.",
-    "programs": [
-      "NJROTC"
-    ],
+    "body": "NJROTC students were State Medal Winners at the two-day Orienteering Meet hosted by the Houston Orienteering Club, held at Lake Stubblefield with over 200 people competing. Results: Amber Reese and Hector Rodriguez — First Place; Christina White — Second Place; Milton Gonzales — Third Place; Jason Domingo and Rosie Olmedo — Fourth Place. Congratulations to these and all the competing cadets for their outstanding dedication, and especially to Col. Sluis and Master Chief Heuser for making this opportunity a reality.",
+    "programs": ["NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -84,10 +69,8 @@ const NEWS_DATA =
     "date": "2002-03-04",
     "year": 2002,
     "headline": "NJROTC Shines at Area Eight Drill Competition at Ole Miss",
-    "body": "NJROTC results from the Area Eight Drill Competition at Ole Miss: Personnel Inspection First Place, Unarmed Drill Team Second Place. Individual medals: Hector Rodriguez Second Place Knockout Drill, Julio Cortez Third Place Pushups, Michael Riettini Fifth Place Academic Test.",
-    "programs": [
-      "NJROTC"
-    ],
+    "body": "The NJROTC program is proud to announce the results of the Area Eight Drill Competition held at Ole Miss University on March 2, 2002. Personnel Inspection — First Place. Unarmed Drill Team — Second Place. Individual medal winners: Hector Rodriguez — Second Place, Knockout Drill; Julio Cortez — Third Place, Pushups; Michael Riettini — Fifth Place, Academic Test. The Guthrie Center and all of the SBISD schools represented are proud of their accomplishments and congratulate the cadets for a great competitive year!",
+    "programs": ["NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -96,12 +79,8 @@ const NEWS_DATA =
     "date": "2002-03-18",
     "year": 2002,
     "headline": "Multiple Programs Win Big Before Spring Break",
-    "body": "Computer Animation projects advancing to state SkillsUSA completed by Albert Capetillo, Keita Kazo, and Graham Musgrove (Best of Show). Cosmetology: Angelica Sanchez won leadership in Job Demonstration; Maria DeLeon won Speed and Skills in Haircutting; Thao Diep won first in Nail Techniques and will advance to state.",
-    "programs": [
-      "3D Animation",
-      "Cosmetology",
-      "SkillsUSA"
-    ],
+    "body": "Many students were involved in contests before Spring Break. Computer Animation projects advancing to the state SkillsUSA were completed by Albert Capetillo, Keita Kazo, and Graham Musgrove (Best of Show). The skill contest winners were Pierre Vega and Graham Musgrove — both eligible to compete statewide. Cosmetology: Angelica Sanchez was awarded for leadership in Job Demonstration; Maria DeLeon won for Speed and Skills in Haircutting; Michelle Ma came in second in the Nails portion; and Thao Diep won first place in Nail Techniques and will also advance to the state contests. Congratulations to all students who participated!",
+    "programs": ["3D Animation", "Cosmetology"],
     "imageUrl": null,
     "source": "web"
   },
@@ -110,10 +89,8 @@ const NEWS_DATA =
     "date": "2002-03-20",
     "year": 2002,
     "headline": "Master Chief Heuser Named to Who's Who Among American Teachers — Third Year Running",
-    "body": "Congratulations to Mark Heuser, one of our NJROTC instructors, selected for the third consecutive year in Who's Who Among American Teachers, initiated by his former students.",
-    "programs": [
-      "NJROTC"
-    ],
+    "body": "Congratulations to Mark Heuser, one of our NJROTC instructors, who has been selected for the third consecutive year in Who's Who Among American Teachers — recognition that was initiated by his former students in NJROTC.",
+    "programs": ["NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -122,7 +99,7 @@ const NEWS_DATA =
     "date": "2002-04-04",
     "year": 2002,
     "headline": "Linda Russell Named SBISD Employee of the Month",
-    "body": "Career and Technology Education Director Linda Russell was surprised when Superintendent Linda Reed and others burst into her office to award her SBISD Employee of the Month.",
+    "body": "Career and Technology Education Director Linda Russell was surprised today when Superintendent Linda Reed, Communications Director Bob Sharp, and others burst into her office to award her SBISD's Employee of the Month. Linda does a tremendous amount of work that directly benefits the students at The Guthrie Center. We are all very happy that she received this acknowledgment of her dedication and accomplishments as CATE Director and strong supporter of the programs here.",
     "programs": [],
     "imageUrl": null,
     "source": "web"
@@ -131,11 +108,9 @@ const NEWS_DATA =
     "id": "2002-04-08",
     "date": "2002-04-08",
     "year": 2002,
-    "headline": "NJROTC Cadets Place 2nd at Prairie View A&M Final Area Drill Meet",
-    "body": "NJROTC cadets competed in their final area drill meet at Prairie View A&M University, earning overall 2nd place. The unarmed drill team placed second in exhibition and first in basic.",
-    "programs": [
-      "NJROTC"
-    ],
+    "headline": "NJROTC Cadets Place 2nd at Prairie View A&M Final Area Drill Meet — New Website Launches",
+    "body": "Our NJROTC cadets competed in their final area drill meet of the season at Prairie View A&M University. It was a total team effort resulting in an overall 2nd place out of all the participating schools. The unarmed drill team placed second in exhibition and first place in basic, and all of the other squads and PT results were so high that they earned every bit of second place. Coincidentally, the NJROTC program of the first-place school — Clements High of Fort Bend ISD — is taught by Master Chief's brother-in-law. Also this week: The Harold D. Guthrie Center for Excellence launched a brand new website design.",
+    "programs": ["NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -144,7 +119,7 @@ const NEWS_DATA =
     "date": "2002-04-10",
     "year": 2002,
     "headline": "Career Day Draws Industry Guests to Campus",
-    "body": "Career Day was an outstanding success. Thanks to all the presenters, participants, and Ms. Litton for organizing the event.",
+    "body": "Career Day was an outstanding success. Thanks to all the presenters, participants, and Ms. Litton for putting it all together. Our students were interested and appreciative — as usual, they showed our guests that only the best students in the district attend classes at The Guthrie Center!",
     "programs": [],
     "imageUrl": null,
     "source": "web"
@@ -154,11 +129,19 @@ const NEWS_DATA =
     "date": "2002-04-17",
     "year": 2002,
     "headline": "Media Technology Hosts Inaugural Annual Student Film Premiere",
-    "body": "The Media Technology program held their 1st Annual Student Film Premiere before an enthusiastic crowd of family, community members, and representatives of the film industry.",
-    "programs": [
-      "Digital Filmmaking"
-    ],
+    "body": "Tonight the Media Technology program held its 1st Annual Student Film Premiere before an enthusiastic crowd of family, community members, and representatives of the film industry. Thank you to Mike Radler, Patty Nilsson, and especially to all the students for their extra effort in making this a success!",
+    "programs": ["Digital Filmmaking"],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-04-17-film-premiere.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2002-04-18",
+    "date": "2002-04-18",
+    "year": 2002,
+    "headline": "Lauren Caltigirone Featured in Memorial-Spring Branch Sun for Media Tech Work",
+    "body": "Lauren Caltigirone, one of our Media Tech stars, has an article in the Memorial-Spring Branch Sun covering her adventures through the program and her successful year as a video producer, director, writer, and editor. You can read the article in the April 17th issue of the Sun.",
+    "programs": ["Digital Filmmaking"],
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -166,7 +149,7 @@ const NEWS_DATA =
     "date": "2002-04-22",
     "year": 2002,
     "headline": "Dr. Theron Brown Joins Guthrie Center Administrative Team",
-    "body": "The Guthrie Center is pleased to announce the newest member of the Administrative Team: Dr. Theron Brown.",
+    "body": "We are pleased to announce the newest member of The Guthrie Center Administrative Team — Dr. Theron Brown. Welcome to our dynamic and growing family!",
     "programs": [],
     "imageUrl": null,
     "source": "web"
@@ -176,10 +159,8 @@ const NEWS_DATA =
     "date": "2002-04-22",
     "year": 2002,
     "headline": "Media Tech Students Win Multiple Awards at Museum of Fine Arts Young Filmmakers Festival",
-    "body": "Media Tech students had two first place projects and two second place ties at The Museum of Fine Arts Young Filmmakers Festival. First Place Winners: Milton Grimes, Victor Bernal and Enrique Arroyo. Second Place: Josh Franer, Coleman McFarland, and Brendon Lankford.",
-    "programs": [
-      "Digital Filmmaking"
-    ],
+    "body": "Congratulations to students from Media Tech who had two first-place projects and two second-place ties at The Museum of Fine Arts Young Filmmakers Festival. First Place Winners: Milton Grimes (MHS), Victor Bernal, and Enrique Arroyo (SWHS). Second Place Winning Ties: Josh Franer (MHS), Coleman McFarland (SHS), and Brendon Lankford (MHS). The winning projects were screened at the Museum of Fine Arts, followed by a reception.",
+    "programs": ["Digital Filmmaking"],
     "imageUrl": null,
     "source": "web"
   },
@@ -188,10 +169,8 @@ const NEWS_DATA =
     "date": "2002-04-23",
     "year": 2002,
     "headline": "FFA Annual Banquet Held at Don Coleman Coliseum",
-    "body": "The Spring Branch FFA Students held their annual banquet. FFA Officers for 2002-2003 were installed: Jennifer Kelley as President, Christina Gunkel as Vice President, Katie Dedear as Secretary, Cory Harget as Treasurer, and Scott Pesl as Reporter.",
-    "programs": [
-      "Agricultural Science"
-    ],
+    "body": "The Spring Branch FFA Students held their annual banquet at the Don Coleman Coliseum Tuesday evening. After a delicious barbecue dinner, the awards program was conducted. Volunteers Suzanne Dedear and Joe Yarborough were recognized for their continued dedication to the students. The FFA Officers for 2002-2003 were installed: Jennifer Kelley — President, Christina Gunkel — Vice President, Katie Dedear — Secretary, Cory Harget — Treasurer, and Scott Pesl — Reporter. Mr. McManners and the outgoing officers put together a great video of the year's highlights.",
+    "programs": ["Agricultural Science"],
     "imageUrl": null,
     "source": "web"
   },
@@ -200,10 +179,8 @@ const NEWS_DATA =
     "date": "2002-04-24",
     "year": 2002,
     "headline": "Olympic Luge Athlete Ruben Gonzales Visits Media Technology Program",
-    "body": "Olympic Luge athlete Ruben Gonzales, who participated in three Olympic competitions, visited with Media Tech student Brendon Lankford about editing a video. He was impressed by the high quality of work and students at The Guthrie Center.",
-    "programs": [
-      "Digital Filmmaking"
-    ],
+    "body": "Olympic Luge athlete Ruben Gonzales visited with Media Tech student Brendon Lankford about editing a video. Ruben has successfully participated in three Olympic competitions and spends time speaking to corporations and businesses about reaching his dream. He heard about our program and has been impressed by the high quality of work and students at The Guthrie Center. Ruben lives in the Katy area.",
+    "programs": ["Digital Filmmaking"],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-04-24-ruben-gonzales.jpg",
     "source": "web"
   },
@@ -212,10 +189,8 @@ const NEWS_DATA =
     "date": "2002-04-25",
     "year": 2002,
     "headline": "Sam's Club Awards CAD Class $1,000 Check for Valentine's Day Fundraiser",
-    "body": "Ms. Greiner's Architectural Drafting students held a fundraiser selling roses for Valentine's Day and arranged with Sam's Club to match the money raised. Sam's Club awarded the class a $1,000 check presented at their morning crew meeting.",
-    "programs": [
-      "Architectural Design"
-    ],
+    "body": "Back in February, Ms. Greiner's Architectural Drafting students held a fundraiser for their program, selling roses for Valentine's Day. They had arranged with Sam's Club on the Katy Freeway to match the money they raised. This week, the management team at Sam's awarded Ms. Greiner's class a check for $1,000, presented at the morning crew meeting in front of about fifty employees. Congratulations to Ms. Greiner, her students, and thank you Sam's Club for your support!",
+    "programs": ["Architectural Design"],
     "imageUrl": null,
     "source": "web"
   },
@@ -224,12 +199,8 @@ const NEWS_DATA =
     "date": "2002-04-26",
     "year": 2002,
     "headline": "Nine Students Represent SBISD at State SkillsUSA in Fort Worth",
-    "body": "Nine SBISD students representing four high schools competed in Fort Worth at the state SkillsUSA contests in Computer Animation and Cosmetology programs.",
-    "programs": [
-      "3D Animation",
-      "Cosmetology",
-      "SkillsUSA"
-    ],
+    "body": "Nine SBISD students representing the four high schools traveled to Fort Worth to compete in the state SkillsUSA/VICA contests in Computer Animation and Cosmetology: Alberto Capetillo and Emelin Rodriguez (MHS); Aaron Blair and Michelle Ma (SHS); Graham Musgrove and Thao Diep (SWHS); Maria DeLeon, Anna Sandoval, and Pierre Vega (NHS). We wish all of these students good luck and good times while they show their talent to the judges.",
+    "programs": ["3D Animation", "Cosmetology"],
     "imageUrl": null,
     "source": "web"
   },
@@ -238,11 +209,8 @@ const NEWS_DATA =
     "date": "2002-05-01",
     "year": 2002,
     "headline": "SkillsUSA State Champions: Computer Animation Students Headed to Kansas City",
-    "body": "Four Computer Animation students competed and won in the SkillsUSA Texas State Championships. Graham Musgrove and Pierre Vega each took third place. Aaron Blair and Alberto Capetillo won first place and will compete at the national convention in Kansas City in June.",
-    "programs": [
-      "3D Animation",
-      "SkillsUSA"
-    ],
+    "body": "Four Computer Animation students competed and won in the SkillsUSA Texas State Championships. Graham Musgrove (SWHS) and Pierre Vega (NHS) each took third place. Aaron Blair (SHS) and Alberto Capetillo won first place and will compete at the national convention in Kansas City in June.",
+    "programs": ["3D Animation"],
     "imageUrl": null,
     "source": "web"
   },
@@ -251,7 +219,7 @@ const NEWS_DATA =
     "date": "2002-05-02",
     "year": 2002,
     "headline": "CATE Scholarship Awards Ceremony — Over $100,000 Awarded to SBISD Students",
-    "body": "The Career and Technology Education Scholarship awards recognition reception honored students from throughout the district. Over $100,000 in scholarships were awarded. Guthrie recipients included Landon Kinney, Bo-Hye Na, Michelle Robles, Christopher Ellers, Lauren Pearson, Quang Tran, and John Figaroa.",
+    "body": "The Career and Technology Education Scholarship awards recognition reception was held last evening. Students from throughout the district were honored for their competitions and achievements. Over $100,000 in scholarships were awarded to SBISD students. Guthrie Center recipients included: Landon Kinney — Art Institute (Culinary Arts, Ms. Bousley); Bo-Hye Na — RWS Architects (Architectural CAD, Ms. Greiner); Michelle Robles — Leadership in Hotel Studies (Hotel Mgmt, Ms. Hamilton); Christopher Ellers — SBISD Education Foundation (NJROTC, Lt. Col. Sluis); Lauren Pearson — SBISD Education Foundation (Architectural CAD, Ms. Greiner); Quang Tran — Gates Scholarship at TAMU (NJROTC, Lt. Col. Sluis); John Figaroa — Gates Scholarship at TAMU (NJROTC, Lt. Col. Sluis). A special thanks to Linda Russell and her CATE staff and Advisory Board for soliciting and securing the scholarships and putting on a smooth and memorable ceremony.",
     "programs": [],
     "imageUrl": null,
     "source": "web"
@@ -261,10 +229,8 @@ const NEWS_DATA =
     "date": "2002-05-03",
     "year": 2002,
     "headline": "CAD Students Excel at Michael Myers AIA Design Competition",
-    "body": "Computer Architectural Drafting students completed entries in the Michael Myers AIA Design Competition. SWHS student Bo-Hye Na won first place in the individual competition. Carlos Gomez also placed from SWHS. The team of Eduardo Alvardo (NHS) and Manrique Amaya (SWHS) took third in the group competition.",
-    "programs": [
-      "Architectural Design"
-    ],
+    "body": "Many Computer Architectural Drafting students worked feverishly to complete entries in the Michael Myers AIA Design Competition — the Houston chapter of the AIA (American Institute of Architects) annual scholarship and recognition event for high school students. Ms. Greiner's class spent many evenings and weekend hours finishing their projects. SWHS student Bo-Hye Na won first place in the individual competition, while Carlos Gomez, also from SWHS, placed in that division. The team of Eduardo Alvardo (NHS) and Manrique Amaya (SWHS) took third place in the group competition. Thanks to Ms. Greiner for going above and beyond to make this opportunity happen.",
+    "programs": ["Architectural Design"],
     "imageUrl": null,
     "source": "web"
   },
@@ -273,10 +239,8 @@ const NEWS_DATA =
     "date": "2002-05-06",
     "year": 2002,
     "headline": "Explorers Post 664 Takes Third at Katy ISD Law Enforcement Contest",
-    "body": "Explorers Post 664 attended a Law Enforcement Contest hosted by Katy ISD. Mr. Winn and his team of John Figaroa, Laura Cross, and Jesus Guillen took third place in the Felony Traffic Stop — notable as The Guthrie Center's first competition in this venue.",
-    "programs": [
-      "Criminal Justice"
-    ],
+    "body": "Explorers Post 664 attended a Law Enforcement Contest hosted by Katy ISD. Mr. Winn and his team of John Figaroa, Laura Cross, and Jesus Guillen took third place in the Felony Traffic Stop — notable as The Guthrie Center's first competition in this venue. Explorers are trained in law enforcement tactics including: Accident Investigation, Arrest and Search, Domestic Crisis, Crime Scene Search, Misdemeanor and Felony Traffic Stop, Hold Up Alarm Response, Crisis Negotiation, and a written test on the Texas Criminal, Traffic, and Procedural Code. A special thanks to Dan Steffenauer, Officer Chiles, Sgt. Fleming, and Chief Brawner of SBISD PD for their assistance and expertise.",
+    "programs": ["Criminal Justice"],
     "imageUrl": null,
     "source": "web"
   },
@@ -285,10 +249,8 @@ const NEWS_DATA =
     "date": "2002-05-09",
     "year": 2002,
     "headline": "NJROTC Unit Earns Distinguished Recognition — 2nd Overall in Region",
-    "body": "The NJROTC unit from The Guthrie Center received Distinguished recognition. Out of over sixty NJROTC units in the area, the Guthrie unit placed second overall, with academic honors. This opens up college opportunities including principal nominations for West Point, Air Force, and Naval Academy appointments.",
-    "programs": [
-      "NJROTC"
-    ],
+    "body": "One of the most coveted awards in JROTC is to earn Distinguished recognition from the sponsoring armed service. Master Chief Heuser and Lt. Col. Sluis found out that once again the NJROTC unit from The Guthrie Center received this honor. Specifically, out of sixty-plus NJROTC units in this area, ours placed second overall, with academic honors. This means our students have excelled above almost every other school in the area. It also opens up great college opportunities for cadets pursuing a career in the armed forces — the principal from a distinguished unit may nominate up to nine appointments for qualifying seniors to West Point, the Air Force Academy, and the Naval Academy. Congratulations to the cadets, student leaders, and instructors of the NJROTC unit.",
+    "programs": ["NJROTC"],
     "imageUrl": null,
     "source": "web"
   },
@@ -297,11 +259,8 @@ const NEWS_DATA =
     "date": "2002-05-12",
     "year": 2002,
     "headline": "BPA Web Development Team Earns Second Place Nationally in Chicago",
-    "body": "J. Axel Murillo, a student of Computer Networking and Media Technology, along with fellow Stratford students Josh Hosseinali and Emily Kelsch, and sponsor Kristy Schaper, entered the national BPA Web Development Competition in Chicago. Their design of Fusion Productions earned second place overall in the nation.",
-    "programs": [
-      "Digital Filmmaking",
-      "Networking"
-    ],
+    "body": "The Guthrie Center has been fortunate to have J. Axel Murillo as our website creator and organizer this year. George, as we know him, is a student of our Computer Networking and Media Technology classes. He and fellow Stratford students Josh Hosseinali and Emily Kelsch, along with sponsor Kristy Schaper, entered the national BPA Web Development Competition in Chicago. Their design of Fusion Productions earned second place overall in the nation.",
+    "programs": ["Digital Filmmaking", "Networking"],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-12-axel-murillo.jpg",
     "source": "web"
   },
@@ -310,10 +269,8 @@ const NEWS_DATA =
     "date": "2002-05-13",
     "year": 2002,
     "headline": "Josh Franer Wins Silver Remi Award at WorldFest Houston 2002",
-    "body": "Josh Franer, a Media Technology student, was awarded the prestigious Remi Award from the 35th annual WorldFest Houston 2002. Josh submitted his short film entitled The Beginning of the End and competed among 3,900 entries to win a Silver Remi Award. He also won $5,000 in the Culture Shapers Art Festival and an honorable mention in the Spindletop Film Festival.",
-    "programs": [
-      "Digital Filmmaking"
-    ],
+    "body": "Josh Franer, a Media Technology student, was awarded the prestigious Remi Award from the 35th annual WorldFest Houston 2002. Josh submitted his short film, a digital video entry entitled \"The Beginning of the End,\" and competed among 3,900 entries to win a Silver Remi Award. He also won $5,000 in the Culture Shapers Art Festival and an honorable mention in the Spindletop Film Festival. \"I cann't believe I won,\" says Franer. \"There were so many entries…I really didnn't expect to even place.\" Josh, you have done an outstanding job this year and represented yourself and our school well.",
+    "programs": ["Digital Filmmaking"],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-13-josh-franer.jpg",
     "source": "web"
   },
@@ -321,11 +278,9 @@ const NEWS_DATA =
     "id": "2002-05-15",
     "date": "2002-05-15",
     "year": 2002,
-    "headline": "CAD Classes Celebrate End-of-Year with Pot-Luck Lunch",
-    "body": "Ms. Greiner's CAD classes held their end of year post-final exam celebration with a pot-luck lunch supplied by the teacher and all of her students. They dined on fajitas, kiwi-marinated pork, flan, beans & rice and other homemade delicacies.",
-    "programs": [
-      "Architectural Design"
-    ],
+    "headline": "CAD Classes Celebrate End-of-Year with Potluck Lunch",
+    "body": "Today Ms. Greiner's CAD classes held their end-of-year post-final exam celebration with a potluck lunch supplied by the teacher and all of her students. They dined on fajitas, kiwi-marinated pork, flan, beans and rice, and other homemade delicacies. Here's to the cook!",
+    "programs": ["Architectural Design"],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-05-15-cad-lunch.jpg",
     "source": "web"
   },
@@ -335,11 +290,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "A Nation Remembers — NJROTC Color Guard Raises Flag at Half-Staff",
     "body": "As first period students watch with respect and reverence, our NJROTC Color Guard raises the American flag then lowers it to half-staff. Following the flag ceremony and Pledge of Allegiance, students read aloud the Presidential Proclamation of Patriot Day. We join with the rest of the nation in remembering the victims of the horrific terrorist attacks and those brave persons fighting for our freedom.",
-    "programs": [
-      "NJROTC"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-09-11-njrotc-flag-ceremony.jpg"
+    "programs": ["NJROTC"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-09-11-njrotc-flag-ceremony.jpg",
+    "source": "web"
   },
   {
     "id": "2002-10-09",
@@ -347,11 +300,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Greenhouse Construction Underway at Ag Science Center",
     "body": "The Ag Science Center has been anticipating the construction of the greenhouse funded in part by a USDA grant in cooperation with Houston Community College and Texas A&M University. After what has seemed like endless delays, the assembly is now underway!",
-    "programs": [
-      "Agricultural Science"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-09-ag-greenhouse.jpg"
+    "programs": ["Agricultural Science"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-09-ag-greenhouse.jpg",
+    "source": "web"
   },
   {
     "id": "2002-10-15",
@@ -359,11 +310,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Auto Technology Students Get Up Close with a Dodge Viper",
     "body": "Auto Technology students were treated to a visit from Mike Cleveland of HCC. They learned about the Chrysler CAP internship program and were fortunate enough to see and touch the new Dodge Viper.",
-    "programs": [
-      "Automotive Technology"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-15-auto-tech-dodge-viper.jpg"
+    "programs": ["Automotive Technology"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-15-auto-tech-dodge-viper.jpg",
+    "source": "web"
   },
   {
     "id": "2002-10-23",
@@ -371,11 +320,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "NJROTC Takes 1st and 2nd at West Brook Drill Meet",
     "body": "NJROTC students competed in the West Brook Drill Meet against many other JROTC units from the Gulf Coast area. The Unarmed Drill Team won 1st place for Inspection and 2nd place for Basic Drill. The Color Guard was awarded 2nd place overall.",
-    "programs": [
-      "NJROTC"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-23-njrotc-drill-meet.jpg"
+    "programs": ["NJROTC"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-23-njrotc-drill-meet.jpg",
+    "source": "web"
   },
   {
     "id": "2002-10-24",
@@ -383,23 +330,19 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "Criminal Justice Students Observe 228th District Court with Judge Ted Poe",
     "body": "Criminal Justice seniors and instructor Tom Winn saw justice served in the 228th District Criminal Court. They observed court procedures including sentencing, toured lockup facilities, and had a private audience with a district attorney, a defense attorney, and Judge Ted Poe himself.",
-    "programs": [
-      "Criminal Justice"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-24-criminal-justice-court.jpg"
+    "programs": ["Criminal Justice"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-10-24-criminal-justice-court.jpg",
+    "source": "web"
   },
   {
     "id": "2002-11-09",
     "date": "2002-11-09",
     "year": 2002,
     "headline": "NJROTC Cadets Treated Royally on University of Texas Visit",
-    "body": "A group of NJROTC students visited the University of Texas campus, touring the State Capitol, UT NROTC program, Coach Mack Brown's office and the UT Trophy Room. They also attended the UT-Baylor football game and visited the Oasis Restaurant on Lake Travis.",
-    "programs": [
-      "NJROTC"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-09-njrotc-ut-visit.jpg"
+    "body": "A group of NJROTC students visited the University of Texas campus, touring the State Capitol, the UT NROTC program, Coach Mack Brown's office, and the UT Trophy Room. They also attended the UT-Baylor football game and visited the Oasis Restaurant on Lake Travis.",
+    "programs": ["NJROTC"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-09-njrotc-ut-visit.jpg",
+    "source": "web"
   },
   {
     "id": "2002-11-21",
@@ -407,11 +350,9 @@ const NEWS_DATA =
     "year": 2002,
     "headline": "CultureShapers 2002: Josh Franer Wins $5,000 for Second Year in a Row",
     "body": "Spring Branch ISD students from The Guthrie Center claimed awards at the CultureShapers contest banquet at the Wyndham Hotel. Josh Franer (MHS) won the top spot two years in a row, with Coleman McFarland (SHS) and Brendon Lankford (MHS) finishing in the top 10. This is the third year in a row a Guthrie Media Tech student captured first place.",
-    "programs": [
-      "Digital Filmmaking"
-    ],
-    "source": "web",
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-21-cultureshapers-winners.jpg"
+    "programs": ["Digital Filmmaking"],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2002-11-21-cultureshapers-winners.jpg",
+    "source": "web"
   },
   {
     "id": "2003-02-01",
@@ -1222,7 +1163,7 @@ const NEWS_DATA =
     "date": "2005-01-15",
     "year": 2005,
     "headline": "Welcome Jennifer Cardenas",
-    "body": "We are pleased to Welcome Jennifer Cardenas to The Guthrie Center as our new Culinary Arts Instructor. Ms. Cardenas is a lifelong Spring Branch resident, a graduate of Spring Woods High School and has been teaching culinary for a few years (we won\\'t say how many) at the middle and high school level. Welcome Jennifer, you have excellent students to work with this year!",
+    "body": "We are pleased to Welcome Jennifer Cardenas to The Guthrie Center as our new Culinary Arts Instructor. Ms. Cardenas is a lifelong Spring Branch resident, a graduate of Spring Woods High School and has been teaching culinary for a few years (we won\n't say how many) at the middle and high school level. Welcome Jennifer, you have excellent students to work with this year!",
     "programs": [
       "Culinary Arts"
     ],
@@ -1649,7 +1590,7 @@ const NEWS_DATA =
     "date": "2005-04-04",
     "year": 2005,
     "headline": "Young Award Winners",
-    "body": "Congratulations to Digital Filmmaking winners for the 2005 Young Moviemakers student film competition have been announced. The 2005 Winners include: 1st Place Comedy, Chelsea Hayden \"Tortuga\", 1st Place Animation, Lauren Walsh \"Art Can\\'t Lie\", 2nd Place Experimental, Anisa Bouhkliff , \"Running on Empty\", 3rd Place Drama, Trey Carnley , \"Have a Seat\", Honorable Mention Drama, Chandler Wild \"The House\".",
+    "body": "Congratulations to Digital Filmmaking winners for the 2005 Young Moviemakers student film competition have been announced. The 2005 Winners include: 1st Place Comedy, Chelsea Hayden \"Tortuga\", 1st Place Animation, Lauren Walsh \"Art Can\n't Lie\", 2nd Place Experimental, Anisa Bouhkliff , \"Running on Empty\", 3rd Place Drama, Trey Carnley , \"Have a Seat\", Honorable Mention Drama, Chandler Wild \"The House\".",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -2186,7 +2127,7 @@ const NEWS_DATA =
     "date": "2006-10-10",
     "year": 2006,
     "headline": "Scholarship Info",
-    "body": "Seniors as you busily prepare for life after The Guthrie Center and high school, don\\'t forget to look out for scholarship opportunities to help you in your college years. To assist your search, we have started a scholarships web page with links and deadlines for your convenience. Click on the \\' scholarship info \\' link at the bottom of the Guthrie website.",
+    "body": "Seniors as you busily prepare for life after The Guthrie Center and high school, don\n't forget to look out for scholarship opportunities to help you in your college years. To assist your search, we have started a scholarships web page with links and deadlines for your convenience. Click on the \\' scholarship info \\' link at the bottom of the Guthrie website.",
     "programs": [],
     "imageUrl": null,
     "source": "web"
@@ -2547,7 +2488,7 @@ const NEWS_DATA =
     "date": "2007-02-10",
     "year": 2007,
     "headline": "29th Annual FFA Show and Sale Huge Success",
-    "body": "Our Show and Sale concluded as the most successful in history, raising over $136,000 for the FFA Chapter and student participants. FFA advisors Sheyenne Krysher and Laurie Ledbetter along with their amazing student leaders and dedicated parent FFA Alumni Association created this smooth running, successful event. A special thanks to our buyers, for without them we wouldn\\'t have raised a dime.",
+    "body": "Our Show and Sale concluded as the most successful in history, raising over $136,000 for the FFA Chapter and student participants. FFA advisors Sheyenne Krysher and Laurie Ledbetter along with their amazing student leaders and dedicated parent FFA Alumni Association created this smooth running, successful event. A special thanks to our buyers, for without them we wouldn\n't have raised a dime.",
     "programs": [
       "Agricultural Science"
     ],
@@ -2723,7 +2664,7 @@ const NEWS_DATA =
     "date": "2007-03-30",
     "year": 2007,
     "headline": "DF Concert Tonight",
-    "body": "It\\'s rock and roll time in the Guthrie courtyard. 7 bands, 4.5 hours, 5 bucks. UPDATE: It was a great evening, we had about 350 attend to see The Patty Nilsson Project (we didn\\'t pick the name) named as top band for the night. Thanks to all of our film students, staff and community volunteers for making it happen.",
+    "body": "It\\'s rock and roll time in the Guthrie courtyard. 7 bands, 4.5 hours, 5 bucks. UPDATE: It was a great evening, we had about 350 attend to see The Patty Nilsson Project (we didn\n't pick the name) named as top band for the night. Thanks to all of our film students, staff and community volunteers for making it happen.",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -3069,7 +3010,7 @@ const NEWS_DATA =
     "date": "2007-09-09",
     "year": 2007,
     "headline": "Walk And Round Up",
-    "body": "NJROTC cadets Zindi Contreas, Jose Leal, Esmeralda Mendoza, Jordana Reyes, Mark Silva, Ben Wakefield, Mark Vasquez, Vianca Vieyra, Daniel Villoni, Mario Zapada and Team Leader Hugo Rodriguez along with Cosmetology teacher Betty Franklin joined SBISD and other school districts in the \"Reach Out to Dropouts\" walk around the district. By 8 AM, over 100 volunteers visited the homes of students who were in school last year but didn\\'t return in August. Cadet Daniel Villoni accompanied a handful of school officials and Carol Fox, Piney Point Village Mayor . Daniel talked to the students we met about how school is important to him and inspired them with stories of his success in and the benefits of our NJROTC unit.",
+    "body": "NJROTC cadets Zindi Contreas, Jose Leal, Esmeralda Mendoza, Jordana Reyes, Mark Silva, Ben Wakefield, Mark Vasquez, Vianca Vieyra, Daniel Villoni, Mario Zapada and Team Leader Hugo Rodriguez along with Cosmetology teacher Betty Franklin joined SBISD and other school districts in the \"Reach Out to Dropouts\" walk around the district. By 8 AM, over 100 volunteers visited the homes of students who were in school last year but didn\n't return in August. Cadet Daniel Villoni accompanied a handful of school officials and Carol Fox, Piney Point Village Mayor . Daniel talked to the students we met about how school is important to him and inspired them with stories of his success in and the benefits of our NJROTC unit.",
     "programs": [
       "NJROTC",
       "Cosmetology"
@@ -3752,7 +3693,7 @@ const NEWS_DATA =
     "date": "2008-04-04",
     "year": 2008,
     "headline": "Why This School You Ask?",
-    "body": "We were fortunate to receive an invitation to address the MHS Hispanic Parents Forum last night to talk about the great offerings at our school. Many of us were on hand, but the highlight was our NJROTC Cadet leaders Hugo Rodriguez and Gabriella Villalobos talking and performing for the parents. Although I don\\'t have a photo from the event, you can view the information presented at http://guthriecenter.springbranchisd.com/whyguthrie",
+    "body": "We were fortunate to receive an invitation to address the MHS Hispanic Parents Forum last night to talk about the great offerings at our school. Many of us were on hand, but the highlight was our NJROTC Cadet leaders Hugo Rodriguez and Gabriella Villalobos talking and performing for the parents. Although I don\n't have a photo from the event, you can view the information presented at http://guthriecenter.springbranchisd.com/whyguthrie",
     "programs": [
       "NJROTC"
     ],
@@ -4149,7 +4090,7 @@ const NEWS_DATA =
     "date": "2008-09-26",
     "year": 2008,
     "headline": "Quiet On The Set",
-    "body": "2nd year Digital Film students shoot an interview in our courtyard today while our student body enjoyed popcorn courtesy of our great staff. While many students and staff still do not have lights at home, you wouldn\\'t know it by their focus and intensity at Guthrie.",
+    "body": "2nd year Digital Film students shoot an interview in our courtyard today while our student body enjoyed popcorn courtesy of our great staff. While many students and staff still do not have lights at home, you wouldn\n't know it by their focus and intensity at Guthrie.",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -7673,7 +7614,7 @@ const NEWS_DATA =
     "date": "2012-01-31",
     "year": 2012,
     "headline": "Film Student Evan Moore Is 2012 Reflections Winner",
-    "body": "Congratulations to Evan Moore for his 1st Place District win for his video \"The Pancake Epidemic\" in this year\\'s 2012 Reflections competition. Evan is a third-year Filmmaking student at The Guthrie Center studying under the instruction of Patty Nilsson . \"I still can\\'t believe I won\" says Evan. \"It still hasn\\'t registered.\" The Reflections program is a national program that inspires community awareness and the importance of the arts in education by providing opportunities for students to express themselves artistically to a specific theme. This year\\'s theme was \"Diversity is. . .\". \"I originally interpreted the theme as a standard diversity theme, but I found that too easy of a topic, so instead, I flipped the concept and basically produced a film that would show the compromise needed in order to accept different ideas.\" Students are tasked to create art that challenges them to use their critical thinking skills as well as their creative talents to interpret and communicate various themes. Entries are first judged at a campus level and winning entries are then submitted for District consideration. The District winner moves on to the National level for further judging and recognition. \"I\\'m really proud of Evan because he\\'s worked extremely hard over the last three years and he is honestly developing into an interesting filmmaker,\" says Patty Nilsson, his instructor. \"His work has really matured and is now beginning to pay off.\" Evan created, wrote, filmed, directed, produced and edited his entire winning entry. Evan is a Junior at Stratford High School and plans to enroll in the Fourth-year Filmmaking Problems & Solutions class with Nilsson next year.",
+    "body": "Congratulations to Evan Moore for his 1st Place District win for his video \"The Pancake Epidemic\" in this year\\'s 2012 Reflections competition. Evan is a third-year Filmmaking student at The Guthrie Center studying under the instruction of Patty Nilsson . \"I still can\n't believe I won\" says Evan. \"It still hasn\n't registered.\" The Reflections program is a national program that inspires community awareness and the importance of the arts in education by providing opportunities for students to express themselves artistically to a specific theme. This year\\'s theme was \"Diversity is. . .\". \"I originally interpreted the theme as a standard diversity theme, but I found that too easy of a topic, so instead, I flipped the concept and basically produced a film that would show the compromise needed in order to accept different ideas.\" Students are tasked to create art that challenges them to use their critical thinking skills as well as their creative talents to interpret and communicate various themes. Entries are first judged at a campus level and winning entries are then submitted for District consideration. The District winner moves on to the National level for further judging and recognition. \"I\\'m really proud of Evan because he\\'s worked extremely hard over the last three years and he is honestly developing into an interesting filmmaker,\" says Patty Nilsson, his instructor. \"His work has really matured and is now beginning to pay off.\" Evan created, wrote, filmed, directed, produced and edited his entire winning entry. Evan is a Junior at Stratford High School and plans to enroll in the Fourth-year Filmmaking Problems & Solutions class with Nilsson next year.",
     "programs": [
       "Digital Filmmaking"
     ],
@@ -8603,7 +8544,7 @@ const NEWS_DATA =
     "date": "2012-10-04",
     "year": 2012,
     "headline": "Play In Dirt Daily - Choose Horticulture",
-    "body": "Remember when you were young and someone was always saying \"don\\'t play in the dirt, you\\'ll track it in!\" Well you won\\'t hear that if you take Horticulture Science next year at Guthrie. This hands-on, fun and sometimes intense class will get you started in a solid career or give you the knowledge to grow your own at home. Thanks our Floral Design students and instructor Jane Hartensteiner for making our campus look good!",
+    "body": "Remember when you were young and someone was always saying \"don\n't play in the dirt, you\\'ll track it in!\" Well you won\n't hear that if you take Horticulture Science next year at Guthrie. This hands-on, fun and sometimes intense class will get you started in a solid career or give you the knowledge to grow your own at home. Thanks our Floral Design students and instructor Jane Hartensteiner for making our campus look good!",
     "programs": [
       "Agricultural Science"
     ],
@@ -8761,7 +8702,7 @@ const NEWS_DATA =
     "date": "2012-12-03",
     "year": 2012,
     "headline": "Reenacting The Crime",
-    "body": "Forensic Science students worked on their Crime Scene reenactments today analyzing simulated blood splatters, trajectory and other details as to determine the way a specific crime was committed. Instructor Olga Caballero called upon her experience with the Harris County Medical Examiner Office to create a realistic opportunity for the students to see that it really isn\\'t like they show you on TV.",
+    "body": "Forensic Science students worked on their Crime Scene reenactments today analyzing simulated blood splatters, trajectory and other details as to determine the way a specific crime was committed. Instructor Olga Caballero called upon her experience with the Harris County Medical Examiner Office to create a realistic opportunity for the students to see that it really isn\n't like they show you on TV.",
     "programs": [
       "Criminal Justice"
     ],
@@ -9234,7 +9175,7 @@ const NEWS_DATA =
     "date": "2013-03-21",
     "year": 2013,
     "headline": "There's A First Time For Everything",
-    "body": "This was an exciting and anguishing week in Culinary Arts with the ProStart competition in Waco held today. Although the original plans didn\\'t materialize due to eligibility, our trio of Gilda Cortez, Kelsey Long and Alex Snook held their own and created an amazing three-course meal in one hour. Congratulations all!",
+    "body": "This was an exciting and anguishing week in Culinary Arts with the ProStart competition in Waco held today. Although the original plans didn\n't materialize due to eligibility, our trio of Gilda Cortez, Kelsey Long and Alex Snook held their own and created an amazing three-course meal in one hour. Congratulations all!",
     "programs": [
       "Culinary Arts"
     ],
@@ -10280,7 +10221,7 @@ const NEWS_DATA =
     "date": "2013-12-21",
     "year": 2013,
     "headline": "We Wish You The Best",
-    "body": "The songs talk about this being the most wonderful time of the year, being home and waking up to a blanket of snow. While the latter probably won\\'t happen anytime soon, we do hope you experience peace, joy and the love of family and friends.",
+    "body": "The songs talk about this being the most wonderful time of the year, being home and waking up to a blanket of snow. While the latter probably won\n't happen anytime soon, we do hope you experience peace, joy and the love of family and friends.",
     "programs": [],
     "imageUrl": null,
     "source": "wordpress"
