@@ -186,12 +186,12 @@
     opacity: 0.9;
   }
   .hero-sub {
-    font-size: 19px;
+    font-size: 17px;
     color: rgba(255,255,255,0.8);
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 36px;
-    max-width: 480px;
-    line-height: 1.65;
+    white-space: nowrap;
+    line-height: 1.5;
   }
   .hero-ctas {
     display: flex;
@@ -964,12 +964,13 @@
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: auto 1fr auto;
-    gap: 40px;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto;
+    gap: 24px 48px;
     align-items: start;
   }
   .footer-logo {
-    width: 160px;
+    width: 320px;
     opacity: 0.9;
   }
   .footer-info {
@@ -980,9 +981,11 @@
   .footer-social {
     display: flex;
     gap: 12px;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
-    text-align: right;
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: end;
   }
   .footer-social-label {
     font-size: 12px;
@@ -1013,8 +1016,8 @@
   .social-icon:hover { border-color: var(--gold); color: var(--gold); background: rgba(255,255,255,0.05); }
   .footer-copy {
     grid-column: 1 / -1;
-    padding-top: 24px;
-    margin-top: 24px;
+    padding-top: 20px;
+    margin-top: 4px;
     border-top: 1px solid rgba(255,255,255,0.08);
     font-size: 13px;
     text-align: center;
@@ -1081,6 +1084,9 @@
     .hero-phrase .verb { font-size: clamp(1.8rem, 8vw, 2.8rem); }
     .hero-phrase .rest { font-size: clamp(0.75rem, 3vw, 1rem); letter-spacing: 0.15em; }
     .hero h1 { gap: 12px; margin-bottom: 20px; }
+    .hero-sub { white-space: normal; font-size: 15px; }
+    .footer-logo { width: 200px; }
+    .footer-social { grid-column: 1; grid-row: 3; justify-self: start; }
   }
 </style>
 </head>
@@ -1276,10 +1282,8 @@
   <div class="footer-inner">
     <img class="footer-logo" src="GClogo-with-name WHITE.png" alt="The Guthrie Center">
     <div class="footer-info">
-      <strong>The Guthrie Center News Archive</strong><br>
-      10660 Hammerly Blvd<br>
-      Houston, TX 77043<br>
-      Spring Branch ISD
+      <div style="font-size:30px;font-weight:700;color:rgba(255,255,255,0.85);line-height:1.2;margin-bottom:10px;">The Guthrie Center News Archive</div>
+      <div style="font-size:15px;color:rgba(255,255,255,0.55);white-space:nowrap;">10660 Hammerly Blvd &nbsp;|&nbsp; Houston, Texas 77043 &nbsp;|&nbsp; 713.251.1300</div>
     </div>
     <div class="footer-social">
       <div class="footer-social-label">Follow Us</div>
