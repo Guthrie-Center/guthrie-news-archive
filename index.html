@@ -1319,7 +1319,7 @@
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
       <input type="search" id="search" placeholder="Search by name, program, year, event…" autocomplete="off">
     </div>
-    <select id="filter-year"><option value="">All Years</option></select>
+    <select id="filter-year"><option value="">All School Years</option></select>
     <select id="filter-program"><option value="">All Programs</option></select>
     <select id="filter-source">
       <option value="">All Sources</option>
@@ -1336,7 +1336,7 @@
 <div class="layout">
   <aside class="sidebar">
     <div class="sidebar-section">
-      <div class="sidebar-label">Browse by Year</div>
+      <div class="sidebar-label">Browse by School Year</div>
       <ul class="year-list" id="year-list"></ul>
     </div>
     <div class="sidebar-section">
@@ -1717,7 +1717,20 @@ function clearAll() {
 }
 
 // ── BUILD SIDEBAR ───────────────────────────────────
-function allYears()    { return [...new Set(NEWS_DATA.map(e => e.year))].sort((a,b) => b-a); }
+// ── SCHOOL YEAR HELPERS ─────────────────────────────
+// School year runs July 1 – June 30.
+// schoolYear(entry) returns the start year: e.g. a date in Aug 2003 → 2003, April 2004 → 2003
+function schoolYear(e) {
+  const d = new Date(e.date + 'T12:00:00');
+  return d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() - 1; // month 6 = July
+}
+function schoolYearLabel(sy) {
+  return sy + '–' + String(sy + 1).slice(2); // e.g. "2003–04"
+}
+
+function allYears() {
+  return [...new Set(NEWS_DATA.map(e => schoolYear(e)))].sort((a,b) => b-a);
+}
 function allPrograms() {
   const counts = {};
   NEWS_DATA.forEach(e => (e.programs||[]).forEach(p => counts[p] = (counts[p]||0)+1));
@@ -1725,14 +1738,13 @@ function allPrograms() {
 }
 
 function buildStats() {
-  // Legacy stats bar (dynamic, from data)
-  // (main stats handled by initStats)
+  // handled by initStats
 }
 
 function buildYearList() {
-  document.getElementById('year-list').innerHTML = allYears().map(y => {
-    const c = NEWS_DATA.filter(e => e.year == y).length;
-    return `<li><button data-year="${y}" onclick="toggleYear(${y})">${y}<span class="count-badge">${c}</span></button></li>`;
+  document.getElementById('year-list').innerHTML = allYears().map(sy => {
+    const c = NEWS_DATA.filter(e => schoolYear(e) === sy).length;
+    return `<li><button data-year="${sy}" onclick="toggleYear(${sy})">${schoolYearLabel(sy)}<span class="count-badge">${c}</span></button></li>`;
   }).join('');
 }
 
@@ -1744,9 +1756,9 @@ function buildProgramList() {
 
 function buildYearFilter() {
   const sel = document.getElementById('filter-year');
-  allYears().forEach(y => {
+  allYears().forEach(sy => {
     const o = document.createElement('option');
-    o.value = y; o.textContent = y;
+    o.value = sy; o.textContent = schoolYearLabel(sy);
     sel.appendChild(o);
   });
 }
@@ -1760,8 +1772,8 @@ function buildProgramFilter() {
   });
 }
 
-function toggleYear(y) {
-  activeYear = (activeYear == y) ? null : y;
+function toggleYear(sy) {
+  activeYear = (activeYear == sy) ? null : sy;
   document.getElementById('filter-year').value = activeYear || '';
   syncSidebarYear(); render();
 }
@@ -1789,7 +1801,7 @@ function render() {
   const src  = document.getElementById('filter-source').value;
 
   currentResults = NEWS_DATA.filter(e => {
-    if (yr && e.year != yr) return false;
+    if (yr && schoolYear(e) != yr) return false;
     if (prog && !(e.programs||[]).includes(prog)) return false;
     if (src && e.source !== src) return false;
     if (q) {
