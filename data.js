@@ -2751,6 +2751,311 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2005-08-10",
+    "date": "2005-08-10",
+    "year": 2005,
+    "headline": "Welcome Back — Students Return for Another Outstanding Year at The Guthrie Center",
+    "body": "We welcome our students back this week to what will be another outstanding year at The Guthrie Center. Our teachers and staff are anxious to begin the learning process on campus.",
+    "programs": [],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-08-10-welcome-back.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-08-11",
+    "date": "2005-08-11",
+    "year": 2005,
+    "headline": "New FFA Student Leaders Installed for 2005-2006 School Year",
+    "body": "Every new school year brings new student leadership to our FFA program. We welcome Stratford students Lauren Papierz as President and Lauren Deibert as Vice President, along with Spring Woods students Ashley Villarreal in the Secretary role, Tyler Frazier as Treasurer, and Daniel Powell as Sentinel. Guided by FFA Advisors Sheyenne Krysher and Laurie Ledbetter, these leaders will continue the strong legacy developed over the last five decades in Spring Branch FFA.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-08-17",
+    "date": "2005-08-17",
+    "year": 2005,
+    "headline": "Guthrie Center Student Handbook Addendum Now Available Online",
+    "body": "Students, for your convenience, we have The Guthrie Center Student Handbook Addendum available online.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-08-25",
+    "date": "2005-08-25",
+    "year": 2005,
+    "headline": "Cosmetology 2 Students Take Compass Exam at HCC for Dual Credit Enrollment",
+    "body": "Cosmetology 2 students traveled to HCCS to take the Compass entrance exam for college enrollment. Prior to the testing trip, all students applied online for admission to the college. Students signed in with their name and college identification number, chose a computer station, and began the testing process that will allow them to take dual credit classes for the fall semester. After testing, students toured the campus — seeing the library, art gallery, student financial aid areas, business offices, student orientation room, and snack areas.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-09-01",
+    "date": "2005-09-01",
+    "year": 2005,
+    "headline": "Patty Nilsson Named Board Member for Houston MediaSource by Mayor White",
+    "body": "Congratulations to our Digital Film teacher Patty Nilsson on being named as a Board Member for Houston MediaSource, the City of Houston's public-access cable channel. Mayor White appointed Patty along with seven others, and the city council approved them today.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-09-02",
+    "date": "2005-09-02",
+    "year": 2005,
+    "headline": "NJROTC Cadets Collect Donations for Hurricane Katrina Victims",
+    "body": "NJROTC cadets are collecting to help assist Hurricane Katrina victims. Working alongside the Houston Food Bank, the unit is accepting donations of paper goods, nonperishable food items, bottled water, peanut butter, baby formula, and personal hygiene products. Donated items can be dropped off at the school anytime during school hours.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-09-15",
+    "date": "2005-09-15",
+    "year": 2005,
+    "headline": "California Man Drives U-Haul of Donations from Oakland to Houston for Hurricane Evacuees",
+    "body": "The spirit of giving and volunteerism continues to thrive in this great USA. Early this morning, a visitor stopped by the office asking if we were still accepting donations for hurricane evacuees. Lawrence Taylor and his friends in Oakland, CA were talking about how they could help and started collecting clothing and other items. In a short time, he and his Bay Area buddies collected enough to fill a U-Haul. Lawrence drove all the way to Houston and ended up on Hammerly, where he saw the NJROTC donation sign. Tina Miller's Diversified Internship students were in class and volunteered to move the items from the truck to the donation area. When asked where he was headed next, Mr. Taylor said he was going to return the U-Haul and find a shelter to volunteer wherever he was needed. To quote Lt. Col. Sluis, 'Sir, you are a great American!'",
+    "programs": [
+      "NJROTC",
+      "Internships"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-09-15-hurricane-donations.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-09-24",
+    "date": "2005-09-24",
+    "year": 2005,
+    "headline": "Starbucks the Cow Delivers Calf During Hurricane Rita; Guthrie Center Secures Technology",
+    "body": "We will be happy to have everyone safely return and get back to normal. Right in the middle of Hurricane Rita, Starbucks managed to deliver a calf — named Decaf — to our world. Thanks to the great teamwork of our 4th-period students and staff, The Guthrie Center completed substantial preparations in anticipation of Hurricane Rita. Our technology has been secured above ground and covered in the event of high water or roof leaks. Thanks to everyone for helping protect the tools that allow our students to develop their skills.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-10-04",
+    "date": "2005-10-04",
+    "year": 2005,
+    "headline": "Tuesday JAM Sessions Launch — Student Mentors Help Peers with Academics",
+    "body": "Tuesday afternoons may never be the same at The Guthrie Center. Today we launched our Tuesday JAM Sessions, where we match up top-notch student mentors with those looking for help. It's a come-and-go event where you can work on your Guthrie subjects or just about any core academic class in a relaxed atmosphere complete with coffee, cookies, and music. Join us anytime between 3 and 5 on Tuesdays.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-10-10",
+    "date": "2005-10-10",
+    "year": 2005,
+    "headline": "Sheyenne Krysher Featured in Houston Chronicle for National Turn the Key Award; Heifer Gives Birth",
+    "body": "Ag Science teacher Sheyenne Krysher was featured in the Houston Chronicle for receiving the Teachers Turn the Key Award, where she will represent the Lone Star State in this national recognition. Sheyenne was also selected among a dozen other teachers from around the USA to study agriculture in Costa Rica back in July. In other FFA news, Daniel Powell's heifer gave birth to a bull calf at the Ag Science Center on Brittmoore.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-10-14",
+    "date": "2005-10-14",
+    "year": 2005,
+    "headline": "Digital Filmmaking Student Chris Zeid Featured in Houston Chronicle",
+    "body": "Digital Filmmaking student Chris Zeid's accomplishments in what may well be his future career are reported in the Houston Chronicle's 'This Week' section.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-10-22",
+    "date": "2005-10-22",
+    "year": 2005,
+    "headline": "FFA Students Shine at Harris County Fair — Tyler Frazier Wins Grand Champion American Heifer",
+    "body": "Congratulations to our FFA students for an outstanding showing at the Harris County Fair. Paige Pesl placed 4th in Broilers and was the first to catch in the calf scramble, earning a certificate toward next year's heifer purchase, a buckle, and a cash award. Tyler Frazier placed Grand Champion in his class as well as Grand Champion American Heifer. Craig Culver placed 8th with his Santa Gertrudis heifer. Lauren Deibert placed 14th in broilers and Danielle Garnier placed 17th with her broilers.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-22-ffa-harris-county-fair.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-10-25",
+    "date": "2005-10-25",
+    "year": 2005,
+    "headline": "Hot Cocoa Greets Students on First Chilly Day of Fall",
+    "body": "Cocoa anyone? A group of first-period students toasts to piping hot cocoa with marshmallows on this first chilly day of fall. Thanks to our staff who helped prepare and serve our great students!",
+    "programs": [],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-25-hot-cocoa.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-10-26",
+    "date": "2005-10-26",
+    "year": 2005,
+    "headline": "NJROTC Annual Military Inspection — Commander Hale Reviews Cadets; Chef Training Serves Gourmet Lunch",
+    "body": "Commander Mike Hale, USN, is at The Guthrie Center today looking over our NJROTC cadets' uniforms in the first part of their Annual Military Inspection. Our unit has prepared well for this important part of their annual report card. After the inspection and briefings, Commander Hale and the cadet and instruction leaders were served a gourmet lunch by our Chef Training program students. We look forward to a positive report on this great student program.",
+    "programs": [
+      "NJROTC",
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-26-njrotc-inspection.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-10-27",
+    "date": "2005-10-27",
+    "year": 2005,
+    "headline": "Chef Training Students Win Two 2nd Place and One 3rd Place at Harris County Fair",
+    "body": "Chef Training students Sarah Skiermont and Jessica Stokes entered their own recipes last weekend at the Harris County Fair. Jessica's Apple Crumb Pie took second place — a recipe that has been her favorite to make since she was a child. Sarah baked her carrot cake, a creative presentation made of cupcakes arranged as a tree with tiers, which also took second place in cakes. Sarah also entered her fabulous brownies and won third place. Both Jessica and Sarah are planning to attend the Culinary Institute of America in New York.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-10-28",
+    "date": "2005-10-28",
+    "year": 2005,
+    "headline": "Digital Filmmaking Students Attend PBS Documentary Workshop and Live TV Taping",
+    "body": "Digital Filmmaking students were invited to attend the MY CITY NOW Documentary workshop at Houston's PBS Channel 8 station today. Groups interviewed and taped senior citizens in a multigenerational and multicultural forum created to increase communication between the ages and to inspire future filmmakers to create documentaries about the many stories that lie with them. The students also participated in a live taping of the show THE AFTERPARTY with Ernie Manouse and Frank Young.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-10-31",
+    "date": "2005-10-31",
+    "year": 2005,
+    "headline": "Three Digital Filmmaking Students Named CultureShapers Finalists",
+    "body": "CultureShapers, the visual arts competition for high school students in the greater Houston area, has announced the finalists in the film division. Three Digital Filmmaking 2 students are among the top 15 finalists: Henry Dillard, Alizsha Pennington, and Chris Zeid will attend the November 17th banquet and see if one of them will win the grand prize of $5,000.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-11-04",
+    "date": "2005-11-04",
+    "year": 2005,
+    "headline": "OSA Architecture Students Hold All-Night Lock-In to Build Ronald McDonald House Project",
+    "body": "No, this is not taken during one of our classes. Actually it's from the OSA's lock-in this past weekend as 22 Architecture students showed up to help construct this year's project for the Ronald McDonald House Oscar Night auction. Work began at 7 PM and ended at 7 AM the next morning. Working, eating, having fun, and even sleeping were enjoyed by all.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-11-04-osa-lock-in.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-11-09",
+    "date": "2005-11-09",
+    "year": 2005,
+    "headline": "Cosmetology Students Do Face and Nail Painting at SBISD School Festivals",
+    "body": "Cosmetology students spent part of their weekend at SBISD school festivals doing face and nail painting. Students are pictured here decorating the visage of a Treasure Forest student while mom approvingly observes.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-11-09-cosmetology-face-painting.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-11-10",
+    "date": "2005-11-10",
+    "year": 2005,
+    "headline": "NJROTC Cadets Provide Color Guard at Spring Forest Middle School Veterans Day Assembly",
+    "body": "NJROTC Cadet Michael Mallon talks with students from Spring Forest Middle School after their annual Veterans Day assembly. Our cadets and Master Chief Heuser provided a Color Guard for the event honoring Spring Branch area veterans.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-11-10-njrotc-veterans-day.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-11-14",
+    "date": "2005-11-14",
+    "year": 2005,
+    "headline": "Three Guthrie Film Students Named CultureShapers Finalists — Leif Steenson, Alizsha Pennington, Owen Schwartzbard",
+    "body": "CultureShapers, a Houston area competition for high school students in the creative arts fields, just announced their finalists for this year's awards. Three GC Film students placed in the top 20 and will find out how they fared on November 29th — Leif Steenson, Alizsha Pennington, and Owen Schwartzbard all hope to take home a chunk of the $100,000 in awards.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-11-27",
+    "date": "2005-11-27",
+    "year": 2005,
+    "headline": "Agricultural Science Teacher Laurie Ledbetter to Receive National Teachers Turn the Key Award in Atlanta",
+    "body": "Agricultural Science teacher Laurie Ledbetter will be honored in Atlanta this week with the Teachers Turn the Key Award. The National Association of Agriculture Educators bestows this to the top Ag teacher in each state. Last year's recipient was fellow teacher Sheyenne Krysher. Coincidence? Definitely not — they pick the best and we are proud to have the Best in Texas!",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-11-29",
+    "date": "2005-11-29",
+    "year": 2005,
+    "headline": "Alizsha Pennington Finishes in Top 10 at CultureShapers; MHS Principal Named Administrator of Year",
+    "body": "Congratulations to Film student Alizsha Pennington, who finished in the Top 10 at CultureShapers. Also at the banquet, MHS Principal Steve Shorter was honored as Administrator of the Year.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-12-06",
+    "date": "2005-12-06",
+    "year": 2005,
+    "headline": "NJROTC Annual Military Inspection Under Lt. Col. Jodeit, USMC",
+    "body": "Our NJROTC unit is in the midst of its Annual Military Inspection under the refined eyes of guest inspector Lt. Col. Jodeit, USMC. We are confident his inspection will reinforce our opinion that we have the best of all NJROTC units.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-12-06-njrotc-inspection.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2005-12-11",
+    "date": "2005-12-11",
+    "year": 2005,
+    "headline": "Nicodemus, Franklin, and Greiner Honored at Board Meeting with J. Landon Short Mini-Grants",
+    "body": "This evening, prior to and at the SBISD Board of Trustees meeting, Linda Nicodemus, Betty Franklin, and Sonia Greiner were honored with the other district recipients of the J. Landon Short Mini-Grants. Congratulations to our winning teachers and their students who will directly benefit from their award!",
+    "programs": [
+      "Cosmetology",
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-12-13",
+    "date": "2005-12-13",
+    "year": 2005,
+    "headline": "New 2007-2008 Course Catalog Available Online — Mailed to Students in January",
+    "body": "Our latest Course Catalog for 2007-08 will be going to the printer after the holidays and will be in your mailboxes the second week in January. To get a sneak preview of it, click here.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
     "id": "2005-12-13-4157",
     "date": "2005-12-13",
     "year": 2005,
@@ -2758,6 +3063,123 @@ const NEWS_DATA =
     "body": "Want an idea of what classes to take next year for electives ? Our Course Selection Guide is now available online. They will be mailed to the homes of all 8th to 11th graders the first week in January.",
     "programs": [],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2011/08/Dec-13.png",
+    "source": "web"
+  },
+  {
+    "id": "2005-12-14",
+    "date": "2005-12-14",
+    "year": 2005,
+    "headline": "NJROTC Cadets Provide Color Guard at 'Wreaths Across America' at Houston VA Cemetery",
+    "body": "A contingent of NJROTC cadets and instructors attended the 'Wreaths Across America' event at the Houston VA National Cemetery today. Our cadets provided the Color Guard, and Lt. Col. Sluis and MC Heuser presented wreaths for their respective services.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2005-12-16",
+    "date": "2005-12-16",
+    "year": 2005,
+    "headline": "New Course Catalog Going to Printer After Holidays",
+    "body": "Our latest Course Catalog for 2007-08 will be going to the printer after the holidays and will be in your mailboxes the second week in January. Available for preview online.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-01-02",
+    "date": "2006-01-02",
+    "year": 2006,
+    "headline": "Sonia Greiner Named Houston Chronicle Crystal Award Recipient",
+    "body": "A new year brings a great surprise to Architecture teacher Sonia Greiner. Today she learned she was named a recipient of a Houston Chronicle Crystal Award for outstanding teachers — one of six selected from over two thousand nominations. Congratulations, Ms. Greiner!",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-01-08",
+    "date": "2006-01-08",
+    "year": 2006,
+    "headline": "Filmmaking Students Will Buikema and George Craig Featured in Memorial Examiner",
+    "body": "Filmmaking students Will Buikema and George Craig were featured in an article in the Memorial Examiner about their productions and classes at The Guthrie Center.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-01-12",
+    "date": "2006-01-12",
+    "year": 2006,
+    "headline": "Architectural CAD Students Tour Minute Maid Park and Kirksey Architects",
+    "body": "Minute Maid Park and Kirksey Architects were the focus of the study trip taken by Guthrie Architectural students. They toured through the bullpen, communications box, the Lexus Lounge, and the Legends Suite areas not usually visited by the general public. Afterwards at Kirksey Architects — one of our inaugural Spring Branch ISD Good Neighbor Award Winners — the students learned about the design process, architectural history, and toured their offices. Thanks to chaperones Diane Dwyer, Linda Allen, Jim Robin, Doris Graves, and Don Graves.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-12-cad-minute-maid-tour.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-01-17",
+    "date": "2006-01-17",
+    "year": 2006,
+    "headline": "Diversified Internship Students Visit Starbucks to Learn About Building Workplace Relationships",
+    "body": "Our Diversified Internship students recently visited Starbucks early one morning to hear manager Craig talk about the advantages of building relationships in careers. 'It gives you a greater advantage than a person seeking the same job with only a resume because the employer already knows what kind of person you are and the way you conduct yourself. Making connections is more than just meeting new people — it is also keeping in touch with them.'",
+    "programs": [
+      "Internships"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-01-23a",
+    "date": "2006-01-23",
+    "year": 2006,
+    "headline": "Culinary Arts Interns Jon Shannon and Robyn Dudley Train at Cakes and Culinary Creations",
+    "body": "Former Culinary Arts and current Internship students Jon Shannon and Robyn Dudley are pictured at their training station, Cakes and Culinary Creations. Outstanding partners like owners Justin and Amber Fraser allow our interns real career experiences in successful, operating businesses. C&CC will also be guest lecturing our Baking and Catering class later this month.",
+    "programs": [
+      "Culinary Arts",
+      "Internships"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-23-culinary-interns.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-01-23b",
+    "date": "2006-01-23",
+    "year": 2006,
+    "headline": "NJROTC Cadets Compete at Nimitz High School Warm-Up Drill Meet",
+    "body": "Across the city at Nimitz HS, our NJROTC cadets competed with 15 other units in a warm-up event for their Corpus Christi meet this Saturday. Judged events include Personnel Inspection, Color Guard, Armed and Unarmed Drill, Academics, and Physical Fitness. Our Unarmed Drill Team had an amazing performance, and the other teams did quite well, including the PT team.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-23-njrotc-nimitz-meet.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-01-24",
+    "date": "2006-01-24",
+    "year": 2006,
+    "headline": "Filmmaking Students and Teachers Attend Sundance Film Festival for 5th Consecutive Year",
+    "body": "A contingent of Filmmaking students and teachers Patty Nilsson and Mike Radler are in Park City, Utah attending the Sundance Film Festival. This is the 5th year our school has been invited to attend and we are still one of a dozen or so high schools around the nation that get to go. Besides viewing numerous independent films, the students participate in workshops and interview directors and other film industry folks.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-24-sundance-2006.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-01-26",
+    "date": "2006-01-26",
+    "year": 2006,
+    "headline": "Guthrie Center Launches New Website Version 5.0",
+    "body": "It's here! We welcome you to the NEW Guthrie Center Online! Our new website is filled with videos and interactivity for you to enjoy while learning about what we have to offer and what goes on around campus. Thanks for stopping by!",
+    "programs": [],
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2771,25 +3193,359 @@ const NEWS_DATA =
     "source": "web"
   },
   {
-    "id": "2006-01-27-3672",
+    "id": "2006-01-27a",
     "date": "2006-01-27",
     "year": 2006,
-    "headline": "Future Architects Tour University",
-    "body": "OSA Architecture students attended the Michael G. Meyers High School Design Competition Workshop held at the U of H. The Young Architects of the Houston Chapter of AIA conducted a tour of the College of Architecture Building following the program. Students were amazed at the number of students that were there working on their college projects on a Saturday.",
+    "headline": "OSA Architecture Students Tour University of Houston for Michael G. Meyers Competition Workshop",
+    "body": "OSA Architecture students attended the Michael G. Meyers High School Design Competition Workshop held at the University of Houston. The Young Architects of the Houston Chapter of AIA conducted a tour of the College of Architecture Building following the program. Students were amazed at the number of students there working on their college projects on a Saturday.",
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2011/08/jan27.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
-    "id": "2006-01-27-3677",
+    "id": "2006-01-27b",
     "date": "2006-01-27",
     "year": 2006,
-    "headline": "Orienteering Meet Winners",
-    "body": "First time Orienteering participants received medals at the Texas Score Meet at Jones State Park on Saturday. Jhossany Rocha and Jaquan Reynolds took second and eighth place awards respectively. Orienteering is like a scavenger hunt with a map and compass as your tools. The goal is to find as many checkpoints in the woods in the quickest amount of time without getting lost.",
+    "headline": "NJROTC First-Timers Win Medals at Texas Score Orienteering Meet at Jones State Park",
+    "body": "First-time Orienteering participants received medals at the Texas Score Meet at Jones State Park on Saturday. Jhossany Rocha and Jaquan Reynolds took second and eighth place awards, respectively. Orienteering is like a scavenger hunt with a map and compass as your tools — the goal is to find as many checkpoints in the woods in the quickest amount of time without getting lost.",
     "programs": [
       "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-01-30",
+    "date": "2006-01-30",
+    "year": 2006,
+    "headline": "Second Community Tuesday of the Year a Great Success",
+    "body": "Our second Community Tuesday of the year was a great success. We appreciate all the extra effort made by our staff and students in welcoming our guests and giving them insight to the daily wonders of life at The Guthrie Center.",
+    "programs": [],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-30-community-tuesday.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-01-31",
+    "date": "2006-01-31",
+    "year": 2006,
+    "headline": "Joe Kolenda Participates in National Principal Technical Working Group at Dept. of Education in DC",
+    "body": "I had the pleasure of being part of a Principal Technical Working Group with other national leaders in technology for two days in Washington DC with the Department of Education and SRI Institute. Thirteen high, middle, and elementary principals discussed different ways they have integrated technology in their schools and the positives and pitfalls of implementation. The goal is to develop a reference for schools and districts to begin that process for the good of our students.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-02",
+    "date": "2006-02-02",
+    "year": 2006,
+    "headline": "Cosmetology Students Win Nail Competition and Advance to State; 3D Animation Also Qualifies",
+    "body": "Cosmetology students Karen Rojas and Kennia Alvarez took 2nd and 3rd place in the Nail Competition and are advancing to the State contests. In addition, our 3D Animation team also won and will attend the state competition in Corpus Christi in March.",
+    "programs": [
+      "Cosmetology",
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-05",
+    "date": "2006-02-05",
+    "year": 2006,
+    "headline": "NJROTC Unarmed Drill Team Shines; Cadets Begin Restoring Vehicle at Military Museum of Texas",
+    "body": "Some of the options for participation in our NJROTC unit include the Color Guard, Armed Drill, and Unarmed Drill Team. This year, our unarmed team is truly special. Additionally, NJROTC Cadet volunteers have adopted a VTR (vehicle/tank retriever) at the Military Museum of Texas, where they will work on their own time cosmetically restoring it in time for the Veterans Day Parade in the fall. Last year, the cadets also helped at the museum with various vehicles.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-05-njrotc-drill-museum.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-02-06",
+    "date": "2006-02-06",
+    "year": 2006,
+    "headline": "Sonia Greiner Named Guthrie Center Teacher of the Year for 2007",
+    "body": "Architecture teacher and Crystal Award winner Sonia Greiner has been elected as The Guthrie Center's Teacher of the Year for 2007! Congratulations to Sonia who will take the diamond-studded tiara from the reigning Betty Franklin very soon.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-08",
+    "date": "2006-02-08",
+    "year": 2006,
+    "headline": "FFA Show and Sale Kicks Off with 900+ Children at Barnyard; Livestock Show Underway",
+    "body": "Our FFA Show and Sale started off strong today with over 900 PK-5 grade students visiting our Children's Barnyard event, followed by the Livestock Show portion for steers, heifers, rabbits, turkeys, and chickens. The show will continue on Friday at 5:00, and the Sale portion begins Saturday at 1:00 PM. Come out and support our students!",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-08-ffa-barnyard-show.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-02-10",
+    "date": "2006-02-10",
+    "year": 2006,
+    "headline": "FFA Show and Sale Sets All-Time Record at $136,000 — Complete Grand Champion Results",
+    "body": "Our Show and Sale concluded as the most successful in history, raising over $136,000 for the FFA Chapter and student participants. FFA advisors Sheyenne Krysher and Laurie Ledbetter, along with their amazing student leaders and dedicated parent FFA Alumni Association, created this smooth-running, successful event. Grand Champion Winners: Steer — Tyler First (RSMIS Foundation); Swine — Ayanna Fleming (Greg & Sonya Garnier); Goat — Kristin Lucas (Metro National Amy); Lamb — Van Sant Landscaping Higgenbotham; Rabbits — Cody Matecki (Craig & Heidt); Broilers — Paige Pesl (Cox & Perkins); Turkey — Danielle Garnier (Duncan Coffee Co.); Horticulture — Crystal Hoang (Cowboy Trucking). Reserve Grand Champions: Steer — Chelsy Zepeda (Craig & Heidt); Swine — Jamie Pesl (Margaret West); Goat — Kelly Tucker (Metro National); Lamb — Daniel Powell (RSMIS Foundation); Rabbits — Christopher Powell (Craig & Heidt); Broilers — Danielle Garnier (Craig & Heidt); Turkey — Kevin Pesl (Cox & Perkins); Horticulture — Travis Evans (Cowboy Trucking). A special thanks to all buyers for your generous support.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-10-ffa-show-sale-record.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-02-14",
+    "date": "2006-02-14",
+    "year": 2006,
+    "headline": "OSA Holds Valentine's Day Fundraiser — Hundreds of Students Receive Roses, Balloons, and Teddy Bears",
+    "body": "Our Organization of Student Architects held their annual Valentine's Day fundraiser today, providing hundreds of students with roses, balloons, and teddy bears to give to their loved ones. OSA is one of a handful of high school chapters in the nation for future architects.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-15a",
+    "date": "2006-02-15",
+    "year": 2006,
+    "headline": "Academy of Hospitality and Tourism and Finance Seniors Tour New York City's Financial and Travel Centers",
+    "body": "Academy of Hospitality and Tourism and Academy of Finance seniors from around the district spent a frigid four days in NYC touring the financial and travel centers of the world. AOHT students are housed at our Hotel Management program at the Omni Hotel Westside and led by instructor Lorraine Hamilton.",
+    "programs": [
+      "Hotel Management"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-15b",
+    "date": "2006-02-15",
+    "year": 2006,
+    "headline": "Culinary Arts Students Prepare Luncheon for District Principals and Superintendent Klussmann",
+    "body": "Culinary Arts students prepared a delicious luncheon for most of the building principals and upper management in our district, including Superintendent Duncan Klussmann. The event was the brainchild of Executive Director Sofia Petrou, designed to showcase the program and school to school leaders throughout Spring Branch. Thanks to Jennifer Cardenas and our students for creating a wonderful menu of Chicken Marsala, wild rice, vegetables, salad, and a Chocolate Fountain for dessert.",
+    "programs": [
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-15-culinary-principal-lunch.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-02-16",
+    "date": "2006-02-16",
+    "year": 2006,
+    "headline": "Sonia Greiner Receives Crystal Award from Houston Chronicle; Betty Franklin Honored as Teacher of the Year",
+    "body": "Two of our teachers were honored this evening at the Crystal Awards Banquet at the Westin Galleria Hotel. Sonia Greiner received her Crystal Apple from Jack Sweeney, Publisher of the Houston Chronicle, before an audience of hundreds — one of six Houston area teachers nominated from nearly 2,000. Also at the event, Betty Franklin was recognized as our 2006 Teacher of the Year!",
+    "programs": [
+      "Architectural Design",
+      "Cosmetology"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-16-crystal-award-greiner.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-02-17",
+    "date": "2006-02-17",
+    "year": 2006,
+    "headline": "Guthrie Center Staff and NJROTC Cadets Attend Wedding of Col. Ken Sluis and Linda Russell",
+    "body": "Today many of the Guthrie Center staff and NJROTC Cadets attended the beautiful wedding ceremony of our own Colonel Ken Sluis to former CATE Director Linda Russell. We are so happy for Ken and Linda as they continue down the path of life, sharing it with each other.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-22",
+    "date": "2006-02-22",
+    "year": 2006,
+    "headline": "NJROTC Cadets Volunteer at Houston Zoo — Officials Impressed by Work Ethic and Camaraderie",
+    "body": "Many of our NJROTC Cadets volunteered at the Houston Zoo this past weekend, cleaning and organizing areas in need. A special thanks to the students, Master Chief, and Mrs. Master Chief for organizing and chaperoning the event. Zoo officials were impressed by their work ethic and by the camaraderie and respect the cadets exhibited towards all.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-02-27",
+    "date": "2006-02-27",
+    "year": 2006,
+    "headline": "Students from American Farm School in Greece Tour Guthrie and Enjoy Culinary Arts Luncheon",
+    "body": "Today we were honored to have as our guests five students and an administrator from the American Farm School in Thessaloniki, Greece. At the AFS, students attend their last two years of high school while living on campus, studying core subjects and agriculture in the morning and participating in actual production work in the afternoons. Students Anatoli, Olsi, Ioannis, Domna, and Olsi, along with Vice-Principal Sotirios Yialamas, enjoyed seeing how Texas schools educate, were treated to a delicious luncheon prepared by our culinary arts classes, and participated in our Ag Science classes. They will travel to College Station, Austin, and back to Houston to attend the Houston Livestock Show and Rodeo before returning to Greece.",
+    "programs": [
+      "Agricultural Science",
+      "Culinary Arts"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-27-greece-students-visit.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-02-28",
+    "date": "2006-02-28",
+    "year": 2006,
+    "headline": "BPA Computer Tech, Hotel DECA, and 3D Animation Teams Head to State Competitions",
+    "body": "We are in the middle of the second round of competitions with many Guthrie students heading to State events. Today Steve Whitt and BPA Computer Tech students Clayton Nocker, Jerry Perry, Edgar Bering, Robert Douglas, Robert Schumacker, Greg Brown, Key Clark, and David Rivera went to compete in Network Design, Web Applications, and Java. Next week, Lorraine Hamilton's Hotel Management DECA students — Lauren Leskinen, Julia Messina, and Amanda Winner — will compete in Hospitality Services and Hotel and Lodging events. After that, our 3D Animation team of Will Russler and Ryan Teodoro will vie in the 3D Visualization and Animation competition with Sean Bellinger.",
+    "programs": [
+      "Networking",
+      "Hotel Management",
+      "3D Animation"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-03-06",
+    "date": "2006-03-06",
+    "year": 2006,
+    "headline": "OSA Delivers Completed Victorian Dollhouse to Ronald McDonald House Oscar Night Auction",
+    "body": "Two weeks, 28 volunteers, and more than 400 community service hours later, the Architectural CAD Organization of Student Architects members delivered their completed Victorian dollhouse project to the Oscar Night America silent auction. The Young Friends of the Ronald McDonald House hosted the event at The InterContinental Houston Hotel — the only event sanctioned by the Academy of Motion Picture Arts and Sciences in the Houston area. The money netted by the dollhouse at auction benefits the Ronald McDonald House of Houston, which offers families with children being treated at the Texas Medical Center a home away from home.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-06-osa-dollhouse-delivery.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-03-13",
+    "date": "2006-03-13",
+    "year": 2006,
+    "headline": "Computer Technology Students Win 5 BPA State Qualifiers",
+    "body": "Computer Technology students competed in BPA events before the break and we are pleased to announce five students are eligible for nationals. Matt Kosmoski is a 1st place qualifier in VB.NET programming, Justin Karnes is a 4th place qualifier for Computer Networking Technology, and Chris Houser is also a 4th place qualifier for PC Servicing and Troubleshooting. Our Networking Design Team of Matt, James Brickell, and Greg Brown are 2nd place qualifiers as well.",
+    "programs": [
+      "Networking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-03-16",
+    "date": "2006-03-16",
+    "year": 2006,
+    "headline": "CATE Scholarships Open — Over $25,000 Available to SBISD Seniors",
+    "body": "Seniors, don't forget to get your Career and Technology scholarship applications completed and submitted online by March 31. This year we are offering more than $25,000 from our department, generous donors, and college partners for your future. It's easy to do, and if you are the recipient, you will appreciate the money next year.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-03-20",
+    "date": "2006-03-20",
+    "year": 2006,
+    "headline": "NJROTC Cadet Ryan Tait Accepted to MIT",
+    "body": "We are so proud of all our students as they progress through their chosen field of study at The Guthrie Center. Every once in awhile a very special announcement occurs — and here is the latest. Ryan Tait, senior at Westchester and Cadet Executive Officer of our NJROTC program, has been accepted as an undergraduate student at Massachusetts Institute of Technology (MIT). This is a great honor for a student leader and a future pioneer in whatever endeavor he chooses. Congratulations, Ryan!",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-03-26",
+    "date": "2006-03-26",
+    "year": 2006,
+    "headline": "Diversified Internship Students Chris Zeid, Pariya Banan, and Matt Kosmoski Featured in Article",
+    "body": "Diversified Internship students Chris Zeid, Pariya Banan, and Matt Kosmoski — along with James Brickell and Faisal Alsarraf — intern at ARG Services Inc., one of our outstanding Partners in Education.",
+    "programs": [
+      "Internships"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-03-27",
+    "date": "2006-03-27",
+    "year": 2006,
+    "headline": "Guthrie Film Students Win at Kingwood's It's a Wrap Fest; Three Films Selected for Contemporary Arts Museum Festival",
+    "body": "Congratulations to student winners at Kingwood College's It's a Wrap Film Fest: Patrick Nguyen and Leif Steenson — 1st Place PSA 'Unleashed'; Anisa Boukhlif — 1st Place Art/Experimental 'Synonyms for Love'; Alizsha Pennington — Honorable Mention 'Premature Exit'. In other news, several projects were selected to screen at the prestigious Contemporary Arts Museum Student Film Festival: Philippe Lemire — 'Capoeira' (documentary); Patrick Nguyen — 'Male Hairstyles' (documentary); Chris Zeid — 'Medal of Honor' (drama), who also received the 'Granade' Honorary Award of Excellence for his film.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-03-28",
+    "date": "2006-03-28",
+    "year": 2006,
+    "headline": "Horticulture Students Bring Spring Color to Garden Area with Greenhouse-Grown Plants",
+    "body": "For the past couple of days our Horticulture students and teacher Laurie Ledbetter have been bringing a little bit of spring color and flowers to our garden area. Many of the new plants were grown in their greenhouse and are available for sale.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-28-horticulture-garden.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-03-31",
+    "date": "2006-03-31",
+    "year": 2006,
+    "headline": "1st Annual Digital Film and Commercial Photography Battle of the Bands — Lust Charm Takes 1st Place",
+    "body": "Tonight the 1st Annual Digital Film and Commercial Photography Battle of the Bands went strong till after 10 PM. Memorial High School's LUST CHARM with Phil Lemire were 1st place winners, receiving $300 cash and 5 hours of studio time.",
+    "programs": [
+      "Digital Filmmaking",
+      "Commercial Photography"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-31-battle-of-bands.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-04-03",
+    "date": "2006-04-03",
+    "year": 2006,
+    "headline": "Digital Filmmaking Students Win Multiple Awards at MFA Houston Young Moviemakers Competition",
+    "body": "Each year the Museum of Fine Arts in Houston holds its Houston Young Moviemakers competition. We are proud to have had many award winners this year. Documentary: 1st place — William Buikema, 2nd — Janet Goren, Honorable Mention — Chelsea Hayden, Cariss Williams, Patrick Nguyen, and Ramior Gonzalez. Drama: 2nd place — Alizsha Pennington. PSA: 1st place — Patrick Nguyen and Leif Steenson. Honorable Mention Animation — Danny Kleinhenz.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-04",
+    "date": "2006-04-04",
+    "year": 2006,
+    "headline": "Onnica Perez Named Outstanding Marketing Student in CTAT Best of Texas Awards",
+    "body": "Onnica Perez, a top 5% senior at Northbrook High School, has been named the Outstanding Marketing Student in the Texas Career and Technology Council's Best of Texas Awards. She will be recognized in Austin on April 28th. Onnica is the assistant editor of Northbrook's newspaper and very active in DECA. Onnica is the 7th student of sponsor Gay Sabom to win this prestigious award.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-08",
+    "date": "2006-04-08",
+    "year": 2006,
+    "headline": "NJROTC Holds 10th Annual Military Ball at Crowne Plaza Brookhollow",
+    "body": "NJROTC put on their 10th Annual Military Ball at the Crowne Plaza Brookhollow this evening. The installation of the next year's command was conducted. Many thanks to special guest speakers and all attendees who made this milestone celebration memorable.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-08-njrotc-military-ball.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-04-12",
+    "date": "2006-04-12",
+    "year": 2006,
+    "headline": "Cosmetology Seniors May Apply for Department Scholarship",
+    "body": "Cosmetology seniors may apply for a department scholarship by filling out the application and completing the essay. Check with your teacher for the deadline. The application can be downloaded from the website.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-13",
+    "date": "2006-04-13",
+    "year": 2006,
+    "headline": "FFA Agricultural Science Flower and Plant Sale Saturday at Ag Center",
+    "body": "The FFA Agricultural Science Flower and Plant Sale will be this Saturday at 1905 Brittmoore from 10 AM to 2 PM. Call 713.722.0384 for details.",
+    "programs": [
+      "Agricultural Science"
     ],
     "imageUrl": null,
     "source": "web"
@@ -2804,6 +3560,208 @@ const NEWS_DATA =
       "NJROTC"
     ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/2011/08/April-16.png",
+    "source": "web"
+  },
+  {
+    "id": "2006-04-19",
+    "date": "2006-04-19",
+    "year": 2006,
+    "headline": "CATE Scholarship Winners Announced — 17 Seniors Share $30,000 in Awards",
+    "body": "The Career and Technology Education Scholarship winners have been notified: Exemplary CATE Students ($1,000) — Matthew Moore, Crystal Nicolas, Robert Rossy, and Christopher Tait; The Village Family Practice ($2,500) — Renjal Tush; The Art Institute ($5,000) — Jorge Trevino; Houston Community College ($1,000) — Onnica Perez; DeVry University ($9,000) — Matthew Fredrick; Academy of Finance ($2,000) — Hannah Chong; Air Routing Group ($1,000) — Matt Kosmoski, James Brickell, Pariya Banan, Faisal Alsarraf, and Chris Zeid. Congratulations to these winners and to all students who applied.",
+    "programs": [],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-20",
+    "date": "2006-04-20",
+    "year": 2006,
+    "headline": "Sandy Perez Awarded $500 Cosmetology Scholarship",
+    "body": "Congratulations to Sandy Perez, NHS Senior who was awarded the Cosmetology Scholarship for $500.",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-23",
+    "date": "2006-04-23",
+    "year": 2006,
+    "headline": "Linda Nicodemus Nominated to Who's Who Among America's Teachers",
+    "body": "We are pleased to announce that Linda Nicodemus, one of our Cosmetology instructors, was nominated to Who's Who Among America's Teachers!",
+    "programs": [
+      "Cosmetology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-24",
+    "date": "2006-04-24",
+    "year": 2006,
+    "headline": "Guthrie Students Win Multiple Awards at 3rd Annual Island Film Festival in Galveston",
+    "body": "Three years ago, Digital Film teachers Patty Nilsson and Mike Radler created the Island Films festival to build a community of high school filmmakers and professionals across the USA. Students and teachers from as far as Dallas and San Antonio attended this past weekend. Guthrie Center student winners: Music Video — 1st place Alizsha Pennington, Honorable Mention Clarita Mayorga. Documentary — Patrick Nguyen 1st place, Lindsey Laven 3rd place, Alizsha Pennington and Anisa Boukhlif Honorable Mention. Documentary — Alizsha and Anisa and Owen Carson 2nd place, Janet Goren Honorable Mention. PSA — Will Buikema 2nd place, Jose Medina Honorable Mention.",
+    "programs": [
+      "Digital Filmmaking"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-24-island-film-festival.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-04-25",
+    "date": "2006-04-25",
+    "year": 2006,
+    "headline": "FFA Students Place in Top Spots at District 2 Competition",
+    "body": "FFA students in District 2 competition recently placed in top spots. Paige Pesl took 1st in Poultry Production Proficiency while Janice Lowe won 1st in Swine Proficiency. The Dairy Foods Team of Ben Blume and Laura Haeckel placed 5th, and the Poultry Judging Team of Paige Pesl, Briam Blume, Andrew Archer, and Hanna Smith was 6th overall.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-04-26",
+    "date": "2006-04-26",
+    "year": 2006,
+    "headline": "Annual Career Day Held — Dozens of Career Representatives Visit Campus",
+    "body": "Our annual Career Day was held today, thanks to the hard work of counselor Beverly Litton for arranging the career representatives and to our staff for putting together an awesome day for our students. To our guest speakers, you have our deepest appreciation for sharing your time and talent with our students.",
+    "programs": [],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-26-career-day.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-04-27",
+    "date": "2006-04-27",
+    "year": 2006,
+    "headline": "CATE Scholarship and Awards Reception — 17 Seniors Share $30,000; Kristy Schaper Named CATE Educator of Year",
+    "body": "Tonight our annual Career and Technology Scholarship and Awards Reception was held here to honor many outstanding student achievements. Seventeen seniors shared in $30,000 of scholarship money donated by the CATE department, education partners Houston Community College, The Art Institute of Houston, DeVry University of Houston, and business partner Air Routing Group, Inc. Pictured is Onnica Perez, presented with three awards for her success in Marketing at Northbrook High School. We also honored our CATE Educator of the Year — congratulations to Kristy Schaper, Business Teacher at Stratford!",
+    "programs": [],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-27-cate-awards-reception.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-04-28",
+    "date": "2006-04-28",
+    "year": 2006,
+    "headline": "Architectural CAD Students Win 10 of 15 AIA Michael G. Meyers Competition Awards",
+    "body": "A few weeks ago, our Architectural CAD students were working day in and out to finish their projects in the Michael G. Meyers High School Design Competition sponsored by the Houston chapter of the AIA. Tonight the results are in — Ms. Greiner's classes took 10 out of the 15 awards, including 2nd and 3rd places in both individual and group categories and a slew of honorable mentions. Student winners include Luis Salcedo, Savannah Speights, Ryan Jaster, Juliana Shea, Luis Espinosa, Wilmer Rivera, Alfredo Lopez, Zeitoun Kamougue, Chris Gregory, Andres Alfaro, Holly Hodson, Laura Meador, Adam Rodriguez, Daniel Barrientos, and Franco Montoya.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-28-aia-competition-winners.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-05-01",
+    "date": "2006-05-01",
+    "year": 2006,
+    "headline": "Houston Hispanic Architects Award $12,500 Scholarship to Guthrie Senior Alex Guzman",
+    "body": "More awesome news from Architectural CAD. The Houston Hispanic Architects and Engineers have just awarded a $12,500 scholarship to senior Alex Guzman. Alex looks forward to attending the University of Houston School of Architecture and joining 27 of Ms. Greiner's former students in the architecture program there. Alex will receive the scholarship at a luncheon this Thursday.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-05-04",
+    "date": "2006-05-04",
+    "year": 2006,
+    "headline": "NJROTC Earns Distinguished Unit with Academic Honors; US Navy Band to Perform May 11",
+    "body": "One week from today, we are honored to have the US Navy Band 'Express' perform for our students. They are in town to play at the Grand Prix of Houston and are making a stop here. A limited number of seats will be available to the public on Thursday, May 11 at 1:45 PM. Today, our unit received great news — they have earned the honor of being a Distinguished Unit with Academic Honors. This means we have well-dressed, competitive winners who have the added benefit of being smart! Congratulations to Lt. Col. Sluis, Master Chief Heuser, and our cadets for an outstanding year.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-05-05",
+    "date": "2006-05-05",
+    "year": 2006,
+    "headline": "Auto Tech Students Jonathan Schumann and Jeff Appleton Compete in Ford AA Troubleshooting Contest at Reliant",
+    "body": "Auto Tech experts Jonathan Schumann and Jeff Appleton will compete Saturday at Reliant Center in the Ford AA Troubleshooting Auto Skills Contest. They are competing with students from around the state in a contest where identical cars are 'bugged' and students have to figure out what is wrong and make it right.",
+    "programs": [
+      "Automotive Technology"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-05-11",
+    "date": "2006-05-11",
+    "year": 2006,
+    "headline": "US Navy Band 'Express' Performs for Guthrie Students; Cyclist Shawn Olin Also Visits",
+    "body": "Thanks to the US Navy Band Express out of New Orleans and cyclist Shawn Olin for spending time entertaining and answering questions from our students today.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-05-11-navy-band-visit.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-05-12",
+    "date": "2006-05-12",
+    "year": 2006,
+    "headline": "BP Awards Sonia Greiner $10,000 Grant for Solar Power Home Design Project",
+    "body": "A few months ago, CenterPoint Energy announced they were awarding grants of $5,000 and $10,000 to teachers for innovative ways to teach about energy conservation. Sonia Greiner in Architectural CAD submitted a proposal for her students to build model solar power homes, followed by designing their own energy-efficient residence. BP was impressed and awarded Ms. Greiner a $10,000 grant. Congratulations, and we look forward to seeing more great things from her award-winning students next year.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-05-15",
+    "date": "2006-05-15",
+    "year": 2006,
+    "headline": "Outstanding Weekend — Film Premiere, NJROTC Car Wash, Horticulture Plant Sale, and BPA Nationals Results",
+    "body": "What a weekend! On Friday evening, we had an awesome Student Film Premiere from Digital Filmmaking — their projects were the best in years, and the feature film 'Who Shot Mr. Radler' was the capstone of the night. On Saturday, our NJROTC cadets held a car wash and wax to raise funds for their program. Alongside them was our Ag Science Horticulture class selling beautiful Gerber Daisies and hanging baskets — they sold out hundreds of plants shortly after noon. Then our Computer Technology students returned from Nationals where they all were finalists and most placed in the Top 10! Outstanding results from James Brickell, Matt Kosmoski, Greg Brown, Justin Karnes, and Chris Houser. Congratulations and thanks to sponsors Steve Whitt and Darrell Lewis for making it happen so smoothly.",
+    "programs": [
+      "Digital Filmmaking",
+      "NJROTC",
+      "Agricultural Science",
+      "Networking"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-05-15-film-premiere-car-wash.jpg",
+    "source": "web"
+  },
+  {
+    "id": "2006-05-18",
+    "date": "2006-05-18",
+    "year": 2006,
+    "headline": "Patty Nilsson Named West Houston Chamber of Commerce Teacher of the Year; Kirksey Architecture Wins Partnership Award",
+    "body": "Congratulations to Patty Nilsson, who was named the West Houston Chamber of Commerce Teacher of the Year, along with a proclamation by Harris County Judge Robert Eckels making Thursday, May 18 'Patty Nilsson Day.' Architectural CAD's partner nominee Kirksey Architecture received the Educational Partnership award, presented by VP Steve Durham. Many other Guthrie supporters and partners were nominated, including The Art Institute of Houston, Air Routing Group, Houston Community College NW, The Omni Hotel Westside, The Village Table, Studio Works, and Crossroads Animal Clinic. We appreciate all of you for a great year serving our students.",
+    "programs": [
+      "Digital Filmmaking",
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-06-12",
+    "date": "2006-06-12",
+    "year": 2006,
+    "headline": "Sonia Greiner Receives $10,000 BP A+ for Energy Grant at Space Center Houston Ceremony",
+    "body": "This evening at Space Center Houston, Sonia Greiner was among seven SBISD winners and 67 others to receive her $10,000 BP A+ for Energy grant. The eventful evening was hosted by Channel 11 anchor Len Cannon and featured speakers NASA Astronaut James Reilly and BP President Ross Pillari.",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": null,
+    "source": "web"
+  },
+  {
+    "id": "2006-06-26",
+    "date": "2006-06-26",
+    "year": 2006,
+    "headline": "NJROTC Student Leaders Complete Leadership Academy at Camp Bullis in San Antonio",
+    "body": "Every summer, our NJROTC student leaders attend a Leadership Academy in San Antonio. Last week Stephanie Garcia, Michael Mallon, Hugo Rodriguez, and Gabriela Villalobos completed their training at Camp Bullis, with XO Mallon receiving awards in both academics and physical fitness.",
+    "programs": [
+      "NJROTC"
+    ],
+    "imageUrl": null,
     "source": "web"
   },
   {
