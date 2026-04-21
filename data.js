@@ -683,7 +683,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2003-04-05-njrotc-rice-drillmeet.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1563,7 +1563,7 @@ const NEWS_DATA =
     "headline": "Guthrie Center Ready for First Day of Classes Monday",
     "body": "We are gearing up and ready for our students to begin or continue their quest for the ultimate career at The Guthrie Center. The first day of classes on our campus is Monday. We look forward to seeing you here.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-08-12-ready-for-school.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1573,7 +1573,7 @@ const NEWS_DATA =
     "headline": "Welcome Back — First Day of the 2004-2005 School Year",
     "body": "Welcome back to The Guthrie Center for the 2004-2005 school year!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-08-15-welcome-back.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1583,7 +1583,7 @@ const NEWS_DATA =
     "headline": "Over 140 Guthrie Students Earning Dual High School and College Credit",
     "body": "As of today, over 140 of our students will be earning both high school and college credit with Houston Community College as part of our dual-credit agreement. These students are actually enrolled in both high school and college, have a great start to their college career, and will have fewer expenses once they graduate. It required a lot of teamwork from our teachers, counselor Beverly Litton, and the registrars at the home schools to make it happen. Thanks to everyone who worked on this, and congratulations, collegians!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-08-26-dual-credit-announcement.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1620,7 +1620,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-09-18-njrotc-challenger7.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-09-18-njrotc-orienteering-challenger.jpg",
     "source": "web"
   },
   {
@@ -1644,7 +1644,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-09-29-ag-new-calf.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-09-29-ffa-new-calf.jpg",
     "source": "web"
   },
   {
@@ -1690,7 +1690,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-10-12-cad-construction-tour.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-10-12-cad-construction-sites.jpg",
     "source": "web"
   },
   {
@@ -1702,7 +1702,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-10-25-njrotc-community-service.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1727,7 +1727,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-01-mariam-ahmed-award.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1737,7 +1737,7 @@ const NEWS_DATA =
     "headline": "First Community Tuesday Night — Programs Open Doors to the Public",
     "body": "Last evening we held our first Community Tuesday Night, where each of our programs conducted mini interactive lessons similar to what our students learn. We had a good turnout and look forward to seeing everyone again at our next one on January 17, 2006.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-02-community-tuesday.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1783,7 +1783,7 @@ const NEWS_DATA =
     "headline": "State Representative Dwayne Bohac and Trustee Mike Falic Visit Guthrie Center",
     "body": "Today we were honored to have a visit from State Representative Dwayne Bohac, Trustee Mike Falic, and our Governmental Affairs Director Diane Jackson. Rep. Bohac had a chance to see our talented students in various classes, learn a little about The Guthrie Center, and experience how well Career and Technology Education classes use the weighted funding the legislature supplies to keep our programs on the cutting edge.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-09-state-rep-visit.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1807,7 +1807,7 @@ const NEWS_DATA =
     "programs": [
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-14-cosmetology-great-clips.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1831,7 +1831,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-17-cultureshapers-2004.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-17-cultureshapers-pennington-zeid.jpg",
     "source": "web"
   },
   {
@@ -1843,7 +1843,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-11-22-njrotc-thanksgiving.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -1892,7 +1892,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-12-08-njrotc-annual-inspection.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2004-12-08-njrotc-inspection-general.jpg",
     "source": "web"
   },
   {
@@ -2013,7 +2013,7 @@ const NEWS_DATA =
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-01-11-culinary-arts-lab.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2071,7 +2071,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-01-25-cad-toyota-center.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2095,7 +2095,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-01-28-njrotc-orienteering.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2143,7 +2143,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-01-sundance-return.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2168,7 +2168,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-04-njrotc-tomball-drillmeet.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2180,7 +2180,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-05-njrotc-tomball-meet.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-05-njrotc-tomball-drill.jpg",
     "source": "web"
   },
   {
@@ -2216,7 +2216,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-09-ffa-childrens-barnyard.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2250,7 +2250,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-13-ag-construction-ffa-sale.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2310,7 +2310,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-25-ffa-show-sale.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2322,7 +2322,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-26-ffa-show-sale-record.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-26-ffa-show-sale-livestock.jpg",
     "source": "web"
   },
   {
@@ -2334,7 +2334,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-02-28-greece-students-visit.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2344,7 +2344,7 @@ const NEWS_DATA =
     "headline": "Spring Showcase and Portfolio Show Draws Hundreds of Visitors",
     "body": "Today The Guthrie Center welcomed hundreds of past, present, and future students, their families and friends, and guests from all over the area to our Spring Showcase and Portfolio Show. My sincere thanks to everyone who came out to see the wonderful work our students produce, and especially to our awesome Guthrie staff and students who worked so hard to make this day a success.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-01-spring-showcase.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2443,7 +2443,7 @@ const NEWS_DATA =
       "Culinary Arts",
       "Hotel Management"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-31-culinary-competition.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-03-31-chef-garde-manger-harget.jpg",
     "source": "web"
   },
   {
@@ -2467,7 +2467,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-04-young-moviemakers-winners.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2477,7 +2477,7 @@ const NEWS_DATA =
     "headline": "KPRC TV Surprises Joe Kolenda with Sunshine Award — Weatherman Arrives by Helicopter",
     "body": "Today I received an incredible surprise from this great place where I am so fortunate to work. Little did I know at 8:30 AM that what I thought was going to be a group photo of the students turned out to be KPRC TV Local 2 Weatherman Wes Hohenstein flying in on the News 2 chopper to present their Sunshine Award to me. I am humbled and honored by this and for all of your support as we provide our SBISD students with unparalleled opportunities for their future.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-05-sunshine-award.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-05-kprc-sunshine-award.jpg",
     "source": "web"
   },
   {
@@ -2501,7 +2501,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-19-ffa-banquet.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2513,7 +2513,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-22-cad-competition-crunch.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2525,7 +2525,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-23-island-film-festival.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2535,7 +2535,7 @@ const NEWS_DATA =
     "headline": "Career Day a Very Successful and Well-Attended Event",
     "body": "A very successful and well-attended Career Day was held at The Guthrie Center today. Beverly Litton once again lined up top-quality volunteer speakers to educate students about various occupations they are interested in knowing more about. We were also joined by the students and many of the staff from The School of Choice. Thanks to our presenters for making it a memorable day.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-27-career-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2561,7 +2561,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-04-29-cad-aia-winners.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2631,7 +2631,7 @@ const NEWS_DATA =
     "headline": "CATE Awards and Scholarship Recognition Event Honors Students and Educators",
     "body": "Our Career and Technology Awards and Scholarship Recognition Event was held here last night. We honored and announced the CATE Educator of the Year, Suzanne Sobol from LMS. All this before a packed house in our theater.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-06-cate-awards.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-06-cate-scholarship-awards.jpg",
     "source": "web"
   },
   {
@@ -2643,7 +2643,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-10-lost-boys-screening.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2677,7 +2677,7 @@ const NEWS_DATA =
     "headline": "End-of-Year Potluck with Crawfish and Catfish Closes Another Great Year",
     "body": "So ends another outstanding year of education at The Guthrie Center. Finishing the year with a potluck lunch including crawfish and catfish seemed only fitting. Enjoy the summer — August is just around the corner!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-26-end-of-year-potluck.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-05-26-end-of-year-crawfish.jpg",
     "source": "web"
   },
   {
@@ -2757,7 +2757,7 @@ const NEWS_DATA =
     "headline": "Welcome Back — Students Return for Another Outstanding Year at The Guthrie Center",
     "body": "We welcome our students back this week to what will be another outstanding year at The Guthrie Center. Our teachers and staff are anxious to begin the learning process on campus.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-08-10-welcome-back.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2828,7 +2828,7 @@ const NEWS_DATA =
       "NJROTC",
       "Internships"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-09-15-hurricane-donations.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-09-15-lawrence-taylor-hurricane-donations.jpg",
     "source": "web"
   },
   {
@@ -2886,7 +2886,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-22-ffa-harris-county-fair.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2896,7 +2896,7 @@ const NEWS_DATA =
     "headline": "Hot Cocoa Greets Students on First Chilly Day of Fall",
     "body": "Cocoa anyone? A group of first-period students toasts to piping hot cocoa with marshmallows on this first chilly day of fall. Thanks to our staff who helped prepare and serve our great students!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-25-hot-cocoa.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-25-first-fall-cocoa.jpg",
     "source": "web"
   },
   {
@@ -2909,7 +2909,7 @@ const NEWS_DATA =
       "NJROTC",
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-26-njrotc-inspection.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-10-26-njrotc-annual-military-inspection.jpg",
     "source": "web"
   },
   {
@@ -2957,7 +2957,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-11-04-osa-lock-in.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2969,7 +2969,7 @@ const NEWS_DATA =
     "programs": [
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-11-09-cosmetology-face-painting.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -2981,7 +2981,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-11-10-njrotc-veterans-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3029,7 +3029,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2005-12-06-njrotc-inspection.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3120,7 +3120,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-12-cad-minute-maid-tour.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-12-architecture-minute-maid-park.jpg",
     "source": "web"
   },
   {
@@ -3145,7 +3145,7 @@ const NEWS_DATA =
       "Culinary Arts",
       "Internships"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-23-culinary-interns.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-23-culinary-interns-cakes-creations.jpg",
     "source": "web"
   },
   {
@@ -3157,7 +3157,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-23-njrotc-nimitz-meet.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3169,7 +3169,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-24-sundance-2006.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3223,7 +3223,7 @@ const NEWS_DATA =
     "headline": "Second Community Tuesday of the Year a Great Success",
     "body": "Our second Community Tuesday of the year was a great success. We appreciate all the extra effort made by our staff and students in welcoming our guests and giving them insight to the daily wonders of life at The Guthrie Center.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-01-30-community-tuesday.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3258,7 +3258,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-05-njrotc-drill-museum.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3282,7 +3282,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-08-ffa-barnyard-show.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-08-ffa-childrens-barnyard.jpg",
     "source": "web"
   },
   {
@@ -3294,7 +3294,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-10-ffa-show-sale-record.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-10-ffa-show-and-sale.jpg",
     "source": "web"
   },
   {
@@ -3330,7 +3330,7 @@ const NEWS_DATA =
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-15-culinary-principal-lunch.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-15-academy-students-nyc-nasdaq.jpg",
     "source": "web"
   },
   {
@@ -3343,7 +3343,7 @@ const NEWS_DATA =
       "Architectural Design",
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-16-crystal-award-greiner.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-16-crystal-awards-sonia-greiner.jpg",
     "source": "web"
   },
   {
@@ -3380,7 +3380,7 @@ const NEWS_DATA =
       "Agricultural Science",
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-27-greece-students-visit.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-02-27-american-farm-school-greece-visit.jpg",
     "source": "web"
   },
   {
@@ -3406,7 +3406,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-06-osa-dollhouse-delivery.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-06-cad-ronald-mcdonald-dollhouse.jpg",
     "source": "web"
   },
   {
@@ -3476,7 +3476,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-28-horticulture-garden.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-28-horticulture-garden-planting.jpg",
     "source": "web"
   },
   {
@@ -3489,7 +3489,7 @@ const NEWS_DATA =
       "Digital Filmmaking",
       "Commercial Photography"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-31-battle-of-bands.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-03-31-battle-of-the-bands.jpg",
     "source": "web"
   },
   {
@@ -3605,7 +3605,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-24-island-film-festival.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3627,7 +3627,7 @@ const NEWS_DATA =
     "headline": "Annual Career Day Held — Dozens of Career Representatives Visit Campus",
     "body": "Our annual Career Day was held today, thanks to the hard work of counselor Beverly Litton for arranging the career representatives and to our staff for putting together an awesome day for our students. To our guest speakers, you have our deepest appreciation for sharing your time and talent with our students.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-26-career-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3637,7 +3637,7 @@ const NEWS_DATA =
     "headline": "CATE Scholarship and Awards Reception — 17 Seniors Share $30,000; Kristy Schaper Named CATE Educator of Year",
     "body": "Tonight our annual Career and Technology Scholarship and Awards Reception was held here to honor many outstanding student achievements. Seventeen seniors shared in $30,000 of scholarship money donated by the CATE department, education partners Houston Community College, The Art Institute of Houston, DeVry University of Houston, and business partner Air Routing Group, Inc. Pictured is Onnica Perez, presented with three awards for her success in Marketing at Northbrook High School. We also honored our CATE Educator of the Year — congratulations to Kristy Schaper, Business Teacher at Stratford!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-27-cate-awards-reception.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-27-cate-scholarship-awards.jpg",
     "source": "web"
   },
   {
@@ -3649,7 +3649,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-04-28-aia-competition-winners.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3697,7 +3697,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-05-11-navy-band-visit.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3724,7 +3724,7 @@ const NEWS_DATA =
       "Agricultural Science",
       "Networking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-05-15-film-premiere-car-wash.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3773,7 +3773,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-08-01-njrotc-mini-skills-camp.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3783,7 +3783,7 @@ const NEWS_DATA =
     "headline": "SBISD Career and Technology Teachers Kick Off School Year at Guthrie — Alex Brennan-Martin Keynotes",
     "body": "Today we hosted all of SBISD's Career and Technology teachers as we prepared for the upcoming school year. Kicking off our staff development day was Alex Brennan-Martin, owner of Brennan's of Houston, who delivered a lighthearted look at his industry and the importance of how we, as educators, serve our varied customers. He recently enrolled his own children in SBISD schools because of the quality of education he witnessed on their campuses. Thanks to Alex for sharing his wisdom and stories from his book, 'The Simple Truth About Your Business.'",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-08-11-cte-staff-development.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3796,7 +3796,7 @@ const NEWS_DATA =
       "Hotel Management",
       "Internships"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-08-16-hotel-management-chronicle.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3806,7 +3806,7 @@ const NEWS_DATA =
     "headline": "First Day of Classes Brings Nearly 1,000 Students to Guthrie Center",
     "body": "The first day of classes at Guthrie brought nearly 1,000 new and returning students to our campus. Over the next few days we will be balancing the numbers in each section so we can provide a quality, personal education for all.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-08-17-first-day-classes.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3816,7 +3816,7 @@ const NEWS_DATA =
     "headline": "Superintendent Duncan Klussmann Visits Guthrie Center During Opening Days Tour",
     "body": "This morning we welcomed a visit from Superintendent Duncan Klussmann as the school was getting underway. Our school system leader was in the middle of visiting all of the SBISD schools during the first three days of the school year, and spent time visiting with our Chef Training students and others in the building.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-08-18-superintendent-visit.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3828,7 +3828,7 @@ const NEWS_DATA =
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-08-25-chef-training-art-institute.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3840,7 +3840,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-01-cad-solar-ovens.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3864,7 +3864,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-11-patriots-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3876,7 +3876,7 @@ const NEWS_DATA =
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-15-chef-training-gccta-luncheon.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3888,7 +3888,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-16-njrotc-orienteering.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3924,7 +3924,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-27-ag-moving-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3936,7 +3936,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-28-ag-chick-eggs.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3948,7 +3948,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-09-29-osa-rock-climbing.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3960,7 +3960,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-02-ag-chicks-hatched.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3972,7 +3972,7 @@ const NEWS_DATA =
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-03-chef-training-multi-component.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3982,7 +3982,7 @@ const NEWS_DATA =
     "headline": "Tuesday JAM Session Features Special Guest on Texas Common Application Essay Writing",
     "body": "Yesterday our JAM session included special guest Marie Bell from SWHS who spent time explaining how to complete and write essays for the Texas Common Application. Students are invited to come as often as possible to complete what they began and join other students at our weekly JAM every Tuesday from 3 to 5 PM.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-04-jam-session-tca.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -3994,7 +3994,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-07-njrotc-military-museum.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4016,7 +4016,7 @@ const NEWS_DATA =
     "programs": [
       "Commercial Photography"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-11-commercial-photo-podcast.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4029,7 +4029,7 @@ const NEWS_DATA =
       "NJROTC",
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-17-njrotc-culinary-breakfast.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4051,7 +4051,7 @@ const NEWS_DATA =
     "headline": "First Community Tuesday of the Year — Parents, Friends, and Neighbors Tour Campus",
     "body": "Tonight we hosted our first Community Tuesday of the school year. We were thrilled to have so many interested parents, friends, and neighbors come out to see what we teach and how well our students execute. Thanks to all who came and those who prepared the presentations and provided the hospitality. Join us for our next Community Tuesday on January 30th.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-24-community-tuesday.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4063,7 +4063,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-26-student-interviews-mayor.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4075,7 +4075,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-27-red-eye-fest.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4088,7 +4088,7 @@ const NEWS_DATA =
       "Cosmetology",
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-10-31-halloween-cosmetology.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4100,7 +4100,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-11-04-osa-lock-in.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4112,7 +4112,7 @@ const NEWS_DATA =
     "programs": [
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-11-09-cosmetology-face-painting.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4124,7 +4124,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-11-10-njrotc-veterans-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4172,7 +4172,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2006-12-06-njrotc-annual-inspection.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4243,7 +4243,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-01-12-cad-minute-maid-kirksey.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4268,7 +4268,7 @@ const NEWS_DATA =
       "Networking",
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-01-20-bpa-njrotc-competitions.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4281,7 +4281,7 @@ const NEWS_DATA =
       "Culinary Arts",
       "Internships"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-01-23-culinary-interns.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4293,7 +4293,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-01-24-sundance-2007.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4337,7 +4337,7 @@ const NEWS_DATA =
     "headline": "Second Community Tuesday of the Year a Great Success",
     "body": "Our second Community Tuesday of the year was a great success. We appreciate all the extra effort made by our staff and students in welcoming our guests and giving them insight to the daily wonders of life at The Guthrie Center.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-01-30-community-tuesday.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4384,7 +4384,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-02-05-njrotc-unarmed-drill.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4408,7 +4408,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-02-08-ffa-barnyard-show.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4420,7 +4420,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-02-10-ffa-show-sale-record.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4456,7 +4456,7 @@ const NEWS_DATA =
     "programs": [
       "Culinary Arts"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-02-15-culinary-principal-lunch.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4469,7 +4469,7 @@ const NEWS_DATA =
       "Architectural Design",
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-02-16-crystal-award-greiner.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4521,7 +4521,7 @@ const NEWS_DATA =
       "Culinary Arts",
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-03-02-greece-students-visit.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4616,7 +4616,7 @@ const NEWS_DATA =
     "programs": [
       "Digital Filmmaking"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-03-30-battle-of-bands.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4652,7 +4652,7 @@ const NEWS_DATA =
     "programs": [
       "Cosmetology"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-04-cosmetology-elementary-great-clips.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4665,7 +4665,7 @@ const NEWS_DATA =
       "Digital Filmmaking",
       "Commercial Photography"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-05-lone-star-emmy.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4677,7 +4677,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-06-horticulture-entrance.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4701,7 +4701,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-11-beverly-litton-employee-month.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4713,7 +4713,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-14-cad-all-night-work.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4735,7 +4735,7 @@ const NEWS_DATA =
     "headline": "Beverly Litton Honored as SBISD Employee of the Month at Board of Trustees Meeting",
     "body": "This evening at the Board of Trustees meeting, Beverly Litton was honored as SBISD Employee of the Month. Pictured are Superintendent Duncan Klussmann and Board President Wayne Schaper congratulating Beverly on her nomination.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-23-beverly-litton-board-honor.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4745,7 +4745,7 @@ const NEWS_DATA =
     "headline": "Annual CATE Scholarship and Awards Reception — 17 Seniors Share $30,000; Kristy Schaper Named CATE Educator of Year",
     "body": "Tonight our annual Career and Technology Scholarship and Awards Reception was held to honor many outstanding student achievements. Seventeen seniors shared in $30,000 of scholarship money donated by the CATE department, education partners Houston Community College, The Art Institute of Houston, DeVry University of Houston, and business partner Air Routing Group, Inc. We honored our CATE Educator of the Year — congratulations to Kristy Schaper, Business Teacher at Stratford!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-24-cate-awards-reception.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4755,7 +4755,7 @@ const NEWS_DATA =
     "headline": "Annual Career Day — 40+ Professionals Share Career Stories with Guthrie Students",
     "body": "Business, industry, and education leaders from the Houston area took time from their busy workday to come out and visit with our students during our annual Career Day. Beverly Litton once again coordinated an outstanding array of professionals in many fields to share their career stories. We greatly appreciate the effort of the 40+ presenters.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-25-career-day.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4780,7 +4780,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-04-30-aia-competition-winners.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4792,7 +4792,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-05-01-ffa-banquet.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4804,7 +4804,7 @@ const NEWS_DATA =
     "programs": [
       "NJROTC"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-05-01-njrotc-new-co.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4852,7 +4852,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-05-10-cad-awards-night.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4882,7 +4882,7 @@ const NEWS_DATA =
     "headline": "Second-Year Guthrie Students Receive New Guthrie Ballcaps for Dedication to Career Focus",
     "body": "Second-year and higher Guthrie students model their new Guthrie ballcaps, awarded to them for dedication to their career focus while attending our fine school.",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-05-17-guthrie-ballcaps.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4894,7 +4894,7 @@ const NEWS_DATA =
     "programs": [
       "Architectural Design"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-05-17-greiner-elizabeth-brand-award.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
@@ -4926,7 +4926,7 @@ const NEWS_DATA =
     "headline": "Year-End Luncheon — Crawfish Boil and Red Beans and Rice Close Another Great Year",
     "body": "Fellowship and food are enjoyed at our annual year-end luncheon at The Guthrie Center. Delicious foods prepared by many of our staff were enjoyed, including Trudy's Red Beans and Rice and a good old-fashioned Crawfish Boil cooked to perfection by Master Chief and yours truly. This tradition gives us a chance to get together one last time to reflect on the year and what is to come. Laissez les bons temps rouler!",
     "programs": [],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2007-05-25-year-end-luncheon.jpg",
+    "imageUrl": null,
     "source": "web"
   },
   {
