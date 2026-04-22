@@ -1587,7 +1587,7 @@ function buildFeaturedStories() {
 
   grid.innerHTML = picked.map(e => {
     const d = new Date(e.date + 'T12:00:00');
-    const dateStr = MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+    const dateStr = d.getFullYear();
     const prog = (e.programs && e.programs[0]) ? e.programs[0] : 'Archive';
     const preview = e.body ? e.body.slice(0, 90).trimEnd() + '…' : '';
     const photo = e.imageUrl
