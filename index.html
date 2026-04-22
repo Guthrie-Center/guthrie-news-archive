@@ -424,18 +424,19 @@
     flex: 1;
   }
   .story-card-date {
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 15px;
+    font-weight: 800;
     color: var(--blue);
-    letter-spacing: 0.06em;
+    letter-spacing: 0.05em;
     text-transform: uppercase;
-    margin-top: 10px;
+    margin-top: 12px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #e8eef8;
-    border-radius: 4px;
-    padding: 3px 7px;
+    background: #dde6f5;
+    border-radius: 5px;
+    padding: 5px 9px;
+    border-left: 3px solid var(--blue);
   }
   .story-card-read {
     font-size: 13px;
@@ -779,7 +780,7 @@
   .card:hover { background: #f7f9fd; }
   .card.expanded { background: #f7f9fd; }
 
-  .card-date-col { text-align: right; padding-top: 3px; }
+  .card-date-col { text-align: center; padding-top: 3px; min-width: 52px; }
   .card-day {
     font-family: var(--font-display);
     font-size: 2rem;
@@ -789,17 +790,18 @@
     display: block;
   }
   .card-monthyear {
-    font-size: 11px;
-    font-weight: 700;
+    font-size: 13px;
+    font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.06em;
     color: var(--blue);
     display: block;
-    margin-top: 3px;
-    line-height: 1.4;
-    background: #e8eef8;
-    border-radius: 3px;
-    padding: 1px 3px;
+    margin-top: 4px;
+    line-height: 1.5;
+    background: #dde6f5;
+    border-radius: 4px;
+    padding: 3px 5px;
+    text-align: center;
   }
   .card-body {}
   .card-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
