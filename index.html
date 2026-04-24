@@ -1187,20 +1187,8 @@
      HERO CAROUSEL
 ══════════════════════════════════════ -->
 <header class="hero" id="hero">
-  <!-- Slides — add more by duplicating .hero-slide divs -->
-  <div class="hero-slide active" id="slide-0"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-1"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-2"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-3"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-4"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-5"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-6"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-7"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-8"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-9"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-10"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-11"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
-  <div class="hero-slide" id="slide-12"><img src="" alt=""><div class="hero-slide-overlay"></div></div>
+  <!-- Slides generated dynamically from HERO_PHOTOS array in JS -->
+  <div id="hero-slides-container"></div>
 
   <button class="hero-prev" id="hero-prev" aria-label="Previous slide">&#8249;</button>
   <button class="hero-next" id="hero-next" aria-label="Next slide">&#8250;</button>
@@ -1517,7 +1505,24 @@ function initStats() {
     { src: 'hero-photo-14.jpg', alt: 'The Guthrie Center' },
   ];
 
-  const slides   = document.querySelectorAll('.hero-slide');
+  const slides   = (() => {
+    const container = document.getElementById('hero-slides-container');
+    return HERO_PHOTOS.map((photo, i) => {
+      const div = document.createElement('div');
+      div.className = 'hero-slide' + (i === 0 ? ' active' : '');
+      div.id = 'slide-' + i;
+      const img = document.createElement('img');
+      img.src = photo.src;
+      img.alt = photo.alt;
+      img.loading = i === 0 ? 'eager' : 'lazy';
+      const overlay = document.createElement('div');
+      overlay.className = 'hero-slide-overlay';
+      div.appendChild(img);
+      div.appendChild(overlay);
+      container.appendChild(div);
+      return div;
+    });
+  })();
   const dotsWrap = document.getElementById('hero-dots');
   let current = 0;
   let timer;
@@ -1529,17 +1534,6 @@ function initStats() {
     dot.setAttribute('aria-label', 'Go to slide ' + (i + 1));
     dot.addEventListener('click', () => goTo(i));
     dotsWrap.appendChild(dot);
-  });
-
-  // Update slide images from array (supports dynamic count)
-  slides.forEach((slide, i) => {
-    if (HERO_PHOTOS[i]) {
-      const img = slide.querySelector('img');
-      img.src = HERO_PHOTOS[i].src;
-      img.alt = HERO_PHOTOS[i].alt;
-    } else {
-      slide.style.display = 'none';
-    }
   });
 
   function goTo(n) {
