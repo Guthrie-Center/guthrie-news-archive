@@ -1814,7 +1814,7 @@ function render() {
       if (!q.split(/\s+/).every(w => hay.includes(w))) return false;
     }
     return true;
-  });
+  }).sort((a, b) => b.date.localeCompare(a.date));
 
   currentPage = 1;
   const shown = currentResults.slice(0, PAGE_SIZE);
