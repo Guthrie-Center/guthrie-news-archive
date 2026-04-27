@@ -21580,5 +21580,17 @@ const NEWS_DATA =
     "imageUrl": "https://pbs.twimg.com/media/HFY7UxuWMAEnS5x.jpg",
     "source": "twitter",
     "tweet_id": "2041884711606239287"
+  },
+  {
+    "id": "2026-04-24-ffa-sales-team-state",
+    "date": "2026-04-24",
+    "year": 2026,
+    "headline": "FFA Sales Team State Champs",
+    "body": "We are thrilled to share that our Ag Sales team just won 1st in Texas at the CDE competition at SHSU today. Congratulations to Kinsley Binder, Lucy Esparza, Elizabeth Frew, and Jordyn Howell for a successful season, and thanks to FFA advisor Mike McManners for guiding them. They will qualify for nationals in the fall.",
+    "programs": [
+      "Agricultural Science"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2026-04-24-ffasales-state-champs.jpg",
+    "source": "twitter"
   }
 ];
