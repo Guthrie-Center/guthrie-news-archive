@@ -594,28 +594,53 @@ async function submitEntry() {
   showStatus('Fetching current data.js from GitHub...', 'loading');
 
   try {
-    // 1. Get current file from GitHub
+    // 1. Get current file via Git Data API (handles files > 1MB)
     const headers = {
       'Authorization': `token ${token}`,
       'Accept': 'application/vnd.github.v3+json',
       'Content-Type': 'application/json'
     };
 
-    const fileRes = await fetch(
+    // First get the latest commit SHA on main branch
+    const refRes = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/git/ref/heads/main`,
+      { headers }
+    );
+    if (!refRes.ok) { const e = await refRes.json(); throw new Error(`Ref error: ${e.message}`); }
+    const refData = await refRes.json();
+    const commitSha = refData.object.sha;
+
+    // Get the tree for that commit
+    const treeRes = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/git/trees/${commitSha}`,
+      { headers }
+    );
+    if (!treeRes.ok) { const e = await treeRes.json(); throw new Error(`Tree error: ${e.message}`); }
+    const treeData = await treeRes.json();
+
+    // Find data.js blob SHA in the tree
+    const fileBlob = treeData.tree.find(f => f.path === DATA_FILE);
+    if (!fileBlob) throw new Error(`${DATA_FILE} not found in repository tree`);
+    const blobSha = fileBlob.sha;
+
+    showStatus('Downloading data.js (large file)...', 'loading');
+
+    // Fetch the blob content
+    const blobRes = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/git/blobs/${blobSha}`,
+      { headers: { ...headers, 'Accept': 'application/vnd.github.v3.raw' } }
+    );
+    if (!blobRes.ok) { const e = await blobRes.json(); throw new Error(`Blob error: ${e.message}`); }
+    const currentContent = await blobRes.text();
+
+    // Also get the file SHA needed for the update (Contents API, just metadata)
+    const metaRes = await fetch(
       `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${DATA_FILE}`,
       { headers }
     );
-    if (!fileRes.ok) {
-      const err = await fileRes.json();
-      throw new Error(`GitHub API error: ${err.message}`);
-    }
-    const fileData = await fileRes.json();
-    const sha = fileData.sha;
-    // Decode base64 safely (handles Unicode/accented characters)
-    const rawBytes = atob(fileData.content.replace(/\n/g, ''));
-    const uint8 = new Uint8Array(rawBytes.length);
-    for (let i = 0; i < rawBytes.length; i++) uint8[i] = rawBytes.charCodeAt(i);
-    const currentContent = new TextDecoder().decode(uint8);
+    if (!metaRes.ok) { const e = await metaRes.json(); throw new Error(`Meta error: ${e.message}`); }
+    const metaData = await metaRes.json();
+    const sha = metaData.sha;
 
     showStatus('Parsing and updating data.js...', 'loading');
 
