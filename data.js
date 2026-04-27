@@ -21590,7 +21590,7 @@ const NEWS_DATA =
     "programs": [
       "Agricultural Science"
     ],
-    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/early/2026-04-24-ffasales-state-champs.jpg",
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/posts/2026-04-24-ffasales-state-champs.jpg",
     "source": "twitter"
   }
 ];
