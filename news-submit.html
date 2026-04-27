@@ -611,12 +611,20 @@ async function submitEntry() {
     }
     const fileData = await fileRes.json();
     const sha = fileData.sha;
-    const currentContent = atob(fileData.content.replace(/\n/g, ''));
+    // Decode base64 safely (handles Unicode/accented characters)
+    const rawBytes = atob(fileData.content.replace(/\n/g, ''));
+    const uint8 = new Uint8Array(rawBytes.length);
+    for (let i = 0; i < rawBytes.length; i++) uint8[i] = rawBytes.charCodeAt(i);
+    const currentContent = new TextDecoder().decode(uint8);
 
     showStatus('Parsing and updating data.js...', 'loading');
 
-    // 2. Parse existing NEWS_DATA
-    let jsonStr = currentContent.replace(/^[\s\S]*?const NEWS_DATA\s*=\s*/, '').replace(/;\s*$/, '').trim();
+    // 2. Parse existing NEWS_DATA — handle comments and JS wrapper
+    // Find the opening [ of the array directly
+    const arrayStart = currentContent.indexOf('[');
+    const arrayEnd = currentContent.lastIndexOf(']');
+    if (arrayStart === -1 || arrayEnd === -1) throw new Error('Could not locate NEWS_DATA array in data.js');
+    const jsonStr = currentContent.slice(arrayStart, arrayEnd + 1);
     let newsData = JSON.parse(jsonStr);
 
     // 3. Check for duplicate ID
@@ -629,14 +637,21 @@ async function submitEntry() {
     newsData.push(entry);
     newsData.sort((a, b) => a.date.localeCompare(b.date));
 
-    // 5. Rebuild file content — keep original header before NEWS_DATA
-    const headerEnd = currentContent.indexOf('const NEWS_DATA');
+    // 5. Rebuild file content — keep original header before the array
+    const headerEnd = currentContent.indexOf('[');
     const header = currentContent.slice(0, headerEnd);
-    const newContent = header + 'const NEWS_DATA = \n' + JSON.stringify(newsData, null, 2) + ';\n';
+    const newContent = header + JSON.stringify(newsData, null, 2) + ';\n';
 
     showStatus('Pushing update to GitHub...', 'loading');
 
-    // 6. Push to GitHub
+    // 6. Encode to base64 safely (handles Unicode/accented characters)
+    const encoder = new TextEncoder();
+    const bytes = encoder.encode(newContent);
+    let binary = '';
+    bytes.forEach(b => binary += String.fromCharCode(b));
+    const base64 = btoa(binary);
+
+    // 7. Push to GitHub
     const pushRes = await fetch(
       `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${DATA_FILE}`,
       {
@@ -644,7 +659,7 @@ async function submitEntry() {
         headers,
         body: JSON.stringify({
           message: `Add entry: ${entry.headline}`,
-          content: btoa(unescape(encodeURIComponent(newContent))),
+          content: base64,
           sha
         })
       }
