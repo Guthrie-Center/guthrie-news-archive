@@ -21592,5 +21592,17 @@ const NEWS_DATA =
     ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/posts/2026-04-24-ffasales-state-champs.jpg",
     "source": "twitter"
+  },
+  {
+    "id": "2026-04-28-architectural-design-students-at",
+    "date": "2026-04-28",
+    "year": 2026,
+    "headline": "Architectural Design Students at Board Meeting",
+    "body": "Monday evening at the SBISD Board Meeting, four Architectural Design Practicum students were recognized for their success in the Region 4 / Stantec CTE Architecture Contest. Sophia Perez, Andrew Davidow, Trace Murphree, and Liam Walsh were introduced by teacher Fuad Loutfi and commended for their tenacity and getting the most out of their years at Guthrie. Congratulations to all!",
+    "programs": [
+      "Architectural Design"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/posts/2026-04-27-architecture-board.jpg",
+    "source": "web"
   }
 ];
