@@ -21604,5 +21604,17 @@ const NEWS_DATA =
     ],
     "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/posts/2026-04-27-architecture-board.jpg",
     "source": "web"
+  },
+  {
+    "id": "2026-05-08-sbisd-and-hcc-grads",
+    "date": "2026-05-08",
+    "year": 2026,
+    "headline": "SBISD and HCC Grads",
+    "body": "Today is an exciting day for the Electrician Technician cohort of 2026 as they head to NRG Arena for the Houston City College graduation. Each student will receive their Level 1 certificate. Thanks to instructors Jorge Mata and Martin Iniguez for guiding them to reach their goal.",
+    "programs": [
+      "Electrician Technician"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/posts/2026-05-08-elec-grads.jpg",
+    "source": "web"
   }
 ];
