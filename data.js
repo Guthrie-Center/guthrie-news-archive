@@ -21606,6 +21606,21 @@ const NEWS_DATA =
     "source": "web"
   },
   {
+    "id": "2026-05-07-health-science-white-coat",
+    "date": "2026-05-07",
+    "year": 2026,
+    "headline": "Health Science White Coat Ceremony",
+    "body": "Last night, 85 health science students were recognized for completing the requirements and passing exams at their White Coat Ceremony at Memorial HS. The teachers and CTE staff prepared and delivered a positive, energized event for this traditional entry into the medical field. Allie kicked off the night with a warm and succinct greeting to those in attendance. Bryan Williams was the master of ceremonies, and a handful of students shared their stories of hard work and success.",
+    "programs": [
+      "Dental Assisting",
+      "Health Science",
+      "Patient Care Tech",
+      "Pharmacy Tech"
+    ],
+    "imageUrl": "https://guthrie-center.github.io/guthrie-media/uploads/posts/2026-05-07-whitecoat.jpg",
+    "source": "web"
+  },
+  {
     "id": "2026-05-08-sbisd-and-hcc-grads",
     "date": "2026-05-08",
     "year": 2026,
